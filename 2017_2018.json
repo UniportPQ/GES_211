@@ -1,0 +1,1594 @@
+[
+ {
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Introduction to Entrepreneurship",
+  "code": "GES 211",
+  "session": "2017/2018",
+  "time": "90"
+ },
+ {
+  "type": "Instruction",
+  "content": "Answer 35Questions."
+ },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Niche central entrepreneurs are ______",
+      "type": "OBJ",
+      "options": ["Small segment of customers", "Group of customers", "All of the above", "Large segment of the customers", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small segment of customers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Niche central entrepreneurs focus on a <strong>small segment of customers</strong> with specific needs that are not being fully served by mainstream providers. This approach allows them to:<ul><li>Serve specialized market segments</li><li>Develop deep expertise in a particular area</li><li>Avoid direct competition with larger companies</li><li>Create strong customer loyalty within their niche</li></ul>While they serve a group of customers, the key characteristic is that it's a small, specialized segment rather than a large one."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "The lowering of costs through production of larger quantities ______",
+      "type": "OBJ",
+      "options": ["Outsourcing", "Niche marketing", "Economy of scale", "All of the above", "Return on quantity"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Economy of scale"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Economy of scale</strong> refers to the cost advantage achieved when production becomes efficient through increased scale. This occurs because:<ul><li>Fixed costs are spread over more units</li><li>Bulk purchasing discounts are obtained</li><li>Operational efficiency improves with volume</li><li>Specialization of labor increases productivity</li></ul>This is different from outsourcing (using external providers) or niche marketing (focusing on small segments)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "Business practice focusing on small groups of people is called ______",
+      "type": "OBJ",
+      "options": ["Small business", "Niche marketing", "Diversity", "Innovation", "None"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Niche marketing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Niche marketing</strong> is the business practice that focuses on serving small, specific groups of people with particular needs. Characteristics include:<ul><li>Targeting a narrowly defined customer segment</li><li>Developing specialized products/services</li><li>Creating strong brand loyalty within the niche</li><li>Often avoiding direct competition with larger companies</li></ul>This differs from general small business (which may serve broader markets) or diversity/inclusion initiatives."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Incremental improvement of a product is synonymous to ______",
+      "type": "OBJ",
+      "options": ["Total quality management", "Return on quality", "Economy of scale", "All of the above", "None"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Return on quality"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Return on quality</strong> refers to the concept of making incremental improvements to products and processes to enhance quality and customer satisfaction. It involves:<ul><li>Continuous, small improvements rather than radical changes</li><li>Focusing on quality enhancements that provide returns</li><li>Systematic approach to improving products over time</li><li>Measuring the financial return from quality improvements</li></ul>This is specifically about incremental quality improvements, unlike the broader concepts of TQM or economy of scale."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "The reason for business failure is most commonly ______",
+      "type": "OBJ",
+      "options": ["External", "Inexperience", "Internal", "Governmental", "None"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Business failures are <strong>most commonly due to internal factors</strong> within the entrepreneur's control, including:<ul><li>Poor management and planning</li><li>Inadequate financial control</li><li>Lack of market research</li><li>Ineffective marketing</li><li>Operational inefficiencies</li></ul>While external factors (market conditions, government regulations) can contribute, studies show that internal management issues are the primary cause of most business failures."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The entrepreneurship process begins with ______",
+      "type": "OBJ",
+      "options": ["Feasibility study", "Survey", "Innovative idea", "Triggering event", "All of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Innovative idea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The entrepreneurship process typically begins with an <strong>innovative idea</strong> that identifies:<ul><li>A market need or opportunity</li><li>A novel solution or approach</li><li>Potential for value creation</li></ul>This initial idea sparks the entrepreneurial journey, which then leads to feasibility studies, market surveys, and may be catalyzed by triggering events. However, the fundamental starting point is the innovative concept itself."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "As an entrepreneur, with which of the following do you tend to ‘fall in love’ too quickly?",
+      "type": "OBJ",
+      "options": ["New manufacturing ideas", "New product ideas", "New financial plans", "New employees", "All of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "New product ideas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Entrepreneurs often <strong>fall in love too quickly with new product ideas</strong> due to:<ul><li>Emotional attachment to their creations</li><li>Over-optimism about market reception</li><li>Confirmation bias seeking validation rather than criticism</li><li>Underestimating implementation challenges</li></ul>This 'falling in love' with ideas can lead to poor objective evaluation and persistence with flawed concepts when more critical assessment is needed."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "Prerequisites of becoming a successful entrepreneur include ______",
+      "type": "OBJ",
+      "options": ["Passion", "Determination", "Deep knowledge", "All of the above", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Successful entrepreneurship requires <strong>all these prerequisites</strong>:<ul><li><strong>Passion</strong>: Deep enthusiasm and commitment to the venture</li><li><strong>Determination</strong>: Persistence through challenges and setbacks</li><li><strong>Deep knowledge</strong>: Expertise in the industry, market, and business operations</li></ul>These elements combine to provide the motivation, resilience, and competence needed to navigate the entrepreneurial journey successfully."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Entrepreneur’s goals state where he/she wants to be, rather than how to get there. This is why goals are written in terms of ______",
+      "type": "OBJ",
+      "options": ["A time frame", "Outcome", "Challenge", "Personnel", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Outcome"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Entrepreneurial goals are written in terms of <strong>outcome</strong> because:<ul><li>They focus on the desired end result rather than the process</li><li>Outcome-based goals provide clear targets to aim for</li><li>They allow flexibility in how the results are achieved</li><li>Outcomes are measurable and specific (e.g., 'achieve 20% market share' rather than 'try to sell more')</li></ul>This outcome orientation helps entrepreneurs stay focused on results while allowing adaptive strategies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "The reason that an entrepreneur’s business exists and the thing that the business does better than everyone else is ______",
+      "type": "OBJ",
+      "options": ["Opportunity", "Competitive advantage", "Control system", "Competitive analysis", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competitive advantage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The <strong>competitive advantage</strong> defines both the reason a business exists and what it does better than competitors through:<ul><li>Unique value proposition</li><li>Superior products, services, or processes</li><li>Cost leadership or differentiation</li><li>Sustainable market position</li></ul>This advantage is the fundamental differentiator that justifies the business's existence and enables it to outperform competitors in the marketplace."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "Individual ethics in the workplace are affected by ______",
+      "type": "OBJ",
+      "options": ["Past experiences", "Ethical principles", "Organizational culture", "All of the above", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Individual workplace ethics are shaped by <strong>multiple interconnected factors</strong>:<ul><li><strong>Past experiences</strong>: Personal history and previous ethical dilemmas</li><li><strong>Ethical principles</strong>: Personal moral code and values system</li><li><strong>Organizational culture</strong>: Company values, norms, and ethical climate</li></ul>These elements combine to influence how individuals perceive and respond to ethical situations in the workplace, making ethical behavior a complex interplay of personal and environmental factors."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "The primary reason for writing business plans is ______",
+      "type": "OBJ",
+      "options": ["To attract capital for a startup", "To make profit", "To avoid risk", "To make market survey", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To attract capital for a startup"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The <strong>primary reason</strong> for writing a business plan is <strong>to attract capital for a startup</strong>. Business plans serve this fundamental purpose by:<ul><li>Demonstrating business viability to investors and lenders</li><li>Providing financial projections and return expectations</li><li>Outlining market opportunity and competitive advantage</li><li>Showing management team capability</li></ul>While business plans help with risk management and contain market analysis, their primary function is securing funding rather than directly generating profit."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "A one-time payment made to become a franchise is ______",
+      "type": "OBJ",
+      "options": ["Disclosure fee", "Franchisor fee", "Franchise fee", "Franchisee fee", "Royalty fee"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Franchise fee"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The <strong>franchise fee</strong> is the one-time upfront payment required to:<ul><li>Acquire the rights to operate under the franchise brand</li><li>Gain access to proprietary systems and processes</li><li>Receive initial training and support</li><li>Secure territorial rights (if applicable)</li></ul>This initial fee is distinct from ongoing royalties and other recurring costs, serving as the entry price for joining the franchise system."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "The on-going payments that franchisees pay to franchisors is ______",
+      "type": "OBJ",
+      "options": ["Franchisee fee", "Royalty fee", "Franchise agreement fee", "All of the above", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Royalty fee"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The <strong>royalty fee</strong> is the ongoing payment that franchisees pay to franchisors, typically featuring:<ul><li>Regular payments (usually monthly or weekly)</li><li>Percentage of gross sales or fixed amount</li><li>Covers ongoing support, brand development, and system updates</li><li>Continues for the duration of the franchise agreement</li></ul>This is different from the one-time franchise fee and other possible fees like marketing contributions or technology fees."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "A type of franchise that represents a turnkey approach is called ______",
+      "type": "OBJ",
+      "options": ["Business format franchise", "Due diligence franchise", "Product franchise", "Royalty franchise", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Business format franchise"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "A <strong>business format franchise</strong> represents a complete turnkey approach where the franchisor provides:<ul><li>Complete business system and operational model</li><li>Trademarks, branding, and marketing support</li><li>Comprehensive training and ongoing support</li><li>Standardized products, services, and procedures</li></ul>This 'business in a box' approach allows franchisees to start operations quickly with a proven system, unlike product franchises that mainly focus on distributing specific products."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "Business valuation method based on worth of its assets is called ______",
+      "type": "OBJ",
+      "options": ["Income statement", "Business broker", "Balance sheet", "Business audit", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Balance sheet"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The <strong>balance sheet</strong> method of business valuation calculates worth based on:<ul><li>Company's assets minus liabilities</li><li>Book value or adjusted net asset value</li><li>Tangible and intangible assets</li><li>Historical cost or current market value of assets</li></ul>This asset-based approach differs from income-based methods (using income statements) or market-based approaches, focusing specifically on the company's underlying asset value."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "Entrepreneur's cash flow equals ______",
+      "type": "OBJ",
+      "options": ["Liabilities plus owner's equity", "Liability minus expenses", "Receipts plus owner's equity", "Receipts minus disbursements", "All of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Receipts minus disbursements"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Entrepreneur's cash flow is calculated as <strong>receipts minus disbursements</strong>, representing:<ul><li>Cash inflows from sales, investments, and financing</li><li>Cash outflows for expenses, purchases, and debt payments</li><li>Net change in cash position over a period</li><li>Critical measure of liquidity and financial health</li></ul>This straightforward calculation (cash in minus cash out) differs from accounting profit and provides the actual cash movement in the business."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "The reason that an entrepreneur's business exists and the thing that the business does better than everyone else is ______",
+      "type": "OBJ",
+      "options": ["Opportunity", "Competitive advantage", "Control system", "Competitive analysis", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competitive advantage"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The <strong>competitive advantage</strong> defines both the reason a business exists and its unique superiority through:<ul><li>Distinctive capabilities or resources</li><li>Superior value proposition to customers</li><li>Sustainable differentiation from competitors</li><li>Core competencies that are difficult to replicate</li></ul>This advantage justifies the business's existence and enables it to outperform others in the market, making it the fundamental differentiator."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "A wealthy, experienced individual entrepreneur who loans money to other business owner ______",
+      "type": "OBJ",
+      "options": ["Equity financier", "Debt financier", "Angels", "Trade credit", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Angels"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Angel investors</strong> are wealthy, experienced individuals who:<ul><li>Provide capital to startups and small businesses</li><li>Often offer mentorship and industry expertise</li><li>Typically invest their own personal funds</li><li>May provide debt, equity, or convertible financing</li><li>Fill the gap between personal savings and venture capital</li></ul>While they may provide loans, angels are distinct from traditional debt financiers as they often seek equity positions and actively mentor entrepreneurs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "Psychological pricing strategy used with goods whose quality is difficult to determine by inspection is called ______",
+      "type": "OBJ",
+      "options": ["Prestige pricing", "Reference pricing", "Price lining", "Odd pricing", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prestige pricing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Prestige pricing</strong> is used for goods where quality is hard to determine visually by:<ul><li>Setting high prices to signal superior quality</li><li>Creating an aura of exclusivity and luxury</li><li>Leveraging price as a quality indicator</li><li>Appealing to status-conscious consumers</li></ul>This strategy works particularly well for experience goods (where quality is known only after consumption) and luxury items where high prices reinforce perceived value and exclusivity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "Setting the price of a product in a way that will alter its perception by customers is ______",
+      "type": "OBJ",
+      "options": ["Prestige pricing", "Reference pricing", "Psychological pricing", "Price lining", "Odd pricing"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Psychological pricing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Psychological pricing</strong> encompasses various strategies that alter customer perception, including:<ul><li>Odd pricing ($9.99 instead of $10.00)</li><li>Prestige pricing (high prices for luxury perception)</li><li>Reference pricing (comparing to other prices)</li><li>Price lining (grouping products at set price points)</li></ul>This broad category focuses on the psychological impact of pricing rather than just cost-based or competition-based approaches."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "The process of gathering all information about a particular job is called ______",
+      "type": "OBJ",
+      "options": ["Job description", "Job analysis", "Job specification", "Job orientation", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Job analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Job analysis</strong> is the comprehensive process of gathering information about a job through:<ul><li>Identifying tasks, duties, and responsibilities</li><li>Determining necessary skills, knowledge, and abilities</li><li>Analyzing working conditions and requirements</li><li>Collecting data through observations, interviews, and questionnaires</li></ul>This foundational process provides the information needed to create job descriptions (what the job entails) and job specifications (qualifications needed)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Direct sales promotion methods in Entrepreneurship include the following except ______",
+      "type": "OBJ",
+      "options": ["Public relations", "Publicity", "Special event sales", "Manufacturer's acts", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Public relations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Public relations</strong> is not typically considered a direct sales promotion method because:<ul><li>PR focuses on long-term relationship building rather than immediate sales</li><li>It involves managing reputation and media relations</li><li>PR activities are often indirect and not tied to specific sales transactions</li><li>Direct sales promotions include tactics like coupons, discounts, and special events that directly stimulate sales</li></ul>Publicity, special event sales, and manufacturer's acts are more directly tied to sales promotion activities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Money raised by venture capitalists entrepreneurs include the following, except ______",
+      "type": "OBJ",
+      "options": ["Equity pool", "Pension funds", "Foreign investors", "Endowment funds", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Venture capitalists typically raise money from <strong>all these sources</strong>:<ul><li><strong>Equity pools</strong>: Funds dedicated to equity investments</li><li><strong>Pension funds</strong>: Retirement investment funds</li><li><strong>Foreign investors</strong>: International investment sources</li><li><strong>Endowment funds</strong>: Institutional investment funds</li></ul>Venture capital firms aggregate capital from various institutional and individual investors to fund entrepreneurial ventures, so none of these are exceptions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "An informal investor market that can finance an entrepreneur is called ______",
+      "type": "OBJ",
+      "options": ["Venture capitalist", "A broker", "Angels", "Debt factorization market", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Angels"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Angel investors</strong> represent the informal investor market that finances entrepreneurs through:<ul><li>Wealthy individuals investing personal funds</li><li>Informal investment processes (vs. formal VC structures)</li><li>Early-stage funding before institutional VCs</li><li>Often providing mentorship alongside capital</li></ul>This differs from venture capitalists (formal funds), brokers (intermediaries), or debt markets (lending institutions)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "The form of financial transaction market when money is formally obtained by a company is called ______",
+      "type": "OBJ",
+      "options": ["Angels", "Deal structure", "Leverage market", "Liquidity market", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "When companies formally obtain money, this typically occurs through:<ul><li><strong>Capital markets</strong> (equity or debt offerings)</li><li><strong>Private placements</strong></li><li><strong>Bank financing</strong></li><li><strong>Venture capital rounds</strong></li></ul>The options provided don't accurately describe formal capital acquisition. 'Leverage market' might refer to debt, but it's not standard terminology. The most appropriate answer is that none of these terms correctly describe formal capital raising markets."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "A middle ground between starting a business and buying a going concern is to ______",
+      "type": "OBJ",
+      "options": ["Involve friends in decisions", "Invest and run a franchise", "Involve an entrepreneur", "Involve an entrepreneur", "None of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Invest and run a franchise"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Investing in and running a franchise</strong> represents a middle ground because:<ul><li>It's not starting from scratch (like a new business)</li><li>It's not buying an established independent business</li><li>You get a proven system but still need to build the local operation</li><li>Provides brand recognition and support while requiring entrepreneurial effort</li></ul>This option balances the risk of a startup with the established framework of an existing business model."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Emotions can help an entrepreneur to ______",
+      "type": "OBJ",
+      "options": ["succeed in achieving an integration of different aspects of his or her personality", "achieve group goal", "help entrepreneur in his business", "become an entrepreneur", "none of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "succeed in achieving an integration of different aspects of his or her personality"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Emotions help entrepreneurs <strong>achieve personality integration</strong> by:<ul><li>Balancing rational decision-making with intuitive feelings</li><li>Integrating passion with business discipline</li><li>Connecting personal values with business actions</li><li>Harmonizing the analytical and creative aspects of entrepreneurship</li></ul>This emotional intelligence enables entrepreneurs to function as whole persons rather than just business operators, leading to more authentic and sustainable success."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Return on quality (ROQ) is not synonymous to the act of concentrating attention to produce quality in areas most important to customers.",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>false</strong>. Return on Quality (ROQ) <em>is</em> synonymous with concentrating quality efforts where they matter most to customers. ROQ involves:<ul><li>Focusing quality improvements on customer priorities</li><li>Measuring the financial return from quality investments</li><li>Aligning quality efforts with customer value perception</li><li>Avoiding wasted resources on quality aspects customers don't value</li></ul>ROQ specifically means targeting quality resources to areas that generate the highest customer satisfaction and business returns."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "The harvest stage of a business means when the entrepreneur removes him/herself from the business",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>true</strong>. The harvest stage involves:<ul><li>Exiting the business to realize financial gains</li><li>Selling the company or transferring ownership</li><li>Cashing out investments made in the business</li><li>Transitioning leadership to others</li></ul>This stage represents the culmination of the entrepreneurial journey where the founder removes themselves from active involvement while capturing the value created through their efforts."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "An entrepreneurship locus of control does not mean his/her view and ability to determine own fate",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>false</strong>. Locus of control <em>does</em> mean an entrepreneur's belief about their ability to control their own destiny. It involves:<ul><li><strong>Internal locus</strong>: Belief that outcomes depend on one's own actions</li><li><strong>External locus</strong>: Belief that outcomes are controlled by external forces</li><li>Entrepreneurs typically have strong internal locus of control</li><li>This belief drives proactive behavior and persistence</li></ul>The concept specifically refers to how individuals perceive their control over life events and outcomes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Entrepreneurs are born not made",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>false</strong>. Modern research shows that entrepreneurship can be developed through:<ul><li>Education and training programs</li><li>Experience and mentorship</li><li>Development of specific skills and mindsets</li><li>Environmental factors and opportunities</li></ul>While some personality traits may be innate, entrepreneurship is largely a learned capability. Successful entrepreneurs combine inherent tendencies with acquired knowledge, skills, and experiences."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "The bargaining power of a buyer does not affect how much attitude you have in changing your prices",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>false</strong>. Buyer bargaining power <em>significantly affects</em> pricing flexibility because:<ul><li>Strong buyer power limits ability to raise prices</li><li>Buyers can demand discounts or better terms</li><li>Price sensitivity increases with buyer alternatives</li><li>Entrepreneurs must adapt pricing strategies to buyer power</li></ul>In Porter's Five Forces, buyer power directly influences pricing strategy and profitability potential in any market."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "A franchise is a small business that pays fees and royalties for exclusive rights to local distribution of the product or service.",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>true</strong>. A franchise involves:<ul><li>Payment of initial franchise fees and ongoing royalties</li><li>Exclusive territorial rights for distribution</li><li>Operation under the franchisor's brand and system</li><li>Typically small business ownership with corporate support</li></ul>This arrangement allows entrepreneurs to operate established business models while franchisors expand their brand presence through local operators."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "Royalties are paid as a percentage of franchisee profits.",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>false</strong>. Franchise royalties are typically based on:<ul><li><strong>Gross sales revenue</strong>, not profits</li><li>Percentage of total sales (usually 4-8%)</li><li>Fixed periodic payments in some cases</li></ul>Using gross sales rather than profits ensures franchisors receive payments regardless of franchisee profitability, simplifying calculation and ensuring consistent revenue stream for the franchisor."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "Serendipity means finding business opportunities the entrepreneur runs not looking for",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>true</strong>. Serendipity in entrepreneurship refers to:<ul><li>Accidental discovery of valuable opportunities</li><li>Finding unexpected solutions or markets</li><li>Fortuitous accidents that lead to business success</li><li>Unplanned beneficial occurrences</li></ul>Many successful businesses started through serendipitous discoveries where entrepreneurs recognized unexpected opportunities they weren't actively seeking."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "Locus of control is an entrepreneur's attitude indicating the sense of direction",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>false</strong>. Locus of control refers to:<ul><li>Belief about control over events and outcomes</li><li>Whether success/failure is attributed to internal or external factors</li><li>Perceived ability to influence one's environment</li></ul>It is not about 'sense of direction' - that would relate to vision or goal orientation. Locus of control specifically concerns beliefs about causality and personal agency, not directional guidance."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "Intrapreneurship is not synonymous to corporate venturing",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>false</strong>. Intrapreneurship <em>is</em> synonymous with corporate venturing as both terms describe:<ul><li>Entrepreneurial activity within established organizations</li><li>Innovation and new venture creation inside corporations</li><li>Employees acting like entrepreneurs within company structures</li><li>Developing new businesses or products internally</li></ul>Both terms refer to the same concept of fostering entrepreneurship within existing corporate environments to drive innovation and growth."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "Amicable intrapreneurial climate is prerequisite to successful innovation",
+      "type": "OBJ",
+      "options": ["True", "False"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "This statement is <strong>true</strong>. An amicable intrapreneurial climate is essential because:<ul><li>It encourages risk-taking and experimentation</li><li>Supports creative thinking and idea generation</li><li>Provides resources and autonomy for innovation</li><li>Tolerates failure as part of the learning process</li><li>Rewards and recognizes innovative efforts</li></ul>Without a supportive organizational culture that embraces intrapreneurship, even the best ideas often fail to develop into successful innovations."
+    }
+  },
+ {
+  "type": "Question",
+  "name": "Question 47",
+  "Question": {
+   "content": "The potential entrepreneur desired company/opportunity identification must precede the general idea",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. The standard entrepreneurial process typically begins with a <strong>general idea</strong>. The entrepreneur then conducts market research and analysis to <em>refine</em> that idea into an identifiable opportunity. Only after a viable opportunity is identified does the process of building a desired company around it begin. Therefore, the general idea comes first, not the identification of the specific company or opportunity."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 48",
+  "Question": {
+   "content": "A good intrapreneur makes everyone a hero",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. A key trait of a successful intrapreneur (an entrepreneur within a large organization) is the ability to share credit and recognize the contributions of their team. By empowering others, celebrating collective wins, and 'making everyone a hero,' an intrapreneur builds strong morale, fosters loyalty, and encourages continued innovation and risk-taking within the corporate structure."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 49",
+  "Question": {
+   "content": "Handling cash flow can be crucial to entrepreneurial success",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. Effective cash flow management is arguably one of the most critical skills for an entrepreneur. A business can be profitable on paper but still fail if it runs out of cash to meet its immediate obligations (a situation known as 'cash flow insolvency'). Managing the timing of cash inflows (from sales) and outflows (for expenses, salaries, inventory) is essential for survival, daily operations, and funding future growth."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 50",
+  "Question": {
+   "content": "In forming a new venture, recruiting those in the firm usually requires established departmental structure and reporting systems.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. In the early stages of forming a new venture (a startup), the organizational structure is typically very fluid and flat. Startups usually prioritize agility, flexibility, and teamwork over rigid departmental structures and formal reporting systems. Early recruiting focuses on finding versatile, multi-skilled individuals who can wear multiple hats and adapt quickly, rather than fitting into pre-defined, established corporate departments."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 51",
+  "Question": {
+   "content": "Opportunity parameters cannot be implied as barriers to entrepreneurs new product creation and development",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Opportunity parameters, which define the scope, market, and constraints of a business opportunity, can absolutely act as barriers. These parameters (e.g., market size, customer needs, technological feasibility, regulatory environment, and resource requirements) establish the boundaries and challenges an entrepreneur must navigate. They can create significant barriers to entry and development that must be overcome for a new product to succeed."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 52",
+  "Question": {
+   "content": "For sustainable economic development, the spirit of intrapreneurship must not be on volunteer basis.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. For intrapreneurship to be a sustainable driver of innovation and economic development within a company, it must be systematically supported and incentivized, not left to chance or individual volunteerism. This means the organization must create a supportive culture, provide dedicated resources (time, funding, tools), establish clear processes for evaluating ideas, and implement reward structures that recognize and compensate successful intrapreneurial efforts. Relying solely on voluntary initiative is unlikely to yield consistent, large-scale results."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 53",
+  "Question": {
+   "content": "Entrepreneurs time orientation does not emphasize on long run, rather short run as applicable to managers.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Entrepreneurs typically have a strong <strong>long-term orientation</strong>, focusing on vision, future growth, and building sustainable ventures. Managers, by contrast, often operate with a shorter-term focus on meeting quarterly targets, budgets, and operational efficiency within an existing structure. While entrepreneurs must manage short-term challenges, their primary perspective is future-oriented."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 54",
+  "Question": {
+   "content": "Entrepreneurs have been found to be more educated than the general populace",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Research does not consistently show that entrepreneurs are more educated than the general population. While education can be beneficial, many successful entrepreneurs are characterized by their experience, skills, motivation, and access to resources rather than formal educational attainment. Some of the most famous entrepreneurs (e.g., Steve Jobs, Richard Branson, Mark Zuckerberg) did not complete traditional college degrees."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 55",
+  "Question": {
+   "content": "New business venturing can simulate corporate venturing.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. The relationship is typically the reverse. <strong>Corporate venturing</strong> (or intrapreneurship) is the act of a large company creating a new business venture or investing in external startups. It is an attempt to <em>simulate</em> the agility, innovation, and entrepreneurial spirit of a <strong>new business venture</strong> (a startup) within the structure of an established corporation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 56",
+  "Question": {
+   "content": "Due diligence is the process of deal evaluation in entrepreneurship.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. Due diligence is a comprehensive and critical process of investigation, verification, and audit performed before signing a contract or closing a deal. In entrepreneurship, this involves meticulously evaluating all aspects of a potential investment, acquisition, or partnership—including finances, legal matters, operations, and market position—to confirm facts, assess risks, and ensure the deal is sound."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 57",
+  "Question": {
+   "content": "Small business owners are entrepreneurs.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. While there is overlap, not all small business owners are considered entrepreneurs in the classic sense. An <strong>entrepreneur</strong> is typically defined by innovation, high growth potential, and scalability, aiming to create new markets or disrupt existing ones. A <strong>small business owner</strong> often operates an established business model with the primary goal of generating a stable income and serving a local community, without the explicit goal of rapid scaling or innovation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 58",
+  "Question": {
+   "content": "A business incubator is an organization designed to accelerate the growth and success of an entrepreneurial companies.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. A business incubator is an organization that provides a range of support resources and services to help new startups and entrepreneurial companies succeed. This support typically includes physical office space, management training, mentoring, networking opportunities, and access to capital. The core mission of an incubator is to 'incubate' fledgling companies, accelerating their growth and reducing their chance of failure in the critical early stages."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 59",
+  "Question": {
+   "content": "Entrepreneurial personalities seem to be easily bored.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. A common trait among many entrepreneurial personalities is a low tolerance for routine and monotony. They are often driven by a need for novelty, challenge, and achievement. This tendency to get 'easily bored' with repetitive tasks can be a powerful motivator for them to seek out new opportunities, innovate, and create their own ventures where they can control the pace and variety of their work."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 60",
+  "Question": {
+   "content": "Stubbornness as a child cannot translate to determinations of being an entrepreneur.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Childhood traits like stubbornness or strong-willed behavior can indeed be a precursor to the determination and perseverance required in entrepreneurship. The tenacity to stick to a vision, overcome countless obstacles, and persist in the face of rejection and failure is a hallmark of successful entrepreneurs. What may be perceived negatively as 'stubbornness' in a child can mature into the resilient 'determination' of an adult entrepreneur."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 61",
+  "Question": {
+   "content": "Handling cash flow can be crucial to entrepreneurial success.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. Effective cash flow management is arguably one of the most critical skills for an entrepreneur. A business can be profitable on paper but still fail if it runs out of cash to meet its immediate obligations (a situation known as 'cash flow insolvency'). Managing the timing of cash inflows (from sales) and outflows (for expenses, salaries, inventory) is essential for survival, daily operations, and funding future growth."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 62",
+  "Question": {
+   "content": "The principle of affordable loss cannot deliver the entrepreneur from the conscious determination of amount of resources committed.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. The principle of affordable loss <em>is precisely about</em> the conscious determination of what resources to commit. This core concept in effectuation (an entrepreneurial decision-making approach) advises entrepreneurs to focus on what they are willing to lose rather than on expected gains. It 'delivers' them by providing a pragmatic framework: instead of guessing an uncertain future, they decide in advance what loss is acceptable, which limits risk and guides rational resource commitment."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 63",
+  "Question": {
+   "content": "A bias toward quick entrepreneurial action increases the probability of creating a business but decreases the probability of success.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. A bias for action is a fundamental entrepreneurial trait that generally <em>increases</em> the probability of both creating a business <em>and</em> achieving success. While reckless action is detrimental, a propensity to act quickly allows entrepreneurs to seize opportunities, test ideas in the real world, learn from feedback, and iterate rapidly (the 'build, measure, learn' loop). This agility is a key advantage over slower-moving competitors and is central to the lean startup methodology."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 64",
+  "Question": {
+   "content": "The dilemma facing political entrepreneurs can be summed up by this saying paralyzed by analysis and extinction by its met.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. The classic entrepreneurial dilemma is often summed up by the phrase '<strong>paralysis by analysis</strong>' (over-thinking and failing to act) versus '<strong>extinction by instinct</strong>' (acting on rash impulse without analysis and failing). The saying in the question ('extinction by its met') appears to be a misquotation or misspelling of the correct term, which is 'extinction by instinct'."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 65",
+  "Question": {
+   "content": "Entrepreneurs are not likely to overestimate their income and under-estimate their costs.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. A common cognitive bias among entrepreneurs is <strong>optimism bias</strong>, which frequently leads them to overestimate potential income (or market size, speed of adoption) and underestimate the costs, time, and challenges involved in building a business. This overconfidence can be a motivator to start ventures but is also a leading cause of startup failure when unrealistic financial projections meet reality."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 66",
+  "Question": {
+   "content": "Entrepreneurs which produce only one product at a time has the advantage of being able to use a continuous production layout.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. A continuous production layout (or flow production) is designed for manufacturing a single, standardized product in high volumes with a continuous, uninterrupted process. If an entrepreneur's business is focused on producing only one product, it can ideally leverage this efficient layout, which minimizes setup times, reduces work-in-progress inventory, and achieves economies of scale, leading to lower per-unit costs."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 67",
+  "Question": {
+   "content": "A perfectly moral entrepreneur would never allow the pull of emotion to cause him or her to act in less than entirely unreasonable manner.",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. The phrasing is contradictory. The clause 'act in less than entirely unreasonable manner' means to act in a <em>reasonable</em> manner. Therefore, the sentence claims a moral entrepreneur would never let emotion cause them to act reasonably, which is illogical. Furthermore, high morality is about ethics and principles, not the absence of emotion. Even a 'perfectly moral' entrepreneur is human and can be swayed by emotions like passion or empathy, which can often lead to <em>reasonable</em> and ethical decisions."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 68",
+  "Question": {
+   "content": "Disciplining and controlling entrepreneurial motion is often hard work",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. 'Entrepreneurial motion' refers to the constant drive, energy, and activity inherent in starting and growing a business. While this energy is essential, it must be channeled and focused to be effective. Disciplining this motion—through strategic planning, prioritization, time management, and avoiding distraction—is indeed challenging work that requires self-control and often goes against the natural, unstructured enthusiasm of the entrepreneurial spirit."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 69",
+  "Question": {
+   "content": "In choosing an entrepreneurial projects, emotions play more important role than intelligence",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. While passion and emotion (e.g., excitement, intuition) are critical drivers for initiating an entrepreneurial project, they must be balanced and validated by intelligence and rational analysis. A successful venture choice relies more heavily on intelligent market research, financial analysis, strategic planning, and a clear assessment of risks and opportunities. Emotion without intelligence often leads to poor decisions based on bias rather than evidence."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 70",
+  "Question": {
+   "content": "Provision of different economic satisfaction is not innovation",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Innovation is not limited to new physical products or technologies. According to thinkers like Peter Drucker, innovation can be a new service, a new process, or a new way of delivering value to a customer. Providing a 'different economic satisfaction'—such as a novel business model (e.g., subscription services instead of one-time purchases), a new value proposition, or a more affordable solution—is absolutely a form of innovation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 71",
+  "Question": {
+   "content": "In entrepreneurship, opportunity assessment plan is not a business plan",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. An <strong>opportunity assessment plan</strong> is a preliminary, shorter analysis focused on evaluating the viability and attractiveness of a single business idea. A <strong>business plan</strong> is a comprehensive, formal document that details the company's overall strategy, market analysis, operational structure, and financial projections for executing on that opportunity. The assessment plan is a first step to decide if an idea is worth pursuing before investing the significant effort required to create a full business plan."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 72",
+  "Question": {
+   "content": "Assessment of the opportunity is not the most critical aspect of opportunity analysis",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. The assessment of the opportunity <em>is</em> the most critical aspect of opportunity analysis. The entire purpose of opportunity analysis is to rigorously assess a potential venture's market feasibility, competitive advantage, financial viability, and overall potential for success. A brilliant execution cannot save a poor opportunity, making its initial assessment the most crucial step in determining whether to proceed with a business idea."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 73",
+  "Question": {
+   "content": "The final business dimension is the management structure",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. There is no single 'final' dimension universally agreed upon in business planning. A business is a multi-faceted system with several key dimensions (e.g., market, product, financial, operational, human resources). While management structure is a vital component, it is not hierarchically the 'final' one; it is developed alongside and integrated with all other strategic dimensions throughout the planning process."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 74",
+  "Question": {
+   "content": "The differences in the entrepreneurial and managerial domains have increased interest in Intrapreneurship",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. The recognized gap between the innovative, risk-taking 'entrepreneurial domain' and the structured, efficiency-focused 'managerial domain' within large corporations has driven interest in <strong>intrapreneurship</strong>. Companies seek to foster intrapreneurship to inject entrepreneurial spirit—such as innovation, agility, and opportunity-seeking—into their existing managerial structures to stay competitive and drive growth from within."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 75",
+  "Question": {
+   "content": "Intrapreneurship is most strongly reflected in entrepreneurial activities",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. By definition, intrapreneurship is the practice of entrepreneurial skills and approaches (e.g., innovation, risk-taking, initiative) by employees within a large organization. Therefore, it is most directly and strongly reflected in internal entrepreneurial activities, such as developing new products, entering new markets, or creating new business ventures, all undertaken under the corporate umbrella."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 76",
+  "Question": {
+   "content": "An intrapreneur must build a coalition of supporters",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. Unlike an independent entrepreneur, an intrapreneur operates within an existing corporate structure. To navigate bureaucracy, secure resources, gain approval for projects, and implement innovation, they must build a strong coalition of supporters. This includes gaining backing from mentors, influential managers, and colleagues across different departments to build credibility and overcome organizational resistance."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 77",
+  "Question": {
+   "content": "Corporate venturing is not synonymous with intrapreneurship",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. While related, the terms are not perfect synonyms. <strong>Intrapreneurship</strong> broadly refers to entrepreneurial behavior <em>within</em> a corporation, where employees act like entrepreneurs. <strong>Corporate venturing</strong> is a specific subset of this, often involving the creation of a new business unit, making strategic investments in, or acquiring external startups. All corporate venturing is intrapreneurial, but not all intrapreneurship involves formal venturing."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 78",
+  "Question": {
+   "content": "Organizational climate plays vital role in innovation",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. The organizational climate—the shared perceptions about the organization's values, practices, and behaviors—is critical for fostering innovation. A climate that encourages risk-taking, tolerates failure, rewards creativity, and promotes open communication is essential for employees to feel safe and motivated to develop and propose new ideas. A rigid, punitive climate will stifle innovation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 79",
+  "Question": {
+   "content": "There is really no such thing as a ‘true entrepreneurial profile’",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. Research has consistently failed to identify a single, universal 'entrepreneurial personality.' Successful entrepreneurs come from diverse backgrounds, possess a wide variety of personalities, and have different skill sets. While common traits like resilience, passion, and risk tolerance are often observed, there is no definitive profile; entrepreneurship is a behavior and a process that can be learned, not a personality type one is born with."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 80",
+  "Question": {
+   "content": "Appropriate leadership characteristic is not needed in intrapreneurship as similarly in entrepreneurship",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Strong leadership is <em>equally critical</em> in intrapreneurship as it is in entrepreneurship. An intrapreneur must lead without formal authority, inspiring and persuading a team, navigating corporate politics, and championing their vision to secure resources and support. The leadership challenges may even be greater within the constraints of an existing organization, making appropriate leadership characteristics absolutely essential."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 81",
+  "Question": {
+   "content": "Entrepreneurs are equated to inventors",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. An <strong>inventor</strong> creates something new (an idea, product, or process). An <strong>entrepreneur</strong> builds a business, often by commercializing an invention. While an entrepreneur can also be an inventor, the core skills are different: invention requires creativity and technical skill, while entrepreneurship requires business acumen, risk-taking, leadership, and the ability to marshal resources to create value in the marketplace."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 82",
+  "Question": {
+   "content": "Income statement is a snap-shot of the firm’s picture",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. An income statement (or profit and loss statement) is a <strong>dynamic report</strong> that summarizes a company's revenues, expenses, and profits <em>over a period of time</em> (e.g., a quarter or a year). A <strong>snapshot</strong> of the firm's financial position at a specific point in time is provided by the <em>balance sheet</em>, which shows assets, liabilities, and equity on a given date."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 83",
+  "Question": {
+   "content": "Liquidity ratios demonstrate the ability of a firm to meet up its long-term obligations",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. <strong>Liquidity ratios</strong> (e.g., current ratio, quick ratio) measure a company's ability to pay off its <strong>short-term</strong> obligations (those due within one year) with its current or quick assets. The ability to meet <strong>long-term</strong> obligations is measured by <em>solvency ratios</em> (e.g., debt-to-equity ratio), which assess the company's long-term financial stability and leverage."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 84",
+  "Question": {
+   "content": "The marketing concept places much emphasis on the distributor",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. The core of the modern <strong>marketing concept</strong> is a consumer orientation. It emphasizes understanding and satisfying <em>customer needs and wants</em> more effectively than competitors. While distributors are an important part of the 'place' element of the marketing mix (the 4 Ps), the primary emphasis is on the consumer, not any single intermediary in the supply chain."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 85",
+  "Question": {
+   "content": "A business solely exists to enable consumers to satisfy their needs and wants",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong> from a modern marketing and value-creation perspective. The fundamental purpose of a business is to create a customer by identifying and fulfilling their needs and wants. Profit is the reward for doing this effectively, not the sole purpose in itself. A business that fails to satisfy consumer demand will not survive in the long run."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 86",
+  "Question": {
+   "content": "Predatory pricing is an ethical behaviour business often engaged in",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. <strong>Predatory pricing</strong> is an <em>unethical</em> and often <em>illegal</em> anti-competitive practice. It involves setting prices extremely low (often below cost) with the intention of driving competitors out of the market. Once competition is eliminated, the predator aims to raise prices significantly to recoup losses and monopolize the market. It is harmful to competition, consumers (in the long run), and the market economy."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 87",
+  "Question": {
+   "content": "Balance sheet gives the picture of business transaction process",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. The <strong>balance sheet</strong> is a financial statement that provides a <em>static snapshot</em> of a company's financial position (assets, liabilities, and shareholders' equity) at a specific point in time. It does not show the process or flow of transactions. The document that shows the business transaction process over a period of time is the <em>statement of cash flows</em>, which details the inflows and outflows of cash from operating, investing, and financing activities."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 88",
+  "Question": {
+   "content": "Liability is one of the most critical reasons for a corporation establishment",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. A primary reason entrepreneurs choose to establish a corporation (or an LLC) is to gain <strong>limited liability protection</strong>. This critical feature separates the owner's personal assets (home, car, personal savings) from the company's debts and legal obligations. If the business fails or is sued, the owners' personal loss is typically limited to their investment in the corporation, protecting them from unlimited personal liability."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 89",
+  "Question": {
+   "content": "Entrepreneurial Corporation cannot be created by a statute",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. A corporation is a legal entity that is <em>exclusively</em> created by following the procedures outlined in a state's <strong>corporation statute</strong> (e.g., filing Articles of Incorporation with the state government). It is a 'creature of statute,' meaning it derives its existence and legal powers from these laws. Without statutes, the modern corporate form would not exist."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 90",
+  "Question": {
+   "content": "Equity financing for entrepreneurial development can be obtained through exchange of ownership",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. <strong>Equity financing</strong> is the process of raising capital through the sale of shares (ownership stakes) in the business. In exchange for their investment, investors (e.g., angel investors, venture capitalists) receive a percentage of ownership in the company. This is a fundamental method for entrepreneurs to fund development without taking on debt."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 91",
+  "Question": {
+   "content": "Accounts receivable does not provide a good basis for a loan",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. <strong>Accounts Receivable (A/R)</strong>—money owed to a company by its customers—is one of the most common and acceptable forms of collateral for a business loan. Lenders often provide financing through methods like <em>factoring</em> (selling A/R at a discount) or an <em>A/R line of credit</em> because it represents a near-term cash inflow, making it a relatively secure and liquid asset to base a loan upon."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 92",
+  "Question": {
+   "content": "Cash flow financing is not synonymous with entrepreneurs debt financing",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Cash flow financing is a specific <em>type</em> of debt financing. It refers to loans that are extended based on a company's demonstrated ability to generate cash flow to service the debt, rather than being secured by specific physical assets. Therefore, it is a subset of the broader category of entrepreneurial debt financing, making the terms related, not distinct."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 93",
+  "Question": {
+   "content": "Debt to equity ratio assesses the capital structure of entrepreneur’s firm",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. The debt-to-equity (D/E) ratio is a key financial metric calculated by dividing a company's total liabilities by its shareholder equity. It is a primary indicator used to assess a firm's <strong>capital structure</strong>, showing the proportion of debt financing being used relative to equity financing. A high ratio indicates a more leveraged and potentially riskier position, while a low ratio suggests a more conservative approach."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 94",
+  "Question": {
+   "content": "Entrepreneurial business laws are generally backward looking",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. Business laws and regulations are typically created in response to past events, market failures, or abuses. They are designed to prevent recurrence of past problems, establish precedent based on previous court rulings, and provide a stable framework based on known scenarios. This inherently 'backward-looking' nature can sometimes create challenges for forward-looking entrepreneurs innovating in new, unregulated areas."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 95",
+  "Question": {
+   "content": "A legal compliance business route goes against the philosophy of empowerment",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Legal compliance and empowerment are not mutually exclusive. A philosophy of empowerment focuses on enabling employees with autonomy, responsibility, and trust. Operating within a clear, compliant legal framework actually <em>enables</em> and <em>empowers</em> this behavior by providing essential guardrails and a safe environment for employees to innovate and take calculated risks without fearing legal repercussions for the company or themselves."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 96",
+  "Question": {
+   "content": "Truth is not always a wise policy in business",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. While difficult truths must sometimes be managed with tact and timing, honesty is ultimately the wisest long-term policy in business. Deception, even with good intentions, erodes trust with customers, employees, and partners. A reputation for integrity is a valuable asset, while a reputation for dishonesty can destroy a business. Ethical transparency fosters strong, sustainable relationships."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 97",
+  "Question": {
+   "content": "Small business owners are intrapreneurs",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. An <strong>intrapreneur</strong> is an employee within a large organization who acts with an entrepreneurial spirit to develop new ideas or projects. A <strong>small business owner</strong> is the independent owner and operator of their own venture. They are classic entrepreneurs, not intrapreneurs, as they bear the full risk and reward for their business and are not operating within the shelter of a larger corporate entity."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 98",
+  "Question": {
+   "content": "One of the strongest sources of entrepreneurial position power is reward power",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. In the early stages of a venture, entrepreneurs often have very limited <strong>reward power</strong> (the formal authority to grant raises, bonuses, or promotions) due to constrained resources. Their strongest source of power is typically <strong>referent power</strong> (charisma, vision, and passion that inspires others) and <strong>expert power</strong> (deep knowledge of the product and market). They lead through influence, not formal organizational authority."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 99",
+  "Question": {
+   "content": "In terms of productive roles, entrepreneurs are called transformers",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong>. In economic theory, entrepreneurs are often described as <strong>transformers</strong> or <strong>agents of change</strong>. Their productive role is to transform ideas into opportunities, raw materials into finished products, and inefficient market situations into organized, value-creating enterprises. They transform the economic landscape by introducing innovation and creating new combinations of resources."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 100",
+  "Question": {
+   "content": "Financing by acquisition of plant and equipment is called leasing",
+   "type": "OBJ",
+   "options": ["True", "False"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. <strong>Leasing</strong> is a form of financing that involves <em>renting</em> the use of an asset (like plant or equipment) for a specified period. It is not an acquisition. <strong>Acquisition</strong> means to gain ownership or purchase the asset. Financing an acquisition is typically done through a methods like a bank loan (debt financing) or using retained earnings (equity financing), not through a lease, which is a separate contractual agreement."
+  }
+ }]
