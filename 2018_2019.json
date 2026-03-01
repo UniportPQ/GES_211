@@ -1,0 +1,1221 @@
+[
+ {
+ "type": "pageInfo",
+ "kind": "pureOBJ",
+ "course_title": "Introduction to Entrepreneurship",
+ "code": "GES 211",
+ "session": "2018/2019",
+ "time": "90"
+},
+{
+ "type": "Instruction",
+ "content": "Answer 35Questions."
+},
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "Question": {
+      "content": "Which of these is not part of SCAMPER acronym aid to creativity",
+      "type": "OBJ",
+      "options": ["Combat", "Substitute", "Adapt", "Eliminate"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Combat"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Combat</strong>. SCAMPER is a creativity technique with each letter standing for a different thinking strategy: <strong>S</strong>ubstitute, <strong>C</strong>ombine, <strong>A</strong>dapt, <strong>M</strong>odify, <strong>P</strong>ut to another use, <strong>E</strong>liminate, and <strong>R</strong>everse. 'Combat' is not part of this acronym."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "Question": {
+      "content": "______ is a key that triggers idea generation and opportunities",
+      "type": "OBJ",
+      "options": ["Intellectual Property protection", "Brain storming", "Creativity", "Market"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creativity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Creativity</strong>. Creativity is the fundamental cognitive process that enables the generation of novel and useful ideas. It is the primary engine that triggers the discovery of opportunities and the formation of innovative concepts that entrepreneurs can develop into viable businesses. While brainstorming is a tool to stimulate creativity, and the market presents opportunities, creativity itself is the key internal trigger."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "Question": {
+      "content": "______ is an asset that is of intangible and protected in an idea or a form of expression",
+      "type": "OBJ",
+      "options": ["Land property", "Creativity property", "Intellectual property", "Idea property"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intellectual property"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Intellectual property</strong>. Intellectual property (IP) refers to creations of the mind, such as inventions (patents), literary and artistic works (copyrights), symbols and names used in commerce (trademarks), and secret formulas or processes (trade secrets). These are intangible assets that are protected by law from unauthorized use."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "Question": {
+      "content": "Creativity includes all except",
+      "type": "OBJ",
+      "options": ["Patent", "Trade secret", "Copyright", "All of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>All of the above</strong>. This question is phrased to be tricky. Creativity is the mental process of generating new ideas. A patent, trade secret, and copyright are all <em>legal protections</em> for the outcomes of creativity (inventions, confidential information, artistic works). They are not creativity itself but rather the results or legal frameworks that protect creative output. Therefore, creativity does not 'include' these legal concepts; it precedes them."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "Question": {
+      "content": "______ is not among the forms of ownership/business succession in family business",
+      "type": "OBJ",
+      "options": ["Liquidation", "Selling", "Cultural", "A and C only", "Inheritance"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cultural"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Cultural</strong>. Common forms of family business succession and ownership transfer include <strong>liquidation</strong> (selling all assets and closing the business), <strong>selling</strong> the business to a third party, and passing ownership through <strong>inheritance</strong> to the next generation. 'Cultural' is not a standard form of ownership succession; it describes social beliefs and practices, not a legal or financial transfer mechanism."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "Question": {
+      "content": "The outstanding characteristics of an entrepreneur that differentiates him from a manager is",
+      "type": "OBJ",
+      "options": ["Optimistic", "Futuristic", "Risk taking", "Proactive", "Profiteering"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Risk taking"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Risk taking</strong>. While managers and entrepreneurs can share traits like being optimistic, futuristic, and proactive, the primary characteristic that most clearly differentiates an entrepreneur is their willingness to assume significant <strong>personal risk</strong> (financial, career, emotional) for the potential of reward. Managers are typically responsible for operating within an existing structure and minimizing risk, not assuming it personally."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "Question": {
+      "content": "Entrepreneur mission is geared towards ______ first",
+      "type": "OBJ",
+      "options": ["Profit", "Creation of goods and services", "Internal and external", "Satisfying human needs", "Service in business"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Satisfying human needs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Satisfying human needs</strong>. The fundamental mission of entrepreneurship is to identify and satisfy unmet human needs or wants. Profit is the reward and measure of success for achieving this mission effectively, not the mission itself. The creation of goods and services is the <em>method</em> used to satisfy those needs. Therefore, the primary focus is on the customer and their needs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "Question": {
+      "content": "______ and ______ are major types of entrepreneur environment",
+      "type": "OBJ",
+      "options": ["Internal and external", "Employee/social", "International/external", "Internal/task"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal and external"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Internal and external</strong>. The entrepreneurial environment is broadly categorized into two parts: 1) The <strong>Internal Environment</strong>: Factors within the control of the entrepreneur (e.g., employees, culture, operations, financial resources). 2) The <strong>External Environment</strong>: Factors outside the control of the business (e.g., economic conditions, competition, laws, technology, socio-cultural trends)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "Question": {
+      "content": "Act of parliament and judicial precedent that affect business operation is grouped under ______",
+      "type": "OBJ",
+      "options": ["Economical", "Political", "Cultural", "Consumer"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Political"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Political</strong>. The political environment encompasses all laws, government agencies, lobbying groups, and court decisions that influence and limit various organizations and individuals in society. Acts of Parliament (statutes) and judicial precedents (case law) are direct components of the legal/regulatory framework, which is a key element of the broader political environment."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "Question": {
+      "content": "______ is recognition as an entity worth doing business with",
+      "type": "OBJ",
+      "options": ["Interest", "Open system", "Legitimate boundary", "Going concern"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Legitimate boundary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Legitimate boundary</strong>. In organizational theory, 'legitimacy' is the general perception or assumption that an entity's actions are desirable, proper, or appropriate within a socially constructed system of norms, values, and beliefs. A 'legitimate boundary' implies the organization is recognized and accepted by external stakeholders (customers, suppliers, regulators) as a valid and credible entity, making others willing to engage in business with it."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "Question": {
+      "content": "The category of contacts and the relationship with other business and individual refer to",
+      "type": "OBJ",
+      "options": ["Culture", "Communication", "Group", "Social network", "Organization"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social network"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Social network</strong>. A social network refers to the web of relationships and alliances an entrepreneur or a business forms with other individuals and organizations. This network provides access to information, resources, support, and opportunities, and is a critical asset for any venture. It encompasses the category of contacts and the nature of the relationships with them."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "Question": {
+      "content": "Entrepreneurial inputs are all except ______",
+      "type": "OBJ",
+      "options": ["Land", "Labour", "Capital", "Management", "Entrepreneur"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entrepreneur"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Entrepreneur</strong>. In economics, the classic factors of production (inputs) are <strong>land</strong> (natural resources), <strong>labour</strong> (human effort), and <strong>capital</strong> (man-made resources like machinery and money). <strong>Management</strong> is often considered a specialized form of labour that organizes the other inputs. The <strong>entrepreneur</strong> is the individual who combines and coordinates these inputs and bears the risk; they are the organizer, not merely an input themselves."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "Question": {
+      "content": "______ is a major entrepreneur in any economy",
+      "type": "OBJ",
+      "options": ["Farmers", "Industrialist", "Government", "Importer", "Capital"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Industrialist"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Industrialist</strong>. An industrialist is an entrepreneur who owns and manages large-scale industrial enterprises, such as manufacturing plants. They are considered major entrepreneurs because they make significant capital investments, create numerous jobs, drive technological innovation, and contribute substantially to a nation's GDP and economic development. While farmers and importers can be entrepreneurs, 'industrialist' specifically denotes a major player in the economic structure."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "Question": {
+      "content": "______ is not an incentive by government to encourage entrepreneurial development",
+      "type": "OBJ",
+      "options": ["Promotion of tax holiday", "Protection of import tariff", "Reduction of corporate tax", "Decrease of tax dividend"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Protection of import tariff"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Protection of import tariff</strong>. An import tariff is a tax on goods coming into a country. <strong>Protecting</strong> or raising import tariffs is not an incentive for domestic entrepreneurs; it is a form of trade protectionism. Incentives are designed to reduce the burden on businesses. <strong>Tax holidays</strong> (temporary tax exemption), <strong>reduction of corporate tax</strong>, and <strong>decrease of tax on dividends</strong> are all direct financial incentives that lower the tax liability for entrepreneurs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "Question": {
+      "content": "These are major setback in implementation of entrepreneur incentive except",
+      "type": "OBJ",
+      "options": ["Official corruption", "Price vocational", "Nepotism", "Red tapism", "Tribalism"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Price vocational"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Price vocational</strong>. The phrase 'Price vocational' is unclear and does not correspond to a known barrier or setback. The other options are well-documented obstacles: <strong>official corruption</strong> (bribery), <strong>nepotism</strong> (favoritism to relatives), <strong>red tapism</strong> (bureaucratic delay), and <strong>tribalism</strong> (favoritism based on ethnicity). These practices can prevent incentives from reaching their intended beneficiaries and undermine entrepreneurial development programs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "Question": {
+      "content": "All except one is not part of legitimate boundary",
+      "type": "OBJ",
+      "options": ["People", "Product", "Organization", "Machine"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Machine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Machine</strong>. The concept of a 'legitimate boundary' refers to the social and cognitive elements that define an organization's identity and its acceptance by external stakeholders. This includes its <strong>people</strong> (who represents it), its <strong>product</strong> or service (what it does), and the <strong>organization</strong> itself as a legal entity. A <strong>machine</strong> is a physical asset used in production; it is not a component of the organization's social legitimacy or boundary."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "Question": {
+      "content": "In roads of competition is predominant in ______ product life cycle",
+      "type": "OBJ",
+      "options": ["Introduction", "Decline", "Growth", "Maturity", "A and D only"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Maturity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Maturity</strong>. The maturity stage of the product life cycle is characterized by intense competition. Market growth slows down, the product is widely accepted, and numerous competitors have entered the market. Companies compete aggressively on price, features, and market share, making 'inroads of competition' most predominant during this phase."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "Question": {
+      "content": "Consumers mostly buy ATM card for what benefit",
+      "type": "OBJ",
+      "options": ["Affordable", "Safety", "Economy", "Convenience", "Peer pressure"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Convenience"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Convenience</strong>. The primary benefit of an ATM card is the convenience it offers. It provides 24/7 access to cash and banking services without the need to visit a bank branch during working hours. While safety (over carrying cash) and economy (avoiding check-cashing fees) are secondary benefits, the core value proposition is convenience."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "Question": {
+      "content": "Business opportunities is associated with",
+      "type": "OBJ",
+      "options": ["Service", "Unsatisfied need", "New product", "Creativity"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unsatisfied need"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Unsatisfied need</strong>. At its core, a business opportunity arises from identifying an unmet or unsatisfied need in the market. A new product, service, or creative idea is merely the potential <em>solution</em> for fulfilling that underlying need. The existence of the need itself is what creates the opportunity for a viable business."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "Question": {
+      "content": "The functional area of entrepreneur structure are all except",
+      "type": "OBJ",
+      "options": ["Human resource", "Production", "Finance/accounting", "Marketing", "Engineering"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Engineering"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Engineering</strong>. The core functional areas of a business structure (often represented in an organizational chart) are typically: Human Resources (people), Production/Operations (creating the product/service), Finance/Accounting (managing money), and Marketing/Sales (promoting and selling). While engineering is a critical <em>department</em> within many companies (especially tech and manufacturing), it is not considered one of the universal, core functional areas of business management itself."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "Question": {
+      "content": "______ concern with product and services that are used to make money",
+      "type": "OBJ",
+      "options": ["Product", "Idea", "Innovation", "Opportunity", "Creativity"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Opportunity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Opportunity</strong>. An entrepreneurial opportunity is specifically defined as a future situation in which new goods, services, raw materials, markets, and organizing methods can be introduced and sold for greater than their cost of production. It is the concept that is directly concerned with the potential to create value and generate profit through products and services."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "Question": {
+      "content": "A promising business idea must have the following characteristics except one",
+      "type": "OBJ",
+      "options": ["Ubiquities", "Profitable in the long run", "Unique", "Innovative", "Relevant"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ubiquities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Ubiquities</strong>. A promising business idea should be unique, innovative, relevant to market needs, and have the potential to be profitable in the long run. 'Ubiquities' (meaning being everywhere or widespread) is not a characteristic of a promising idea; in fact, the best opportunities are often found in niches or unmet needs rather than saturated, ubiquitous markets."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "Question": {
+      "content": "Entrepreneurs are “go between” which also means",
+      "type": "OBJ",
+      "options": ["Profit concern", "Service oriented", "Risk taker", "Mover along", "Transformers"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transformers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Transformers</strong>. The term 'go between' describes someone who connects different elements. Entrepreneurs act as transformers by connecting resources, ideas, and markets to create new value. They transform ideas into products, raw materials into finished goods, and market needs into business opportunities, effectively acting as agents of change in the economy."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "Question": {
+      "content": "______ is not success factor of Aliko Dangote as an opportunist entrepreneur",
+      "type": "OBJ",
+      "options": ["Optimistic", "Visionary", "Risk taker", "Risk averse", "A and B only"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Risk averse"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Risk averse</strong>. Aliko Dangote, as a highly successful opportunist entrepreneur, is known for being optimistic, visionary, and a calculated risk-taker. Being 'risk averse' (avoiding risk) is contrary to the essential entrepreneurial trait of taking calculated risks to seize opportunities, which is fundamental to Dangote's success in building his business empire."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "Question": {
+      "content": "Every entrepreneur idea must be linked to opportunity and further linked to",
+      "type": "OBJ",
+      "options": ["Society", "Market", "Creativity", "Innovation", "Venture screening"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Market"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Market</strong>. An entrepreneurial idea must be connected to a genuine opportunity, which is ultimately defined by the existence of a <strong>market</strong> - a group of customers willing and able to pay for the product or service. Without a market, even the most creative or innovative idea cannot become a viable business venture."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "Question": {
+      "content": "Business opportunity are vulnerable customer acceptance due to",
+      "type": "OBJ",
+      "options": ["Time to threat", "Past time", "Time to break even", "Time to market", "Time to succeed"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Time to market"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Time to market</strong>. This refers to the period from conceiving a product until it is actually available for sale. Business opportunities are highly vulnerable during this time because delays can allow competitors to capture the market, customer needs to change, or technological advancements to make the idea obsolete. The longer the time to market, the greater the risk of losing customer acceptance."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "Question": {
+      "content": "______ is prominent in producing employment, income redistribution, promotion technology and entrepreneur",
+      "type": "OBJ",
+      "options": ["Corporate", "Co-operative society", "Small medium scale enterprise", "PLC"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small medium scale enterprise"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Small medium scale enterprise</strong>. SMEs (Small and Medium-sized Enterprises) are widely recognized as major drivers of economic development. They are prominent in: creating employment opportunities, redistributing income, promoting technological adaptation and innovation, and fostering entrepreneurial culture within an economy, often more so than large corporations."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "Question": {
+      "content": "Major challenges of sole proprietorship is",
+      "type": "OBJ",
+      "options": ["Tax", "Easy to be formed", "Decision", "Continuity"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Continuity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Continuity</strong>. A major challenge of a sole proprietorship is the lack of continuity or perpetual existence. The business is entirely dependent on the owner; if the owner dies, becomes incapacitated, or decides to stop operating, the business typically ceases to exist. This contrasts with corporations that have continuous existence regardless of changes in ownership."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "Question": {
+      "content": "PLC means",
+      "type": "OBJ",
+      "options": ["Public liability company", "Private liability companies", "Public limited company"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Public limited company"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Public limited company</strong>. PLC is an abbreviation for Public Limited Company, which is a type of corporate structure that offers shares to the general public and has limited liability. Its shares can be traded on a stock exchange, and it must comply with stricter regulatory requirements compared to private companies."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "Question": {
+      "content": "______ entrepreneurs are concerned in addressing social issues, changing modifying customer idea for better societal benefits",
+      "type": "OBJ",
+      "options": ["Entrepreneur", "Entrepreneur", "Social entrepreneur", "Technopreneur"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social entrepreneur"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Social entrepreneur</strong>. Social entrepreneurs are specifically focused on creating and implementing innovative solutions to address social, cultural, or environmental problems. Their primary goal is to achieve social change and societal benefits rather than maximizing profits, though they often use business principles to achieve sustainability."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "Question": {
+      "content": "Sales force builds up goodwill, do not necessarily take order but educate potential user",
+      "type": "OBJ",
+      "options": ["Technical", "Order delivery", "Missionary", "Order taker"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Missionary"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Missionary</strong>. A missionary sales force is primarily focused on building goodwill, educating potential customers about products or services, and developing future demand rather than taking immediate orders. They work to create a favorable environment for the company's products and support the efforts of other salespeople who actually close sales."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "Question": {
+      "content": "______ entails making active effort to persuade consumer to buy",
+      "type": "OBJ",
+      "options": ["Salesmanship", "Hard sell", "Product concept"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hard sell"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Hard sell</strong>. A hard sell approach involves aggressive, high-pressure persuasion tactics to convince consumers to make an immediate purchase decision. It focuses on closing the sale quickly through persistent efforts rather than building long-term customer relationships or educating consumers about product benefits."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "Question": {
+      "content": "SMEs occasionally carryout marketing research through all except",
+      "type": "OBJ",
+      "options": ["Occasionally asking customers on their product experience", "Formal research", "Buying and stripping competitor products", "Listening to complaints"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Formal research"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Formal research</strong>. Small and Medium Enterprises (SMEs) typically use informal, low-cost methods for market research due to limited resources. They often gather information by talking to customers, analyzing competitor products, and listening to feedback. Formal research (large-scale surveys, focus groups, etc.) is usually too expensive and complex for most SMEs to conduct regularly."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "Question": {
+      "content": "Business opportunity are scanned through",
+      "type": "OBJ",
+      "options": ["Systematic observation", "Secondary sources", "Archival research", "Systematic experimentation", "All of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>All of the above</strong>. Entrepreneurs scan for business opportunities using multiple methods: <strong>systematic observation</strong> (watching market trends and consumer behavior), <strong>secondary sources</strong> (reports, articles, market data), <strong>archival research</strong> (analyzing historical records and patterns), and <strong>systematic experimentation</strong> (testing ideas through prototypes or pilot programs). Using a combination of these approaches provides the most comprehensive opportunity identification."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "Question": {
+      "content": "Research process consists of ______ key stages",
+      "type": "OBJ",
+      "options": ["2", "6", "4", "5"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "6"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>6</strong>. The standard research process typically consists of six key stages: 1) Problem Identification, 2) Literature Review, 3) Research Design, 4) Data Collection, 5) Data Analysis, and 6) Reporting Findings. This structured approach ensures comprehensive and valid research outcomes."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "Question": {
+      "content": "Entrepreneur growth is explained on ______ theories",
+      "type": "OBJ",
+      "options": ["4", "2", "3", "6"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>3</strong>. Entrepreneurial growth is typically explained through three main theoretical perspectives: 1) <strong>Resource-Based Theory</strong> (access to and management of resources), 2) <strong>Strategic Adaptation Theory</strong> (ability to adapt to market changes), and 3) <strong>Configuration Theory</strong> (alignment of structure, strategy, and environment). These three frameworks provide comprehensive explanations for business growth patterns."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "Question": {
+      "content": "______ is the verbalized or vocalized aspects of the brand",
+      "type": "OBJ",
+      "options": ["Brand name", "Tradename", "Copy right", "Brand mark"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brand name"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Brand name</strong>. The brand name is the verbalizable component of a brand - the part that can be spoken, pronounced, and vocalized. This distinguishes it from visual elements like brand marks (logos, symbols) or legal protections like trademarks and copyrights, which are not primarily vocalized aspects."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "Question": {
+      "content": "CARNRIV is an example of ______ brand",
+      "type": "OBJ",
+      "options": ["Person", "Service", "Event", "Organization"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Event"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Event</strong>. CARNRIV refers to the Calabar Carnival, which is a major annual festival in Nigeria. As a carnival and cultural festival, it represents an <strong>event brand</strong> rather than a person, service, or organization brand. Event branding involves creating a distinct identity for specific occasions or gatherings."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "Question": {
+      "content": "Reduction of consumer risk is a role of",
+      "type": "OBJ",
+      "options": ["Marketing", "Brand", "Accounting evaluation", "Consumer decision"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brand"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Brand</strong>. Brands serve as risk-reduction mechanisms for consumers by providing consistency, quality assurance, and reliability. When consumers choose established brands, they reduce perceived risks associated with product performance, financial loss, social acceptance, and time investment. This risk reduction is a fundamental function and value of branding."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "Question": {
+      "content": "In feasibility study, marketing analysis entails all except",
+      "type": "OBJ",
+      "options": ["Competitor", "Consumer", "Cash sales", "Product"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cash sales"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Cash sales</strong>. Marketing analysis in a feasibility study typically examines: <strong>competitor</strong> landscape, <strong>consumer</strong> behavior and demographics, and <strong>product</strong> market fit and positioning. 'Cash sales' refers to financial transactions and revenue collection methods, which fall under <strong>financial analysis</strong> rather than marketing analysis."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "Question": {
+      "content": "Johnson/Cusson baby products adopts ______ approach to brand",
+      "type": "OBJ",
+      "options": ["Individual", "Family", "Company", "Generic"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Family"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Family</strong>. Johnson & Johnson uses a <strong>family branding</strong> approach (also called umbrella branding) where multiple products under their baby care line (like baby shampoo, lotion, and powder) all carry the Johnson's brand name. This approach leverages the parent brand's equity across related products, creating consumer trust and recognition across the product family."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "Question": {
+      "content": "______ approach to branding is associated with high developmental cost and selling cost",
+      "type": "OBJ",
+      "options": ["Individual", "Co-branding", "Corporate", "Family"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Individual"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Individual</strong>. Individual branding (where each product has its own distinct brand name) typically involves high development costs (creating unique brand identities for each product) and high selling costs (separate marketing campaigns for each brand). This contrasts with family or corporate branding where costs are shared across multiple products under one brand umbrella."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "Question": {
+      "content": "______ is not part of the three circle model in family business",
+      "type": "OBJ",
+      "options": ["Inheritance", "Family", "Ownership", "Management"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Inheritance"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Inheritance</strong>. The Three Circle Model of family business consists of three interdependent systems: 1) <strong>Family</strong> (relationships, values), 2) <strong>Ownership</strong> (shareholders, governance), and 3) <strong>Management</strong> (operations, employees). 'Inheritance' is a process or event that may affect these systems but is not one of the core components of the model itself."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "Question": {
+      "content": "A major source of family financing is",
+      "type": "OBJ",
+      "options": ["Debt", "Borrowing", "Personal financing", "Credit financing"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Personal financing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Personal financing</strong>. For family businesses, the most common and major source of initial financing is personal funds from family members, including personal savings, investments, and loans from relatives. This is often called 'bootstrapping' and is preferred because it maintains family control and avoids external debt or dilution of ownership."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "______ is the major difference between e-commerce and e-business",
+      "type": "OBJ",
+      "options": ["Technology use", "Volume of work", "Supplier base", "Operational base to customer", "With a firm"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Operational base to customer"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Operational base to customer</strong>. The major difference is that <strong>e-commerce</strong> specifically refers to online buying and selling transactions (customer-facing activities), while <strong>e-business</strong> encompasses all business operations conducted online, including internal processes like supply chain management, inventory control, and customer relationship management, not just customer transactions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "______ is a legal document granted by government to an investor with the vested rights of excluding other people for a period of 20 years",
+      "type": "OBJ",
+      "options": ["Patent", "Right", "Copyright", "Remedies"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Patent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Patent</strong>. A patent is an exclusive right granted by the government to an inventor, giving them the legal authority to exclude others from making, using, or selling their invention for a limited period, typically 20 years from the filing date, in exchange for public disclosure of the invention."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "______ is an intangible right granted to an originator of a work or literary production",
+      "type": "OBJ",
+      "options": ["Patent right", "Human right", "Copyright", "Creative right", "Trade secret"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Copyright"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Copyright</strong>. Copyright is an intangible legal right that protects original works of authorship, including literary, dramatic, musical, and artistic works. It gives the creator exclusive rights to use, distribute, and reproduce their work for a specific period, typically the creator's lifetime plus 50-70 years depending on the jurisdiction."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "______ theory advocates sharing of risk venture with another entity",
+      "type": "OBJ",
+      "options": ["Acquisition theory", "Organic theory", "Franchise theory", "Profiteering theory"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Franchise theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Franchise theory</strong>. Franchising is a business model where a franchisor (original business owner) shares their business system, brand, and support with franchisees in exchange for fees and royalties. This approach shares the risks of business expansion between both parties - the franchisor avoids the capital risk of opening new locations, while franchisees benefit from a proven business model."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "Buying over competitor is associated with growth theory",
+      "type": "OBJ",
+      "options": ["Franchising theory", "Co-branding theory", "Organic", "Acquisition"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acquisition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Acquisition</strong>. Acquisition theory involves growth through purchasing or taking over existing companies, including competitors. This is an external growth strategy that allows a company to quickly gain market share, eliminate competition, acquire new technologies, or enter new markets by buying established businesses rather than building them organically."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "Buying over a smaller competing firm is",
+      "type": "OBJ",
+      "options": ["Co-branding", "Merger", "Acquisition", "Partnership"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Acquisition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Acquisition</strong>. An acquisition occurs when one company purchases most or all of another company's shares or assets to gain control of that company. When a larger firm buys a smaller competing firm, it's specifically an acquisition, not a merger (which typically involves companies of relatively equal size combining) or other forms of partnership."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "Good sold and partly retained are called",
+      "type": "OBJ",
+      "options": ["Sales return", "Purchase return", "Wages return", "Stock return"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sales return"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Sales return</strong>. Sales return refers to goods that were sold to customers but are subsequently returned to the seller. These are goods that were 'sold and partly retained' by the business because the customer returned them, typically due to defects, wrong items, or dissatisfaction. The business retains ownership after the return."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "Which of these is not responsible for gross earning",
+      "type": "OBJ",
+      "options": ["Cost of sales", "Purchase return", "Taxing", "Drawing"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Drawing"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Drawing</strong>. Drawings refer to money or assets withdrawn from a business by its owners for personal use. This is an appropriation of profit and does not affect the calculation of gross earnings (gross profit). Gross earnings are determined by sales revenue minus cost of goods sold, and can be influenced by purchase returns (which reduce costs) and taxes (on profits), but drawings are taken from net profit after all expenses."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "Orientation that focuses on aggressive and hard selling is",
+      "type": "OBJ",
+      "options": ["Production", "Selling", "Marketing", "Societal"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Selling"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Selling</strong>. The selling orientation focuses on aggressive promotion and hard-selling techniques to convince customers to buy products, often regardless of whether the product meets customer needs. This approach assumes that customers won't buy enough without a strong sales effort, contrasting with marketing orientation which focuses on understanding and meeting customer needs."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "______ limit organization profit",
+      "type": "OBJ",
+      "options": ["Alternative use", "Scarcity of resource", "Material", "Process"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Scarcity of resource"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Scarcity of resource</strong>. The scarcity of resources (including financial capital, raw materials, skilled labor, and time) fundamentally limits an organization's profit potential. Limited resources constrain production capacity, innovation capability, and market expansion opportunities, thereby restricting the maximum profit a business can achieve regardless of other factors."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "Question": {
+      "content": "Equal firm joining together and retaining their identities is",
+      "type": "OBJ",
+      "options": ["Blue chip", "Amalgamation", "Merger", "Partnership"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Merger"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Merger</strong>. A merger occurs when two companies of approximately equal size combine to form a new entity, often while retaining some aspects of their original identities, brands, or operations. This differs from an acquisition (where one company takes over another) or amalgamation (where companies completely integrate into a new entity without retaining old identities)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "Question": {
+      "content": "Backward integration represents",
+      "type": "OBJ",
+      "options": ["Owning your own supplier", "Own new factory", "Developing new market/consumer", "Expand to own distribution outlet"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Owning your own supplier"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Owning your own supplier</strong>. Backward integration is a business strategy where a company acquires or controls its suppliers or input sources. This moves the company backward in the supply chain to gain control over raw materials, reduce costs, ensure supply stability, and improve efficiency in the production process."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "Question": {
+      "content": "Moving along the same industry but in a more diversity product line and consumer base represents",
+      "type": "OBJ",
+      "options": ["Conglomerate", "Horizontal", "Diversification", "Vertical"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Horizontal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Horizontal</strong>. Horizontal integration or expansion involves growing within the same industry level by diversifying product lines, reaching new customer segments, or acquiring competitors. This strategy focuses on broadening the company's offerings and market reach while staying within its core industry, unlike vertical integration (moving up or down the supply chain) or conglomerate diversification (entering unrelated industries)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "Which of these is not a source document",
+      "type": "OBJ",
+      "options": ["Invoice", "Receipt", "Balance sheet", "Purchase order"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Balance sheet"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Balance sheet</strong>. A balance sheet is a financial statement that summarizes a company's assets, liabilities, and shareholders' equity at a specific point in time. It is not a source document. Source documents are original records that provide evidence of business transactions, such as invoices (billing), receipts (payment proof), and purchase orders (order requests)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "Question": {
+      "content": "Which of these is not a source document",
+      "type": "OBJ",
+      "options": ["Invoice", "Bank tellers", "Credit note", "Balance sheet"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Balance sheet"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Balance sheet</strong>. A balance sheet is a financial statement that summarizes a company's assets, liabilities, and shareholders' equity at a specific point in time. It is not a source document. Source documents are original records that provide evidence of business transactions, such as invoices (billing), bank tellers (transaction records), and credit notes (documenting returns or allowances)."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "Question": {
+      "content": "The publics of entrepreneur are all except",
+      "type": "OBJ",
+      "options": ["Environment", "Customers", "Employee", "Banks", "Investors"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Environment</strong>. The 'publics' of an entrepreneur refer to the various stakeholder groups that have an interest in or are affected by the business. These include customers, employees, banks (lenders), and investors. The 'environment' is not a public but rather the broader context (economic, social, technological) in which these publics exist and the business operates."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "Question": {
+      "content": "The most interest record for any entrepreneur is",
+      "type": "OBJ",
+      "options": ["Purchase book", "Sales day book", "Cash book", "Trial balance"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cash book"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Cash book</strong>. The cash book is typically the most critical record for an entrepreneur because it provides a real-time view of cash inflows and outflows. For any business, but especially for entrepreneurs managing limited resources, cash flow is paramount for survival. While other records are important, the cash book directly shows the liquidity position and immediate financial health of the enterprise."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "Question": {
+      "content": "______ is not an accounting concept",
+      "type": "OBJ",
+      "options": ["Entity", "Going concern", "Reciprocal", "Realization"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Reciprocal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Reciprocal</strong>. 'Reciprocal' is not a fundamental accounting concept. The key accounting concepts include: <strong>Entity concept</strong> (business separate from owner), <strong>Going concern</strong> (business will continue operating), and <strong>Realization concept</strong> (revenue recognized when earned). 'Reciprocal' may describe mutual agreements but is not a formal accounting principle."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "Question": {
+      "content": "______ is not characteristic of a good brand",
+      "type": "OBJ",
+      "options": ["Memorable", "Transferable", "Meaningful", "Likeable", "Friendly"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Transferable"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Transferable</strong>. The key characteristics of a good brand typically include being memorable, meaningful, likeable, and adaptable. 'Transferable' is not a standard characteristic of brand quality; in fact, strong brands are often specifically designed to be non-transferable to protect their unique identity and value from being diluted or used by others without permission."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "Question": {
+      "content": "The first stage of strategic planning is",
+      "type": "OBJ",
+      "options": ["Planning", "Situational analysis", "Strategic implementation", "Control"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Situational analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Situational analysis</strong>. The first stage of strategic planning involves assessing the current situation through tools like SWOT analysis (Strengths, Weaknesses, Opportunities, Threats) and environmental scanning. This analysis provides the necessary foundation for setting objectives, formulating strategies, and subsequent implementation and control phases."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "Question": {
+      "content": "MTN pioneer pricing policy in Nigeria is",
+      "type": "OBJ",
+      "options": ["Part pricing", "Penetration", "Skimming", "Good pricing"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Skimming"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Skimming</strong>. MTN, as one of the first mobile network operators in Nigeria, initially used a price skimming strategy. They entered the market with relatively high prices to maximize revenue from early adopters and customers willing to pay premium prices for new mobile technology, before gradually lowering prices to attract mass-market customers as competition increased."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "Question": {
+      "content": "______ is the breaking of heterogeneous market into smaller market",
+      "type": "OBJ",
+      "options": ["Market exploration", "Market segmentation", "Market targeting", "Made market"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Market segmentation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Market segmentation</strong>. Market segmentation is the process of dividing a broad, heterogeneous market into smaller, more homogeneous subgroups of consumers who have similar needs, characteristics, or behaviors. This allows businesses to develop more targeted marketing strategies and better meet the specific needs of each segment."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "Question": {
+      "content": "Product lifecycle is measured along two axis",
+      "type": "OBJ",
+      "options": ["Sales and time", "Market and profit", "Growth and decline", "Maturity and time"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sales and time"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Sales and time</strong>. The product lifecycle is typically represented on a graph with time on the horizontal (x) axis and sales volume (or sometimes profit) on the vertical (y) axis. This graphical representation shows the four classic stages of a product's life: introduction, growth, maturity, and decline, as measured by sales performance over time."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "Question": {
+      "content": "Customer benefit of e-commerce are all except",
+      "type": "OBJ",
+      "options": ["Convenience", "Variety", "Product comparison", "Security concern", "Competitive pricing"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Security concern"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Security concern</strong>. Security concern is not a customer benefit of e-commerce but rather a potential drawback or risk. The actual benefits include convenience (shopping anytime/anywhere), variety (wide selection of products), product comparison (easy price and feature comparison), and competitive pricing (often lower prices due to reduced overhead costs). Security concerns represent barriers that e-commerce businesses must overcome, not benefits they provide."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "Question": {
+      "content": "The first step in e-business model is",
+      "type": "OBJ",
+      "options": ["Goal of e-business", "Value proposition", "Sources of revenue", "Activities and capabilities"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Value proposition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Value proposition</strong>. The first and most critical step in developing an e-business model is defining the value proposition - what unique value the business offers to customers, how it solves their problems or meets their needs better than alternatives. This foundational element guides all subsequent decisions about revenue sources, activities, capabilities, and overall business goals."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "Question": {
+      "content": "______ represents what the product promises to do and benefit the customer",
+      "type": "OBJ",
+      "options": ["Value proposition", "Competitions gap", "SWOT analysis", "Customer need"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Value proposition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Value proposition</strong>. A value proposition is a clear statement that explains how a product or service solves customers' problems, delivers specific benefits, and tells the ideal customer why they should buy from this company rather than competitors. It directly represents what the product promises to do and how it benefits the customer, forming the core of the company's competitive advantage."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "Question": {
+      "content": "______ is not a source of revenue in an e-business model",
+      "type": "OBJ",
+      "options": ["Subscription/affiliation", "Advertising", "Used fee", "Sales profit", "All of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sales profit"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The correct answer is <strong>Sales profit</strong>. 'Sales profit' is not a revenue source but rather the result (profit) generated from revenue after deducting expenses. Common e-business revenue sources include: subscription/affiliation fees (recurring payments), advertising revenue (from displaying ads), and usage fees (pay-per-use models). These are actual revenue streams, while 'sales profit' is an outcome of revenue generation minus costs."
+    }
+  }
+]
