@@ -1,0 +1,1717 @@
+[
+ {
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Introduction to Entrepreneurship",
+  "code": "GES 211",
+  "session": "2016/2017",
+  "time": "90"
+ },
+ {
+  "type": "Instruction",
+  "content": "Answer 35Questions."
+ },
+ {
+  "type": "Question",
+  "name": "Question 1",
+  "Question": {
+   "content": "An Entrepreneur is principally out there in business to ______",
+   "type": "OBJ",
+   "options": ["Make profit", "Deliver goods and services", "Pay all forms of tax", "Create and deliver values"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Create and deliver values"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "While entrepreneurs aim to make profits, their primary purpose is to <strong>create and deliver value</strong> to customers. This value creation is what ultimately leads to sustainable profit. Simply delivering goods/services or paying taxes are outcomes, not the principal purpose."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 2",
+  "Question": {
+   "content": "The word Entrepreneurship originates from the French word ______, which means \"to undertake\"",
+   "type": "OBJ",
+   "options": ["Entrepreneure", "Interprendre", "Entiplende", "Entrepreneur"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Interprendre"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The term entrepreneurship is derived from the French verb <strong>\"entreprendre\"</strong>, which literally means <em>\"to undertake\"</em> or <em>\"to embark on a venture.\"</em> This perfectly captures the essence of an entrepreneur as someone who undertakes the risk and effort of starting a new business."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 3",
+  "Question": {
+   "content": "The attributes of a good entrepreneurship include all, EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Need for achievement", "Need to create superior value", "Need for innovativeness", "Identification of mentor"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Identification of mentor"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The first three options are core <strong>internal attributes and motivations</strong> of an entrepreneur:<ul><li><strong>Need for achievement</strong>: Drive to succeed.</li><li><strong>Need to create superior value</strong>: Focus on offering something better.</li><li><strong>Need for innovativeness</strong>: Desire to create new solutions.</li></ul>While having a mentor is extremely beneficial, it is an <strong>external support factor</strong>, not an inherent personal attribute of entrepreneurship itself."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 4",
+  "Question": {
+   "content": "In order to build long-term competitive advantage, the 21st century entrepreneurs primarily invest in",
+   "type": "OBJ",
+   "options": ["Plant and equipment", "Natural resources", "Shares and debentures", "Knowledge and social capital"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Knowledge and social capital"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "In the modern, knowledge-based economy, sustainable competitive advantage is built on <strong>intangible assets</strong>:<ul><li><strong>Knowledge capital</strong>: Expertise, innovation, and intellectual property.</li><li><strong>Social capital</strong>: Networks, relationships, brand reputation, and trust.</li></ul>While physical assets (plants, resources) and financial instruments (shares) are important, they are easier to replicate and do not provide the same long-term defensibility as knowledge and relationships."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 5",
+  "Question": {
+   "content": "\"Small is beautiful\" is an entrepreneurship slogan propagated by the ______",
+   "type": "OBJ",
+   "options": ["Europeans", "Germans", "Japanese", "Americans"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Europeans"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The phrase <strong>\"Small Is Beautiful\"</strong> was popularized by the British economist <strong>E. F. Schumacher</strong> in his 1973 book of the same name. While Schumacher was German-born, he was a UK resident, and the philosophy, challenging the ethos of bigger is better, is broadly associated with <strong>European</strong> economic thought, particularly in the context of appropriate technology and sustainable development."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 6",
+  "Question": {
+   "content": "A globally renowned known entrepreneur who made fortune through electric light bulb and phonograph is ______",
+   "type": "OBJ",
+   "options": ["Richard Branson", "Bill Gates", "Henry Ford", "Thomas Edison"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Thomas Edison"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Thomas Alva Edison</strong> was one of history's most prolific inventors and a brilliant entrepreneur. He held over 1,000 patents. His most famous inventions include the practical <strong>incandescent electric light bulb</strong> and the <strong>phonograph</strong>. He founded Edison General Electric (which later became GE) to commercialize these inventions, making a vast fortune."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 7",
+  "Question": {
+   "content": "______ is a high school drop-out entrepreneur who made fortune in a small record shop in London.",
+   "type": "OBJ",
+   "options": ["Richard Branson", "Bill Gates", "Henry Ford", "Anita Roddick"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Richard Branson"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Sir Richard Branson</strong> is famously known for dropping out of school at age 16. His first successful business venture was a small mail-order record retailer, which he started in London. This small shop eventually grew into the massive multinational conglomerate <strong>Virgin Group</strong>, encompassing records, airlines, telecoms, and space travel."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 8",
+  "Question": {
+   "content": "All are popular demographic factors EXCEPT",
+   "type": "OBJ",
+   "options": ["Self-confidence", "Gender", "Education", "Family birth order"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Self-confidence"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Demographic factors</strong> are objective, statistical characteristics of a population. They are typically external and measurable:<ul><li><strong>Gender</strong>: A primary demographic variable.</li><li><strong>Education</strong>: Level of education is a key demographic statistic.</li><li><strong>Family birth order</strong>: (e.g., first-born child) is studied as a demographic influencer on behavior.</li></ul><strong>Self-confidence</strong> is a <strong>psychological or personality trait</strong>, not a demographic factor. It is internal and subjective."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 9",
+  "Question": {
+   "content": "______ is not the main responsibility in managing an entrepreneurial venture",
+   "type": "OBJ",
+   "options": ["Managing process", "Managing people", "Managing bureaucracy", "Managing growth and innovation"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Managing bureaucracy"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The core responsibilities of an entrepreneurial manager are focused on building and scaling the venture:<ul><li><strong>Managing process</strong>: Creating efficient operational workflows.</li><li><strong>Managing people</strong>: Leading and motivating the team.</li><li><strong>Managing growth and innovation</strong>: Ensuring the company evolves and expands.</li></ul>While some bureaucratic tasks (like compliance) are necessary, <strong>\"managing bureaucracy\"</strong> is not a primary goal. In fact, entrepreneurs often try to <em>minimize</em> bureaucracy to stay agile and innovative."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 10",
+  "Question": {
+   "content": "The socio-economic values of entrepreneur include all but one ______",
+   "type": "OBJ",
+   "options": ["Employment creation", "Innovation", "Tax payment", "Encouraging illegal business"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Encouraging illegal business"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Entrepreneurs provide significant socio-economic value through:<ul><li><strong>Employment creation</strong>: They create jobs and reduce unemployment.</li><li><strong>Innovation</strong>: They develop new products, services, and processes.</li><li><strong>Tax payment</strong>: They contribute to public revenue through various taxes.</li></ul><strong>Encouraging illegal business</strong> is detrimental to society and the economy, and is therefore not a value provided by legitimate entrepreneurs."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 11",
+  "Question": {
+   "content": "For business idea to be profitable, it considers what promises/values it offers to ______",
+   "type": "OBJ",
+   "options": ["Employee", "Entrepreneurship", "Customer", "Government"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Customer"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Profitability is fundamentally driven by <strong>customer value</strong>. A business idea must offer a compelling promise or value proposition that solves a problem, meets a need, or fulfills a desire for the <strong>customer</strong>. Without creating value for customers, there is no revenue, and therefore no profit, regardless of benefits to employees, the entrepreneur, or the government."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 12",
+  "Question": {
+   "content": "A good business idea must meet how many conditions ______",
+   "type": "OBJ",
+   "options": ["2", "3", "5", "4"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "3"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A viable business idea is generally evaluated against <strong>three core conditions</strong>:<ol><li><strong>Feasibility</strong>: Is it technically and operationally possible to execute?</li><li><strong>Viability</strong>: Is it economically sustainable and profitable?</li><li><strong>Desirability</strong>: Do customers actually want or need it?</li></ol>These three criteria form the foundation for assessing any potential business concept."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 13",
+  "Question": {
+   "content": "An entrepreneur's next word for 'go-between' is ______",
+   "type": "OBJ",
+   "options": ["Innovator", "Futuristic", "Risk taker", "Creator"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Risk taker"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The phrase <strong>'go-between'</strong> refers to an intermediary or middleman. In entrepreneurship, this role inherently involves <strong>risk-taking</strong>. The entrepreneur acts as the link between the inventor/creator and the market, undertaking the financial and operational risks of transforming an idea into a commercial reality. While innovators and creators are involved, the 'go-between' specifically bears the risk of the venture."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 14",
+  "Question": {
+   "content": "A business opportunity has the following qualities EXCEPT ______",
+   "type": "OBJ",
+   "options": ["The window opening last for long time", "Is rewarding and provide significant profits and growth potential", "Easy feasible and achievable entry into the market", "Break-even taken a long time"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Break-even taken a long time"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A true business opportunity is characterized by:<ul><li><strong>A timely window</strong> that may not last forever.</li><li><strong>Significant profit and growth potential</strong> (it must be rewarding).</li><li><strong>Feasible market entry</strong> with achievable resources.</li></ul>However, if the <strong>break-even point takes a long time</strong> to reach, it indicates higher risk, greater capital requirements, and potentially lower returns. This is a negative quality, not a defining characteristic of a good opportunity."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 15",
+  "Question": {
+   "content": "Business opportunity uses which of the following resources",
+   "type": "OBJ",
+   "options": ["Money and machine", "Men and material", "Idea", "All of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "All of the above"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A business opportunity requires the integration of all key resources:<ul><li><strong>Money and machine</strong>: Financial capital and equipment/technology</li><li><strong>Men and material</strong>: Human resources and physical materials</li><li><strong>Idea</strong>: The core concept or innovation that creates value</li></ul>Without combining all these elements, an opportunity cannot be effectively pursued."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 16",
+  "Question": {
+   "content": "Entrepreneurs are usually referred to as",
+   "type": "OBJ",
+   "options": ["Intellect people", "Opportunists", "Brilliant", "Tribalism people"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Opportunists"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Entrepreneurs are primarily known as <strong>opportunists</strong> because they possess the unique ability to identify, create, and exploit business opportunities in the market. While they may be intelligent or brilliant, their defining characteristic is their opportunistic nature in recognizing and acting on potential ventures."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 17",
+  "Question": {
+   "content": "______ deals with the careful identification and examination of every factor of business opportunity (positive and negative effects)",
+   "type": "OBJ",
+   "options": ["Evaluation", "Idea general", "Scanning business opportunity", "Market analysis"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Evaluation"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Evaluation</strong> is the systematic process of assessing all aspects of a business opportunity. It involves:<ul><li>Analyzing both positive and negative factors</li><li>Examining risks and rewards</li><li>Assessing feasibility and viability</li><li>Considering market potential and competitive landscape</li></ul>This comprehensive analysis helps determine whether an opportunity is worth pursuing."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 18",
+  "Question": {
+   "content": "Customers buy products to satisfy first their ______",
+   "type": "OBJ",
+   "options": ["Self", "Image", "Need", "Want"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Need"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "While customers may purchase products for various reasons, the primary driver is typically to satisfy a <strong>need</strong>. According to Maslow's hierarchy and basic marketing principles, needs represent essential requirements for survival and well-being (food, shelter, security). Wants and image are secondary considerations that follow after basic needs are met."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 19",
+  "Question": {
+   "content": "Entrepreneur is significant in all EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Income redistribution", "Employment potential", "Promote local technology", "Frowns at self-reliance"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Frowns at self-reliance"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Entrepreneurs contribute positively to:<ul><li><strong>Income redistribution</strong>: Through job creation and wealth generation</li><li><strong>Employment potential</strong>: By creating new job opportunities</li><li><strong>Promote local technology</strong>: Through innovation and adoption of local solutions</li></ul>However, entrepreneurs <em>promote</em> self-reliance rather than frown upon it, as entrepreneurship inherently encourages independence and self-sufficiency."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 20",
+  "Question": {
+   "content": "All are challenges of SMEs EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Creating awareness for the product", "Providing benefits and value to the customers", "Getting acceptance by their target audience", "Quit break even"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Quit break even"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Common challenges for SMEs include:<ul><li>Creating product awareness with limited budgets</li><li>Delivering value to compete with larger firms</li><li>Gaining market acceptance</li></ul>'Quit break even' is not a standard business challenge - in fact, achieving and moving beyond break-even (becoming profitable) is a primary goal, not a problem to quit."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 21",
+  "Question": {
+   "content": "Marketing research process has how many key steps ______",
+   "type": "OBJ",
+   "options": ["3", "4", "7", "5"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "4"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The marketing research process typically consists of <strong>four key steps</strong>:<ol><li>Defining the problem and research objectives</li><li>Developing the research plan</li><li>Implementing the plan and collecting data</li><li>Interpreting and reporting the findings</li></ol>This systematic approach ensures comprehensive and actionable market insights."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 22",
+  "Question": {
+   "content": "The first step in market research is to ______",
+   "type": "OBJ",
+   "options": ["Define the opportunity problem", "Design the method", "Develop the solution", "Collection of data"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Define the opportunity problem"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The first and most critical step in market research is to <strong>define the problem or opportunity</strong> clearly. This initial step:<ul><li>Sets the direction for the entire research process</li><li>Helps determine what information needs to be collected</li><li>Ensures the research addresses the actual business need</li><li>Prevents wasted resources on irrelevant data collection</li></ul>Without a well-defined problem, research efforts lack focus and effectiveness."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 23",
+  "Question": {
+   "content": "The function that links the organization to its market through the gathering of analysis of information is ______",
+   "type": "OBJ",
+   "options": ["Product development", "Data analysis", "Marketing research", "Advertising"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Marketing research"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Marketing research</strong> is the specialized function that systematically gathers, records, and analyzes information about:<ul><li>Market conditions</li><li>Customer preferences</li><li>Competitive landscape</li><li>Industry trends</li></ul>This process directly connects the organization to its market environment, providing crucial insights for decision-making. While data analysis is part of it, marketing research encompasses the entire process from information gathering to insight generation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 24",
+  "Question": {
+   "content": "Market intelligence collects data on happenings on all EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Competitors offerings", "Ownership/Entrepreneur history", "Customer purchase trend", "Product/price changes"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Ownership/Entrepreneur history"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Market intelligence focuses on collecting external market data including:<ul><li><strong>Competitors offerings</strong>: Products, services, and strategies</li><li><strong>Customer purchase trends</strong>: Buying patterns and preferences</li><li><strong>Product/price changes</strong>: Market pricing and product developments</li></ul><strong>Ownership/Entrepreneur history</strong> is typically internal, proprietary information that is not part of standard market intelligence gathering, which focuses on external market conditions."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 25",
+  "Question": {
+   "content": "Marketing research is a misplaced activity for SMEs ______",
+   "type": "OBJ",
+   "options": ["true", "false"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "false"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Marketing research is <em>crucial</em> for SMEs because:<ul><li>It helps understand limited target markets more effectively</li><li>It identifies customer needs with constrained resources</li><li>It reveals competitive threats and opportunities</li><li>It prevents costly mistakes in product development and marketing</li><li>It can be conducted cost-effectively through methods like surveys, focus groups, and secondary research</li></ul>Rather than being misplaced, marketing research is essential for SME survival and growth."
+  }
+ },
+ [
+ {
+  "type": "Question",
+  "name": "Question 26",
+  "Question": {
+   "content": "Which one of these is inexpensive alternative to survey method?",
+   "type": "OBJ",
+   "options": ["Archival research", "Systematic observation", "Cross-section survey", "Secondary sources"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Secondary sources"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Secondary sources</strong> are typically the most inexpensive alternative to conducting original surveys. This involves utilizing existing data that has already been collected by others, such as:<ul><li>Government publications and reports</li><li>Industry analyses</li><li>Academic research papers</li><li>Market research reports</li><li>Company annual reports</li></ul>This approach avoids the time and cost associated with primary data collection like surveys, observations, or experiments."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 27",
+  "Question": {
+   "content": "______ is not a theory of business growth in Nigeria",
+   "type": "OBJ",
+   "options": ["Franchising theory", "Acquisition theory", "Personality Theory", "Organic Theory"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Personality Theory"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "While the other options represent legitimate business growth strategies:<ul><li><strong>Franchising theory</strong>: Growth through licensing business models</li><li><strong>Acquisition theory</strong>: Growth through purchasing other companies</li><li><strong>Organic Theory</strong>: Growth through internal development and expansion</li></ul><strong>Personality Theory</strong> is not a recognized theory of business growth. It typically refers to psychological theories about individual personality development, not organizational growth strategies in the Nigerian or any other business context."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 28",
+  "Question": {
+   "content": "When one firm purchase of high strength purchase over the other, it is referred to as ______",
+   "type": "OBJ",
+   "options": ["Franchise", "Leasor", "Acquisition", "Merger"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Acquisition"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "An <strong>acquisition</strong> occurs when one company purchases a controlling interest (high strength purchase) in another company. Key characteristics include:<ul><li>One company takes over another</li><li>The acquired company may lose its identity</li><li>The acquiring firm gains control</li><li>This is different from a merger, which involves a more equal combination of two companies</li></ul>Franchising and leasing involve different types of business relationships that don't typically involve ownership control."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 29",
+  "Question": {
+   "content": "Reasons for unethical behaviours among Nigerian entrepreneurs are all EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Low income", "Poor moral background", "Strong code of ethic", "Weak sanctions"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Strong code of ethic"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Common drivers of unethical behavior include:<ul><li><strong>Low income</strong>: Financial pressure can lead to unethical choices</li><li><strong>Poor moral background</strong>: Lack of ethical foundation</li><li><strong>Weak sanctions</strong>: Inadequate consequences for unethical behavior</li></ul>A <strong>strong code of ethics</strong> would actually <em>prevent</em> unethical behavior rather than cause it. Strong ethical frameworks provide guidance and standards that discourage misconduct."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 30",
+  "Question": {
+   "content": "Ethical culture can be created by entrepreneur through all EXCEPT one ______",
+   "type": "OBJ",
+   "options": ["Be a visible role model", "Communicate ethical expectations", "Provide ethical training", "Reward mediocre"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Reward mediocre"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Entrepreneurs build ethical culture through positive actions:<ul><li><strong>Being a visible role model</strong>: Demonstrating ethical behavior</li><li><strong>Communicating ethical expectations</strong>: Setting clear standards</li><li><strong>Providing ethical training</strong>: Educating employees on ethics</li></ul><strong>Rewarding mediocre</strong> performance or behavior would actually <em>undermine</em> ethical culture by signaling that standards don't matter and excellence isn't valued, which can encourage complacency and ethical compromises."
+  }
+ }],
+ [
+ {
+  "type": "Question",
+  "name": "Question 31",
+  "Question": {
+   "content": "______ is the ability of the business organization to act responsibly towards its internal and external publics",
+   "type": "OBJ",
+   "options": ["Ethics", "Consumers", "Corporate social responsibility", "Citizenship"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Corporate social responsibility"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Corporate Social Responsibility (CSR)</strong> refers to a business's commitment to operate in an economically, socially, and environmentally sustainable manner while balancing the interests of diverse stakeholders. It encompasses responsible practices toward:<ul><li>Employees (internal publics)</li><li>Customers, communities, and the environment (external publics)</li><li>Ethical business operations</li></ul>While ethics is a component of CSR, CSR is the broader concept that describes the organization's overall responsible behavior."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 32",
+  "Question": {
+   "content": "______ Ethics is good in business because of all EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Corporate reputation", "Shareholder's trust", "Long term sustenance of organization", "Employee turnover"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Employee turnover"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Ethical business practices typically lead to:<ul><li><strong>Enhanced corporate reputation</strong>: Positive public image</li><li><strong>Shareholder's trust</strong>: Investor confidence</li><li><strong>Long term sustenance</strong>: Sustainable business operations</li></ul><strong>Employee turnover</strong> is actually <em>reduced</em> by ethical practices, not increased. Ethical companies tend to have better employee retention as workers prefer to stay with organizations that treat them fairly and operate with integrity."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 33",
+  "Question": {
+   "content": "______ Family business is business that ______",
+   "type": "OBJ",
+   "options": ["Owned and managed by a person", "Owned and run by a family member", "Owned and managed by family members", "Owned and managed by blood relation only"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Owned and managed by family members"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A <strong>family business</strong> is typically defined as a commercial organization where:<ul><li>Decision-making is influenced by multiple generations of a family</li><li>Family members are involved in the management and ownership</li><li>The family's vision and values guide the business</li><li>There is an intention to pass the business to the next generation</li></ul>While blood relations are common, family businesses can also include in-laws and adopted family members, making the 'blood relation only' option too restrictive."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 34",
+  "Question": {
+   "content": "______ An example of family business that have grown top among the list of five best in the world is ______",
+   "type": "OBJ",
+   "options": ["Wall Mart", "Sony", "Agofure", "Ibru"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Wall Mart"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Walmart</strong> (founded by Sam Walton) is one of the world's largest and most successful family businesses. Key facts:<ul><li>Founded in 1962 by Sam Walton</li><li>Remains family-controlled with the Walton family owning about 50% of shares</li><li>Consistently ranks among the top global family businesses</li><li>Multiple generations of the Walton family have been involved in leadership</li></ul>While Sony was originally a family business, it has become more corporatized. Agofure and Ibru are Nigerian businesses but not among the world's top five family businesses."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 35",
+  "Question": {
+   "content": "______ The three circle model encompasses all EXCEPT one ______",
+   "type": "OBJ",
+   "options": ["Family", "Ownership", "Production", "Management"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Production"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The <strong>Three Circle Model</strong> of family business, developed by Tagiuri and Davis, includes:<ul><li><strong>Family</strong>: The family system with its relationships and dynamics</li><li><strong>Ownership</strong>: The ownership structure and rights</li><li><strong>Management</strong>: The business operations and leadership</li></ul><strong>Production</strong> is not one of the three circles. This model helps analyze the complex interactions and overlapping interests in family businesses, where individuals may occupy one, two, or all three circles simultaneously."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 36",
+  "Question": {
+   "content": "______ is a world known entrepreneur in Microsoft business.",
+   "type": "OBJ",
+   "options": ["Chief Femi Otedola", "Alhaji Aliko Dangote", "Bill Gates", "Walt Disney"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Bill Gates"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Bill Gates</strong> is the world-renowned entrepreneur who co-founded Microsoft Corporation. Key achievements:<ul><li>Co-founded Microsoft in 1975 with Paul Allen</li><li>Built it into the world's largest personal-computer software company</li><li>Pioneered the software industry with MS-DOS and Windows operating systems</li><li>Became one of the wealthiest people in the world through Microsoft's success</li></ul>The other options are successful entrepreneurs but not associated with Microsoft."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 37",
+  "Question": {
+   "content": "______ was a University drop-out who eventually became a successful entrepreneur.",
+   "type": "OBJ",
+   "options": ["Chief Femi Otedola", "Alhaji Aliko Dangote", "Bill Gates", "Walt Disney"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Bill Gates"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Bill Gates</strong> is famously known for dropping out of Harvard University in 1975 to pursue his business venture with Microsoft. Despite not completing his formal education:<ul><li>He built Microsoft into a global technology giant</li><li>Became one of the world's wealthiest individuals</li><li>Later became a prominent philanthropist through the Bill & Melinda Gates Foundation</li></ul>This makes him one of the most celebrated examples of a university dropout achieving extraordinary entrepreneurial success."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 38",
+  "Question": {
+   "content": "______ The entrepreneur sees business opportunities only then ______",
+   "type": "OBJ",
+   "options": ["He is creative, regularly scans the environment, and can see beyond the ordinary", "He has cash and connection", "He has God father in business", "He sells fake items"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "He is creative, regularly scans the environment, and can see beyond the ordinary"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "True entrepreneurial opportunity recognition comes from:<ul><li><strong>Creativity</strong>: Ability to generate novel ideas and solutions</li><li><strong>Environmental scanning</strong>: Constantly monitoring the market for trends, gaps, and needs</li><li><strong>Vision beyond the ordinary</strong>: Seeing potential where others see problems or nothing at all</li></ul>While cash, connections, or mentors (\"God father\") can help, they are not prerequisites for opportunity recognition. Selling fake items is unethical and not characteristic of legitimate entrepreneurship."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 39",
+  "Question": {
+   "content": "______ The characteristics of a successful entrepreneur include all, EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Adaptability", "Changing the environment", "Innovative mindedness", "Analytical capability"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Changing the environment"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Successful entrepreneurs typically possess:<ul><li><strong>Adaptability</strong>: Ability to adjust to changing market conditions</li><li><strong>Innovative mindedness</strong>: Constant pursuit of new ideas and improvements</li><li><strong>Analytical capability</strong>: Skill in assessing opportunities and making data-driven decisions</li></ul>While entrepreneurs can <em>influence</em> their environment, <strong>\"changing the environment\"</strong> is not a personal characteristic but rather a potential outcome of entrepreneurial action. Entrepreneurs work within and adapt to their environment rather than seeking to fundamentally change it as a characteristic trait."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 40",
+  "Question": {
+   "content": "______ Which is not the difference between an entrepreneur and a manager ______?",
+   "type": "OBJ",
+   "options": ["Environmental analysis", "Ownership status", "Risking bearing", "Reward structure"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Environmental analysis"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Key differences between entrepreneurs and managers include:<ul><li><strong>Ownership status</strong>: Entrepreneurs typically own the business, managers are employees</li><li><strong>Risk bearing</strong>: Entrepreneurs bear financial risk, managers have limited risk</li><li><strong>Reward structure</strong>: Entrepreneurs profit from business success, managers receive salaries</li></ul><strong>Environmental analysis</strong> is <em>not</em> a differentiating factor because <strong>both entrepreneurs and managers</strong> need to analyze their business environment to make informed decisions and strategies."
+  }
+ }],
+ {
+  "type": "Question",
+  "name": "Question 41",
+  "Question": {
+   "content": "The difference between entrepreneur and other businessmen is that ______",
+   "type": "OBJ",
+   "options": ["He is creative, values relationships, and delivers customer superior values", "He believes in transaction paradigm", "He takes business secret", "He cheats the customers"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "He is creative, values relationships, and delivers customer superior values"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The key differentiator of entrepreneurs is their focus on <strong>value creation</strong> through:<ul><li><strong>Creativity</strong>: Developing innovative solutions</li><li><strong>Relationship building</strong>: Creating long-term partnerships and customer loyalty</li><li><strong>Superior value delivery</strong>: Going beyond transactions to provide exceptional benefits</li></ul>Traditional businessmen may focus more on simple transactions, but entrepreneurs build sustainable businesses through innovation and value creation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 42",
+  "Question": {
+   "content": "Entrepreneur is someone who demonstrates initiatives and creative thoughts and is able to organize socio-economic mechanism to turn resources and situations practically and accepts risks and failures ______",
+   "type": "OBJ",
+   "options": ["True", "False", "None of the above", "All of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "True"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>true</strong> and provides a comprehensive definition of an entrepreneur. It captures essential entrepreneurial qualities:<ul><li><strong>Initiative and creativity</strong>: Proactive and innovative thinking</li><li><strong>Resource organization</strong>: Ability to mobilize socio-economic mechanisms</li><li><strong>Practical application</strong>: Turning ideas into actionable ventures</li><li><strong>Risk acceptance</strong>: Willingness to take calculated risks and learn from failures</li></ul>This definition encompasses the core characteristics that distinguish entrepreneurs from traditional business managers."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 43",
+  "Question": {
+   "content": "Opportunity recognition involves ______",
+   "type": "OBJ",
+   "options": ["The ability to identify high-potential ones", "The ability to identify low-potential ones", "All of the above", "None of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "The ability to identify high-potential ones"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Opportunity recognition specifically refers to the skill of identifying <strong>high-potential business opportunities</strong> that offer:<ul><li>Significant market potential</li><li>Strong growth prospects</li><li>Competitive advantage possibilities</li><li>Attractive financial returns</li></ul>While entrepreneurs may encounter low-potential opportunities, the essence of opportunity recognition is filtering and focusing on those with the highest potential for success and impact."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 44",
+  "Question": {
+   "content": "The entrepreneur's environment defines the ______",
+   "type": "OBJ",
+   "options": ["Factors and actors that influence decision-making", "The internal factors only that influence decision making", "The external factors only that influence decision-making", "Economic factors that influence decision-making"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Factors and actors that influence decision-making"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The entrepreneurial environment encompasses <strong>all factors and actors</strong> that influence business decisions, including:<ul><li><strong>Internal factors</strong>: Organizational culture, resources, capabilities</li><li><strong>External factors</strong>: Market conditions, competition, regulations, technology</li><li><strong>Economic factors</strong>: Inflation, interest rates, economic growth</li><li><strong>Various actors</strong>: Customers, suppliers, competitors, regulators, investors</li></ul>This comprehensive view recognizes that entrepreneurship operates within a complex ecosystem of interrelated influences."
+  }
+ },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "Question": {
+      "content": "All are the macro-environmental forces to be considered by an entrepreneur, EXCEPT",
+      "type": "OBJ",
+      "options": ["Technology", "Economy", "socio-politics", "Suppliers"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Suppliers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Macro-environmental forces (often analyzed through PESTEL framework) include:<ul><li><strong>Technology</strong>: Technological advancements and innovations</li><li><strong>Economy</strong>: Economic conditions, inflation, growth rates</li><li><strong>Socio-politics</strong>: Social trends and political factors</li></ul><strong>Suppliers</strong> are part of the <em>micro-environment</em> (analyzed through Porter's Five Forces), not the macro-environment. They are specific to the industry and direct business relationships."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "Question": {
+      "content": "What is the critical reason for engaging in entrepreneurship?",
+      "type": "OBJ",
+      "options": ["Make profit", "Play 419", "Paytax", "Create value"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Create value"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "The <strong>critical reason</strong> for entrepreneurship is to <strong>create value</strong>. While profit is an important outcome and goal, it is the result of successfully creating value for:<ul><li>Customers (solving problems, meeting needs)</li><li>Employees (providing jobs and growth)</li><li>Society (economic development, innovation)</li></ul>'Play 419' (fraud) and 'Paytax' are not legitimate reasons for entrepreneurship."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "Question": {
+      "content": "The documents required of an entrepreneur to register his business in Nigeria are amongst others ______",
+      "type": "OBJ",
+      "options": ["memorandum and articles of association", "Address of registered office", "list and particulars of directors", "All of the above"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "To register a business in Nigeria (typically with the Corporate Affairs Commission), all listed documents are required:<ul><li><strong>Memorandum and Articles of Association</strong>: Outlines company objectives and internal regulations</li><li><strong>Address of registered office</strong>: Official business location</li><li><strong>List and particulars of directors</strong>: Details about company leadership</li></ul>Additional documents may include Form CAC 1.1, statement of share capital, and declaration of compliance."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "Question": {
+      "content": "The entrepreneur does the following fundamental management functions",
+      "type": "OBJ",
+      "options": ["Planning, organizing, directing, co-ordinating, and controlling", "Planning, organizing, directing, fashioning and controlling", "Informing, organizing, directing, co-ordinating and controlling", "Planning, organizing, directing, co-ordinating and reporting"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Planning, organizing, directing, co-ordinating, and controlling"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Entrepreneurs perform the <strong>five classic management functions</strong>:<ol><li><strong>Planning</strong>: Setting objectives and strategies</li><li><strong>Organizing</strong>: Arranging resources and structure</li><li><strong>Directing</strong>: Leading and motivating employees</li><li><strong>Co-ordinating</strong>: Synchronizing activities and efforts</li><li><strong>Controlling</strong>: Monitoring performance and making corrections</li></ol>This comprehensive framework encompasses all essential managerial activities."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "Question": {
+      "content": "One of the options is not a critical setback to an entrepreneur",
+      "type": "OBJ",
+      "options": ["inability to see and tap opportunities", "funds", "Human capital", "Government encouragement"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Government encouragement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Government encouragement</strong> is actually a <em>support factor</em> for entrepreneurs, not a setback. Critical setbacks include:<ul><li><strong>Inability to see and tap opportunities</strong>: Lack of vision</li><li><strong>Funds</strong>: Lack of capital</li><li><strong>Human capital</strong>: Lack of skilled workforce</li></ul>Government encouragement through policies, grants, and support programs helps overcome these setbacks."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "Question": {
+      "content": "______ foster entrepreneurship in mature market create",
+      "type": "OBJ",
+      "options": ["Opportunity", "Necessity", "Innovation", "Commitment"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Opportunity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In <strong>mature markets</strong>, entrepreneurship is primarily driven by <strong>opportunity</strong>. These markets typically feature:<ul><li>Stable economic conditions</li><li>Established infrastructure</li><li>Higher disposable income</li><li>Market gaps and unmet needs</li></ul>Entrepreneurs in mature markets identify opportunities for innovation, improvement, and new value creation rather than being forced by necessity."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "Question": {
+      "content": "The factor spurring entrepreneurship in rapid growth market create",
+      "type": "OBJ",
+      "options": ["Opportunity", "Necessity", "Innovation", "Commitment"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Necessity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "In <strong>rapid growth markets</strong> (often developing economies), entrepreneurship is frequently spurred by <strong>necessity</strong>. Factors include:<ul><li>High unemployment rates</li><li>Limited formal job opportunities</li><li>Economic instability</li><li>Basic needs for survival</li></ul>Individuals often start businesses out of necessity to generate income and sustain themselves, rather than pursuing opportunistic growth."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "Question": {
+      "content": "The sources of funding entrepreneurial ideas includes but one",
+      "type": "OBJ",
+      "options": ["Equity", "Copying", "Debenture", "Personal savings"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Copying"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Legitimate sources of entrepreneurial funding include:<ul><li><strong>Equity</strong>: Selling ownership shares to investors</li><li><strong>Debenture</strong>: Long-term debt instruments</li><li><strong>Personal savings</strong>: Self-funding from personal resources</li></ul><strong>Copying</strong> is not a funding source - it refers to imitation or plagiarism, which is unethical and illegal, not a financial resource."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "Question": {
+      "content": "The tendency of perceive ambiguous situations as desirable is ______",
+      "type": "OBJ",
+      "options": ["Locus of control", "Need for achievement", "Risk taking propensity", "Tolerance for ambiguity"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tolerance for ambiguity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<strong>Tolerance for ambiguity</strong> is the psychological characteristic that describes an individual's ability to perceive uncertain, unclear, or ambiguous situations as desirable or challenging rather than threatening. This is crucial for entrepreneurs because:<ul><li>They often operate in uncertain environments</li><li>They face unpredictable market conditions</li><li>They need to make decisions with incomplete information</li></ul>This trait enables entrepreneurs to thrive in uncertain conditions."
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "Question": {
+      "content": "Major factors that influence the core process of opportunity recognition and development include the following EXCEPT:",
+      "type": "OBJ",
+      "options": ["Entrepreneurial alertness", "Social networks", "Entrepreneurial posture", "Prior knowledge"]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entrepreneurial posture"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "Key factors influencing opportunity recognition include:<ul><li><strong>Entrepreneurial alertness</strong>: Ability to notice opportunities others miss</li><li><strong>Social networks</strong>: Connections that provide information and resources</li><li><strong>Prior knowledge</strong>: Experience and information about markets and industries</li></ul><strong>Entrepreneurial posture</strong> is not a standard term in opportunity recognition literature. It may refer to attitude or positioning, but it's not among the core recognized factors that directly influence opportunity identification and development."
+    }
+  },
+ {
+  "type": "Question",
+  "name": "Question 55",
+  "Question": {
+   "content": "Social entrepreneurship achieves its goals by achieving the following:",
+   "type": "OBJ",
+   "options": ["Being passionate in the community", "Helping communities to define their problems", "Being community friendly", "All of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "All of the above"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Social entrepreneurship combines business principles with social mission, achieving goals through:<ul><li><strong>Community passion</strong>: Deep commitment to community welfare</li><li><strong>Problem definition</strong>: Helping communities identify and articulate their challenges</li><li><strong>Community-friendly approach</strong>: Building trust and collaborative relationships</li></ul>These elements work together to create sustainable social impact while maintaining financial viability."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 56",
+  "Question": {
+   "content": "Innovation represents goods, services, ideas, practices and opinions that are",
+   "type": "OBJ",
+   "options": ["The first in the industry", "One of the first in the industry", "The last in the industry", "The first or one of the first in the industry that has the capability of building for a firm a competitive advantage"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "The first or one of the first in the industry that has the capability of building for a firm a competitive advantage"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "True innovation must meet two criteria:<ul><li><strong>Novelty</strong>: Being first or among the first in the industry</li><li><strong>Competitive advantage</strong>: Having the capability to create sustainable competitive edge</li></ul>Simply being first isn't enough - the innovation must provide tangible business benefits and market differentiation to qualify as meaningful innovation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 57",
+  "Question": {
+   "content": "Who amongst these is a know scholar in innovation",
+   "type": "OBJ",
+   "options": ["Professor Ivan Pavlow", "Dr. B. F. Skinner", "Professor Everette Rogers", "Abraham Maslow"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Professor Everette Rogers"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Professor Everette Rogers</strong> is renowned for his work on innovation diffusion. His contributions include:<ul><li><em>Diffusion of Innovations</em> theory (1962)</li><li>Innovation adoption curve (Innovators, Early Adopters, Early Majority, Late Majority, Laggards)</li><li>Five factors influencing innovation adoption: relative advantage, compatibility, complexity, trialability, observability</li></ul>The other scholars are famous in psychology (Pavlov - classical conditioning, Skinner - operant conditioning, Maslow - hierarchy of needs)."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 58",
+  "Question": {
+   "content": "Early studies on entrepreneurial career choice focused on one of the following:",
+   "type": "OBJ",
+   "options": ["Unemployment", "Wealth creation", "Inflation", "None of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Unemployment"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Early research on entrepreneurial career choice primarily focused on <strong>unemployment</strong> as a driving factor. Studies examined:<ul><li>Entrepreneurship as an alternative to joblessness</li><li>'Refugee' entrepreneurs who start businesses due to lack of employment options</li><li>Economic conditions pushing people into self-employment</li></ul>Later research expanded to include pull factors like wealth creation, but early studies emphasized unemployment push factors."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 59",
+  "Question": {
+   "content": "One of the following is a determining factor of why people choose to become entrepreneurs",
+   "type": "OBJ",
+   "options": ["Attractiveness of an enterprise", "Availability of funds", "Entrepreneurship education", "Paying taxes to the government"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Attractiveness of an enterprise"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The <strong>attractiveness of an enterprise</strong> is a key pull factor in entrepreneurial career choice, encompassing:<ul><li>Market potential and growth prospects</li><li>Profitability expectations</li><li>Personal interest and passion for the venture</li><li>Lifestyle considerations and independence</li></ul>While funds and education are enabling factors, and tax payment is an obligation, the inherent attractiveness of the business opportunity is a primary motivator for choosing entrepreneurship."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 60",
+  "Question": {
+   "content": "______ provides a cognitive framework that endows meaning, belief and value and explains the differences in entrepreneurial intentions",
+   "type": "OBJ",
+   "options": ["Geography", "Top echelon", "Culture", "GDP"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Culture"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Culture</strong> provides the cognitive framework that shapes entrepreneurial intentions by:<ul><li>Establishing shared meanings, beliefs, and values within a society</li><li>Influencing risk tolerance and attitudes toward entrepreneurship</li><li>Creating social norms that either encourage or discourage entrepreneurial behavior</li><li>Providing role models and success stories that inspire entrepreneurial aspirations</li></ul>Cultural factors explain why entrepreneurial rates vary significantly across different societies and regions."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 61",
+  "Question": {
+   "content": "Schumpeter (1934) observes that change is a catalyst for entrepreneurial activities, thus, stable environments offer entrepreneurial opportunity ______",
+   "type": "OBJ",
+   "options": ["True", "False", "None of the above", "All of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "False"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This statement is <strong>false</strong>. Joseph Schumpeter's theory of <em>creative destruction</em> argues that:<ul><li>Entrepreneurship thrives in <strong>dynamic, changing environments</strong></li><li>Stable environments offer <em>fewer</em> entrepreneurial opportunities</li><li>Disruption, innovation, and change create the conditions for entrepreneurial activity</li><li>Entrepreneurs destroy existing market equilibria to create new opportunities</li></ul>Stable environments typically favor established businesses rather than creating new entrepreneurial opportunities."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 62",
+  "Question": {
+   "content": "Knowing the behavioural manifestations of entrepreneurship, we measure the entrepreneurial levels in the following ways EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Reliably", "Profitably", "None of the above", "All of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Profitably"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Entrepreneurial levels are typically measured through:<ul><li><strong>Reliable</strong> metrics: Consistent and valid measurement methods</li><li>Various quantitative and qualitative indicators</li></ul>However, <strong>profitably</strong> is not a measurement <em>method</em> but rather an <em>outcome</em> or <em>goal</em> of entrepreneurship. We measure entrepreneurial activity levels through indicators like startup rates, innovation indices, and entrepreneurial intent surveys, not through profitability itself."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 63",
+  "Question": {
+   "content": "Which best defines an industry?",
+   "type": "OBJ",
+   "options": ["A place goods and services are manufactured", "A manufacturer of heavy duty machines", "A group of firms that compete amongst themselves", "A seller of goods and services"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "A group of firms that compete amongst themselves"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "An <strong>industry</strong> is best defined as <strong>a group of firms that compete amongst themselves</strong> by:<ul><li>Producing similar products or services</li><li>Serving the same customer needs</li><li>Operating within the same market space</li><li>Following similar business models</li></ul>This definition focuses on the competitive dynamics and market structure rather than physical location, specific products, or sales activities."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 64",
+  "Question": {
+   "content": "A typical example of a manufacturing industry is ______",
+   "type": "OBJ",
+   "options": ["Agriculture", "Mining", "Labour Market", "Automobile"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Automobile"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The <strong>automobile industry</strong> is a classic example of manufacturing because it involves:<ul><li>Transforming raw materials into finished products</li><li>Assembly line production processes</li><li>Large-scale factory operations</li><li>Physical goods production</li></ul>Agriculture and mining are <em>extractive</em> industries, while labor market is a <em>service</em> sector. Only automobile represents true manufacturing."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 65",
+  "Question": {
+   "content": "The father of scientific management is ______",
+   "type": "OBJ",
+   "options": ["Henri Fayol", "Frank Gilbert", "Elton Mayo", "F. W. Taylor"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "F. W. Taylor"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Frederick Winslow Taylor (F. W. Taylor)</strong> is known as the father of scientific management for his contributions:<ul><li><em>The Principles of Scientific Management</em> (1911)</li><li>Time and motion studies to optimize work efficiency</li><li>Standardization of work methods</li><li>Differential piece-rate system for worker compensation</li></ul>While others contributed to management theory, Taylor pioneered the systematic, scientific approach to improving industrial efficiency."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 66",
+  "Question": {
+   "content": "Who is associated with the Hawthorne experiment and human relations management?",
+   "type": "OBJ",
+   "options": ["Henri Fayol", "Frank Gilbert", "Elton Mayo", "F. W. Taylor"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Elton Mayo"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Elton Mayo</strong> is associated with the Hawthorne experiments and human relations management through:<ul><li>Conducting the Hawthorne studies (1924-1932) at Western Electric</li><li>Discovering the 'Hawthorne Effect' - workers perform better when observed</li><li>Emphasizing social and psychological factors in workplace productivity</li><li>Pioneering the human relations movement in management theory</li></ul>This contrasted with Taylor's scientific management by focusing on human elements rather than just efficiency."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 67",
+  "Question": {
+   "content": "Which is not a basis for assessing opportunities?",
+   "type": "OBJ",
+   "options": ["Net present value (NPV)", "Break-even approach", "Linear programming (LP)", "Balance sheet"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Balance sheet"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Common methods for assessing opportunities include:<ul><li><strong>Net Present Value (NPV)</strong>: Calculating present value of future cash flows</li><li><strong>Break-even analysis</strong>: Determining when revenues cover costs</li><li><strong>Linear programming</strong>: Optimizing resource allocation mathematically</li></ul>A <strong>balance sheet</strong> is a financial statement showing assets, liabilities, and equity at a point in time - it's a reporting tool, not an opportunity assessment method."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 68",
+  "Question": {
+   "content": "In terms of Derr's success measures, entrepreneurship means the following EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Getting ahead", "Balance", "Making money", "Autonomy"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Making money"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "C. Brooklyn Derr's career success model identifies five success measures:<ol><li><strong>Getting ahead</strong>: Advancement and promotion</li><li><strong>Getting secure</strong>: Job security and stability</li><li><strong>Getting high</strong>: Doing challenging, meaningful work</li><li><strong>Getting free</strong>: Autonomy and independence</li><li><strong>Getting balanced</strong>: Work-life balance</li></ol><strong>Making money</strong> is not one of Derr's five defined success dimensions, though it may be implied in several of them."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 69",
+  "Question": {
+   "content": "______ involves extending the firm's domain of competence and corresponding opportunity set through internally generated new resource combinations",
+   "type": "OBJ",
+   "options": ["Firm entrepreneurship", "Independent entrepreneurship", "Organizational entrepreneurship", "Corporate entrepreneurship"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Corporate entrepreneurship"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Corporate entrepreneurship</strong> (also called intrapreneurship) involves:<ul><li>Extending the firm's competencies through internal innovation</li><li>Creating new resource combinations within existing organizations</li><li>Developing new opportunities from within established companies</li><li>Fostering entrepreneurial behavior inside corporate structures</li></ul>This differs from independent entrepreneurship (starting new ventures) by occurring within the framework of an existing organization."
+  }
+ },
+ 
+ {
+  "type": "Question",
+  "name": "Question 70",
+  "Question": {
+   "content": "Generally entrepreneurial firms emphasize the following EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Technological leadership", "Product leadership", "Research & Development leadership", "All of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "All of the above"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "This is a trick question. Entrepreneurial firms typically emphasize <strong>all</strong> of these leadership areas:<ul><li><strong>Technological leadership</strong>: Being at the forefront of technology adoption and innovation</li><li><strong>Product leadership</strong>: Developing superior products that dominate the market</li><li><strong>Research & Development leadership</strong>: Investing in R&D to create innovative solutions</li></ul>The question asks for what they emphasize <em>except</em>, and since they emphasize all of these, 'all of the above' is the exception to being an exception."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 71",
+  "Question": {
+   "content": "Risk returns trade-off emphasizes ______",
+   "type": "OBJ",
+   "options": ["The more the risk, the more the returns", "Risk equals returns", "Risk less than returns", "Invested cash"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "The more the risk, the more the returns"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The <strong>risk-return tradeoff</strong> principle states that <strong>the more the risk, the more the returns</strong>. This fundamental finance concept means:<ul><li>Higher potential returns require accepting higher levels of risk</li><li>Lower risk investments typically offer lower returns</li><li>Entrepreneurs must balance risk appetite with return expectations</li><li>This principle drives investment decisions and venture funding</li></ul>It does not mean risk equals returns or that risk is less than returns - rather, it describes a proportional relationship."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 72",
+  "Question": {
+   "content": "The internet turns the world flat means that ______",
+   "type": "OBJ",
+   "options": ["Size and location are no more barriers to entrepreneurs", "Size is no more barriers to the entrepreneurs", "Location is no more a barrier the entrepreneurs", "Entrepreneurs are equal"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Size and location are no more barriers to entrepreneurs"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The phrase 'the world is flat' (from Thomas Friedman's book) means the internet has eliminated traditional barriers:<ul><li><strong>Size</strong>: Small startups can compete with large corporations globally</li><li><strong>Location</strong>: Physical location matters less for reaching global markets</li><li>Digital platforms enable entrepreneurs anywhere to access customers, suppliers, and information worldwide</li><li>Technology democratizes access to markets and resources</li></ul>This levels the playing field but doesn't make all entrepreneurs equal - it removes geographic and scale disadvantages."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 73",
+  "Question": {
+   "content": "Cash-flow statement is broken into ______",
+   "type": "OBJ",
+   "options": ["cash-flow from operating activities", "cash-flow from investing activities", "All of the above", "Cash paid for dividend"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "All of the above"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A cash-flow statement is divided into <strong>three main sections</strong>:<ol><li><strong>Cash-flow from operating activities</strong>: Cash from main business operations</li><li><strong>Cash-flow from investing activities</strong>: Cash from buying/selling assets and investments</li><li><strong>Cash-flow from financing activities</strong>: Cash from debt, equity, and dividends (which includes cash paid for dividends)</li></ul>'All of the above' is correct because cash paid for dividends is part of financing activities, and the first two options are standard categories. The answer encompasses all cash flow components."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 74",
+  "Question": {
+   "content": "Micro-financing provides all EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Financial services to economically active sector", "Offers small loans", "Accepts small serving deposits", "Offers simple payment services needed by micro-entrepreneurs"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Accepts small serving deposits"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Micro-financing typically provides:<ul><li><strong>Financial services to economically active sector</strong>: Targeting low-income but economically active individuals</li><li><strong>Small loans (microloans)</strong>: Typically without collateral requirements</li><li><strong>Simple payment services</strong>: Basic financial transactions for micro-entrepreneurs</li></ul>However, many microfinance institutions <strong>do not accept deposits</strong> initially due to regulatory constraints and operational complexities. Deposit-taking requires banking licenses and different infrastructure than lending-only microfinance."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 75",
+  "Question": {
+   "content": "The long-term sources of loan for entrepreneur include all EXCEPT one",
+   "type": "OBJ",
+   "options": ["Debenture", "Equity", "Preference Shares", "Bonds"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Equity"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Long-term sources of financing for entrepreneurs include:<ul><li><strong>Debenture</strong>: Long-term debt instrument</li><li><strong>Preference Shares</strong>: Hybrid financing with fixed dividends</li><li><strong>Bonds</strong>: Long-term debt securities</li></ul><strong>Equity</strong> is not a 'loan' - it represents ownership stake in the company. Equity financing involves selling ownership shares, not borrowing money that needs to be repaid like a loan."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 76",
+  "Question": {
+   "content": "The salesman test only builds goodwill but does not take order is ______",
+   "type": "OBJ",
+   "options": ["Missionary sales people", "Order delivery", "Order taken", "Service people"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Missionary sales people"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Missionary sales people</strong> focus on building relationships and goodwill rather than directly taking orders. Their role includes:<ul><li>Educating customers and building brand awareness</li><li>Developing long-term relationships</li><li>Supporting distributors and retailers</li><li>Creating demand rather than closing immediate sales</li></ul>This contrasts with order-takers who process existing demand rather than create new business."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 77",
+  "Question": {
+   "content": "Which one of these is not a role of sales people?",
+   "type": "OBJ",
+   "options": ["Produce product", "Generate sales revenue", "Meet buyer expectation", "Provide market information"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Produce product"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Key roles of salespeople include:<ul><li><strong>Generate sales revenue</strong>: Primary function of closing sales</li><li><strong>Meet buyer expectation</strong>: Ensuring customer satisfaction</li><li><strong>Provide market information</strong>: Gathering customer feedback and market intelligence</li></ul><strong>Producing products</strong> is not a sales role - this is a manufacturing or production function. Sales focuses on distribution and customer relationships, not physical product creation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 78",
+  "Question": {
+   "content": "The first step in personal selling process is ______",
+   "type": "OBJ",
+   "options": ["Information", "Approach", "Prospecting", "Closing sales"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Prospecting"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The first step in the personal selling process is <strong>prospecting</strong>, which involves:<ul><li>Identifying potential customers (leads)</li><li>Qualifying prospects based on need, ability to pay, and authority to buy</li><li>Building a pipeline of potential customers</li><li>Researching and gathering initial information about prospects</li></ul>This foundational step comes before approach, presentation, or closing, as you must first identify who to sell to."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 79",
+  "Question": {
+   "content": "All these are types of sales job EXCEPT",
+   "type": "OBJ",
+   "options": ["Order delivery", "Order getting and taking", "Planning", "Missionary and creative sales people"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Planning"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Common types of sales jobs include:<ul><li><strong>Order delivery</strong>: Focus on product delivery and logistics</li><li><strong>Order getting and taking</strong>: Active selling and processing orders</li><li><strong>Missionary and creative sales</strong>: Building relationships and creating demand</li></ul><strong>Planning</strong> is not a type of sales job but rather a management function. Sales planning is an activity that sales managers and representatives do, but it is not a classification of sales roles itself."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 80",
+  "Question": {
+   "content": "Canned sales is used in what stage of selling process ______",
+   "type": "OBJ",
+   "options": ["Approach", "Presentation", "Handling objection", "Prospecting"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Presentation"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Canned sales</strong> (or scripted sales) is primarily used during the <strong>presentation</strong> stage, featuring:<ul><li>Prepared, standardized sales pitches</li><li>Scripted responses to common questions</li><li>Consistent messaging across all sales interactions</li><li>Often used in telemarketing or high-volume sales environments</li></ul>This approach ensures uniformity but may lack personalization compared to customized presentations."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 81",
+  "Question": {
+   "content": "The aspect of selling process that builds long lasting relationship and customer satisfaction is ______",
+   "type": "OBJ",
+   "options": ["Closing sales", "Follow-up", "Approach", "Handling objection"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Follow-up"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Follow-up</strong> is critical for building long-lasting relationships and ensuring customer satisfaction through:<ul><li>Checking customer satisfaction after the sale</li><li>Addressing any post-purchase issues or concerns</li><li>Maintaining ongoing communication</li><li>Building trust and loyalty for repeat business</li><li>Generating referrals and positive word-of-mouth</li></ul>This stage turns one-time buyers into long-term customers and advocates."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 82",
+  "Question": {
+   "content": "______ is the number of stages for selling process, a sales process goes through",
+   "type": "OBJ",
+   "options": ["6", "7", "5", "4"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "7"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The complete personal selling process typically involves <strong>7 stages</strong>:<ol><li>Prospecting</li><li>Pre-approach (research)</li><li>Approach</li><li>Presentation</li><li>Handling objections</li><li>Closing the sale</li><li>Follow-up</li></ol>This comprehensive process ensures thorough customer engagement from initial contact to post-sale relationship management."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 83",
+  "Question": {
+   "content": "______ skill is needed to handle subordinate issues and problem",
+   "type": "OBJ",
+   "options": ["Technical skill", "human skill", "Conceptual skill", "Managerial skill"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "human skill"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Human skill</strong> (interpersonal skill) is essential for handling subordinate issues and problems because it involves:<ul><li>Effective communication and active listening</li><li>Conflict resolution and problem-solving</li><li>Empathy and understanding employee perspectives</li><li>Motivating and leading team members</li><li>Building trust and rapport</li></ul>While managerial skill encompasses this, human skill specifically addresses the people-oriented aspects of management."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 84",
+  "Question": {
+   "content": "Which of this is a key knowledge required in selling",
+   "type": "OBJ",
+   "options": ["Company", "Product", "Sales technique", "all of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "all of the above"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Successful selling requires comprehensive knowledge across <strong>all these areas</strong>:<ul><li><strong>Company knowledge</strong>: Understanding company history, policies, and reputation</li><li><strong>Product knowledge</strong>: Knowing product features, benefits, and applications</li><li><strong>Sales techniques</strong>: Mastering selling methods, negotiation, and closing strategies</li></ul>This complete knowledge base enables salespeople to effectively represent their company, demonstrate product value, and employ effective sales strategies."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 85",
+  "Question": {
+   "content": "A common characteristics of a good sales person is ______",
+   "type": "OBJ",
+   "options": ["Communication ability", "Accommodation", "Empathy", "All of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "All of the above"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Effective salespeople typically possess <strong>all these characteristics</strong>:<ul><li><strong>Communication ability</strong>: Clear articulation and active listening</li><li><strong>Accommodation</strong>: Flexibility and adaptability to customer needs</li><li><strong>Empathy</strong>: Understanding and relating to customer perspectives</li></ul>These traits combine to create sales professionals who can build rapport, understand customer needs, and tailor solutions effectively."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 86",
+  "Question": {
+   "content": "The traditional P(s) of market are ______",
+   "type": "OBJ",
+   "options": ["2", "3", "4", "5"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "4"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The <strong>traditional Marketing Mix</strong> consists of <strong>4 Ps</strong>:<ol><li><strong>Product</strong>: Goods or services offered</li><li><strong>Price</strong>: Cost to customers</li><li><strong>Place</strong>: Distribution channels</li><li><strong>Promotion</strong>: Communication and advertising</li></ol>This framework, developed by Jerome McCarthy, has been the foundation of marketing strategy since the 1960s."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 87",
+  "Question": {
+   "content": "The extended P(s)/mix of marketing are ______",
+   "type": "OBJ",
+   "options": ["7", "8", "6", "4"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "7"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The <strong>extended marketing mix</strong> for services includes <strong>7 Ps</strong>, adding three additional elements to the traditional 4Ps:<ol start='5'><li><strong>People</strong>: Employees who deliver the service</li><li><strong>Process</strong>: Procedures and systems for service delivery</li><li><strong>Physical evidence</strong>: Tangible elements that support the service</li></ol>This extension recognizes the unique characteristics of service-based businesses compared to product-based businesses."
+  }
+ },
+  {
+  "type": "Question",
+  "name": "Question 88",
+  "Question": {
+   "content": "The various type of places where personal selling occur are EXCEPT ______.",
+   "type": "OBJ",
+   "options": ["Over the counter selling", "Field selling", "Telemarketing", "Shopping"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Shopping"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "Personal selling occurs in various specific contexts:<ul><li><strong>Over the counter selling</strong>: Retail environments where customers come to the seller</li><li><strong>Field selling</strong>: Salespeople visiting customers at their locations</li><li><strong>Telemarketing</strong>: Selling via telephone communications</li></ul><strong>Shopping</strong> is not a type of personal selling location - it is an activity that customers engage in, not a category of selling environment. Shoppers are the buyers, not the sales method."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 89",
+  "Question": {
+   "content": "Market coverage selling strategy is all EXCEPT one ______.",
+   "type": "OBJ",
+   "options": ["In intensive distribution", "In-narrow distribution", "In selective distribution", "In exclusive distribution"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "In-narrow distribution"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "The three main market coverage strategies are:<ul><li><strong>Intensive distribution</strong>: Placing products in as many outlets as possible</li><li><strong>Selective distribution</strong>: Using a limited number of outlets in a geographic area</li><li><strong>Exclusive distribution</strong>: Granting exclusive rights to distribute in a territory</li></ul><strong>In-narrow distribution</strong> is not a standard marketing term or strategy. The correct term would be 'selective distribution,' which is already listed as an option."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 90",
+  "Question": {
+   "content": "______ is all economic activities whose output/outcome is not physical or construction.",
+   "type": "OBJ",
+   "options": ["Commodity", "Product", "Service", "Item"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Service"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Service</strong> refers to economic activities characterized by:<ul><li>Intangible outputs (cannot be touched or stored)</li><li>Simultaneous production and consumption</li><li>Perishability (cannot be inventoried)</li><li>Heterogeneity (variability in quality)</li></ul>Examples include healthcare, education, banking, and consulting. This contrasts with physical products (commodities, items) and construction projects which produce tangible outputs."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 91",
+  "Question": {
+   "content": "Modern marketing tool are classified as ______ devices used for communication and drive sales.",
+   "type": "OBJ",
+   "options": ["Electronic", "Print", "Broadcast", "Transit"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Electronic"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Electronic</strong> devices represent the core of modern marketing tools, including:<ul><li>Digital platforms (websites, social media, email)</li><li>Mobile marketing (apps, SMS)</li><li>Online advertising (search, display, video)</li><li>Marketing automation systems</li><li>CRM software</li></ul>While print, broadcast, and transit advertising are still used, electronic tools dominate modern marketing due to their reach, targeting capabilities, and measurability."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 92",
+  "Question": {
+   "content": "Facebook, Twitter, Blog, Website are ______ used for business activities.",
+   "type": "OBJ",
+   "options": ["Machines", "Social media", "Communication", "Advertising"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Social media"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Social media</strong> platforms like Facebook, Twitter, blogs, and websites are essential tools for modern business activities because they enable:<ul><li>Brand building and awareness</li><li>Customer engagement and relationship management</li><li>Content marketing and thought leadership</li><li>Targeted advertising and promotion</li><li>Market research and customer feedback</li></ul>While they facilitate communication and advertising, 'social media' is the specific category that encompasses these digital platforms."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 93",
+  "Question": {
+   "content": "The employee who is entrusted with the responsibility to make innovation in the organization is called ______.",
+   "type": "OBJ",
+   "options": ["Intrapreneur", "Entrepreneur", "Intrapersonal", "None of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Intrapreneur"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "An <strong>intrapreneur</strong> is an employee who demonstrates entrepreneurial behavior within an established organization by:<ul><li>Driving innovation and new initiatives</li><li>Taking risks to develop new products or processes</li><li>Working within the corporate structure but thinking like an entrepreneur</li><li>Helping the organization adapt and grow</li></ul>This differs from an entrepreneur who starts independent ventures, and intrapersonal refers to personal skills rather than an organizational role."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 94",
+  "Question": {
+   "content": "An entrepreneur is ______",
+   "type": "OBJ",
+   "options": ["Risk-bearer", "Organizer", "Innovator", "All of the above"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "All of the above"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "An entrepreneur encompasses <strong>all these roles</strong>:<ul><li><strong>Risk-bearer</strong>: Assumes financial and operational risks</li><li><strong>Organizer</strong>: Coordinates resources and processes</li><li><strong>Innovator</strong>: Creates new products, services, or methods</li></ul>This comprehensive definition reflects the multifaceted nature of entrepreneurship, combining risk management, organizational skills, and innovation."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 95",
+  "Question": {
+   "content": "______ is individuals with innovative solutions to society’s most pressing and daunting social problems",
+   "type": "OBJ",
+   "options": ["Social Entrepreneur", "Socialist enterprise", "Entrepreneur", "Philanthropist"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Social Entrepreneur"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A <strong>Social Entrepreneur</strong> focuses on creating social value by:<ul><li>Developing innovative solutions to social problems</li><li>Applying business principles to achieve social impact</li><li>Creating sustainable social change rather than just profit</li><li>Addressing issues like poverty, education, and healthcare</li></ul>This differs from traditional entrepreneurs (focused on profit) and philanthropists (who donate money without necessarily creating innovative solutions)."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 96",
+  "Question": {
+   "content": "______ is a good or favourable change available to run a specific business in a given environment at a given point of time",
+   "type": "OBJ",
+   "options": ["Business opportunity", "Optimist", "Savoury", "Business placement"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Business opportunity"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A <strong>Business opportunity</strong> represents a favorable circumstance characterized by:<ul><li>Market need or gap that can be exploited</li><li>Favorable timing and environmental conditions</li><li>Potential for profit and growth</li><li>Alignment with available resources and capabilities</li></ul>It's a specific, time-sensitive chance to create value through a business venture, distinct from general optimism or other terms."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 97",
+  "Question": {
+   "content": "______ serves as a road map in setting up a business enterprise",
+   "type": "OBJ",
+   "options": ["Business plan", "Business idea", "Business breakthrough", "Business"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Business plan"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A <strong>Business plan</strong> acts as a comprehensive roadmap by:<ul><li>Outlining business goals and objectives</li><li>Detailing strategies for achieving these goals</li><li>Providing financial projections and funding requirements</li><li>Identifying target market and competitive analysis</li><li>Serving as a guide for operations and decision-making</li></ul>While a business idea is the initial concept, the plan provides the detailed direction for execution."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 98",
+  "Question": {
+   "content": "______ is the attempt to create value through recognition of business opportunity, the management of risk taking appropriate to the opportunity and through the communicative and management skills to mobilise human, financial and material resources necessary to bring a project to fruition.",
+   "type": "OBJ",
+   "options": ["Entrepreneurship", "socialism", "Entrepreneur", "Business model"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Entrepreneurship"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Entrepreneurship</strong> is the comprehensive process described, involving:<ul><li>Opportunity recognition and evaluation</li><li>Strategic risk management</li><li>Resource mobilization (human, financial, material)</li><li>Communication and management skills application</li><li>Value creation through project execution</li></ul>This definition captures the essence of entrepreneurship as a dynamic process rather than just a person (entrepreneur) or a system (socialism)."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 99",
+  "Question": {
+   "content": "The easiest form of business is ______",
+   "type": "OBJ",
+   "options": ["Sole proprietorship", "Partnership", "Co-operative", "Company"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Sole proprietorship"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "<strong>Sole proprietorship</strong> is the easiest business form because:<ul><li>Simplest to establish with minimal legal formalities</li><li>Single ownership with complete control</li><li>Direct relationship between effort and reward</li><li>Least regulatory compliance requirements</li><li>Easy dissolution process</li></ul>This contrasts with partnerships (requiring agreements), cooperatives (member-based), and companies (complex registration and compliance)."
+  }
+ },
+ {
+  "type": "Question",
+  "name": "Question 100",
+  "Question": {
+   "content": "The contents of a business plan include the following EXCEPT ______",
+   "type": "OBJ",
+   "options": ["Product", "Manpower", "Location", "Maturity"]
+  },
+  "Answer": {
+   "type": "string",
+   "content": "Maturity"
+  },
+  "Explanation": {
+   "type": "string",
+   "content": "A comprehensive business plan typically includes:<ul><li><strong>Product/Service description</strong>: What you're selling</li><li><strong>Manpower</strong>: Organizational structure and staffing</li><li><strong>Location</strong>: Business premises and operational base</li><li>Market analysis, financial projections, marketing strategy, etc.</li></ul><strong>Maturity</strong> is not a standard component of business plans. It might refer to market maturity or product lifecycle stage, but it's not a dedicated section like the other options."
+  }
+ }
+ ]
