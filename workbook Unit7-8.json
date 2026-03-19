@@ -1,0 +1,1081 @@
+[
+  
+  
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Introduction to Entrepreneurship",
+    "code": "GES 211",
+    "session": "Unit 7-8",
+    "topics": ["E--Business", "Definitions", "B2B", "Business Models", "Benefits", "E-Commerce", "C2C", "Payment Gateways", "Challenges", "FINTECH", "Mobile Payments", "Blockchain", "Risks", "Change Management", "Process", "Kotter's Model", "Resistance", "Change Fatigue", "Tools", "Success Factors", "Starting a Business", "Sole Proprietorship", "Business Structures", "Partnership", "Limited Liability Company", "LLC", "Disadvantages", "Franchise", "Types", "Corporation", "Advantages", "Cooperative", "Features", "Legal Documents", "Legal Requirements", "Capital Raising", "Liability", "Limited Liability Partnership", "Business Plan", "Purpose"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Pick the correct answer"
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit 7",
+    "Subheading": "E-Business, E-Commerce, FINTECH Innovation, and Change Management"
+  },
+  {
+    "type": "Question",
+    "name": "Question 121",
+    "topic": [
+      "E-Business",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Which of the following is the primary goal of E-Business?",
+      "type": "OBJ",
+      "options": [
+        "To improve marketing strategies",
+        "To integrate business processes with technology",
+        "To create a social media presence",
+        "To increase customer visits to physical stores"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To integrate business processes with technology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>E-Business Purpose</h4>\n <p>E-Business is broader than just selling online. It means <strong>using technology to run all aspects of a business</strong>—internal processes, customer relationships, supply chains, and transactions—more efficiently and effectively.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 122",
+    "topic": [
+      "E-Business",
+      "B2B"
+    ],
+    "Question": {
+      "content": "Which of these is an example of B2B E-Business?",
+      "type": "OBJ",
+      "options": [
+        "A person buying a book from an online store",
+        "A wholesaler selling products to retailers via an online platform",
+        "A company offering services to individuals through a mobile app",
+        "A retailer offering goods to consumers on a website"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A wholesaler selling products to retailers via an online platform"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business-to-Business</h4>\n <p><strong>B2B (Business-to-Business)</strong> means transactions between businesses. When a wholesaler sells to retailers, both are businesses. The other options are B2C (Business-to-Consumer) transactions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 123",
+    "topic": [
+      "E-Business",
+      "Business Models"
+    ],
+    "Question": {
+      "content": "What does the term 'E-Business model' refer to?",
+      "type": "OBJ",
+      "options": [
+        "The strategy used to attract customers online",
+        "The technological infrastructure required to run an online business",
+        "The approach businesses use to generate revenue through internet-based activities",
+        "The software used to manage online sales"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The approach businesses use to generate revenue through internet-based activities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>E-Business Model</h4>\n <p>An E-Business model describes <strong>how a company creates and captures value online</strong>. It covers revenue sources (subscriptions, advertising, sales), target customers, and value proposition—all in the digital context.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 124",
+    "topic": [
+      "E-Business",
+      "Benefits"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a benefit of E-Business?",
+      "type": "OBJ",
+      "options": [
+        "Enhanced customer interaction",
+        "Reduced operational costs",
+        "Increased reliance on physical retail space",
+        "Improved global reach"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increased reliance on physical retail space"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What E-Business Reduces</h4>\n <p>E-Business typically <strong>reduces reliance on physical retail space</strong> by moving operations online. Enhanced customer interaction (via digital channels), lower costs, and global reach are all benefits. More physical space is the opposite of what E-Business aims for.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 125",
+    "topic": [
+      "E-Commerce",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "E-Commerce primarily involves transactions that take place:",
+      "type": "OBJ",
+      "options": [
+        "Offline",
+        "Over the telephone",
+        "On the internet",
+        "Through physical retail stores"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "On the internet"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>E-Commerce Defined</h4>\n <p>E-Commerce specifically refers to <strong>buying and selling goods or services over the internet</strong>. While telephone orders are remote sales, the \"E\" in E-Commerce stands for electronic, specifically internet-based transactions.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 126",
+    "topic": [
+      "E-Commerce",
+      "C2C"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of C2C E-Commerce?",
+      "type": "OBJ",
+      "options": [
+        "A consumer purchasing a product from a retailer",
+        "A company selling goods to another company",
+        "A person selling used items to another individual on an online platform",
+        "A government agency offering public services online"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A person selling used items to another individual on an online platform"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Consumer-to-Consumer</h4>\n <p><strong>C2C (Consumer-to-Consumer)</strong> involves transactions between individuals. Platforms like eBay, Craigslist, or Facebook Marketplace enable C2C commerce by connecting individual sellers with individual buyers.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 127",
+    "topic": [
+      "E-Commerce",
+      "Payment Gateways"
+    ],
+    "Question": {
+      "content": "Which of the following is a common payment gateway used in E-Commerce?",
+      "type": "OBJ",
+      "options": [
+        "PayPal",
+        "Email",
+        "WhatsApp",
+        "Zoom"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "PayPal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Payment Processing</h4>\n <p>A <strong>payment gateway</strong> is a service that processes online payments. PayPal, Stripe, and Square are common examples. Email, WhatsApp, and Zoom are communication tools, not payment processors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 128",
+    "topic": [
+      "E-Commerce",
+      "Challenges"
+    ],
+    "Question": {
+      "content": "Which of the following is a key challenge faced by E-Commerce businesses?",
+      "type": "OBJ",
+      "options": [
+        "Lack of online marketing strategies",
+        "Building trust with customers",
+        "High transaction volume",
+        "Providing traditional customer service"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Building trust with customers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Trust Deficit</h4>\n <p>Customers can't see or touch products before buying, and they must share payment information online. <strong>Building trust</strong>—through security features, reviews, return policies, and reliable delivery—is a major challenge for E-Commerce businesses.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 129",
+    "topic": [
+      "FINTECH",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What does the term 'FINTECH' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Financial technologies used in banking",
+        "A method of investing in financial markets",
+        "A regulatory body for financial services",
+        "The use of technology to improve financial services"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The use of technology to improve financial services"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Financial Technology</h4>\n <p><strong>FINTECH (Financial Technology)</strong> refers to companies and technologies that use digital innovation to improve or automate financial services. This includes mobile banking apps, cryptocurrency, peer-to-peer lending, and digital payment systems.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 130",
+    "topic": [
+      "FINTECH",
+      "Benefits"
+    ],
+    "Question": {
+      "content": "Which of the following is a significant benefit of FINTECH?",
+      "type": "OBJ",
+      "options": [
+        "Limiting access to financial services",
+        "Reducing transparency in financial transactions",
+        "Enhancing financial inclusion",
+        "Reducing financial regulation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enhancing financial inclusion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Financial Inclusion</h4>\n <p>FINTECH helps bring <strong>financial services to people who were previously excluded</strong> from the traditional banking system. Mobile money, microloans, and digital wallets allow those without bank accounts to save, borrow, and transact.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 131",
+    "topic": [
+      "FINTECH",
+      "Mobile Payments"
+    ],
+    "Question": {
+      "content": "Which of these is an example of a mobile payment system in FINTECH?",
+      "type": "OBJ",
+      "options": [
+        "E-wallets like PayPal",
+        "Investment portfolios",
+        "Loan management software",
+        "Stock exchanges"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "E-wallets like PayPal"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Mobile Payments</h4>\n <p><strong>E-wallets</strong> (like PayPal, Apple Pay, Google Pay) are mobile payment systems that allow users to store funds and make transactions digitally. Investment portfolios, loan software, and stock exchanges are other fintech applications but not payment systems.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 132",
+    "topic": [
+      "FINTECH",
+      "Blockchain"
+    ],
+    "Question": {
+      "content": "Blockchain technology in FINTECH is primarily used for:",
+      "type": "OBJ",
+      "options": [
+        "Stock market analysis",
+        "Securing financial transactions",
+        "Creating financial regulations",
+        "Reducing the cost of customer service"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Securing financial transactions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Blockchain's Role</h4>\n <p>Blockchain is a <strong>secure, decentralized ledger</strong> that records transactions across many computers. In fintech, it's used to create tamper-proof records for cryptocurrencies, smart contracts, and secure financial transactions without intermediaries.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 133",
+    "topic": [
+      "FINTECH",
+      "Risks"
+    ],
+    "Question": {
+      "content": "Which of the following is a potential risk associated with FINTECH?",
+      "type": "OBJ",
+      "options": [
+        "Enhanced customer privacy",
+        "Increased transaction speed",
+        "Cybersecurity threats",
+        "Decreased transaction costs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cybersecurity threats"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Risks</h4>\n <p>Because fintech relies on digital systems and stores sensitive financial data, it's vulnerable to <strong>hacking, data breaches, and cyber attacks</strong>. Enhanced privacy, speed, and lower costs are benefits, not risks.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 134",
+    "topic": [
+      "Change Management",
+      "Process"
+    ],
+    "Question": {
+      "content": "Which of the following is the first step in the change management process?",
+      "type": "OBJ",
+      "options": [
+        "Implementing the change",
+        "Planning the change",
+        "Communicating the change to employees",
+        "Identifying the need for change"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identifying the need for change"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Starting Change</h4>\n <p>Before any planning or action, leaders must <strong>recognize and clearly define why change is necessary</strong>. This could be due to market shifts, new opportunities, or internal problems. Without identifying the need, change efforts lack direction.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 135",
+    "topic": [
+      "Change Management",
+      "Kotter's Model"
+    ],
+    "Question": {
+      "content": "What does the 'Kotter's 8-Step Change Model' focus on?",
+      "type": "OBJ",
+      "options": [
+        "Structuring the organization's goals",
+        "Overcoming resistance to change",
+        "Building a financial plan for change",
+        "Improving employee skills"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Overcoming resistance to change"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kotter's Model</h4>\n <p>John Kotter's 8-step model provides a framework for <strong>leading organizational change successfully</strong>. Steps include creating urgency, building coalitions, communicating vision, removing obstacles, and anchoring changes in culture—all aimed at reducing resistance.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 136",
+    "topic": [
+      "Change Management",
+      "Resistance"
+    ],
+    "Question": {
+      "content": "What is a common reason for resistance to change within an organization?",
+      "type": "OBJ",
+      "options": [
+        "Effective communication",
+        "Fear of the unknown",
+        "Increased training programs",
+        "Strong leadership"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Fear of the unknown"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why People Resist</h4>\n <p>People often resist change because they're <strong>uncertain about how it will affect them</strong>. Will they lose their job? Can they learn new skills? This fear of the unknown creates anxiety and opposition. Good communication helps address this.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 137",
+    "topic": [
+      "Change Management",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Which of the following best describes 'Organizational Change'?",
+      "type": "OBJ",
+      "options": [
+        "The process of improving organizational efficiency without altering structures",
+        "The adoption of new practices, policies, or behaviors in response to internal or external factors",
+        "Reducing the number of employees",
+        "Increasing organizational profits"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The adoption of new practices, policies, or behaviors in response to internal or external factors"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Change</h4>\n <p>Organizational change means <strong>moving from current ways of operating to new ones</strong>. This could involve new strategies, structures, technologies, or cultures—driven by shifts in the market, competition, technology, or internal needs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 138",
+    "topic": [
+      "Change Management",
+      "Change Fatigue"
+    ],
+    "Question": {
+      "content": "What is 'Change Fatigue'?",
+      "type": "OBJ",
+      "options": [
+        "A situation where employees become resistant due to frequent changes",
+        "A process of training employees to adapt to new technology",
+        "The overall success of a change initiative",
+        "The increased engagement of employees in change efforts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A situation where employees become resistant due to frequent changes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Too Much Change</h4>\n <p>When organizations implement change initiatives too frequently or rapidly, employees can become exhausted, cynical, and disengaged. This <strong>change fatigue</strong> leads to resistance and reduces the effectiveness of new changes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 139",
+    "topic": [
+      "Change Management",
+      "Tools"
+    ],
+    "Question": {
+      "content": "Which of the following is a tool used in Change Management to assess the impact of change on stakeholders?",
+      "type": "OBJ",
+      "options": [
+        "SWOT analysis",
+        "Stakeholder analysis",
+        "Brainstorming",
+        "PESTLE analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stakeholder analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stakeholder Analysis</h4>\n <p><strong>Stakeholder analysis</strong> identifies all parties affected by a change, assesses their interests and influence, and predicts how they might react. This helps change managers plan communication and engagement strategies.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 140",
+    "topic": [
+      "Change Management",
+      "Success Factors"
+    ],
+    "Question": {
+      "content": "Which of the following is a key success factor in managing change effectively?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding communication with employees",
+        "Involving employees in the change process",
+        "Focusing on short-term goals only",
+        "Implementing changes without feedback"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Involving employees in the change process"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Employee Involvement</h4>\n <p>When employees are <strong>included in planning and implementing change</strong>, they feel ownership rather than feeling that change is being imposed on them. This reduces resistance, increases buy-in, and improves the chances of successful change.</p>\n</div>"
+    }
+  },
+  
+  
+  
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit 8",
+    "Subheading": "Starting a Business and Forms of Enterprise"
+  },
+  {
+    "type": "Question",
+    "name": "Question 141",
+    "topic": [
+      "Starting a Business",
+      "Process"
+    ],
+    "Question": {
+      "content": "Which of the following is the first step in starting a business?",
+      "type": "OBJ",
+      "options": [
+        "Registering the business",
+        "Writing a business plan",
+        "Obtaining financing",
+        "Hiring employees"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Writing a business plan"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Starting Point</h4>\n <p>Before registering, getting funding, or hiring, an entrepreneur needs a <strong>clear plan</strong>. A business plan outlines the idea, market research, operations, and financial projections. It guides all subsequent steps and is essential for convincing investors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 142",
+    "topic": [
+      "Sole Proprietorship",
+      "Business Structures"
+    ],
+    "Question": {
+      "content": "Which of these is a characteristic of a sole proprietorship?",
+      "type": "OBJ",
+      "options": [
+        "Separate legal identity from the owner",
+        "Shared management control",
+        "Unlimited liability for debts",
+        "Limited liability for debts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unlimited liability for debts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sole Proprietorship Characteristic</h4>\n <p>In a sole proprietorship, the business and the owner are legally the same. This means the owner has <strong>unlimited liability</strong>—they are personally responsible for all business debts. If the business can't pay, creditors can take the owner's personal assets.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 143",
+    "topic": [
+      "Partnership",
+      "Business Structures"
+    ],
+    "Question": {
+      "content": "What is the main advantage of a partnership?",
+      "type": "OBJ",
+      "options": [
+        "Limited liability",
+        "Tax exemption",
+        "Shared responsibility and resources",
+        "Centralized control"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shared responsibility and resources"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Partnership Benefits</h4>\n <p>Partners combine their <strong>skills, knowledge, and financial resources</strong>. They also share the workload and decision-making. This pooling of resources is the main advantage over going it alone in a sole proprietorship.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 144",
+    "topic": [
+      "Limited Liability Company",
+      "Business Structures"
+    ],
+    "Question": {
+      "content": "Which form of enterprise is most suitable for large-scale businesses requiring significant capital investment?",
+      "type": "OBJ",
+      "options": [
+        "Sole proprietorship",
+        "Partnership",
+        "Limited Liability Company (LLC)",
+        "Cooperative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited Liability Company (LLC)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Large-Scale Business Structure</h4>\n <p>An LLC (or corporation) is best for large businesses because it can <strong>raise capital by selling shares or bringing in many investors</strong> while providing limited liability protection. Sole proprietorships and partnerships have limited capacity to raise large funds.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 145",
+    "topic": [
+      "LLC",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What does LLC stand for?",
+      "type": "OBJ",
+      "options": [
+        "Limited Liability Corporation",
+        "Local Limited Company",
+        "Limited Liability Company",
+        "Large Liability Company"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited Liability Company"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>LLC Meaning</h4>\n <p>LLC stands for <strong>Limited Liability Company</strong>. It's a business structure that combines the pass-through taxation of a partnership with the limited liability protection of a corporation. Owners are called members.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 146",
+    "topic": [
+      "Partnership",
+      "Business Structures"
+    ],
+    "Question": {
+      "content": "In which type of business structure do owners share profits and losses equally unless otherwise agreed?",
+      "type": "OBJ",
+      "options": [
+        "Sole proprietorship",
+        "Partnership",
+        "Corporation",
+        "Franchise"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Partnership"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Partnership Profit Sharing</h4>\n <p>In a general partnership, unless a partnership agreement states otherwise, <strong>profits and losses are shared equally</strong> among partners. This default rule can be modified by a written agreement specifying different percentages.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 147",
+    "topic": [
+      "Sole Proprietorship",
+      "Disadvantages"
+    ],
+    "Question": {
+      "content": "What is the primary disadvantage of a sole proprietorship?",
+      "type": "OBJ",
+      "options": [
+        "Complex tax structure",
+        "Limited control over decision-making",
+        "Unlimited personal liability",
+        "Difficulty in raising capital"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unlimited personal liability"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Biggest Drawback</h4>\n <p>The main disadvantage is <strong>unlimited personal liability</strong>. The owner is personally responsible for all business debts and legal claims. Personal assets like a house or car can be seized to pay business obligations. Difficulty raising capital is also a disadvantage, but liability is often considered primary.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 148",
+    "topic": [
+      "Limited Liability Company",
+      "Business Structures"
+    ],
+    "Question": {
+      "content": "Which business structure offers limited liability protection to its owners?",
+      "type": "OBJ",
+      "options": [
+        "Sole proprietorship",
+        "Partnership",
+        "Limited Liability Company (LLC)",
+        "General partnership"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited Liability Company (LLC)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Limited Liability</h4>\n <p>An LLC provides <strong>limited liability protection</strong>, meaning owners (members) are not personally responsible for business debts and lawsuits. Their risk is limited to the money they invested in the company. Sole proprietorships and general partnerships have unlimited liability.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 149",
+    "topic": [
+      "Franchise",
+      "Business Structures"
+    ],
+    "Question": {
+      "content": "A franchise agreement involves:",
+      "type": "OBJ",
+      "options": [
+        "Owning a business with no established brand",
+        "Using an established business's brand and business model",
+        "Forming a cooperative business with shared ownership",
+        "Owning a business without liability"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using an established business's brand and business model"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Franchise Definition</h4>\n <p>A franchise is a license that allows a franchisee to <strong>operate a business using the franchisor's brand, systems, and support</strong> in exchange for fees. Examples include McDonald's or Subway. The franchisee owns the business but follows the established model.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 150",
+    "topic": [
+      "Business Structures",
+      "Types"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a form of business enterprise?",
+      "type": "OBJ",
+      "options": [
+        "Sole proprietorship",
+        "Corporation",
+        "Limited Liability Partnership (LLP)",
+        "Consumer cooperative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Consumer cooperative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Forms</h4>\n <p>All options except one are valid business structures. Sole proprietorship, corporation, and LLP are standard forms. However, <strong>consumer cooperative</strong> is a type of <em>cooperative</em> business model, not a separate fundamental form of enterprise. Cooperatives themselves are a form, but \"consumer cooperative\" specifies a type of cooperative.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 151",
+    "topic": [
+      "Corporation",
+      "Advantages"
+    ],
+    "Question": {
+      "content": "Which of the following is an advantage of a corporation?",
+      "type": "OBJ",
+      "options": [
+        "Flexibility in management",
+        "Limited liability",
+        "Simple tax structure",
+        "Direct control by owners"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited liability"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Corporate Advantage</h4>\n <p>The key advantage of a corporation is <strong>limited liability</strong> for shareholders. They can only lose what they invested. Corporations also have unlimited life and easy transfer of ownership. However, they have complex tax structures and less direct owner control.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 152",
+    "topic": [
+      "Cooperative",
+      "Business Structures"
+    ],
+    "Question": {
+      "content": "What type of business is best suited for members who want to provide goods and services for their mutual benefit?",
+      "type": "OBJ",
+      "options": [
+        "Corporation",
+        "Partnership",
+        "Cooperative",
+        "Sole proprietorship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cooperative"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cooperative Purpose</h4>\n <p>A <strong>cooperative</strong> is owned and operated by its members, who use its services or goods. They exist to benefit members, not to maximize profit for outside investors. Examples include agricultural co-ops, credit unions, and housing co-ops.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 153",
+    "topic": [
+      "Cooperative",
+      "Features"
+    ],
+    "Question": {
+      "content": "Which of the following is a key feature of a cooperative business?",
+      "type": "OBJ",
+      "options": [
+        "Shared ownership and decision-making",
+        "Single individual ownership",
+        "Limited liability",
+        "Public trading of shares"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Shared ownership and decision-making"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cooperative Feature</h4>\n <p>Cooperatives operate on the principle of <strong>one member, one vote</strong>. Members collectively own the business and participate in democratic decision-making. This shared ownership distinguishes them from investor-owned corporations.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 154",
+    "topic": [
+      "Partnership",
+      "Legal Documents"
+    ],
+    "Question": {
+      "content": "The legal document that outlines the responsibilities, rights, and obligations of partners in a business is called:",
+      "type": "OBJ",
+      "options": [
+        "Partnership agreement",
+        "Memorandum of association",
+        "Shareholder agreement",
+        "Business charter"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Partnership agreement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Partnership Agreement</h4>\n <p>A <strong>partnership agreement</strong> is a contract between partners that specifies profit sharing, decision-making authority, dispute resolution, and what happens if a partner leaves. It's essential for preventing conflicts.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 155",
+    "topic": [
+      "Partnership",
+      "Disadvantages"
+    ],
+    "Question": {
+      "content": "What is a significant drawback of a partnership?",
+      "type": "OBJ",
+      "options": [
+        "Limited liability",
+        "The possibility of management disputes",
+        "Difficulty in raising capital",
+        "High tax rates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The possibility of management disputes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Partnership Challenges</h4>\n <p>With multiple owners comes the risk of <strong>disagreements over strategy, money, or work distribution</strong>. These disputes can paralyze the business. While difficulty raising capital is also a drawback, management conflicts are a significant human challenge.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 156",
+    "topic": [
+      "Corporation",
+      "Legal Requirements"
+    ],
+    "Question": {
+      "content": "Which business structure requires the owners to file articles of incorporation with the government?",
+      "type": "OBJ",
+      "options": [
+        "Corporation",
+        "Sole proprietorship",
+        "Cooperative",
+        "Limited Liability Company (LLC)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Corporation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Articles of Incorporation</h4>\n <p>To form a corporation, founders must file <strong>articles of incorporation</strong> with the state government. This document includes the company's name, purpose, stock structure, and registered agent. Sole proprietorships require no formal filing.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 157",
+    "topic": [
+      "Corporation",
+      "Capital Raising"
+    ],
+    "Question": {
+      "content": "Which business structure can issue shares of stock to raise capital?",
+      "type": "OBJ",
+      "options": [
+        "Sole proprietorship",
+        "Partnership",
+        "Corporation",
+        "Franchise"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Corporation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stock Issuance</h4>\n <p>Only <strong>corporations</strong> can issue shares of stock to raise capital from investors. This ability to sell ownership stakes makes corporations the best structure for raising large amounts of money from many investors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 158",
+    "topic": [
+      "Corporation",
+      "Liability"
+    ],
+    "Question": {
+      "content": "Which of the following describes the liability of owners in a corporation?",
+      "type": "OBJ",
+      "options": [
+        "Owners have unlimited liability for the corporation's debts",
+        "Owners are liable only up to the amount they invest",
+        "Owners are not liable for any debts",
+        "Owners are liable for half of the corporation's debts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Owners are liable only up to the amount they invest"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Limited Liability</h4>\n <p>In a corporation, shareholders enjoy <strong>limited liability</strong>. This means they can only lose the money they invested in purchasing shares. Their personal assets are protected if the corporation cannot pay its debts. This is a key advantage of the corporate structure.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 159",
+    "topic": [
+      "Limited Liability Partnership",
+      "Liability"
+    ],
+    "Question": {
+      "content": "In a limited liability partnership (LLP), who is liable for the debts of the business?",
+      "type": "OBJ",
+      "options": [
+        "The general partners only",
+        "The limited partners only",
+        "Both general and limited partners",
+        "None of the partners are personally liable"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "None of the partners are personally liable"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>LLP Liability</h4>\n <p>In an LLP, all partners have <strong>limited liability protection</strong>. They are not personally responsible for business debts beyond their investment. This differs from a general partnership where partners have unlimited liability. The LLP itself is responsible for its debts.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 160",
+    "topic": [
+      "Business Plan",
+      "Purpose"
+    ],
+    "Question": {
+      "content": "What is the primary purpose of writing a business plan?",
+      "type": "OBJ",
+      "options": [
+        "To secure government funding",
+        "To outline the goals and operations of the business",
+        "To list the legal requirements for starting the business",
+        "To attract employees to the business"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To outline the goals and operations of the business"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Plan Purpose</h4>\n <p>A business plan is a <strong>roadmap for the business</strong>. It describes the business idea, target market, competitive analysis, marketing strategy, operations, and financial projections. While it can help secure funding, its primary purpose is to guide the entrepreneur.</p>\n</div>"
+    }
+  }
+  
+  
+  
+  
+  
+  
+]

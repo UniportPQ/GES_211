@@ -1,0 +1,1616 @@
+[{
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Introduction to Entrepreneurship",
+    "code": "GES 211",
+    "session": "Unit 8b-10",
+    "topics": ["Nigeria", "Business Registration", "CAC", "Business Name Registration", "Limited Liability Company", "Registration Documents", "Business Setup", "TIN", "FIRS", "Business Licenses", "CAMA", "Business Law", "Directors", "Taxation", "Employment", "Business Structures", "Registration", "Business Plan", "Regulation", "SMEDAN", "NEPC", "Export", "Government Contracts", "NAFDAC", "Capital Requirements", "Challenges", "Small Business", "Feasibility Study", "Purpose", "Components", "Process", "Technical Feasibility", "Business Model", "Break-Even Analysis", "Market Feasibility", "Executive Summary", "Risk Factors", "Financial Projections", "Market Analysis", "Financial Feasibility", "SWOT Analysis", "Organizational Feasibility", "Risk Analysis", "Cash Flow Statement", "Entrepreneurship Challenges", "Africa", "Entrepreneurship Barriers", "Technology", "Entrepreneurship", "Startup Success Factors", "Entrepreneurship Failure", "Tech Startups", "Global Entrepreneurship", "Crowdfunding", "Intellectual Property", "Developing Countries", "Entrepreneurial Ecosystem", "Contemporary Issues", "Japa", "Trends", "Digital Platforms", "Funding Challenges", "Economic Development", "Social Entrepreneurship", "Infrastructure", "Disruptive Innovation", "Entrepreneurship Trends", "Entrepreneurship Advantages"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Pick the correct answer"
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Eight",
+    "subheading": "Formalities and Procedure for Setting Up a Small Business Enterprise in Nigeria"
+  },
+  {
+    "type": "Question",
+    "name": "Question 161",
+    "topic": [
+      "Nigeria",
+      "Business Registration"
+    ],
+    "Question": {
+      "content": "What is the first step in setting up a small business in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Registering with the Corporate Affairs Commission (CAC)",
+        "Opening a business bank account",
+        "Obtaining a tax identification number (TIN)",
+        "Identifying a target market"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identifying a target market"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>First Step</h4>\n <p>Before any legal registration, an entrepreneur must first <strong>identify who their customers will be</strong> (target market) and validate that there's demand for their product or service. All other steps follow from this foundational business planning.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 162",
+    "topic": [
+      "Nigeria",
+      "CAC",
+      "Business Registration"
+    ],
+    "Question": {
+      "content": "Which agency is responsible for registering businesses in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Federal Inland Revenue Service (FIRS)",
+        "Corporate Affairs Commission (CAC)",
+        "Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)",
+        "National Agency for Food and Drug Administration and Control (NAFDAC)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Corporate Affairs Commission (CAC)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Registration Agency</h4>\n <p>The <strong>Corporate Affairs Commission (CAC)</strong> is the Nigerian government agency that regulates and registers all businesses in the country. Every company, business name, or incorporated trustee must register with the CAC.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 163",
+    "topic": [
+      "Nigeria",
+      "Business Name Registration",
+      "CAC"
+    ],
+    "Question": {
+      "content": "What is required for registering a business name with the CAC?",
+      "type": "OBJ",
+      "options": [
+        "Proof of citizenship",
+        "Business plan",
+        "A minimum capital requirement",
+        "Unique business name"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Unique business name"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Name Requirement</h4>\n <p>To register a business name, you need a <strong>unique name that is not already taken</strong> by another registered business. The CAC checks availability. Other requirements include completed forms and identification, but a unique name is essential.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 164",
+    "topic": [
+      "Nigeria",
+      "Limited Liability Company",
+      "Registration Documents"
+    ],
+    "Question": {
+      "content": "Which of the following is a necessary document for registering a limited liability company in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Memorandum and Articles of Association",
+        "Business permit",
+        "Tax clearance certificate",
+        "Letter of recommendation from a bank"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Memorandum and Articles of Association"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Required Documents</h4>\n <p>To register an LLC in Nigeria, you must file <strong>Memorandum and Articles of Association</strong>. The Memorandum outlines the company's structure and objectives, while the Articles contain rules for internal management.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 165",
+    "topic": [
+      "Nigeria",
+      "Business Setup"
+    ],
+    "Question": {
+      "content": "Which of the following is not typically required when setting up a small business in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Business name registration",
+        "Opening a business bank account",
+        "Employment of at least 10 staff",
+        "Obtaining a Tax Identification Number (TIN)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Employment of at least 10 staff"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Not Required</h4>\n <p>There is <strong>no minimum staff requirement</strong> to start a small business. You can start alone and hire as you grow. Registration, bank account, and TIN are typical requirements, but staff count is flexible.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 166",
+    "topic": [
+      "Nigeria",
+      "TIN",
+      "FIRS"
+    ],
+    "Question": {
+      "content": "To obtain a Tax Identification Number (TIN) in Nigeria, which agency should be contacted?",
+      "type": "OBJ",
+      "options": [
+        "Federal Inland Revenue Service (FIRS)",
+        "Corporate Affairs Commission (CAC)",
+        "National Industrial Court (NIC)",
+        "Nigerian Investment Promotion Commission (NIPC)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Federal Inland Revenue Service (FIRS)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>TIN Issuance</h4>\n <p>The <strong>Federal Inland Revenue Service (FIRS)</strong> is responsible for issuing Tax Identification Numbers in Nigeria. The TIN is required for tax purposes and is necessary for opening bank accounts and filing taxes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 167",
+    "topic": [
+      "Nigeria",
+      "Business Licenses"
+    ],
+    "Question": {
+      "content": "Which of the following licenses might a small business in Nigeria need to obtain?",
+      "type": "OBJ",
+      "options": [
+        "Import/export license",
+        "NAFDAC registration for food and drugs",
+        "Business operating permit",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Required Licenses</h4>\n <p>The licenses needed depend on the business type. Import/export businesses need special licenses, food businesses need <strong>NAFDAC registration</strong>, and many local businesses need operating permits from local government. All may be required depending on the business.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 168",
+    "topic": [
+      "Nigeria",
+      "CAMA",
+      "Business Law"
+    ],
+    "Question": {
+      "content": "Which law governs the registration and operation of businesses in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Nigerian Companies Act",
+        "Companies and Allied Matters Act (CAMA)",
+        "National Business Registration Act",
+        "Nigerian Business Code"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Companies and Allied Matters Act (CAMA)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Governing Law</h4>\n <p>The <strong>Companies and Allied Matters Act (CAMA)</strong> is the primary legislation in Nigeria that regulates the formation, registration, and operation of companies. It provides the legal framework for all business entities in the country.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 169",
+    "topic": [
+      "Nigeria",
+      "Limited Liability Company",
+      "Directors"
+    ],
+    "Question": {
+      "content": "What is the minimum number of directors required to set up a limited liability company in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "One",
+        "Two",
+        "Three",
+        "Four"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Minimum Directors</h4>\n <p>Under CAMA, a private limited liability company in Nigeria must have a <strong>minimum of two directors</strong>. Public companies require more. Both directors must be individuals (not companies) and at least one must be a Nigerian resident.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 170",
+    "topic": [
+      "Nigeria",
+      "Taxation",
+      "Employment"
+    ],
+    "Question": {
+      "content": "Which of the following is required by the Nigerian tax authorities for businesses with employees?",
+      "type": "OBJ",
+      "options": [
+        "Filing of annual tax returns",
+        "Payment of VAT",
+        "Registration with the National Social Insurance Trust Fund (NSITF)",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Employer Obligations</h4>\n <p>Businesses with employees in Nigeria must comply with multiple requirements: <strong>file annual tax returns</strong> for employees (PAYE), <strong>remit VAT</strong> on applicable goods/services, and <strong>register with NSITF</strong> for employee compensation schemes. All are mandatory.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 171",
+    "topic": [
+      "Nigeria",
+      "Business Structures",
+      "Registration"
+    ],
+    "Question": {
+      "content": "What type of business structure is the easiest to register in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Limited liability company",
+        "Sole proprietorship",
+        "Partnership",
+        "Cooperative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sole proprietorship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Easiest to Register</h4>\n <p>A <strong>sole proprietorship</strong> (registering a business name) is the simplest and least expensive business structure to register in Nigeria. It requires fewer documents and lower fees compared to registering a limited liability company or cooperative.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 172",
+    "topic": [
+      "Business Plan",
+      "Nigeria"
+    ],
+    "Question": {
+      "content": "Which of the following is a key consideration when writing a business plan for a small business in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Choosing a business name",
+        "Identifying the target market",
+        "Registering for tax",
+        "Obtaining a business permit"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identifying the target market"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Plan Focus</h4>\n <p>A business plan is a strategic document, not a registration form. <strong>Identifying the target market</strong> is a core component of the market analysis section. Choosing a name, tax registration, and permits are operational/legal steps, not typically part of the business plan itself.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 173",
+    "topic": [
+      "Nigeria",
+      "CAC",
+      "Regulation"
+    ],
+    "Question": {
+      "content": "Which government body regulates the establishment of small businesses in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Federal Ministry of Industry, Trade, and Investment",
+        "Nigerian Investment Promotion Commission (NIPC)",
+        "Corporate Affairs Commission (CAC)",
+        "National Board for Technology Incubation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Corporate Affairs Commission (CAC)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Regulatory Body</h4>\n <p>The <strong>Corporate Affairs Commission (CAC)</strong> is the primary regulatory body responsible for the registration and regulation of all businesses in Nigeria, including small businesses. Other agencies may provide support or sector-specific oversight, but CAC handles establishment.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 174",
+    "topic": [
+      "Nigeria",
+      "Business Name Registration"
+    ],
+    "Question": {
+      "content": "When applying for a business name in Nigeria, which of the following should be provided?",
+      "type": "OBJ",
+      "options": [
+        "A passport photo",
+        "Proof of tax payment",
+        "Two proposed business names",
+        "Business office location"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Two proposed business names"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Name Reservation</h4>\n <p>When registering a business name, you must submit <strong>at least two proposed names</strong> in order of preference. This is because your first choice may already be taken. The CAC will check availability and reserve an available name.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 175",
+    "topic": [
+      "Nigeria",
+      "SMEDAN"
+    ],
+    "Question": {
+      "content": "What does the acronym SMEDAN stand for?",
+      "type": "OBJ",
+      "options": [
+        "Small and Medium Enterprises Development Agency of Nigeria",
+        "Small and Micro Enterprise Development Agency of Nigeria",
+        "Small and Modern Enterprise Development Agency of Nigeria",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small and Medium Enterprises Development Agency of Nigeria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>SMEDAN Meaning</h4>\n <p><strong>SMEDAN</strong> stands for the <strong>Small and Medium Enterprises Development Agency of Nigeria</strong>. It is a government agency established to promote and develop the MSME (Micro, Small and Medium Enterprises) sector in Nigeria.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 176",
+    "topic": [
+      "Nigeria",
+      "NEPC",
+      "Export"
+    ],
+    "Question": {
+      "content": "What is the function of the Nigerian Export Promotion Council (NEPC) for small businesses?",
+      "type": "OBJ",
+      "options": [
+        "Issuing business permits",
+        "Facilitating export-related services and support",
+        "Regulating foreign investment",
+        "Providing business loans"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Facilitating export-related services and support"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NEPC Role</h4>\n <p>The <strong>Nigerian Export Promotion Council (NEPC)</strong> is the government agency responsible for promoting non-oil exports. For small businesses, it provides <strong>training, market information, and support services</strong> to help them export their products.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 177",
+    "topic": [
+      "Nigeria",
+      "Government Contracts",
+      "TIN"
+    ],
+    "Question": {
+      "content": "Which document is essential for conducting business with the Nigerian government?",
+      "type": "OBJ",
+      "options": [
+        "Certificate of Incorporation",
+        "NAFDAC registration",
+        "Business address verification",
+        "Tax Identification Number (TIN)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tax Identification Number (TIN)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Required for Government Business</h4>\n <p>A <strong>Tax Identification Number (TIN)</strong> is mandatory for any business seeking to do business with the Nigerian government. It is required for bidding on contracts, receiving payments, and tax compliance. While incorporation may also be needed, TIN is essential for tax purposes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 178",
+    "topic": [
+      "Nigeria",
+      "NAFDAC",
+      "Regulation"
+    ],
+    "Question": {
+      "content": "Which type of business requires registration with NAFDAC before operation in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Manufacturing companies",
+        "Retailers",
+        "Food and drug businesses",
+        "Service-based companies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Food and drug businesses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NAFDAC Requirement</h4>\n <p><strong>NAFDAC</strong> (National Agency for Food and Drug Administration and Control) regulates and controls the manufacture, importation, and sale of food, drugs, cosmetics, and medical devices. Any business dealing with these products must register with NAFDAC.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 179",
+    "topic": [
+      "Nigeria",
+      "Limited Liability Company",
+      "Capital Requirements"
+    ],
+    "Question": {
+      "content": "In Nigeria, what is the minimum capital requirement for setting up a small business as a limited liability company?",
+      "type": "OBJ",
+      "options": [
+        "₦50,000",
+        "₦100,000",
+        "₦1,000,000",
+        "There is no minimum capital requirement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "There is no minimum capital requirement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>No Minimum Capital</h4>\n <p>Under CAMA, there is <strong>no statutory minimum share capital</strong> requirement for private limited liability companies in Nigeria. Companies can state any amount in their incorporation documents, though practical considerations may apply.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 180",
+    "topic": [
+      "Nigeria",
+      "Challenges",
+      "Small Business"
+    ],
+    "Question": {
+      "content": "Which of the following is a common challenge faced by small business owners in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "High tax rates",
+        "Inadequate access to finance",
+        "Poor infrastructure",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Common Challenges</h4>\n <p>Small businesses in Nigeria face multiple challenges including <strong>high tax burden, difficulty accessing loans and credit, poor infrastructure</strong> (power, roads), regulatory hurdles, and multiple taxation. These combine to create a difficult operating environment.</p>\n</div>"
+    }
+  },
+  
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Nine",
+    "subheading": "Feasibility Studies and Business Plan"
+  },
+  {
+    "type": "Question",
+    "name": "Question 181",
+    "topic": [
+      "Feasibility Study",
+      "Purpose"
+    ],
+    "Question": {
+      "content": "What is the primary purpose of a feasibility study?",
+      "type": "OBJ",
+      "options": [
+        "To assess the profitability of a business idea",
+        "To identify potential risks of a project",
+        "To evaluate the market demand for a product",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Feasibility Study Purpose</h4>\n <p>A feasibility study is a comprehensive analysis that evaluates <strong>all aspects of a proposed project</strong>: technical feasibility, market demand, financial viability, and potential risks. Its purpose is to determine whether the project should proceed.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 182",
+    "topic": [
+      "Business Plan",
+      "Components"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT typically included in a business plan?",
+      "type": "OBJ",
+      "options": [
+        "Market analysis",
+        "Financial projections",
+        "Company ownership structure",
+        "Marketing strategies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Company ownership structure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Plan Contents</h4>\n <p>A standard business plan includes <strong>market analysis, financial projections, and marketing strategies</strong>. While ownership structure may be mentioned briefly, detailed ownership information is typically covered in legal formation documents, not the business plan itself.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 183",
+    "topic": [
+      "Business Plan",
+      "Purpose"
+    ],
+    "Question": {
+      "content": "A business plan is a document for:",
+      "type": "OBJ",
+      "options": [
+        "Starting a business",
+        "Acquiring funding from investors or banks",
+        "Defining the operational strategy",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Purpose of a Business Plan</h4>\n <p>A business plan serves multiple purposes. It acts as a <strong>roadmap for starting and running the business</strong>, a <strong>tool to convince investors or banks to provide funding</strong>, and a document that <strong>defines the operational strategy</strong> including marketing, operations, and finances.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 184",
+    "topic": [
+      "Feasibility Study",
+      "Process"
+    ],
+    "Question": {
+      "content": "What is the first step in conducting a feasibility study?",
+      "type": "OBJ",
+      "options": [
+        "Market analysis",
+        "Financial analysis",
+        "Identifying the problem or opportunity",
+        "Developing a project timeline"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Identifying the problem or opportunity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>First Step</h4>\n <p>Before analyzing anything, you must <strong>clearly define what you're studying</strong>. The first step is identifying the problem your business will solve or the opportunity you're pursuing. All other analyses (market, technical, financial) depend on this clear definition.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 185",
+    "topic": [
+      "Feasibility Study",
+      "Technical Feasibility"
+    ],
+    "Question": {
+      "content": "In a feasibility study, the technical feasibility refers to:",
+      "type": "OBJ",
+      "options": [
+        "The potential market demand for the product",
+        "The ability to create the product or service with existing technology",
+        "The financial returns of the project",
+        "The legal requirements of the project"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The ability to create the product or service with existing technology"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Technical Feasibility</h4>\n <p>Technical feasibility asks: <strong>Can we actually build this?</strong> It examines whether the required technology, materials, expertise, and production capabilities exist to create the product or deliver the service as planned.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 186",
+    "topic": [
+      "Business Plan",
+      "Business Model"
+    ],
+    "Question": {
+      "content": "Which section of a business plan describes how the business will make money?",
+      "type": "OBJ",
+      "options": [
+        "Executive Summary",
+        "Business Model",
+        "Market Analysis",
+        "Financial Plan"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Business Model"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Revenue Generation</h4>\n <p>The <strong>business model</strong> section explains the logic of how the business creates, delivers, and captures value. It describes revenue streams (how money comes in), pricing strategy, and the overall approach to profitability.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 187",
+    "topic": [
+      "Business Plan",
+      "Break-Even Analysis"
+    ],
+    "Question": {
+      "content": "A break-even analysis is used to determine:",
+      "type": "OBJ",
+      "options": [
+        "The minimum sales needed to cover expenses",
+        "The maximum potential profit",
+        "The cost of developing a product",
+        "The price to charge customers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The minimum sales needed to cover expenses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Break-Even Point</h4>\n <p>Break-even analysis calculates the point where <strong>total revenue equals total costs</strong> (fixed + variable). Below this sales level, the business loses money; above it, it makes a profit. It helps determine the minimum sales needed to survive.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 188",
+    "topic": [
+      "Feasibility Study",
+      "Market Feasibility"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of market feasibility?",
+      "type": "OBJ",
+      "options": [
+        "Determining if the product can be manufactured using existing technology",
+        "Analyzing the potential customer base and market demand",
+        "Estimating the financial requirements of the project",
+        "Assessing the environmental impact of the project"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Analyzing the potential customer base and market demand"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Market Feasibility</h4>\n <p><strong>Market feasibility</strong> examines whether there's enough demand for your product. It involves analyzing target customers, market size, competition, and growth potential. The other options are technical, financial, and environmental feasibility respectively.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 189",
+    "topic": [
+      "Business Plan",
+      "Executive Summary"
+    ],
+    "Question": {
+      "content": "The executive summary of a business plan:",
+      "type": "OBJ",
+      "options": [
+        "Provides a detailed description of the business",
+        "Summarizes the key points of the plan for potential investors",
+        "Lists the target market and competitors",
+        "Explains the business's legal structure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Summarizes the key points of the plan for potential investors"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Executive Summary Purpose</h4>\n <p>The executive summary is a <strong>brief overview of the entire business plan</strong>. It highlights the most important points: business concept, market opportunity, financial highlights, and funding needs. It's often the only part investors read initially.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 190",
+    "topic": [
+      "Feasibility Study",
+      "Risk Factors"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a common risk factor in feasibility studies?",
+      "type": "OBJ",
+      "options": [
+        "Technological limitations",
+        "Legal and regulatory compliance",
+        "Political stability",
+        "Brand recognition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brand recognition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Risk Factors</h4>\n <p>Common risks in feasibility studies include <strong>technological risks</strong> (can we build it?), <strong>legal/regulatory risks</strong> (are there laws against it?), and <strong>political risks</strong> (will government stability affect operations?). Brand recognition is a marketing consideration, not typically a primary risk factor in feasibility.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 191",
+    "topic": [
+      "Business Plan",
+      "Financial Projections"
+    ],
+    "Question": {
+      "content": "A financial projection in a business plan typically includes:",
+      "type": "OBJ",
+      "options": [
+        "Market research",
+        "Expected income and expenses",
+        "Product design plans",
+        "Employee roles and responsibilities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Expected income and expenses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Financial Projections</h4>\n <p>Financial projections forecast the business's financial future. They include <strong>income statements</strong> (revenue and expenses), <strong>cash flow statements</strong>, and <strong>balance sheets</strong>. They show expected profitability and financial health.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 192",
+    "topic": [
+      "Business Plan",
+      "Market Analysis"
+    ],
+    "Question": {
+      "content": "What is market analysis used for in a business plan?",
+      "type": "OBJ",
+      "options": [
+        "To evaluate the target audience and competition",
+        "To determine the legal structure of the business",
+        "To assess the financial feasibility of the business",
+        "To outline the management structure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To evaluate the target audience and competition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Market Analysis Purpose</h4>\n <p><strong>Market analysis</strong> examines who your customers are (demographics, behaviors), market size and trends, and competitive landscape. This information validates that there's sufficient demand and helps shape marketing strategy.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 193",
+    "topic": [
+      "Feasibility Study",
+      "Financial Feasibility"
+    ],
+    "Question": {
+      "content": "Which type of feasibility refers to assessing if the business idea can be profitable?",
+      "type": "OBJ",
+      "options": [
+        "Financial feasibility",
+        "Market feasibility",
+        "Technical feasibility",
+        "Organizational feasibility"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Financial feasibility"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Financial Feasibility</h4>\n <p><strong>Financial feasibility</strong> determines whether the project makes economic sense. It involves estimating startup costs, operating expenses, revenue projections, and calculating profitability metrics like return on investment and break-even point.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 194",
+    "topic": [
+      "Business Plan",
+      "Business Model"
+    ],
+    "Question": {
+      "content": "A business model in a business plan defines:",
+      "type": "OBJ",
+      "options": [
+        "The company's goals and objectives",
+        "How the business will operate and generate revenue",
+        "The target market and competition",
+        "The company's legal structure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "How the business will operate and generate revenue"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Model</h4>\n <p>The business model describes the <strong>logic of how the business works</strong>. It covers value proposition, revenue streams, cost structure, key activities, and partnerships. It answers: What do we sell? Who do we sell to? How do we get paid?</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 195",
+    "topic": [
+      "Business Plan",
+      "SWOT Analysis"
+    ],
+    "Question": {
+      "content": "The SWOT analysis in a business plan is used to identify:",
+      "type": "OBJ",
+      "options": [
+        "Strengths, Weaknesses, Opportunities, and Threats",
+        "Sales, Workload, Output, and Trends",
+        "Suppliers, Workers, Owners, and Target market",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Strengths, Weaknesses, Opportunities, and Threats"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>SWOT Analysis</h4>\n <p><strong>SWOT</strong> is a strategic planning tool. <strong>Strengths and Weaknesses</strong> are internal factors (what the business does well or poorly). <strong>Opportunities and Threats</strong> are external factors (market trends, competition, regulations).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 196",
+    "topic": [
+      "Feasibility Study",
+      "Financial Feasibility"
+    ],
+    "Question": {
+      "content": "Which of the following is true about financial feasibility?",
+      "type": "OBJ",
+      "options": [
+        "It helps in determining if the business can afford to pay its expenses",
+        "It only looks at the revenue projections",
+        "It only considers fixed costs",
+        "It is irrelevant to a business plan"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It helps in determining if the business can afford to pay its expenses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Financial Feasibility</h4>\n <p>Financial feasibility assesses whether the business can generate enough cash to <strong>cover all expenses and remain solvent</strong>. It considers both fixed and variable costs, revenue from all sources, and capital requirements. It's essential to any business plan.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 197",
+    "topic": [
+      "Business Plan",
+      "Market Analysis"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT typically part of a business plan's market analysis?",
+      "type": "OBJ",
+      "options": [
+        "Target market demographics",
+        "Competitor analysis",
+        "Sales forecasting",
+        "Legal requirements"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Legal requirements"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Market Analysis Contents</h4>\n <p>Market analysis focuses on understanding customers and competition. It includes <strong>target market demographics, competitor analysis, and sales forecasting</strong>. Legal requirements belong in a separate section about regulatory compliance, not market analysis.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 198",
+    "topic": [
+      "Feasibility Study",
+      "Organizational Feasibility"
+    ],
+    "Question": {
+      "content": "What is organizational feasibility in a business plan?",
+      "type": "OBJ",
+      "options": [
+        "Assessing whether the market is large enough",
+        "Examining whether the business can be managed with available resources",
+        "Analyzing the product's profitability",
+        "Identifying the technology needed to run the business"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Examining whether the business can be managed with available resources"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Organizational Feasibility</h4>\n <p><strong>Organizational feasibility</strong> assesses whether the business has or can acquire the <strong>management expertise, team skills, and organizational structure</strong> needed to successfully operate. It asks: Do we have the right people to run this?</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 199",
+    "topic": [
+      "Feasibility Study",
+      "Risk Analysis"
+    ],
+    "Question": {
+      "content": "Risk analysis in a feasibility study helps identify:",
+      "type": "OBJ",
+      "options": [
+        "The potential for success or failure of the project",
+        "The total investment required",
+        "The business's target customers",
+        "The organizational structure of the business"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The potential for success or failure of the project"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Risk Analysis Purpose</h4>\n <p><strong>Risk analysis</strong> identifies potential problems that could derail the project and assesses their likelihood and impact. It helps entrepreneurs understand <strong>what could go wrong</strong> and develop contingency plans to improve chances of success.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 200",
+    "topic": [
+      "Business Plan",
+      "Cash Flow Statement"
+    ],
+    "Question": {
+      "content": "A cash flow statement in a business plan is used to:",
+      "type": "OBJ",
+      "options": [
+        "Predict the future growth of the business",
+        "Track the business's revenue and expenses",
+        "Identify the business's potential customers",
+        "Calculate the market share"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Track the business's revenue and expenses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cash Flow Statement</h4>\n <p>A <strong>cash flow statement</strong> shows the actual inflows and outflows of cash over time. It tracks when money comes in (from sales, investments) and when it goes out (for expenses, purchases). This helps ensure the business doesn't run out of cash.</p>\n</div>"
+    }
+  },
+  
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Ten",
+    "subheading": "Contemporary Entrepreneurship Issues in Nigeria, Africa, and the rest of the World"
+  },
+  {
+    "type": "Question",
+    "name": "Question 201",
+    "topic": [
+      "Nigeria",
+      "Entrepreneurship Challenges"
+    ],
+    "Question": {
+      "content": "What is a major challenge faced by entrepreneurs in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Access to capital",
+        "Lack of innovation",
+        "High competition",
+        "Low demand for products"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Access to capital"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Nigerian Entrepreneurial Challenge</h4>\n <p>Access to capital is consistently cited as the <strong>biggest challenge</strong> for Nigerian entrepreneurs. Banks are reluctant to lend to small businesses, interest rates are high, and venture capital is limited. Many rely on personal savings or family funds.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 202",
+    "topic": [
+      "Africa",
+      "Entrepreneurship Barriers"
+    ],
+    "Question": {
+      "content": "Which of the following is a common barrier to entrepreneurship in Africa?",
+      "type": "OBJ",
+      "options": [
+        "Limited technological infrastructure",
+        "High levels of education",
+        "Government support",
+        "Availability of skilled labor"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited technological infrastructure"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>African Barriers</h4>\n <p>Many African countries face <strong>limited technological infrastructure</strong> including unreliable electricity, poor internet connectivity, and lack of access to modern equipment. This makes it harder for entrepreneurs to operate efficiently and scale.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 203",
+    "topic": [
+      "Technology",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "What role does technology play in contemporary entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "It increases the cost of doing business",
+        "It limits global market access",
+        "It provides new opportunities for scaling businesses",
+        "It reduces the need for innovation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It provides new opportunities for scaling businesses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Technology's Role</h4>\n <p>Technology enables entrepreneurs to <strong>reach more customers, automate operations, and grow faster</strong> than ever before. E-commerce platforms, digital marketing, cloud computing, and mobile money all create opportunities to scale businesses rapidly.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 204",
+    "topic": [
+      "Nigeria",
+      "Startup Success Factors"
+    ],
+    "Question": {
+      "content": "Which factor is critical to the success of startups in emerging markets like Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Large government grants",
+        "Access to international markets",
+        "Networking and mentorship",
+        "Absence of competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Networking and mentorship"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Critical Success Factor</h4>\n <p>In emerging markets, <strong>networking and mentorship</strong> are vital. Connections provide access to information, funding, partners, and customers. Mentors help navigate local challenges like bureaucracy and cultural nuances that aren't in textbooks.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 205",
+    "topic": [
+      "Nigeria",
+      "Entrepreneurship Failure"
+    ],
+    "Question": {
+      "content": "What is one of the main reasons why many Nigerian entrepreneurs fail?",
+      "type": "OBJ",
+      "options": [
+        "Poor financial management",
+        "Excessive innovation",
+        "Overinvestment in technology",
+        "Strong competition from international brands"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Poor financial management"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Reason for Failure</h4>\n <p>Many Nigerian entrepreneurs struggle with <strong>poor financial management</strong>—mixing business and personal funds, inadequate record-keeping, and lack of financial planning. This leads to cash flow problems and business collapse even when products are good.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 206",
+    "topic": [
+      "Africa",
+      "Tech Startups"
+    ],
+    "Question": {
+      "content": "Which African country is known for fostering a high number of tech-based startups?",
+      "type": "OBJ",
+      "options": [
+        "Kenya",
+        "Nigeria",
+        "South Africa",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>African Tech Hubs</h4>\n <p><strong>Kenya</strong> (Silicon Savannah), <strong>Nigeria</strong> (Yabacon Valley), and <strong>South Africa</strong> (Cape Town) are all major tech startup hubs in Africa. Each has thriving ecosystems with incubators, venture capital, and successful startups.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 207",
+    "topic": [
+      "Global Entrepreneurship",
+      "Crowdfunding"
+    ],
+    "Question": {
+      "content": "In the context of global entrepreneurship, what does 'crowdfunding' refer to?",
+      "type": "OBJ",
+      "options": [
+        "A type of government loan for businesses",
+        "A method of raising capital through small contributions from many people",
+        "An international grant system",
+        "A business model based on pre-selling products"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A method of raising capital through small contributions from many people"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Crowdfunding</h4>\n <p><strong>Crowdfunding</strong> uses online platforms to raise small amounts of money from a large number of people (the \"crowd\"). It can be donation-based, reward-based (pre-selling), or equity-based. It's an alternative to traditional bank loans.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 208",
+    "topic": [
+      "Africa",
+      "Entrepreneurship Challenges"
+    ],
+    "Question": {
+      "content": "Which of these challenges is most significant for entrepreneurs in Africa?",
+      "type": "OBJ",
+      "options": [
+        "Political instability",
+        "Abundance of raw materials",
+        "Lack of consumer demand",
+        "Overdeveloped infrastructure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Political instability"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Significant Challenge</h4>\n <p><strong>Political instability</strong> (unpredictable policy changes, corruption, unrest) creates an uncertain environment where long-term business planning is difficult. This is a major barrier across many African countries, outweighing other factors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 209",
+    "topic": [
+      "Intellectual Property",
+      "Developing Countries"
+    ],
+    "Question": {
+      "content": "What is the impact of a 'weak intellectual property' system on entrepreneurship in developing countries?",
+      "type": "OBJ",
+      "options": [
+        "Encourages innovation",
+        "Promotes a high rate of imitation over original ideas",
+        "Protects local entrepreneurs' ideas",
+        "Attracts foreign investors"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promotes a high rate of imitation over original ideas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Weak IP Systems</h4>\n <p>When intellectual property laws are weak or poorly enforced, entrepreneurs' innovations can be easily copied. This <strong>discourages original innovation</strong> because creators can't protect their work. Instead, copying existing products becomes more common and profitable.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 210",
+    "topic": [
+      "Global Entrepreneurship",
+      "Entrepreneurial Ecosystem"
+    ],
+    "Question": {
+      "content": "Which of the following is a key feature of the entrepreneurial ecosystem in the world's most developed economies?",
+      "type": "OBJ",
+      "options": [
+        "High barriers to entry",
+        "Low levels of regulatory support",
+        "Strong access to venture capital",
+        "Limited government involvement in innovation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Strong access to venture capital"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Developed Economy Feature</h4>\n <p>Developed economies like the US, UK, and Israel have <strong>well-established venture capital industries</strong> that provide funding to high-potential startups. They also typically have lower barriers to entry, supportive regulations, and active government innovation support.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 211",
+    "topic": [
+      "Nigeria",
+      "Contemporary Issues",
+      "Japa"
+    ],
+    "Question": {
+      "content": "In the context of Nigerian entrepreneurship, what does the term 'japa' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Business growth strategy",
+        "The exodus of skilled workers abroad",
+        "A local business financing method",
+        "A government entrepreneurship program"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The exodus of skilled workers abroad"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Japa Phenomenon</h4>\n <p><strong>Japa</strong> is a Nigerian slang term meaning to flee or run away. In entrepreneurship context, it refers to the <strong>mass emigration of skilled professionals</strong> (doctors, engineers, tech workers) seeking better opportunities abroad, creating a brain drain that affects local businesses.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 212",
+    "topic": [
+      "Global Entrepreneurship",
+      "Trends"
+    ],
+    "Question": {
+      "content": "Which of these is a primary factor influencing entrepreneurial activity in global markets today?",
+      "type": "OBJ",
+      "options": [
+        "Decreased global trade regulations",
+        "High cost of technological innovation",
+        "Increasing focus on sustainability and social impact",
+        "Diminished need for international partnerships"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increasing focus on sustainability and social impact"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Global Trend</h4>\n <p>Consumers and investors increasingly demand that businesses address environmental and social challenges. This has led to a rise in <strong>sustainable entrepreneurship, ESG investing, and social enterprises</strong> that prioritize impact alongside profit.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 213",
+    "topic": [
+      "Africa",
+      "Digital Platforms"
+    ],
+    "Question": {
+      "content": "How does the rise of digital platforms affect entrepreneurship in Africa?",
+      "type": "OBJ",
+      "options": [
+        "It limits market access for local entrepreneurs",
+        "It encourages local entrepreneurs to only target regional customers",
+        "It enables easier access to global markets and customers",
+        "It increases dependency on government funding"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It enables easier access to global markets and customers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Platform Impact</h4>\n <p>Platforms like e-commerce sites, freelancing marketplaces, and social media allow African entrepreneurs to <strong>sell products and services globally</strong> without physical presence. This bypasses traditional barriers to international trade.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 214",
+    "topic": [
+      "Nigeria",
+      "Funding Challenges"
+    ],
+    "Question": {
+      "content": "Which is a common obstacle faced by Nigerian entrepreneurs when seeking funding?",
+      "type": "OBJ",
+      "options": [
+        "Availability of local investors",
+        "High interest rates and difficult access to loans",
+        "Support from venture capitalists",
+        "Low taxation on businesses"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High interest rates and difficult access to loans"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Funding Obstacle</h4>\n <p>Nigerian entrepreneurs face <strong>high interest rates (often over 20-30%)</strong> from banks, strict collateral requirements, and limited access to venture capital. This makes it extremely difficult to obtain affordable financing for startup or growth.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 215",
+    "topic": [
+      "Africa",
+      "Economic Development"
+    ],
+    "Question": {
+      "content": "What is the role of entrepreneurship in driving economic development in Africa?",
+      "type": "OBJ",
+      "options": [
+        "It mostly leads to unemployment",
+        "It helps diversify economies and reduces poverty",
+        "It contributes only to local market growth",
+        "It promotes the dominance of multinational companies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It helps diversify economies and reduces poverty"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Economic Role</h4>\n <p>Entrepreneurship creates jobs, fosters innovation, and reduces dependence on a few industries (like oil or mining). By <strong>creating diverse economic activities</strong> and empowering individuals, it helps lift people out of poverty.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 216",
+    "topic": [
+      "Africa",
+      "Social Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of a social entrepreneurship initiative in Africa?",
+      "type": "OBJ",
+      "options": [
+        "A technology startup targeting global markets",
+        "A business selling luxury goods",
+        "A microfinance project aimed at empowering rural communities",
+        "A multinational corporation expanding into African countries"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A microfinance project aimed at empowering rural communities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social Entrepreneurship</h4>\n <p><strong>Social entrepreneurship</strong> addresses social problems through business means. A microfinance project that provides small loans to rural women to start businesses creates social impact (empowerment, poverty reduction) while being financially sustainable.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 217",
+    "topic": [
+      "Nigeria",
+      "Infrastructure"
+    ],
+    "Question": {
+      "content": "What is the impact of inadequate infrastructure on entrepreneurship in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "It enhances efficiency in production",
+        "It hinders the transportation of goods and services",
+        "It increases access to global trade",
+        "It reduces operational costs for businesses"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It hinders the transportation of goods and services"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Infrastructure Challenge</h4>\n <p>Poor roads, unreliable electricity, and inadequate ports make it <strong>difficult and expensive to move goods and deliver services</strong>. This increases costs, causes delays, and limits market reach for Nigerian entrepreneurs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 218",
+    "topic": [
+      "Global Entrepreneurship",
+      "Disruptive Innovation"
+    ],
+    "Question": {
+      "content": "What does 'disruptive innovation' mean in the context of global entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Improving existing products to make them more expensive",
+        "Creating new markets by transforming existing industries or services",
+        "Maintaining traditional business models",
+        "Focusing on small-scale production rather than mass production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating new markets by transforming existing industries or services"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Disruptive Innovation</h4>\n <p><strong>Disruptive innovation</strong> introduces simplicity, convenience, or affordability to transform a market. It often starts by serving overlooked customers and eventually disrupts established competitors. Examples include streaming services disrupting traditional TV.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 219",
+    "topic": [
+      "Nigeria",
+      "Entrepreneurship Trends"
+    ],
+    "Question": {
+      "content": "Which of the following is a recent trend in the entrepreneurship landscape in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Declining interest in technology startups",
+        "Rise in digital marketing and e-commerce ventures",
+        "Strong growth in large-scale manufacturing businesses",
+        "A decrease in youth participation in entrepreneurial activities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rise in digital marketing and e-commerce ventures"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Recent Trend</h4>\n <p>Nigeria has seen explosive growth in <strong>digital businesses</strong>—e-commerce platforms, fintech apps, digital marketing agencies, and social media commerce. This is driven by high mobile phone penetration and a young, tech-savvy population.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 220",
+    "topic": [
+      "Nigeria",
+      "Entrepreneurship Advantages"
+    ],
+    "Question": {
+      "content": "What is the primary advantage of entrepreneurship in developing nations such as Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Low operating costs",
+        "Lack of competition from foreign businesses",
+        "High access to government funds",
+        "Increased market saturation and consumer demand"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low operating costs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cost Advantage</h4>\n <p>In Nigeria, <strong>lower labor costs, affordable raw materials, and lower overhead</strong> compared to developed countries can make production cheaper. This allows entrepreneurs to offer competitive prices or enjoy higher margins.</p>\n</div>"
+    }
+  }
+  
+  
+  
+  
+]

@@ -1,0 +1,1126 @@
+[{
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Introduction to Entrepreneurship",
+    "code": "GES 211",
+    "session": "Unit 11-12",
+    "topics": ["Nigeria", "Women Entrepreneurs", "Global Leadership", "E-commerce", "Women Empowerment", "Digital Media", "Fashion Industry", "Youth Entrepreneurs", "Digital Marketing", "Social Entrepreneurship", "Women's Empowerment", "BellaNaija", "Beauty Industry", "Women's Rights", "Authors", "Government", "Women Leaders", "Digital Entrepreneurship", "Female Empowerment", "Conglomerates", "Global Trade", "WTO", "Youth Innovation", "Digital Transformation", "Oil Sector", "Government Agencies", "SMEDAN", "NDE", "Employment", "YES Programme", "NYSC", "MSMEs", "Private Sector", "Support Institutions", "Bank of Industry", "SME Support", "Youth Empowerment", "GES", "YouWIN", "Entrepreneurial Ecosystem", "NEXIM", "Abuja", "Youth Entrepreneurship", "NERFUND", "Venture Capital", "NEDEP", "Grants", "Graduate Entrepreneurship", "Youth Agricultural Entrepreneurs Program", "Agriculture", "SAED", "NIPC", "Investment Promotion", "Entrepreneurship Programs", "Benefits", "MSME Policy"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Pick the correct answer"
+  },
+  
+  
+  
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Eleven",
+    "subheading": "Biography of Inspirational Youth and Women Entrepreneurs in Nigeria"
+  },
+  {
+    "type": "Question",
+    "name": "Question 221",
+    "topic": [
+      "Nigeria",
+      "Women Entrepreneurs"
+    ],
+    "Question": {
+      "content": "Who is the founder of Rose of Sharon Group and a prominent Nigerian businesswoman?",
+      "type": "OBJ",
+      "options": [
+        "Ngozi Okonjo-Iweala",
+        "Folashade Akitija",
+        "Uche Pedro",
+        "Tokunbo Akintoye"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tokunbo Akintoye"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rose of Sharon Group</h4>\n <p><strong>Tokunbo Akintoye</strong> is a renowned Nigerian businesswoman and founder of the Rose of Sharon Group, a conglomerate with interests in fashion, beauty, and retail. She is a prominent figure in Nigerian entrepreneurship.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 222",
+    "topic": [
+      "Nigeria",
+      "Women Entrepreneurs",
+      "Global Leadership"
+    ],
+    "Question": {
+      "content": "Which Nigerian woman is the first female Director-General of the World Trade Organization (WTO)?",
+      "type": "OBJ",
+      "options": [
+        "Pamela Adie",
+        "Chimamanda Ngozi Adichie",
+        "Ngozi Okonjo-Iweala",
+        "Sim Shagaya"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ngozi Okonjo-Iweala"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>WTO Director-General</h4>\n <p><strong>Ngozi Okonjo-Iweala</strong> is a Nigerian economist and international development expert who made history as the first woman and first African to serve as Director-General of the World Trade Organization (WTO), taking office in 2021.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 223",
+    "topic": [
+      "Nigeria",
+      "E-commerce"
+    ],
+    "Question": {
+      "content": "Who is the founder of the popular e-commerce platform, Konga.com?",
+      "type": "OBJ",
+      "options": [
+        "Oluwatobioba Adebayo",
+        "Tokunbo Akintoye",
+        "Sim Shagaya",
+        "Uche Pedro"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sim Shagaya"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Konga Founder</h4>\n <p><strong>Sim Shagaya</strong> is a Nigerian entrepreneur and founder of Konga.com, one of Nigeria's largest e-commerce platforms. He is a key figure in the development of Nigeria's online retail industry.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 224",
+    "topic": [
+      "Nigeria",
+      "Women Empowerment"
+    ],
+    "Question": {
+      "content": "Which of these entrepreneurs is a well-known advocate for women's empowerment and economic development in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Ngozi Okonjo-Iweala",
+        "Pamela Adie",
+        "Chimamanda Ngozi Adichie",
+        "Folashade Akitija"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ngozi Okonjo-Iweala"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Women's Empowerment Advocate</h4>\n <p><strong>Ngozi Okonjo-Iweala</strong> has consistently advocated for women's economic empowerment, girls' education, and gender equality throughout her career at the World Bank and as Nigeria's Finance Minister, in addition to her WTO role.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 225",
+    "topic": [
+      "Nigeria",
+      "Digital Media"
+    ],
+    "Question": {
+      "content": "Who founded BellaNaija, one of Nigeria's leading lifestyle and entertainment platforms?",
+      "type": "OBJ",
+      "options": [
+        "Uche Pedro",
+        "Chimamanda Ngozi Adichie",
+        "Sim Shagaya",
+        "Pamela Adie"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Uche Pedro"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>BellaNaija Founder</h4>\n <p><strong>Uche Pedro</strong> founded BellaNaija in 2006, which grew into one of Nigeria's most influential lifestyle, fashion, and entertainment blogs/media companies, reaching millions of readers across Africa and the diaspora.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 226",
+    "topic": [
+      "Nigeria",
+      "Fashion Industry"
+    ],
+    "Question": {
+      "content": "Which Nigerian entrepreneur is known for her work in the fashion industry and is one of Africa's richest women?",
+      "type": "OBJ",
+      "options": [
+        "Folashade Akitija",
+        "Tokunbo Akintoye",
+        "Ngozi Okonjo-Iweala",
+        "Uche Pedro"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Folashade Akitija"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fashion Industry Leader</h4>\n <p><strong>Folashade Akitija</strong> is a prominent Nigerian fashion entrepreneur and one of Africa's wealthiest women. She is known for her luxury fashion brand and her influence in the African fashion industry.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 227",
+    "topic": [
+      "Nigeria",
+      "Youth Entrepreneurs",
+      "Digital Marketing"
+    ],
+    "Question": {
+      "content": "Which Nigerian youth entrepreneur is known for digital marketing and business consultancy?",
+      "type": "OBJ",
+      "options": [
+        "Oluwatobioba Adebayo",
+        "Tokunbo Akintoye",
+        "Sim Shagaya",
+        "Pamela Adie"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oluwatobioba Adebayo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Marketing Expert</h4>\n <p><strong>Oluwatobioba Adebayo</strong> is a young Nigerian entrepreneur recognized for his work in digital marketing and business consultancy, helping brands build their online presence and develop effective marketing strategies.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 228",
+    "topic": [
+      "Nigeria",
+      "Social Entrepreneurship",
+      "Women's Empowerment"
+    ],
+    "Question": {
+      "content": "What is the focus of Pamela Adie's organization, The Black Mamba?",
+      "type": "OBJ",
+      "options": [
+        "Digital marketing",
+        "Fashion",
+        "Women's empowerment",
+        "E-commerce"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Women's empowerment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Black Mamba</h4>\n <p><strong>Pamela Adie</strong> founded The Black Mamba, an organization focused on <strong>women's empowerment and gender equality</strong>, advocating for the rights and economic advancement of women in Nigeria.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 229",
+    "topic": [
+      "Nigeria",
+      "BellaNaija",
+      "Digital Media"
+    ],
+    "Question": {
+      "content": "What platform was created by Uche Pedro to cover Nigerian lifestyle and entertainment?",
+      "type": "OBJ",
+      "options": [
+        "Konga.com",
+        "BellaNaija",
+        "The Hair Therapy",
+        "Rose of Sharon Group"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "BellaNaija"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>BellaNaija</h4>\n <p><strong>Uche Pedro</strong> created BellaNaija, a leading digital platform covering Nigerian lifestyle, entertainment, fashion, and culture. It has become a go-to source for news and trends in Nigeria and the diaspora.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 230",
+    "topic": [
+      "Nigeria",
+      "Beauty Industry"
+    ],
+    "Question": {
+      "content": "Which Nigerian entrepreneur is known for her hair care brand, The Hair Therapy?",
+      "type": "OBJ",
+      "options": [
+        "Folashade Akitija",
+        "Tokunbo Akintoye",
+        "Sim Shagaya",
+        "Oluwatobioba Adebayo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Tokunbo Akintoye"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Hair Therapy</h4>\n <p><strong>Tokunbo Akintoye</strong> is the founder of The Hair Therapy, a successful hair care brand in Nigeria, as well as the Rose of Sharon Group. She is a prominent figure in the Nigerian beauty and retail industry.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 231",
+    "topic": [
+      "Nigeria",
+      "Women's Rights",
+      "Authors"
+    ],
+    "Question": {
+      "content": "Who among these entrepreneurs is an advocate for women's rights and promotes female leadership?",
+      "type": "OBJ",
+      "options": [
+        "Sim Shagaya",
+        "Chimamanda Ngozi Adichie",
+        "Uche Pedro",
+        "Oluwatobioba Adebayo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chimamanda Ngozi Adichie"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Women's Rights Advocate</h4>\n <p>While primarily a writer, <strong>Chimamanda Ngozi Adichie</strong> is also a powerful advocate for women's rights and female leadership. Her famous TEDx talk \"We Should All Be Feminists\" has inspired a global movement for gender equality.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 232",
+    "topic": [
+      "Nigeria",
+      "Government",
+      "Women Leaders"
+    ],
+    "Question": {
+      "content": "Who was the first female Finance Minister of Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Ngozi Okonjo-Iweala",
+        "Folashade Akitija",
+        "Pamela Adie",
+        "Tokunbo Akintoye"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ngozi Okonjo-Iweala"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>First Female Finance Minister</h4>\n <p><strong>Ngozi Okonjo-Iweala</strong> made history as the first woman to serve as Nigeria's Finance Minister, a position she held twice. She also served as Foreign Affairs Minister, breaking multiple glass ceilings in Nigerian politics.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 233",
+    "topic": [
+      "Nigeria",
+      "E-commerce"
+    ],
+    "Question": {
+      "content": "Which entrepreneur is known for pioneering Nigeria's online shopping culture?",
+      "type": "OBJ",
+      "options": [
+        "Sim Shagaya",
+        "Uche Pedro",
+        "Ngozi Okonjo-Iweala",
+        "Oluwatobioba Adebayo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sim Shagaya"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pioneer of Online Shopping</h4>\n <p><strong>Sim Shagaya</strong> is widely credited with pioneering e-commerce in Nigeria through Konga.com. He helped establish online shopping as a mainstream retail channel in the country, inspiring a generation of e-commerce entrepreneurs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 234",
+    "topic": [
+      "Nigeria",
+      "Digital Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Who is the Nigerian entrepreneur known for promoting digital entrepreneurship in Africa?",
+      "type": "OBJ",
+      "options": [
+        "Folashade Akitija",
+        "Sim Shagaya",
+        "Tokunbo Akintoye",
+        "Uche Pedro"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sim Shagaya"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Digital Entrepreneurship Promoter</h4>\n <p>Through Konga and his subsequent ventures, <strong>Sim Shagaya</strong> has been a leading advocate for digital entrepreneurship in Africa, demonstrating the potential of tech-enabled businesses on the continent.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 235",
+    "topic": [
+      "Nigeria",
+      "Authors",
+      "Female Empowerment"
+    ],
+    "Question": {
+      "content": "Which of these Nigerian entrepreneurs is also an author and an advocate for female empowerment?",
+      "type": "OBJ",
+      "options": [
+        "Pamela Adie",
+        "Chimamanda Ngozi Adichie",
+        "Tokunbo Akintoye",
+        "Sim Shagaya"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Chimamanda Ngozi Adichie"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Author and Advocate</h4>\n <p><strong>Chimamanda Ngozi Adichie</strong> is a world-renowned author whose works include novels, essays, and speeches. She is a vocal advocate for female empowerment, using her platform to promote gender equality and women's leadership globally.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 236",
+    "topic": [
+      "Nigeria",
+      "Women Entrepreneurs",
+      "Conglomerates"
+    ],
+    "Question": {
+      "content": "Who founded the Rose of Sharon Group, a conglomerate that includes oil, fashion, and real estate?",
+      "type": "OBJ",
+      "options": [
+        "Ngozi Okonjo-Iweala",
+        "Folorunsho Alakija",
+        "Uche Pedro",
+        "Pamela Adie"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Folorunsho Alakija"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rose of Sharon Group Founder</h4>\n <p><strong>Folorunsho Alakija</strong> is a Nigerian business magnate and philanthropist who founded the Rose of Sharon Group. Her business empire spans fashion, oil, and real estate, making her one of Africa's richest women.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 237",
+    "topic": [
+      "Nigeria",
+      "E-commerce"
+    ],
+    "Question": {
+      "content": "Who among the following was instrumental in setting up a major Nigerian online retail business?",
+      "type": "OBJ",
+      "options": [
+        "Chimamanda Ngozi Adichie",
+        "Sim Shagaya",
+        "Tokunbo Akintoye",
+        "Oluwatobiloba Adebayo"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sim Shagaya"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Online Retail Pioneer</h4>\n <p><strong>Sim Shagaya</strong> founded Konga.com, one of Nigeria's largest e-commerce platforms, playing an instrumental role in establishing online retail as a major business sector in the country.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 238",
+    "topic": [
+      "Nigeria",
+      "Global Trade",
+      "WTO"
+    ],
+    "Question": {
+      "content": "Which Nigerian entrepreneur has contributed significantly to global trade and development through her role at the WTO?",
+      "type": "OBJ",
+      "options": [
+        "Ngozi Okonjo-Iweala",
+        "Folorunsho Alakija",
+        "Uche Pedro",
+        "Sim Shagaya"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ngozi Okonjo-Iweala"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>WTO Leadership</h4>\n <p>As Director-General of the World Trade Organization, <strong>Ngozi Okonjo-Iweala</strong> has made significant contributions to global trade policy, advocating for developing countries and working to make international trade more inclusive.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 239",
+    "topic": [
+      "Nigeria",
+      "Youth Innovation",
+      "Digital Transformation"
+    ],
+    "Question": {
+      "content": "Who among these entrepreneurs is an advocate for youth innovation and digital transformation in business?",
+      "type": "OBJ",
+      "options": [
+        "Sim Shagaya",
+        "Pamela Adie",
+        "Oluwatobiloba Adebayo",
+        "Chimamanda Ngozi Adichie"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Oluwatobiloba Adebayo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Youth Innovation Advocate</h4>\n <p><strong>Oluwatobiloba Adebayo</strong> is known for promoting digital marketing and business consultancy, with a focus on empowering young Nigerians to leverage digital tools and innovation for entrepreneurial success.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 240",
+    "topic": [
+      "Nigeria",
+      "Women Entrepreneurs",
+      "Oil Sector"
+    ],
+    "Question": {
+      "content": "Who among the following Nigerian women entrepreneurs has significantly impacted the oil sector?",
+      "type": "OBJ",
+      "options": [
+        "Ngozi Okonjo-Iweala",
+        "Folorunsho Alakija",
+        "Uche Pedro",
+        "Tokunbo Akintoye"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Folorunsho Alakija"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Oil Sector Impact</h4>\n <p><strong>Folorunsho Alakija</strong> made her mark in the Nigerian oil sector through her company, Famfa Oil Limited, which holds significant oil prospecting licenses. She is one of the few women to achieve such prominence in the industry.</p>\n</div>"
+    }
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Twelve",
+    "subheading": "Entrepreneurial Support Institutions and Entrepreneurship Programs in Nigeria"
+  },
+  {
+    "type": "Question",
+    "name": "Question 241",
+    "topic": [
+      "Nigeria",
+      "Government Agencies",
+      "SMEDAN"
+    ],
+    "Question": {
+      "content": "Which of the following is a major government agency responsible for promoting entrepreneurship in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "National Agency for Food and Drug Administration (NAFDAC)",
+        "Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)",
+        "Central Bank of Nigeria (CBN)",
+        "National Bureau of Statistics (NBS)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneurship Promotion Agency</h4>\n <p><strong>SMEDAN</strong> is the primary government agency mandated to promote and develop the Micro, Small and Medium Enterprises (MSMEs) sector in Nigeria through various programs, training, and support services.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 242",
+    "topic": [
+      "Nigeria",
+      "NDE",
+      "Employment"
+    ],
+    "Question": {
+      "content": "What is the primary goal of the National Directorate of Employment (NDE)?",
+      "type": "OBJ",
+      "options": [
+        "Provide loans to startups",
+        "Promote skill acquisition and entrepreneurship development",
+        "Regulate financial institutions",
+        "Facilitate international trade"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promote skill acquisition and entrepreneurship development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NDE's Purpose</h4>\n <p>The <strong>National Directorate of Employment (NDE)</strong> was established to combat unemployment through skill acquisition programs, vocational training, and entrepreneurship development, helping Nigerians become self-employed.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 243",
+    "topic": [
+      "Nigeria",
+      "YES Programme",
+      "NYSC"
+    ],
+    "Question": {
+      "content": "Which Nigerian institution offers the Youth Entrepreneurship Support (YES) Programme?",
+      "type": "OBJ",
+      "options": [
+        "Bank of Industry (BOI)",
+        "Nigerian Investment Promotion Commission (NIPC)",
+        "Central Bank of Nigeria (CBN)",
+        "National Youth Service Corps (NYSC)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bank of Industry (BOI)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>YES Programme</h4>\n <p>The <strong>Youth Entrepreneurship Support (YES) Programme</strong> is an initiative by the Bank of Industry (BOI) designed to empower young Nigerian entrepreneurs with funding, training, and mentoring to start and grow their businesses.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 244",
+    "topic": [
+      "Nigeria",
+      "SMEDAN",
+      "MSMEs"
+    ],
+    "Question": {
+      "content": "What is the primary purpose of SMEDAN's initiatives?",
+      "type": "OBJ",
+      "options": [
+        "To provide grants to large corporations",
+        "To support the growth of micro, small, and medium enterprises (MSMEs)",
+        "To control inflation",
+        "To monitor government expenditure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To support the growth of micro, small, and medium enterprises (MSMEs)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>SMEDAN's Mission</h4>\n <p><strong>SMEDAN's</strong> initiatives are specifically designed to promote the development and growth of Micro, Small, and Medium Enterprises (MSMEs) through capacity building, access to finance, and market linkage programs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 245",
+    "topic": [
+      "Nigeria",
+      "Private Sector",
+      "Support Institutions"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of a private sector entrepreneurial support institution in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "National Youth Service Corps (NYSC)",
+        "Bank of Industry (BOI)",
+        "Federal Ministry of Finance",
+        "Nigerian Police Force"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bank of Industry (BOI)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Private Sector Support</h4>\n <p>The <strong>Bank of Industry (BOI)</strong> is a development finance institution that, while government-owned, operates as a private sector-focused entity providing financial and technical support to Nigerian enterprises.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 246",
+    "topic": [
+      "Nigeria",
+      "Bank of Industry",
+      "SME Support"
+    ],
+    "Question": {
+      "content": "The Bank of Industry (BOI) is known for providing which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Grants to non-profit organizations",
+        "Financial and technical support to SMEs and entrepreneurs",
+        "Loan forgiveness programs for farmers",
+        "Subsidies for multinational corporations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Financial and technical support to SMEs and entrepreneurs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>BOI's Role</h4>\n <p>The <strong>Bank of Industry (BOI)</strong> provides loans, advisory services, and technical support to Micro, Small, and Medium Enterprises (MSMEs) and entrepreneurs to help them establish and expand their businesses.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 247",
+    "topic": [
+      "Nigeria",
+      "Youth Empowerment",
+      "GES"
+    ],
+    "Question": {
+      "content": "Which program is designed to empower Nigerian youths through funding and capacity-building for entrepreneurial ventures?",
+      "type": "OBJ",
+      "options": [
+        "Graduate Entrepreneurship Scheme (GES)",
+        "National Enterprise Development Program (NEDEP)",
+        "National Directorate of Employment (NDE)",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Youth Empowerment Programs</h4>\n <p><strong>GES, NEDEP, and NDE</strong> are all Nigerian government initiatives aimed at empowering youth through entrepreneurship. They provide funding, training, and capacity-building support to help young Nigerians start and sustain businesses.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 247",
+    "topic": [
+      "Nigeria",
+      "YouWIN",
+      "Youth Empowerment"
+    ],
+    "Question": {
+      "content": "Which program is designed to empower Nigerian youths through funding and capacity-building for entrepreneurial ventures?",
+      "type": "OBJ",
+      "options": [
+        "Graduate Entrepreneurship Scheme (GES)",
+        "National Enterprise Development Program (NEDEP)",
+        "National Economic Empowerment Development Strategy (NEEDS)",
+        "Youth Enterprise with Innovation in Nigeria (YouWIN)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Youth Enterprise with Innovation in Nigeria (YouWIN)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>YouWIN Programme</h4>\n <p>The <strong>Youth Enterprise with Innovation in Nigeria (YouWIN)</strong> program was specifically designed to support young Nigerian entrepreneurs with business training, mentoring, and grants to help them start or expand their businesses.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 248",
+    "topic": [
+      "Nigeria",
+      "Entrepreneurial Ecosystem"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a primary component of the Nigerian Entrepreneurial Support Ecosystem?",
+      "type": "OBJ",
+      "options": [
+        "Training and development programs",
+        "Government-backed grants",
+        "Networking and mentoring opportunities",
+        "Regulatory control of foreign investments"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Regulatory control of foreign investments"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ecosystem Components</h4>\n <p>The entrepreneurial support ecosystem focuses on <strong>training, funding, and mentoring</strong> to help businesses grow. Regulatory control of foreign investments is a separate government function related to investment policy, not direct entrepreneurial support.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 249",
+    "topic": [
+      "Nigeria",
+      "NEXIM",
+      "Abuja"
+    ],
+    "Question": {
+      "content": "Which Nigerian state is home to the Nigerian Export-Import Bank (NEXIM)?",
+      "type": "OBJ",
+      "options": [
+        "Lagos",
+        "Abuja",
+        "Kano",
+        "Port Harcourt"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Abuja"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NEXIM Headquarters</h4>\n <p>The <strong>Nigerian Export-Import Bank (NEXIM)</strong> is headquartered in Abuja, the Federal Capital Territory. It was established to promote and finance non-oil exports from Nigeria.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 250",
+    "topic": [
+      "Nigeria",
+      "YouWIN",
+      "Youth Entrepreneurship"
+    ],
+    "Question": {
+      "content": "What does the YouWIN programme primarily focus on?",
+      "type": "OBJ",
+      "options": [
+        "Financing large-scale infrastructure projects",
+        "Supporting young entrepreneurs with training, mentoring, and grants",
+        "Providing business loans to foreign investors",
+        "Monitoring environmental sustainability"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Supporting young entrepreneurs with training, mentoring, and grants"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>YouWIN Focus</h4>\n <p>The <strong>Youth Enterprise with Innovation in Nigeria (YouWIN)</strong> program was created to nurture young entrepreneurs by providing them with comprehensive support including business training, mentoring from experienced professionals, and grant funding to launch or scale their ventures.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 251",
+    "topic": [
+      "Nigeria",
+      "NERFUND",
+      "Venture Capital"
+    ],
+    "Question": {
+      "content": "Which agency is responsible for providing financial assistance to Nigerian entrepreneurs through the provision of venture capital?",
+      "type": "OBJ",
+      "options": [
+        "Bank of Industry (BOI)",
+        "Federal Ministry of Industry, Trade and Investment",
+        "Nigerian Investment Promotion Commission (NIPC)",
+        "National Economic Reconstruction Fund (NERFUND)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "National Economic Reconstruction Fund (NERFUND)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NERFUND's Role</h4>\n <p>The <strong>National Economic Reconstruction Fund (NERFUND)</strong> was established to provide medium to long-term loans and venture capital financing to Nigerian entrepreneurs and SMEs, particularly in the industrial and agricultural sectors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 252",
+    "topic": [
+      "Nigeria",
+      "NEDEP"
+    ],
+    "Question": {
+      "content": "The main objective of the National Enterprise Development Program (NEDEP) is to:",
+      "type": "OBJ",
+      "options": [
+        "Regulate business activities in Nigeria",
+        "Facilitate the international trade of Nigerian goods",
+        "Support the creation of new businesses and the development of existing ones",
+        "Provide loans to international corporations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Support the creation of new businesses and the development of existing ones"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NEDEP Objective</h4>\n <p>The <strong>National Enterprise Development Program (NEDEP)</strong> is a government initiative aimed at fostering entrepreneurship by providing training, mentorship, and access to finance to help Nigerians start new businesses and grow existing ones.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 253",
+    "topic": [
+      "Nigeria",
+      "SMEDAN",
+      "Grants"
+    ],
+    "Question": {
+      "content": "Which of the following Nigerian institutions focuses on providing grants to micro and small enterprises?",
+      "type": "OBJ",
+      "options": [
+        "Nigerian Investment Promotion Commission (NIPC)",
+        "Bank of Industry (BOI)",
+        "Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)",
+        "Nigerian Export-Import Bank (NEXIM)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small and Medium Enterprises Development Agency of Nigeria (SMEDAN)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>SMEDAN Grants</h4>\n <p><strong>SMEDAN</strong> provides various forms of support including conditional grants to micro and small enterprises through programs like the National Business Skills Development Initiative and partnership schemes with development organizations.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 254",
+    "topic": [
+      "Nigeria",
+      "GES",
+      "Graduate Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Which entrepreneurship support program targets Nigerian students and recent graduates?",
+      "type": "OBJ",
+      "options": [
+        "Graduate Entrepreneurship Scheme (GES)",
+        "National Youth Service Corps (NYSC)",
+        "Enterprise Development Fund (EDF)",
+        "Youth Enterprise with Innovation in Nigeria (YouWIN)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Graduate Entrepreneurship Scheme (GES)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>GES Program</h4>\n <p>The <strong>Graduate Entrepreneurship Scheme (GES)</strong> was specifically designed to address graduate unemployment by equipping Nigerian students and recent graduates with entrepreneurial skills and providing funding to start their own businesses.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 255",
+    "topic": [
+      "Nigeria",
+      "Youth Agricultural Entrepreneurs Program",
+      "Agriculture"
+    ],
+    "Question": {
+      "content": "Which Nigerian program offers training, mentoring, and financial support to young entrepreneurs in the agricultural sector?",
+      "type": "OBJ",
+      "options": [
+        "Youth Empowerment and Development Program (YEDP)",
+        "Youth Agricultural Entrepreneurs Program (YAEP)",
+        "Youth Enterprise with Innovation in Nigeria (YouWIN)",
+        "National Agricultural Development Program (NADP)"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Youth Agricultural Entrepreneurs Program (YAEP)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>YAEP Focus</h4>\n <p>The <strong>Youth Agricultural Entrepreneurs Program (YAEP)</strong> is a targeted initiative to encourage young Nigerians to pursue agribusiness by providing them with agricultural training, mentorship from experienced farmers, and access to funding and inputs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 256",
+    "topic": [
+      "Nigeria",
+      "NYSC",
+      "SAED"
+    ],
+    "Question": {
+      "content": "What is the role of the National Youth Service Corps (NYSC) in entrepreneurial support in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Funding startups in the health sector",
+        "Facilitating the development of entrepreneurship through the NYSC Skill Acquisition and Entrepreneurship Development (SAED) program",
+        "Regulating foreign investments",
+        "Implementing national economic policies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Facilitating the development of entrepreneurship through the NYSC Skill Acquisition and Entrepreneurship Development (SAED) program"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NYSC SAED</h4>\n <p>The <strong>NYSC Skill Acquisition and Entrepreneurship Development (SAED)</strong> program was established to equip corps members with vocational skills and entrepreneurial training during their service year, preparing them for self-employment after graduation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 257",
+    "topic": [
+      "Nigeria",
+      "NIPC",
+      "Investment Promotion"
+    ],
+    "Question": {
+      "content": "The Nigerian Investment Promotion Commission (NIPC) is tasked with:",
+      "type": "OBJ",
+      "options": [
+        "Promoting local and foreign investments in Nigeria",
+        "Supporting youth entrepreneurship only in Lagos",
+        "Providing loans to registered farmers",
+        "Managing unemployment schemes"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Promoting local and foreign investments in Nigeria"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>NIPC Mandate</h4>\n <p>The <strong>Nigerian Investment Promotion Commission (NIPC)</strong> is the government agency responsible for encouraging, promoting, and coordinating investments in Nigeria. It assists both local and foreign investors seeking to do business in the country.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 258",
+    "topic": [
+      "Nigeria",
+      "Bank of Industry",
+      "SME Support"
+    ],
+    "Question": {
+      "content": "Which of the following is a key feature of the Bank of Industry's (BOI) Entrepreneurial support services?",
+      "type": "OBJ",
+      "options": [
+        "Provision of scholarships for international study",
+        "Direct grants to youth-led businesses",
+        "Offering financial assistance, advisory services, and technical support to SMEs",
+        "Organizing trade fairs for foreign enterprises"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Offering financial assistance, advisory services, and technical support to SMEs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>BOI Support Services</h4>\n <p>The <strong>Bank of Industry (BOI)</strong> provides comprehensive support to entrepreneurs including loans and financial assistance, business advisory services, and technical support to help SMEs succeed and grow.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 259",
+    "topic": [
+      "Nigeria",
+      "Entrepreneurship Programs",
+      "Benefits"
+    ],
+    "Question": {
+      "content": "Which of the following is a direct benefit of entrepreneurial support programs in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Reduction of corporate taxes for large companies",
+        "Creation of job opportunities and economic growth through SME development",
+        "Regulation of multinational corporations",
+        "Increased import of goods from international markets"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creation of job opportunities and economic growth through SME development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Program Benefits</h4>\n <p>Entrepreneurial support programs directly contribute to <strong>job creation and economic growth</strong> by helping SMEs start and expand. These businesses employ workers, generate income, and stimulate local economic activity.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 260",
+    "topic": [
+      "Nigeria",
+      "MSME Policy"
+    ],
+    "Question": {
+      "content": "The Nigerian government's National Policy on MSMEs aims to:",
+      "type": "OBJ",
+      "options": [
+        "Increase the number of foreign investments in Nigeria",
+        "Support the development and growth of micro, small, and medium enterprises",
+        "Establish large-scale factories in all Nigerian states",
+        "Restrict the growth of informal businesses"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Support the development and growth of micro, small, and medium enterprises"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>National MSME Policy</h4>\n <p>The <strong>National Policy on MSMEs</strong> is a comprehensive framework designed to create an enabling environment for Micro, Small, and Medium Enterprises in Nigeria. It aims to address challenges like access to finance, infrastructure, and markets to promote SME growth.</p>\n</div>"
+    }
+  }
+]

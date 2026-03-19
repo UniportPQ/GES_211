@@ -1,0 +1,1030 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Introduction to Entrepreneurship",
+    "code": "GES 211",
+    "session": "Workbook Unit 3-4",
+    "topics": ["Environment", "Government Role", "Small Business", "Classification", "Economic Impact", "Sectors", "Wealth Creation", "Financial Independence", "Employment", "Barriers", "Supply Chain", "Developing Economies", "Challenges", "Rural Areas", "Opportunities", "Technology", "Entrepreneurial Thinking", "Entrepreneurial Mindset", "Innovation", "Opportunity Recognition", "Disruptive Innovation", "Risk", "Success Factors", "Management", "Skills", "Design Thinking", "Lean Startup", "Business Model Canvas", "Pivoting", "Intrapreneurship", "Definitions", "Customer Feedback", "Team Building", "Social Entrepreneurship", "ExamplesEnvironment", "Government Role", "Small Business", "Classification", "Economic Impact", "Sectors", "Wealth Creation", "Financial Independence", "Employment", "Barriers", "Supply Chain", "Developing Economies", "Challenges", "Rural Areas", "Opportunities", "Technology", "Entrepreneurial Thinking", "Entrepreneurial Mindset", "Innovation", "Opportunity Recognition", "Disruptive Innovation", "Risk", "Success Factors", "Management", "Skills", "Design Thinking", "Lean Startup", "Business Model Canvas", "Pivoting", "Intrapreneurship", "Definitions", "Customer Feedback", "Team Building", "Social Entrepreneurship", "Examples"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Pick the correct answer"
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Three",
+    "Subheading": "Entrepreneurial Environment and the Significance of Micro and Small Businesses in Wealth Creation, Employment, and Financial Independence"
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Entrepreneurship",
+      "Environment"
+    ],
+    "Question": {
+      "content": "Which of the following best describes an entrepreneurial environment?",
+      "type": "OBJ",
+      "options": [
+        "A setting where businesses struggle to compete",
+        "A system that supports innovation and business growth",
+        "A highly regulated market with limited business opportunities",
+        "An informal network of unregistered businesses"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A system that supports innovation and business growth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is an Entrepreneurial Environment?</h4>\n <p>An entrepreneurial environment includes all the external factors that help or hinder new businesses. A <strong>supportive environment</strong> has access to funding, mentors, customers, skilled workers, and reasonable regulations—all of which encourage innovation and growth.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Entrepreneurship",
+      "Environment"
+    ],
+    "Question": {
+      "content": "Which of the following factors does NOT contribute to a supportive entrepreneurial environment?",
+      "type": "OBJ",
+      "options": [
+        "Access to capital",
+        "High taxation rates",
+        "Availability of skilled labor",
+        "Supportive government policies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High taxation rates"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Barriers to Entrepreneurship</h4>\n <p><strong>High taxation rates</strong> reduce the profits entrepreneurs can keep and reinvest, making it harder for new businesses to survive and grow. Access to capital, skilled labor, and supportive policies all help entrepreneurs—high taxes hurt them.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Entrepreneurship",
+      "Environment"
+    ],
+    "Question": {
+      "content": "An entrepreneurial environment includes the following EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Financial infrastructure",
+        "Social and cultural norms",
+        "Monopoly on business licenses",
+        "Market access"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Monopoly on business licenses"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Negative Factor</h4>\n <p>A healthy entrepreneurial environment includes financial infrastructure (banks, investors), supportive social norms, and market access. A <strong>monopoly on business licenses</strong> means only one or few businesses can operate—this kills competition and is NOT supportive of entrepreneurship.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "Entrepreneurship",
+      "Environment"
+    ],
+    "Question": {
+      "content": "The entrepreneurial environment is most influenced by:",
+      "type": "OBJ",
+      "options": [
+        "Climatic conditions",
+        "Political stability and policy frameworks",
+        "Historical factors",
+        "Individual business owners' preferences"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Political stability and policy frameworks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Influencing Factor</h4>\n <p>While many factors matter, <strong>political stability and government policies</strong> create the foundation. Entrepreneurs need to know that laws won't suddenly change, property is protected, and contracts will be enforced. Without this, businesses cannot plan for the future.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "Entrepreneurship",
+      "Government Role"
+    ],
+    "Question": {
+      "content": "Government plays a significant role in entrepreneurship by:",
+      "type": "OBJ",
+      "options": [
+        "Increasing import tariffs",
+        "Offering tax incentives and grants",
+        "Discouraging foreign investments",
+        "Limiting access to technology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Offering tax incentives and grants"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Government Support</h4>\n <p>Governments can actively encourage entrepreneurship through <strong>tax breaks, grants, and subsidies</strong> that reduce startup costs and risks. The other options (increasing tariffs, discouraging investment, limiting technology) would harm entrepreneurial activity.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": [
+      "Small Business",
+      "Classification"
+    ],
+    "Question": {
+      "content": "Micro and small businesses are categorized based on:",
+      "type": "OBJ",
+      "options": [
+        "Annual profit",
+        "Size of workforce and turnover",
+        "Market share",
+        "Type of ownership"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Size of workforce and turnover"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>How Businesses are Classified</h4>\n <p>Governments and organizations typically classify micro and small enterprises using <strong>number of employees</strong> and <strong>annual revenue or turnover</strong>. For example, a micro business might have less than 10 employees, while a small business might have 10-50 employees.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": [
+      "Small Business",
+      "Economic Impact"
+    ],
+    "Question": {
+      "content": "The major contribution of micro and small businesses in an economy is:",
+      "type": "OBJ",
+      "options": [
+        "Dominating international markets",
+        "Providing large-scale employment",
+        "Offering goods and services at premium prices",
+        "Creating monopolies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Providing large-scale employment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Employment Engine</h4>\n <p>Globally, micro and small businesses are the largest source of jobs. They employ a huge percentage of the workforce, especially in developing countries, absorbing labor that large corporations cannot. They are the <strong>backbone of employment</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": [
+      "Small Business",
+      "Sectors"
+    ],
+    "Question": {
+      "content": "Which sector benefits the most from micro and small businesses?",
+      "type": "OBJ",
+      "options": [
+        "Manufacturing",
+        "Service",
+        "Agriculture",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Widespread Impact</h4>\n <p>Micro and small businesses operate in <strong>every sector</strong>. Small farms in agriculture, local workshops in manufacturing, and neighborhood shops in services—all benefit from the existence of small enterprises that meet local needs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": [
+      "Small Business",
+      "Wealth Creation"
+    ],
+    "Question": {
+      "content": "Micro and small businesses are significant in wealth creation because they:",
+      "type": "OBJ",
+      "options": [
+        "Focus on luxury products",
+        "Redistribute resources across society",
+        "Operate only in urban areas",
+        "Have access to unlimited capital"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Redistribute resources across society"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Wealth Distribution</h4>\n <p>Large corporations concentrate wealth among few owners and shareholders. Micro and small businesses, however, spread wealth more widely—profits go to many local owners, employees, and suppliers, <strong>redistributing resources throughout communities</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": [
+      "Small Business",
+      "Financial Independence"
+    ],
+    "Question": {
+      "content": "What is the primary role of small businesses in financial independence?",
+      "type": "OBJ",
+      "options": [
+        "Allowing dependence on government grants",
+        "Enabling self-reliance through income generation",
+        "Reducing the need for international trade",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enabling self-reliance through income generation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Path to Independence</h4>\n <p>Small businesses provide owners with a source of income that doesn't depend on an employer or government assistance. This <strong>self-reliance</strong>—earning your own money through your own efforts—is the essence of financial independence.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": [
+      "Small Business",
+      "Employment"
+    ],
+    "Question": {
+      "content": "Micro and small businesses contribute to employment generation by:",
+      "type": "OBJ",
+      "options": [
+        "Hiring only skilled labor",
+        "Creating jobs at local levels",
+        "Eliminating competition",
+        "Paying minimum wages"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating jobs at local levels"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Local Employment</h4>\n <p>Unlike large corporations that might centralize jobs in big cities, small businesses are <strong>dispersed across towns and villages</strong>. They provide employment opportunities where people live, reducing the need for migration and supporting local economies.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": [
+      "Small Business",
+      "Wealth Creation"
+    ],
+    "Question": {
+      "content": "Wealth creation by small businesses is achieved through:",
+      "type": "OBJ",
+      "options": [
+        "Hoarding profits",
+        "Circulating income in the community",
+        "Increasing inflation",
+        "Restricting competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Circulating income in the community"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Multiplier Effect</h4>\n <p>When small businesses earn money, they spend it locally—paying local employees, buying from local suppliers, and supporting local services. This <strong>circulation of money</strong> within the community creates more economic activity than when money leaves the area.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": [
+      "Small Business",
+      "Barriers"
+    ],
+    "Question": {
+      "content": "A major barrier to wealth creation for small businesses is:",
+      "type": "OBJ",
+      "options": [
+        "Government subsidies",
+        "Lack of access to credit",
+        "Over-regulation",
+        "Technology adoption"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lack of access to credit"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Financial Barrier</h4>\n <p>Banks often see small businesses as risky and refuse to lend to them. Without <strong>access to credit</strong> (loans), small businesses cannot invest in equipment, inventory, or expansion, severely limiting their ability to grow and create wealth.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": [
+      "Small Business",
+      "Employment",
+      "Supply Chain"
+    ],
+    "Question": {
+      "content": "Which of these is an indirect impact of small businesses on employment?",
+      "type": "OBJ",
+      "options": [
+        "Reduced dependence on imports",
+        "Enhanced supply chain activities",
+        "Reduction in market size",
+        "Increased foreign competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Enhanced supply chain activities"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Indirect Job Creation</h4>\n <p>When small businesses thrive, they need suppliers, delivery services, accountants, and maintenance workers. These <strong>supply chain activities</strong> create additional jobs indirectly, even though those workers aren't directly employed by the small business.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": [
+      "Small Business",
+      "Financial Independence"
+    ],
+    "Question": {
+      "content": "Financial independence through small businesses is best promoted by:",
+      "type": "OBJ",
+      "options": [
+        "Government bailouts",
+        "Profit reinvestment in expansion",
+        "Importation of raw materials",
+        "Avoiding loans and credit"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Profit reinvestment in expansion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building Independence</h4>\n <p>True financial independence comes when a business can grow using its own earnings. By <strong>reinvesting profits</strong> rather than relying on constant external funding, the owner maintains control and builds sustainable wealth over time.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": [
+      "Small Business",
+      "Developing Economies",
+      "Challenges"
+    ],
+    "Question": {
+      "content": "The greatest challenge micro businesses face in developing economies is:",
+      "type": "OBJ",
+      "options": [
+        "High consumer demand",
+        "Limited access to funding",
+        "Excessive technology adoption",
+        "Surplus of skilled labor"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited access to funding"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Funding Gap</h4>\n <p>In developing economies, banks rarely lend to micro businesses. Without collateral or credit history, these entrepreneurs rely on informal lenders charging high interest. This <strong>limited access to affordable funding</strong> is often the biggest obstacle to starting or growing a business.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": [
+      "Small Business",
+      "Rural Areas",
+      "Opportunities"
+    ],
+    "Question": {
+      "content": "One opportunity for micro and small businesses in rural areas is:",
+      "type": "OBJ",
+      "options": [
+        "Urban migration",
+        "Limited competition",
+        "High taxation",
+        "Poor infrastructure"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited competition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rural Advantage</h4>\n <p>While rural areas have challenges like poor infrastructure, they often have <strong>limited competition</strong>. Few businesses serve these communities, so an entrepreneur who sets up shop can capture the local market without fighting many rivals.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": [
+      "Small Business",
+      "Technology",
+      "Wealth Creation"
+    ],
+    "Question": {
+      "content": "How can technology aid small businesses in wealth creation?",
+      "type": "OBJ",
+      "options": [
+        "By increasing operational costs",
+        "By expanding market reach and efficiency",
+        "By reducing competition",
+        "By eliminating the need for skilled labor"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "By expanding market reach and efficiency"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Technology as an Enabler</h4>\n <p>Technology helps small businesses in two key ways: <strong>efficiency</strong> (doing tasks faster and cheaper with software and automation) and <strong>market reach</strong> (selling online to customers far beyond their local area). Both help increase profits and create wealth.</p>\n</div>"
+    }
+  },
+  
+  
+  
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Four",
+    "subheading": "Entrepreneurial Thinking and Innovative Entrepreneurship"
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": [
+      "Entrepreneurship",
+      "Entrepreneurial Thinking"
+    ],
+    "Question": {
+      "content": "What is entrepreneurial thinking primarily focused on?",
+      "type": "OBJ",
+      "options": [
+        "Administrative tasks",
+        "Problem-solving and innovation",
+        "Following instructions",
+        "Avoiding risks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Problem-solving and innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Core of Entrepreneurial Thinking</h4>\n <p>Entrepreneurial thinking is a mindset focused on identifying problems and finding creative solutions. Unlike routine administrative work, it's about <strong>seeing opportunities where others see obstacles</strong> and developing innovative ways to address unmet needs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": [
+      "Entrepreneurship",
+      "Entrepreneurial Mindset"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a characteristic of an entrepreneurial mindset?",
+      "type": "OBJ",
+      "options": [
+        "Creativity",
+        "Risk aversion",
+        "Resilience",
+        "Proactiveness"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Risk aversion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneurial Characteristics</h4>\n <p>Entrepreneurs are characterized by creativity, resilience (bouncing back from failure), and proactiveness (taking initiative). <strong>Risk aversion</strong>—the desire to avoid risk—is the opposite of what drives entrepreneurs, who must take calculated risks to succeed.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": [
+      "Entrepreneurship",
+      "Innovation"
+    ],
+    "Question": {
+      "content": "What does 'innovation' in entrepreneurship mean?",
+      "type": "OBJ",
+      "options": [
+        "Copying existing ideas",
+        "Improving or creating new products, services, or processes",
+        "Ignoring customer needs",
+        "Avoiding technology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Improving or creating new products, services, or processes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Innovation</h4>\n <p>Innovation means <strong>creating value in new ways</strong>. This could be a completely new invention, a significant improvement to an existing product, a better service delivery method, or a more efficient business process. It's not just about technology—it's about doing things better.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": [
+      "Entrepreneurship",
+      "Opportunity Recognition"
+    ],
+    "Question": {
+      "content": "Which of these best describes an entrepreneurial opportunity?",
+      "type": "OBJ",
+      "options": [
+        "A guaranteed success",
+        "A gap or unmet need in the market",
+        "A large amount of capital",
+        "A high-risk venture"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A gap or unmet need in the market"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Spotting Opportunities</h4>\n <p>An entrepreneurial opportunity exists when there's a <strong>gap between what customers need and what's currently available</strong>. Entrepreneurs spot these gaps and create businesses to fill them. Opportunities aren't guaranteed successes—they require execution.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": [
+      "Entrepreneurship",
+      "Innovation"
+    ],
+    "Question": {
+      "content": "What is the primary goal of innovative entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Reducing costs only",
+        "Creating unique value for customers",
+        "Following traditional business practices",
+        "Avoiding competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating unique value for customers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Value Creation</h4>\n <p>While cost reduction can be part of it, innovative entrepreneurship is fundamentally about <strong>offering something valuable that customers can't get elsewhere</strong>. This unique value could be better quality, lower price, convenience, or solving a problem in a new way.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": [
+      "Entrepreneurship",
+      "Innovation",
+      "Disruptive Innovation"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of disruptive innovation?",
+      "type": "OBJ",
+      "options": [
+        "Incremental improvements to a product",
+        "Introduction of smartphones",
+        "Offering discounts on services",
+        "Hiring more employees"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Introduction of smartphones"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Disruptive Innovation Explained</h4>\n <p><strong>Disruptive innovation</strong> creates a new market and eventually disrupts or replaces existing ones. Smartphones disrupted cameras, GPS devices, MP3 players, and laptops by combining their functions into one device. Incremental improvements (like a slightly better camera) are not disruptive.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": [
+      "Entrepreneurship",
+      "Entrepreneurial Thinking"
+    ],
+    "Question": {
+      "content": "Entrepreneurial thinking involves which type of decision-making?",
+      "type": "OBJ",
+      "options": [
+        "Linear and rigid",
+        "Creative and adaptive",
+        "Cautious and slow",
+        "Bureaucratic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creative and adaptive"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Flexible Thinking</h4>\n <p>Entrepreneurs face uncertainty and changing conditions. They can't follow rigid plans. Instead, they use <strong>creative and adaptive decision-making</strong>—adjusting strategies based on new information, experimenting, and pivoting when necessary.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": [
+      "Entrepreneurship",
+      "Risk"
+    ],
+    "Question": {
+      "content": "What is the relationship between risk and entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Entrepreneurs always avoid risks",
+        "Entrepreneurs take calculated risks",
+        "Entrepreneurs thrive on reckless risks",
+        "Risk is irrelevant in entrepreneurship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entrepreneurs take calculated risks"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Calculated Risk-Taking</h4>\n <p>Entrepreneurs aren't gamblers who take reckless chances. They <strong>carefully evaluate potential risks and rewards</strong>, gather information, and make informed decisions. They take risks, but they try to minimize and manage those risks through planning and research.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": [
+      "Entrepreneurship",
+      "Success Factors"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a key factor in entrepreneurial success?",
+      "type": "OBJ",
+      "options": [
+        "Innovation",
+        "Market research",
+        "Luck",
+        "Strategic planning"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Luck"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Controllable Factors</h4>\n <p>While luck can play a small role, it's not something entrepreneurs can rely on or control. <strong>Innovation, market research, and strategic planning</strong> are deliberate actions that successful entrepreneurs take to increase their odds of success.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": [
+      "Entrepreneurship",
+      "Management"
+    ],
+    "Question": {
+      "content": "What is a key difference between an entrepreneur and a manager?",
+      "type": "OBJ",
+      "options": [
+        "Entrepreneurs focus on innovation while managers focus on operations",
+        "Managers take risks, while entrepreneurs avoid them",
+        "Entrepreneurs follow rules, while managers break them",
+        "There is no difference"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entrepreneurs focus on innovation while managers focus on operations"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Different Focuses</h4>\n <p>Entrepreneurs are primarily concerned with <strong>creating new things</strong>—new products, new markets, new ways of doing business. Managers are focused on <strong>running existing operations efficiently</strong>—maintaining quality, managing people, and meeting current goals.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "topic": [
+      "Entrepreneurship",
+      "Skills"
+    ],
+    "Question": {
+      "content": "Which skill is most crucial for innovative entrepreneurs?",
+      "type": "OBJ",
+      "options": [
+        "Financial accounting",
+        "Networking",
+        "Critical thinking",
+        "Marketing"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Critical thinking"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Thinking Skills</h4>\n <p>While all listed skills are useful, <strong>critical thinking</strong> is fundamental for innovative entrepreneurs. It enables them to analyze problems, question assumptions, evaluate opportunities, and make sound decisions in complex, uncertain situations.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "topic": [
+      "Entrepreneurship",
+      "Design Thinking",
+      "Innovation"
+    ],
+    "Question": {
+      "content": "What does 'design thinking' contribute to entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "A focus on financial models",
+        "A user-centered approach to problem-solving",
+        "A method for avoiding competition",
+        "A tool for risk minimization"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A user-centered approach to problem-solving"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Design Thinking Approach</h4>\n <p>Design thinking is a problem-solving method that starts with <strong>understanding user needs</strong>. It involves empathy, ideation, prototyping, and testing. For entrepreneurs, it ensures that the solutions they develop actually address real customer problems.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 73",
+    "topic": [
+      "Entrepreneurship",
+      "Entrepreneurial Thinking"
+    ],
+    "Question": {
+      "content": "Which of the following is an outcome of entrepreneurial thinking?",
+      "type": "OBJ",
+      "options": [
+        "Increased rigidity",
+        "Stagnant business growth",
+        "Creative solutions",
+        "Avoidance of market challenges"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creative solutions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Results of Entrepreneurial Thinking</h4>\n <p>Entrepreneurial thinking is about looking at problems differently and finding innovative ways to solve them. The natural outcome of this mindset is <strong>creative solutions</strong>—new approaches, products, or methods that address market needs in unique ways.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 74",
+    "topic": [
+      "Entrepreneurship",
+      "Lean Startup"
+    ],
+    "Question": {
+      "content": "What does a 'lean startup' emphasize?",
+      "type": "OBJ",
+      "options": [
+        "Building a business with minimal resources",
+        "Extensive business planning",
+        "Avoiding customer feedback",
+        "Immediate scaling"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Building a business with minimal resources"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lean Startup Methodology</h4>\n <p>The lean startup approach focuses on <strong>efficiency and learning</strong>. Instead of spending years perfecting a product in secret, entrepreneurs create a minimum viable product (MVP), get customer feedback, and iterate. This conserves resources and reduces waste.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 75",
+    "topic": [
+      "Entrepreneurship",
+      "Business Model Canvas"
+    ],
+    "Question": {
+      "content": "What is a business model canvas used for?",
+      "type": "OBJ",
+      "options": [
+        "Writing financial reports",
+        "Visualizing key aspects of a business idea",
+        "Avoiding competitive analysis",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Visualizing key aspects of a business idea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Model Canvas</h4>\n <p>The Business Model Canvas is a one-page template that helps entrepreneurs <strong>map out the key elements of their business</strong>: value proposition, customers, channels, revenue streams, costs, and more. It's a visual tool for developing and testing business ideas.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 76",
+    "topic": [
+      "Entrepreneurship",
+      "Pivoting"
+    ],
+    "Question": {
+      "content": "In entrepreneurship, what does 'pivoting' mean?",
+      "type": "OBJ",
+      "options": [
+        "Continuing with the original idea regardless of outcomes",
+        "Changing the direction of a business strategy based on feedback",
+        "Stopping all business activities",
+        "Increasing prices"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Changing the direction of a business strategy based on feedback"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Pivot</h4>\n <p>A pivot is a <strong>structured course correction</strong>. When entrepreneurs test their ideas and learn that something isn't working, they pivot—adjusting their product, target market, or business model based on real feedback, rather than stubbornly sticking to the original plan.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 77",
+    "topic": [
+      "Intrapreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Which of the following best describes intrapreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Entrepreneurship outside the workplace",
+        "Entrepreneurship within an existing organization",
+        "A method for avoiding risks",
+        "A type of startup"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entrepreneurship within an existing organization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intrapreneurship Defined</h4>\n <p>Intrapreneurship is when employees use entrepreneurial skills—innovation, initiative, risk-taking—<strong>within their existing company</strong>. They develop new products or divisions using company resources, acting like entrepreneurs but inside the organization.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 78",
+    "topic": [
+      "Entrepreneurship",
+      "Customer Feedback",
+      "Innovation"
+    ],
+    "Question": {
+      "content": "Why is customer feedback important in innovative entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "It helps entrepreneurs adjust their offerings to meet needs",
+        "It discourages experimentation",
+        "It minimizes profits",
+        "It is irrelevant"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It helps entrepreneurs adjust their offerings to meet needs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Customer-Centric Innovation</h4>\n <p>Innovation isn't just about creating something new—it's about creating something <strong>people actually want</strong>. Customer feedback provides crucial information about what's working, what's not, and what needs improvement, allowing entrepreneurs to refine their offerings.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 79",
+    "topic": [
+      "Entrepreneurship",
+      "Team Building"
+    ],
+    "Question": {
+      "content": "What is the primary benefit of building a diverse entrepreneurial team?",
+      "type": "OBJ",
+      "options": [
+        "Faster decision-making",
+        "Access to various perspectives and skills",
+        "Avoiding conflicts",
+        "Lower operating costs"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Access to various perspectives and skills"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Diverse Teams</h4>\n <p>A diverse team brings together people with different backgrounds, expertise, and ways of thinking. This <strong>variety of perspectives</strong> leads to better problem-solving, more creative ideas, and a more complete understanding of different customer segments.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 80",
+    "topic": [
+      "Social Entrepreneurship",
+      "Examples"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of social entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Developing a luxury fashion brand",
+        "Creating a sustainable energy solution for rural areas",
+        "Opening a new restaurant chain",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating a sustainable energy solution for rural areas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social Entrepreneurship in Action</h4>\n <p>Social entrepreneurship prioritizes <strong>social impact over profit</strong>. Creating affordable energy solutions for underserved rural communities addresses a social need (energy access) while potentially being financially sustainable. Luxury brands and restaurant chains are primarily profit-driven.</p>\n</div>"
+    }
+  }
+  
+  
+]

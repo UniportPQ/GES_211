@@ -1,0 +1,1073 @@
+[
+  
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Introduction to Entrepreneurship",
+    "code": "GES 211",
+    "session": "Workbook Unit 5-6",
+    "topics": ["Innovation", "Definitions", "Process Innovation", "Product Innovation", "Drivers", "Entrepreneurship", "Innovation Ecosystem", "Universities", "Culture", "Business Model Innovation", "Collaboration", "Incremental Innovation", "Infrastructure", "Radical Innovation", "Government Role", "Characteristics", "Ecosystem", "Barriers", "Market Innovation", "Types", "Disruptive Innovation", "Open Innovation", "Science Parks", "History", "ICT", "Benefits", "Technopreneurship", "Traits", "Goals", "Examples", "Lean Startup", "R&D", "Incubators", "Startup Support", "Startup Ecosystem", "Components", "Cloud Computing", "Funding"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Pick the correct answer"
+  },
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Five",
+    "subheading": "Concept of Innovation and Innovation-Driven Entrepreneurial Ecosystems"
+  },
+  {
+    "type": "Question",
+    "name": "Question 81",
+    "topic": [
+      "Innovation",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is the primary focus of innovation?",
+      "type": "OBJ",
+      "options": [
+        "Maintaining traditions",
+        "Adding value",
+        "Following competition",
+        "Eliminating competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adding value"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Purpose of Innovation</h4>\n <p>At its core, innovation is about <strong>creating or increasing value</strong>. Whether it's a product, service, or process, successful innovation delivers more value to customers, the company, or society than what existed before. It's not just about being different—it's about being better.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 82",
+    "topic": [
+      "Innovation",
+      "Process Innovation"
+    ],
+    "Question": {
+      "content": "Which type of innovation involves the improvement of delivery methods?",
+      "type": "OBJ",
+      "options": [
+        "Product Innovation",
+        "Process Innovation",
+        "Business Model Innovation",
+        "Market Innovation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Process Innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Process Innovation Defined</h4>\n <p><strong>Process innovation</strong> focuses on improving how things are done. This includes delivery methods, manufacturing techniques, logistics, or customer service processes. The goal is to make operations more efficient, faster, cheaper, or higher quality.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 83",
+    "topic": [
+      "Innovation",
+      "Product Innovation"
+    ],
+    "Question": {
+      "content": "The introduction of a new good or service is an example of:",
+      "type": "OBJ",
+      "options": [
+        "Product Innovation",
+        "Process Innovation",
+        "Market Innovation",
+        "Incremental Innovation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Product Innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Product Innovation</h4>\n <p>When a company introduces a <strong>new or significantly improved good or service</strong>, that's product innovation. It could be a completely new invention (like the first smartphone) or a major improvement to an existing product (like a car with much better battery range).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 84",
+    "topic": [
+      "Innovation",
+      "Drivers"
+    ],
+    "Question": {
+      "content": "What is a key driver of innovation?",
+      "type": "OBJ",
+      "options": [
+        "Resistance to change",
+        "Lack of competition",
+        "Globalization",
+        "Over-regulation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Globalization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Drives Innovation?</h4>\n <p><strong>Globalization</strong> exposes companies to new ideas, technologies, and markets from around the world. It also increases competition, forcing companies to innovate to survive. Resistance to change, lack of competition, and over-regulation all <em>hinder</em> innovation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 85",
+    "topic": [
+      "Entrepreneurship",
+      "Innovation Ecosystem"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a component of an innovation-driven entrepreneurial ecosystem?",
+      "type": "OBJ",
+      "options": [
+        "Entrepreneurs",
+        "Government",
+        "Research Institutions",
+        "Traditional Markets"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Traditional Markets"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ecosystem Components</h4>\n <p>An innovation-driven ecosystem includes <strong>entrepreneurs, supportive government policies, research institutions (universities, labs), investors, and mentors</strong>. Traditional markets (like local weekly markets) are part of the economy but aren't specifically components of an innovation ecosystem.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 86",
+    "topic": [
+      "Entrepreneurship",
+      "Innovation Ecosystem",
+      "Universities"
+    ],
+    "Question": {
+      "content": "What role do universities play in an entrepreneurial ecosystem?",
+      "type": "OBJ",
+      "options": [
+        "Regulatory oversight",
+        "Talent and knowledge providers",
+        "Risk management",
+        "Resource extraction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Talent and knowledge providers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Universities' Contribution</h4>\n <p>Universities contribute to entrepreneurial ecosystems by <strong>educating future entrepreneurs, conducting research that leads to new technologies, and fostering a culture of innovation</strong>. They produce the talent and knowledge that startups and growing companies need.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 87",
+    "topic": [
+      "Innovation Ecosystem",
+      "Culture"
+    ],
+    "Question": {
+      "content": "In an Innovation-Driven Entrepreneurial Ecosystem (IDEE), tolerance for failure is considered a:",
+      "type": "OBJ",
+      "options": [
+        "Barrier to entry",
+        "Critical characteristic",
+        "Minor factor",
+        "Deterrent"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Critical characteristic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Learning from Failure</h4>\n <p>In innovative ecosystems, failure is seen as a <strong>learning opportunity, not a disgrace</strong>. When society tolerates failure, entrepreneurs are more willing to take risks and try new things. This cultural attitude is critical for innovation to flourish.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 88",
+    "topic": [
+      "Innovation",
+      "Business Model Innovation"
+    ],
+    "Question": {
+      "content": "The transformation of a company's value delivery approach is called:",
+      "type": "OBJ",
+      "options": [
+        "Product Innovation",
+        "Business Model Innovation",
+        "Incremental Innovation",
+        "Radical Innovation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Business Model Innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Changing How Value is Delivered</h4>\n <p>When a company changes <strong>how it creates, delivers, and captures value</strong>, that's business model innovation. Examples include subscription services instead of one-time sales, or platforms connecting users directly instead of traditional retail.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 89",
+    "topic": [
+      "Innovation Ecosystem",
+      "Collaboration"
+    ],
+    "Question": {
+      "content": "Which factor is most important for collaboration in an Innovation-Driven Entrepreneurial Ecosystem (IDEE)?",
+      "type": "OBJ",
+      "options": [
+        "Competitive rivalry",
+        "Synergy among stakeholders",
+        "Strict regulations",
+        "High barriers to entry"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synergy among stakeholders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Working Together</h4>\n <p>In a healthy ecosystem, different players—entrepreneurs, investors, universities, government—<strong>work together synergistically</strong>. Their combined efforts create more value than any could alone. Rivalry, strict rules, and barriers all hinder collaboration.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 90",
+    "topic": [
+      "Innovation",
+      "Incremental Innovation"
+    ],
+    "Question": {
+      "content": "Incremental innovation refers to:",
+      "type": "OBJ",
+      "options": [
+        "Small but continuous improvements",
+        "Radical breakthroughs",
+        "Copying existing ideas",
+        "Disrupting the market"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small but continuous improvements"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Small Steps Forward</h4>\n <p>Incremental innovation involves making <strong>small, steady improvements</strong> to existing products, services, or processes. Think of yearly smartphone updates—better camera, faster processor—rather than inventing a completely new device.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 91",
+    "topic": [
+      "Innovation Ecosystem",
+      "Culture"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of cultural support in an Innovation-Driven Entrepreneurial Ecosystem (IDEE)?",
+      "type": "OBJ",
+      "options": [
+        "Low taxes",
+        "Availability of venture capital",
+        "A society that celebrates risk-taking",
+        "Government subsidies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A society that celebrates risk-taking"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cultural Factors</h4>\n <p>Cultural support refers to <strong>attitudes and values in society</strong>. When a society admires entrepreneurs who take risks—even those who fail—it encourages more people to try. Low taxes, venture capital, and subsidies are structural/financial supports, not cultural.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 92",
+    "topic": [
+      "Innovation Ecosystem",
+      "Infrastructure"
+    ],
+    "Question": {
+      "content": "An essential infrastructure for an Innovation-Driven Entrepreneurial Ecosystem (IDEE) includes:",
+      "type": "OBJ",
+      "options": [
+        "Bureaucratic offices",
+        "High-speed internet",
+        "Traditional retail stores",
+        "Closed communication channels"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High-speed internet"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Physical and Digital Infrastructure</h4>\n <p>Modern innovation ecosystems require <strong>digital infrastructure</strong> like high-speed internet, reliable power, and transportation networks. These enable communication, data sharing, and business operations. Bureaucracy and closed channels hinder innovation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 93",
+    "topic": [
+      "Innovation",
+      "Radical Innovation"
+    ],
+    "Question": {
+      "content": "What type of innovation disrupts existing markets significantly?",
+      "type": "OBJ",
+      "options": [
+        "Incremental innovation",
+        "Radical Innovation",
+        "Process Innovation",
+        "Market Innovation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Radical Innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Radical Change</h4>\n <p><strong>Radical innovation</strong> creates such a dramatic shift that it makes existing products, services, or business models obsolete. Examples include the internet, smartphones, and streaming services—they fundamentally changed how industries operate.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 94",
+    "topic": [
+      "Entrepreneurship",
+      "Government Role"
+    ],
+    "Question": {
+      "content": "What is the role of government in an entrepreneurial ecosystem?",
+      "type": "OBJ",
+      "options": [
+        "Limiting entrepreneurial activities",
+        "Providing funding and creating policies",
+        "Eliminating private investors",
+        "Replacing universities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Providing funding and creating policies"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Government as Enabler</h4>\n <p>Governments support entrepreneurship by <strong>creating favorable policies</strong> (tax incentives, simplified registration), <strong>providing funding</strong> (grants, loans), and investing in infrastructure and education. They enable, not replace, private sector players.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 95",
+    "topic": [
+      "Innovation Ecosystem",
+      "Characteristics"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a characteristic of successful Innovation-Driven Entrepreneurial Ecosystems (IDEEs)?",
+      "type": "OBJ",
+      "options": [
+        "Collaboration",
+        "Isolation of stakeholders",
+        "Access to funding",
+        "Strong education system"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Isolation of stakeholders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Doesn't Work</h4>\n <p>Successful ecosystems thrive on <strong>connection and interaction</strong> between entrepreneurs, investors, researchers, and policymakers. Isolating these stakeholders prevents the flow of ideas, resources, and support that ecosystems need to function.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 96",
+    "topic": [
+      "Entrepreneurship",
+      "Ecosystem"
+    ],
+    "Question": {
+      "content": "An entrepreneurial ecosystem thrives on:",
+      "type": "OBJ",
+      "options": [
+        "Fragmented communication",
+        "Synergy and support",
+        "Overregulation",
+        "Minimal interaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Synergy and support"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ecosystem Success Factors</h4>\n <p>Just like a natural ecosystem, an entrepreneurial ecosystem needs <strong>mutually beneficial relationships</strong>. When different parts work together (synergy) and provide each other with resources and encouragement (support), the whole system grows stronger.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 97",
+    "topic": [
+      "Innovation",
+      "Barriers"
+    ],
+    "Question": {
+      "content": "What is a major barrier to innovation?",
+      "type": "OBJ",
+      "options": [
+        "Technological advancement",
+        "Resistance to change",
+        "Access to education",
+        "Market demand"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Resistance to change"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Holds Innovation Back</h4>\n <p>People and organizations often prefer familiar ways of doing things. <strong>Resistance to change</strong>—fear of the unknown, comfort with routine, or protecting existing investments—can prevent new ideas from being adopted, even when they're better.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 98",
+    "topic": [
+      "Entrepreneurship",
+      "Ecosystem"
+    ],
+    "Question": {
+      "content": "The study of entrepreneurial ecosystems primarily focuses on:",
+      "type": "OBJ",
+      "options": [
+        "Traditional business models",
+        "Networks of interconnected stakeholders",
+        "Eliminating innovation",
+        "Corporate governance"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Networks of interconnected stakeholders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ecosystem Focus</h4>\n <p>Entrepreneurial ecosystem analysis looks at <strong>how different players connect and interact</strong>—entrepreneurs, funders, universities, mentors, support services. It studies the relationships and networks that enable entrepreneurship to flourish in a region.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 99",
+    "topic": [
+      "Innovation",
+      "Market Innovation"
+    ],
+    "Question": {
+      "content": "Market innovation targets:",
+      "type": "OBJ",
+      "options": [
+        "Improved products",
+        "Existing customer segments",
+        "New markets or customer bases",
+        "Reduced competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "New markets or customer bases"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Finding New Customers</h4>\n <p><strong>Market innovation</strong> involves identifying and serving new customer segments or entering entirely new markets. This could mean taking an existing product to a different geographic region, demographic group, or industry that wasn't previously targeted.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 100",
+    "topic": [
+      "Innovation",
+      "Culture"
+    ],
+    "Question": {
+      "content": "A characteristic of a successful innovation culture is:",
+      "type": "OBJ",
+      "options": [
+        "Avoiding risks",
+        "Embracing experimentation",
+        "Limiting new ideas",
+        "Strict hierarchies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Embracing experimentation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Culture of Experimentation</h4>\n <p>Innovation requires trying new things, and not every attempt succeeds. A culture that <strong>encourages experimentation</strong>—testing ideas, learning from what doesn't work, and trying again—creates the conditions for breakthroughs to happen.</p>\n</div>"
+    }
+  },
+  
+  
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Six",
+    "subheading": "Business Innovation, Science & Technology Parks, and Technopreneurship"
+  },
+  {
+    "type": "Question",
+    "name": "Question 101",
+    "topic": [
+      "Innovation",
+      "Types"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a type of business innovation?",
+      "type": "OBJ",
+      "options": [
+        "Product Innovation",
+        "Process Innovation",
+        "Distribution Innovation",
+        "Personality Innovation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Personality Innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Valid Innovation Types</h4>\n <p>Business innovation typically includes <strong>product, process, distribution (or delivery), marketing, and business model innovation</strong>. \"Personality innovation\" is not a recognized category—you can't innovate a personality in the business sense.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 102",
+    "topic": [
+      "Innovation",
+      "Incremental Innovation"
+    ],
+    "Question": {
+      "content": "What does 'incremental innovation' mean in a business context?",
+      "type": "OBJ",
+      "options": [
+        "Small improvements to existing products or processes",
+        "Introduction of entirely new products to the market",
+        "A sudden technological breakthrough",
+        "Rebranding a company's image"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Small improvements to existing products or processes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Continuous Improvement</h4>\n <p>Incremental innovation involves making <strong>small, ongoing enhancements</strong> to existing products, services, or processes. It's about making things better, faster, cheaper, or more convenient over time, rather than creating something completely new. Most innovations in established companies are incremental.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 103",
+    "topic": [
+      "Innovation",
+      "Disruptive Innovation"
+    ],
+    "Question": {
+      "content": "Which of these is an example of disruptive innovation?",
+      "type": "OBJ",
+      "options": [
+        "A better version of an existing smartphone",
+        "The creation of a ride-hailing app like Uber",
+        "A new flavor of soda",
+        "Faster customer service in a bank"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "The creation of a ride-hailing app like Uber"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Disruptive Innovation Example</h4>\n <p><strong>Disruptive innovation</strong> creates a new market and disrupts existing ones. Uber disrupted the taxi industry by offering a completely new way to hail rides. Better smartphones, new soda flavors, and faster service are incremental improvements, not disruptive.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 104",
+    "topic": [
+      "Innovation",
+      "Open Innovation"
+    ],
+    "Question": {
+      "content": "In business innovation, the term 'open innovation' refers to:",
+      "type": "OBJ",
+      "options": [
+        "Innovation within a closed team",
+        "Using external ideas and collaboration to drive innovation",
+        "Innovations that require no intellectual property protection",
+        "Rapid prototyping methods"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using external ideas and collaboration to drive innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Open Innovation</h4>\n <p>Open innovation means companies <strong>use external ideas and paths to market</strong> alongside internal ones. Instead of keeping everything secret, they collaborate with universities, startups, customers, and even competitors to accelerate innovation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 105",
+    "topic": [
+      "Innovation",
+      "Business Model Innovation"
+    ],
+    "Question": {
+      "content": "A business model innovation focuses primarily on:",
+      "type": "OBJ",
+      "options": [
+        "Designing a new product",
+        "Changing how a company delivers value to customers",
+        "Increasing production capacity",
+        "Improving marketing strategies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Changing how a company delivers value to customers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Model Focus</h4>\n <p>Business model innovation rethinks <strong>how value is created and delivered</strong>. Examples include subscription models (Netflix), freemium models (Spotify), or platform models (Airbnb). It's not about the product itself but the way the business operates.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 106",
+    "topic": [
+      "Science Parks",
+      "Innovation Ecosystem"
+    ],
+    "Question": {
+      "content": "What is the primary purpose of a science and technology park?",
+      "type": "OBJ",
+      "options": [
+        "Providing recreational activities for scientists",
+        "Facilitating collaboration between academia, government, and industry",
+        "Housing tech startups with no university affiliations",
+        "Offering tax breaks to all types of businesses"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Facilitating collaboration between academia, government, and industry"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Science Parks' Role</h4>\n <p>Science and technology parks are designed to <strong>bring together universities, research institutions, companies, and government</strong> in one location. This proximity encourages knowledge sharing, technology transfer, and joint innovation projects.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 107",
+    "topic": [
+      "Science Parks",
+      "Characteristics"
+    ],
+    "Question": {
+      "content": "Which of these is a key characteristic of science parks?",
+      "type": "OBJ",
+      "options": [
+        "Isolation from urban areas",
+        "Strong linkages to research institutions",
+        "Focus only on manufacturing",
+        "Primarily government-owned companies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Strong linkages to research institutions"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Feature</h4>\n <p>The defining characteristic of a science park is its <strong>connection to universities or research centers</strong>. This proximity allows companies to access cutting-edge research, hire talented graduates, and collaborate with academics.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 108",
+    "topic": [
+      "Science Parks",
+      "History"
+    ],
+    "Question": {
+      "content": "The first science park in the world was established in:",
+      "type": "OBJ",
+      "options": [
+        "Silicon Valley, USA",
+        "Cambridge, UK",
+        "Tsukuba, Japan",
+        "Bangalore, India"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cambridge, UK"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>First Science Park</h4>\n <p>The <strong>Cambridge Science Park</strong> in the UK, founded in 1970 by Trinity College, is widely recognized as the first science park in the world. It was created to commercialize university research and foster high-tech business growth.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 109",
+    "topic": [
+      "Science Parks",
+      "ICT"
+    ],
+    "Question": {
+      "content": "Which sector benefits the most from science and technology parks?",
+      "type": "OBJ",
+      "options": [
+        "Retail",
+        "Information and Communication Technology (ICT)",
+        "Agriculture",
+        "Real Estate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Information and Communication Technology (ICT)"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Primary Beneficiary</h4>\n <p>While many tech sectors benefit, <strong>ICT companies</strong> are particularly well-suited to science parks. They thrive on proximity to research, talent pools, and collaborative environments. Many famous tech clusters (like Silicon Valley) began around universities.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 110",
+    "topic": [
+      "Science Parks",
+      "Benefits"
+    ],
+    "Question": {
+      "content": "One major benefit of science parks is:",
+      "type": "OBJ",
+      "options": [
+        "Reduced competition among companies",
+        "Accelerated commercialization of research",
+        "Focus on traditional industries",
+        "Isolation from global markets"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Accelerated commercialization of research"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>From Lab to Market</h4>\n <p>Science parks help <strong>turn research findings into commercial products faster</strong>. By putting researchers and entrepreneurs together, they reduce the time and barriers between scientific discovery and market-ready innovations.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 111",
+    "topic": [
+      "Technopreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Technopreneurship is best defined as:",
+      "type": "OBJ",
+      "options": [
+        "Entrepreneurship in the tech industry",
+        "Using technology as a tool for business development",
+        "Technological investment in large companies",
+        "Innovation without profit motives"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Using technology as a tool for business development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Technopreneurship Defined</h4>\n <p>Technopreneurship combines technology and entrepreneurship. It's about <strong>leveraging technology to create innovative business solutions</strong>. While often in the tech industry, it can also mean applying technology in traditional sectors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 112",
+    "topic": [
+      "Technopreneurship",
+      "Traits"
+    ],
+    "Question": {
+      "content": "A key trait of a successful technopreneur is:",
+      "type": "OBJ",
+      "options": [
+        "Avoidance of risks",
+        "Strong technical and business knowledge",
+        "Dependence on external funding",
+        "Focus only on local markets"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Strong technical and business knowledge"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hybrid Skills</h4>\n <p>Technopreneurs need to <strong>understand both the technology they're working with and how to run a business</strong>. Technical knowledge helps create good products; business knowledge helps sell them, manage finances, and scale the company.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 113",
+    "topic": [
+      "Technopreneurship",
+      "Goals"
+    ],
+    "Question": {
+      "content": "What is the primary goal of a technopreneur?",
+      "type": "OBJ",
+      "options": [
+        "To become a scientist",
+        "To solve problems using technology and generate revenue",
+        "To invest in traditional businesses",
+        "To limit technology adoption"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "To solve problems using technology and generate revenue"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Purpose of Technopreneurship</h4>\n <p>Technopreneurs aim to <strong>identify real-world problems and apply technology to solve them</strong> in ways that are commercially viable. The goal is both impact (solving problems) and sustainability (generating revenue).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 114",
+    "topic": [
+      "Technopreneurship",
+      "Examples"
+    ],
+    "Question": {
+      "content": "Which of the following is an example of technopreneurship?",
+      "type": "OBJ",
+      "options": [
+        "A tech startup creating apps for education",
+        "A retail shop adopting point-of-sale systems",
+        "A farmer using modern fertilizers",
+        "A clothing brand using e-commerce"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A tech startup creating apps for education"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Pure Technopreneurship</h4>\n <p>While the other options involve technology, a <strong>startup built specifically to create tech products</strong> (like educational apps) is the clearest example of technopreneurship. The business itself is centered on developing and selling technology.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 115",
+    "topic": [
+      "Technopreneurship",
+      "Lean Startup"
+    ],
+    "Question": {
+      "content": "The 'lean startup' methodology is particularly useful for technopreneurs because:",
+      "type": "OBJ",
+      "options": [
+        "It ensures instant profitability",
+        "It emphasizes rapid prototyping and customer feedback",
+        "It eliminates the need for market research",
+        "It guarantees long-term success"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It emphasizes rapid prototyping and customer feedback"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Lean for Tech Ventures</h4>\n <p>Tech products are complex and uncertain. The lean startup approach—<strong>build a minimum viable product, get feedback, iterate</strong>—helps technopreneurs avoid building things nobody wants and adapt quickly to market needs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 116",
+    "topic": [
+      "Innovation",
+      "R&D"
+    ],
+    "Question": {
+      "content": "What does R&D stand for in the context of innovation?",
+      "type": "OBJ",
+      "options": [
+        "Risk and Development",
+        "Research and Development",
+        "Review and Design",
+        "Revenue and Deployment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Research and Development"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>R&D Meaning</h4>\n <p><strong>Research and Development (R&D)</strong> refers to the activities companies undertake to innovate and introduce new products or services. It's the first stage of the innovation process, involving investigation, experimentation, and prototype creation.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 117",
+    "topic": [
+      "Incubators",
+      "Startup Support"
+    ],
+    "Question": {
+      "content": "Which of the following best describes an incubator?",
+      "type": "OBJ",
+      "options": [
+        "A shared workspace for startups to develop business ideas",
+        "A large multinational corporation",
+        "A government-funded technology research center",
+        "A high-tech manufacturing plant"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A shared workspace for startups to develop business ideas"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Incubators</h4>\n <p>A business incubator is a program that provides <strong>resources, mentorship, and sometimes physical space</strong> to help early-stage startups survive and grow. They nurture young companies until they can operate independently.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 118",
+    "topic": [
+      "Startup Ecosystem",
+      "Components"
+    ],
+    "Question": {
+      "content": "A startup ecosystem typically includes:",
+      "type": "OBJ",
+      "options": [
+        "Universities, venture capitalists, and mentoring programs",
+        "Only government agencies",
+        "Large multinational corporations",
+        "Solely technology developers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Universities, venture capitalists, and mentoring programs"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ecosystem Components</h4>\n <p>A healthy startup ecosystem includes <strong>diverse players</strong>: universities (talent/research), investors (funding), mentors (guidance), successful entrepreneurs (role models), support services (legal/accounting), and government (policies).</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 119",
+    "topic": [
+      "Technopreneurship",
+      "Cloud Computing"
+    ],
+    "Question": {
+      "content": "Technopreneurs often rely on 'cloud computing' because:",
+      "type": "OBJ",
+      "options": [
+        "It eliminates the need for physical servers",
+        "It guarantees higher profit margins",
+        "It is a government-mandated technology",
+        "It avoids customer interaction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It eliminates the need for physical servers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cloud Benefits</h4>\n <p>Cloud computing allows startups to <strong>access computing power and storage over the internet</strong> without buying expensive servers. This reduces upfront costs, provides scalability, and lets technopreneurs focus on their product instead of IT infrastructure.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 120",
+    "topic": [
+      "Technopreneurship",
+      "Funding"
+    ],
+    "Question": {
+      "content": "Which of these funding options is most common for technopreneurs?",
+      "type": "OBJ",
+      "options": [
+        "Bootstrapping and venture capital",
+        "Lottery winnings",
+        "Government subsidies for agriculture",
+        "Fixed deposits in banks"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bootstrapping and venture capital"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Startup Funding</h4>\n <p>Technopreneurs often start with <strong>bootstrapping</strong> (using personal savings) and later seek <strong>venture capital</strong> from investors who fund high-growth tech startups. Other options listed are either uncommon or irrelevant to tech startups.</p>\n</div>"
+    }
+  }
+]

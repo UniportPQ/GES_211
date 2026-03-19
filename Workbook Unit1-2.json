@@ -1,0 +1,1089 @@
+[
+  {
+    "type": "pageInfo",
+    "kind": "subjective",
+    "course_title": "Introduction to Entrepreneurship",
+    "code": "GES 211",
+    "session": "Workbook Unit 1-2",
+    "topics": ["Entrepreneurship", "Definitions", "Intrapreneurship", "Characteristics", "Benefits", "History", "Skills", "Motivation", "Examples", "Mindset", "Challenges", "Social Entrepreneurship", "Structure", "Finance", "Process", "Support Systems", "Theories", "Schumpeter", "Psychology", "Kirzner", "Economic Development", "McClelland", "Rationale", "Weber", "Relevance", "Developing Economies", "Sociology", "Social Impact", "Integrated Theory", "Locus of Control", "Social Network Theory"],
+    "time": "90"
+  },
+  {
+    "type": "Instruction",
+    "content": "Pick the correct answer"
+  },
+  {
+    "type": "heading",
+    "heading": "Our One: Introduction to the Concept of Entrepreneurship and Intrapreneurship",
+    "Subheading": "Assessment Questions"
+  },
+  
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Entrepreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is the primary difference between an entrepreneur and an intrapreneur?",
+      "type": "OBJ",
+      "options": [
+        "Entrepreneurs innovate within companies; intrapreneurs create external ventures.",
+        "Entrepreneurs take personal risks; intrapreneurs use organizational resources.",
+        "Entrepreneurs work for organizations; intrapreneurs work independently.",
+        "Entrepreneurs rely on company funding; intrapreneurs seek venture capital."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entrepreneurs take personal risks; intrapreneurs use organizational resources."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneur vs. Intrapreneur</h4>\n <p>The core difference lies in who bears the financial risk. An entrepreneur risks their own money and time to start a new venture. An intrapreneur acts like an entrepreneur but <strong>within</strong> an existing company, using the company's resources to develop new ideas.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Entrepreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Which of the following best defines entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Managing a large company.",
+        "Operating within organizational frameworks.",
+        "Creating new businesses by identifying opportunities.",
+        "Implementing established strategies in startups."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating new businesses by identifying opportunities."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Entrepreneurship</h4>\n <p>Entrepreneurship is the process of designing, launching, and running a new business. It starts with <strong>identifying an opportunity</strong> (a gap in the market) and then creating a business to fill that gap.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Intrapreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "An intrapreneur is most likely to:",
+      "type": "OBJ",
+      "options": [
+        "Start a new company.",
+        "Lead innovation within an organization.",
+        "Focus solely on profits.",
+        "Avoid taking risks."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Lead innovation within an organization."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Role of an Intrapreneur</h4>\n <p>An intrapreneur is an employee who is given the freedom and resources to develop a new product or service for their employer. Their main goal is to <strong>drive innovation from the inside</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Entrepreneurship",
+      "Characteristics"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a characteristic of an entrepreneur?",
+      "type": "OBJ",
+      "options": [
+        "Risk-taking.",
+        "Dependence on a single employer.",
+        "Innovation.",
+        "Opportunity recognition."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Dependence on a single employer."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneurial Characteristics</h4>\n <p>Entrepreneurs are defined by their independence. They are their own boss, so they are not dependent on a single employer. The other options—risk-taking, innovation, and spotting opportunities—are classic traits of an entrepreneur.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Intrapreneurship",
+      "Benefits"
+    ],
+    "Question": {
+      "content": "What is a key advantage of intrapreneurship for organizations?",
+      "type": "OBJ",
+      "options": [
+        "Reduced competition in the market.",
+        "Improved employee retention through empowerment.",
+        "Increased focus on traditional practices.",
+        "Elimination of risks."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Improved employee retention through empowerment."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Benefits of Intrapreneurship</h4>\n <p>When companies encourage intrapreneurship, they empower their employees to be creative and take ownership of projects. This makes the job more fulfilling, which helps <strong>keep talented employees from leaving</strong> to start their own companies or join competitors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Intrapreneurship",
+      "History"
+    ],
+    "Question": {
+      "content": "The term 'intrapreneur' was first popularized by:",
+      "type": "OBJ",
+      "options": [
+        "Joseph Schumpeter.",
+        "Clifford Pinchot.",
+        "Peter Drucker.",
+        "Elon Musk."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Clifford Pinchot."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Origin of the Term</h4>\n <p>While the concept existed before, management consultant <strong>Clifford Pinchot</strong> and his wife Elizabeth are credited with coining and popularizing the term 'intrapreneur' in their 1985 book, <i>Intrapreneuring</i>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Entrepreneurship",
+      "Intrapreneurship",
+      "Skills"
+    ],
+    "Question": {
+      "content": "Which skill is most critical for both entrepreneurs and intrapreneurs?",
+      "type": "OBJ",
+      "options": [
+        "Accounting.",
+        "Creativity and innovation.",
+        "Routine task management.",
+        "Investment banking."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creativity and innovation."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Core Skill</h4>\n <p>Both roles are about creating something new and solving problems in unique ways. While other skills are helpful, the ability to think outside the box (<strong>creativity and innovation</strong>) is the fundamental engine for both an entrepreneur and an intrapreneur.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Entrepreneurship",
+      "Motivation"
+    ],
+    "Question": {
+      "content": "What is the primary motivation for entrepreneurs?",
+      "type": "OBJ",
+      "options": [
+        "Avoiding risks.",
+        "High salaries.",
+        "Creating value and addressing gaps in the market.",
+        "Following organizational rules."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating value and addressing gaps in the market."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneurial Drive</h4>\n <p>While making money is a goal, the primary driver is often the desire to solve a problem or fill a need. Entrepreneurs are passionate about <strong>creating value</strong> by offering a new product, service, or solution that the market is missing.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Intrapreneurship",
+      "Examples"
+    ],
+    "Question": {
+      "content": "An example of intrapreneurship is:",
+      "type": "OBJ",
+      "options": [
+        "Launching a personal startup.",
+        "Developing a new product within a tech company.",
+        "Investing in the stock market.",
+        "Acquiring a competitor."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Developing a new product within a tech company."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intrapreneurship in Action</h4>\n <p>A classic example is a Google employee using company time to develop a new feature like Gmail. They are acting as an <strong>intrapreneur</strong> by innovating from within the existing company structure.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Entrepreneurship",
+      "Mindset"
+    ],
+    "Question": {
+      "content": "Which of these best represents an entrepreneurial mindset?",
+      "type": "OBJ",
+      "options": [
+        "Maintaining the status quo.",
+        "Seeking stability over innovation.",
+        "Adapting to change and identifying opportunities.",
+        "Preferring routine over challenges."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adapting to change and identifying opportunities."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Entrepreneurial Mindset</h4>\n <p>An entrepreneurial mindset is all about flexibility and seeing possibilities. Instead of fearing change, entrepreneurs <strong>adapt to it</strong> and look for the new opportunities that change often creates.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Entrepreneurship",
+      "Challenges"
+    ],
+    "Question": {
+      "content": "Which of the following is a challenge entrepreneurs face?",
+      "type": "OBJ",
+      "options": [
+        "Access to established organizational support.",
+        "High risks and uncertainty.",
+        "Lack of innovation.",
+        "Delegating tasks to intrapreneurs."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "High risks and uncertainty."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Entrepreneur's Burden</h4>\n <p>Unlike an intrapreneur who has a company's backing, an entrepreneur faces the full weight of <strong>risk and uncertainty</strong>. They don't have a guaranteed paycheck and must navigate the unpredictable journey of building a business from scratch.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Social Entrepreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What distinguishes social entrepreneurship from traditional entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Focus on profit maximization.",
+        "Prioritizing social and environmental impact.",
+        "Limited financial risks.",
+        "Operating exclusively online."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prioritizing social and environmental impact."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social vs. Traditional Entrepreneurship</h4>\n <p>Traditional entrepreneurs primarily measure success by profit. Social entrepreneurs still run a business, but their <strong>primary mission is to create positive social or environmental change</strong>. Profit is a means to sustain that mission, not the end goal itself.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Intrapreneurship",
+      "Structure"
+    ],
+    "Question": {
+      "content": "An intrapreneur is most likely to report to:",
+      "type": "OBJ",
+      "options": [
+        "External investors.",
+        "A senior manager or executive.",
+        "A personal mentor.",
+        "No one, they are independent."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A senior manager or executive."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intrapreneurial Accountability</h4>\n <p>Although an intrapreneur has freedom to innovate, they are still an employee. They must answer to the company's hierarchy and typically report to a <strong>senior manager or executive</strong> who oversees the project or division.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Entrepreneurship",
+      "Finance"
+    ],
+    "Question": {
+      "content": "Entrepreneurs often face financial risks because:",
+      "type": "OBJ",
+      "options": [
+        "They rely on loans and personal savings.",
+        "Organizations find their ventures.",
+        "They are not responsible for their projects.",
+        "They avoid innovation."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "They rely on loans and personal savings."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sources of Entrepreneurial Risk</h4>\n <p>Unlike intrapreneurs who use company money, entrepreneurs fund their ventures themselves. They invest their <strong>personal savings</strong> or take out <strong>loans</strong> that they must repay personally. If the business fails, they lose this money and may still owe debt, creating significant financial risk.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Intrapreneurship",
+      "Benefits"
+    ],
+    "Question": {
+      "content": "Intrapreneurship is encouraged in organizations to:",
+      "type": "OBJ",
+      "options": [
+        "Increase bureaucracy.",
+        "Limit employee creativity.",
+        "Drive innovation and competitiveness.",
+        "Focus only on external partnerships."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Drive innovation and competitiveness."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Companies Encourage Intrapreneurship</h4>\n <p>Markets change quickly. Companies encourage intrapreneurship to stay ahead of competitors. By allowing employees to innovate internally, companies can <strong>develop new products, improve processes, and adapt to market trends</strong> without losing talent to startups.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Entrepreneurship",
+      "Process"
+    ],
+    "Question": {
+      "content": "What is the first step in the entrepreneurial process?",
+      "type": "OBJ",
+      "options": [
+        "Risk evaluation.",
+        "Opportunity identification.",
+        "Securing funding.",
+        "Hiring a team."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Opportunity identification."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Starting the Journey</h4>\n <p>Before anything else, an entrepreneur must <strong>see a gap in the market</strong> or a problem worth solving. This is opportunity identification. Funding, team building, and risk assessment all come <em>after</em> recognizing that an opportunity exists.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Intrapreneurship",
+      "Benefits"
+    ],
+    "Question": {
+      "content": "Intrapreneurs primarily benefit from:",
+      "type": "OBJ",
+      "options": [
+        "Personal freedom to manage all risks.",
+        "Venture capital funding.",
+        "Ownership of the company.",
+        "Access to organizational resources."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Access to organizational resources."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Intrapreneur's Advantage</h4>\n <p>The main benefit for intrapreneurs is that they can use the company's existing <strong>resources: funding, facilities, staff, and customer base</strong>. They don't have to raise capital or build everything from scratch like an entrepreneur does.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Entrepreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "The primary focus of entrepreneurship is to:",
+      "type": "OBJ",
+      "options": [
+        "Stabilize existing markets.",
+        "Develop new products or services.",
+        "Avoid risks while innovating.",
+        "Build hierarchical organizations."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Develop new products or services."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Heart of Entrepreneurship</h4>\n <p>Entrepreneurship is fundamentally about <strong>creation and innovation</strong>. Whether it's a physical product, a digital service, or a new business model, the core activity is bringing something new into existence that meets customer needs.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Entrepreneurship",
+      "Support Systems"
+    ],
+    "Question": {
+      "content": "A business incubator is typically used by:",
+      "type": "OBJ",
+      "options": [
+        "Intrapreneurs within large corporations.",
+        "Entrepreneurs to develop their startups.",
+        "Managers in traditional roles.",
+        "Governments to regulate industries."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Entrepreneurs to develop their startups."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is a Business Incubator?</h4>\n <p>A business incubator is a program that offers <strong>office space, mentorship, and resources</strong> to help new startups survive and grow during their early, vulnerable stage. It's like a greenhouse for young businesses, and it's designed for <strong>entrepreneurs</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Entrepreneurship",
+      "Intrapreneurship",
+      "Characteristics"
+    ],
+    "Question": {
+      "content": "Which personality trait is essential for both entrepreneurs and intrapreneurs?",
+      "type": "OBJ",
+      "options": [
+        "Risk aversion.",
+        "Creativity and resilience.",
+        "Preference for routine.",
+        "Avoidance of challenges."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creativity and resilience."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Twin Pillars of Success</h4>\n <p>Both roles require <strong>creativity</strong> to generate new ideas. They also require <strong>resilience</strong> (the ability to bounce back from failure), because new ideas often face rejection, setbacks, and obstacles before they succeed.</p>\n</div>"
+    }
+  },
+  
+  
+  
+  
+  {
+    "type": "heading",
+    "heading": "Unit Two",
+    "Subheading": "Theories, Rationale and Relevance of Entrepreneurship"
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Schumpeter"
+    ],
+    "Question": {
+      "content": "Which theory of entrepreneurship emphasizes innovation as the central activity?",
+      "type": "OBJ",
+      "options": [
+        "Schumpeter's Theory",
+        "McClelland's Theory",
+        "Kirzner's Theory",
+        "Weber's Social Ethic Theory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Schumpeter's Theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Schumpeter's View</h4>\n <p>Economist Joseph Schumpeter saw entrepreneurs as <strong>innovators</strong> who drive economic change by \"creative destruction\"—replacing old products and methods with new, better ones. For him, innovation was the defining act of entrepreneurship.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Psychology"
+    ],
+    "Question": {
+      "content": "What is the primary focus of psychological theories of entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Social values",
+        "Personal traits",
+        "Economic systems",
+        "Government policies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Personal traits"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Psychology and Entrepreneurship</h4>\n <p>Psychological theories ask: <em>What kind of person becomes an entrepreneur?</em> They focus on <strong>personal traits</strong> like need for achievement, risk tolerance, locus of control, and confidence, rather than external economic factors.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Kirzner"
+    ],
+    "Question": {
+      "content": "The concept of 'alertness to opportunities' is associated with:",
+      "type": "OBJ",
+      "options": [
+        "Schumpeter",
+        "Kirzner",
+        "Weber",
+        "McClelland"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kirzner"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kirzner's Entrepreneur</h4>\n <p>Israel Kirzner viewed the entrepreneur as someone who is <strong>alert to opportunities</strong> that others have overlooked. Unlike Schumpeter's innovator who creates change, Kirzner's entrepreneur spots and exploits existing imbalances in the market.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Entrepreneurship",
+      "Economic Development"
+    ],
+    "Question": {
+      "content": "Entrepreneurship contributes to economic development through:",
+      "type": "OBJ",
+      "options": [
+        "Risk avoidance",
+        "Job creation",
+        "Government spending",
+        "International trade agreements"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Job creation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Economic Impact</h4>\n <p>When entrepreneurs start new businesses, they <strong>hire employees</strong>. This job creation reduces unemployment, increases household incomes, and stimulates further economic activity as people spend their wages.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "McClelland"
+    ],
+    "Question": {
+      "content": "McClelland's theory highlights the role of which personality trait in entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Openness",
+        "Need for achievement",
+        "Resilience",
+        "Assertiveness"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Need for achievement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>McClelland's Achievement Motivation</h4>\n <p>Psychologist David McClelland argued that people with a high <strong>need for achievement (n-Ach)</strong> are more likely to become entrepreneurs. These individuals are driven by challenging goals and personal success, not just money.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Entrepreneurship",
+      "Rationale"
+    ],
+    "Question": {
+      "content": "Which of the following is a rationale for promoting entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Reduced taxation",
+        "Social stability",
+        "Improved job satisfaction",
+        "Increased foreign loans"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Improved job satisfaction"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Promote Entrepreneurship?</h4>\n <p>Entrepreneurship allows people to <strong>pursue their passions and build something meaningful</strong>. This leads to higher job satisfaction compared to traditional employment. It also fosters innovation and economic independence.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Schumpeter"
+    ],
+    "Question": {
+      "content": "Schumpeter's theory identifies entrepreneurs as:",
+      "type": "OBJ",
+      "options": [
+        "Organizers of resources",
+        "Opportunity seekers",
+        "Innovators",
+        "Risk-takers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Innovators"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Schumpeter's Innovator</h4>\n <p>For Schumpeter, the entrepreneur's key role was <strong>innovation</strong>—introducing new goods, new production methods, new markets, or new forms of organization. This innovation disrupts equilibrium and drives economic progress.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Weber"
+    ],
+    "Question": {
+      "content": "What does Weber's Social Ethic Theory suggest about entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "It depends on government incentives.",
+        "It thrives in cultures that value hard work and thrift.",
+        "It is solely determined by economic resources.",
+        "It requires global collaboration."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "It thrives in cultures that value hard work and thrift."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Weber's Protestant Ethic</h4>\n <p>Sociologist Max Weber linked the rise of capitalism to the <strong>Protestant work ethic</strong>. He suggested that cultures encouraging hard work, discipline, and frugality (saving rather than spending) create a social environment where entrepreneurship can flourish.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Entrepreneurship",
+      "Relevance"
+    ],
+    "Question": {
+      "content": "Which of the following is not a key relevance of entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Job creation",
+        "Technology stagnation",
+        "Poverty reduction",
+        "Market expansion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Technology stagnation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the Odd One Out</h4>\n <p>Entrepreneurship drives <strong>technology advancement</strong>, not stagnation. Job creation, poverty reduction, and market expansion are all positive outcomes of entrepreneurship. Technology stagnation is the opposite of what entrepreneurship achieves.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "McClelland"
+    ],
+    "Question": {
+      "content": "Who proposed the 'Need for Achievement' theory?",
+      "type": "OBJ",
+      "options": [
+        "Kirzner",
+        "Weber",
+        "Schumpeter",
+        "McClelland"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "McClelland"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>McClelland's Contribution</h4>\n <p>Psychologist <strong>David McClelland</strong> developed the Achievement Motivation Theory, proposing that individuals with a high need for achievement (n-Ach) are more drawn to entrepreneurial roles where they can take personal responsibility for outcomes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Kirzner"
+    ],
+    "Question": {
+      "content": "The process of identifying a business opportunity is central to which theory?",
+      "type": "OBJ",
+      "options": [
+        "Economic Theory",
+        "Kirzner's Alertness Theory",
+        "Psychological Theory",
+        "Social Network Theory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Kirzner's Alertness Theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Kirzner's Focus</h4>\n <p><strong>Israel Kirzner</strong> emphasized that entrepreneurs are distinguished by their <strong>alertness</strong> to unnoticed opportunities. While others see chaos, the alert entrepreneur spots profit opportunities and acts on them.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Entrepreneurship",
+      "Developing Economies"
+    ],
+    "Question": {
+      "content": "What is a major contribution of entrepreneurship to developing economies?",
+      "type": "OBJ",
+      "options": [
+        "Dependency on imports",
+        "Technology innovation",
+        "Trade deficits",
+        "Reduced literacy rates"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Technology innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Impact on Developing Nations</h4>\n <p>Entrepreneurs in developing countries often introduce <strong>new technologies and innovative solutions</strong> tailored to local needs. This can include mobile banking for the unbanked, affordable medical devices, or agricultural innovations that increase crop yields.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Sociology"
+    ],
+    "Question": {
+      "content": "The sociological perspective of entrepreneurship emphasizes:",
+      "type": "OBJ",
+      "options": [
+        "Personal ambition",
+        "Social environment",
+        "Financial resources",
+        "Technological skills"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sociological View</h4>\n <p>Sociological theories look at how <strong>social context, culture, family background, and networks</strong> influence entrepreneurial activity. For example, does society value entrepreneurship? Are there successful role models? These environmental factors matter.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Schumpeter"
+    ],
+    "Question": {
+      "content": "According to Schumpeter, the entrepreneur's role is to:",
+      "type": "OBJ",
+      "options": [
+        "Provide jobs",
+        "Innovate",
+        "Accumulate wealth",
+        "Follow trends"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Innovate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Schumpeter's Core Idea</h4>\n <p>For <strong>Joseph Schumpeter</strong>, entrepreneurs are the agents of <strong>innovation</strong> and \"creative destruction.\" They introduce new combinations that make old ways of doing things obsolete, driving economic evolution.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Kirzner",
+      "Schumpeter"
+    ],
+    "Question": {
+      "content": "Kirzner's theory contrasts with Schumpeter's by emphasizing:",
+      "type": "OBJ",
+      "options": [
+        "Competition",
+        "Innovation",
+        "Alertness",
+        "Risk-taking"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alertness"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Difference</h4>\n <p>Schumpeter focused on the entrepreneur as <strong>innovator</strong> who disrupts equilibrium. Kirzner saw the entrepreneur as someone who is <strong>alert</strong> to existing opportunities and helps move the market toward equilibrium by correcting inefficiencies.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Entrepreneurship",
+      "Social Impact"
+    ],
+    "Question": {
+      "content": "Entrepreneurship is most relevant for addressing:",
+      "type": "OBJ",
+      "options": [
+        "Political instability",
+        "Social challenges",
+        "Monetary policy",
+        "Inflation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social challenges"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social Entrepreneurship</h4>\n <p>While governments handle policy issues like monetary policy and inflation, entrepreneurs (especially social entrepreneurs) directly tackle <strong>social challenges</strong> like poverty, lack of education, healthcare access, and environmental problems through innovative business models.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Integrated Theory"
+    ],
+    "Question": {
+      "content": "Which factor is essential in the Integrated Theory of entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Individual creativity",
+        "Economic systems",
+        "Environmental forces",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Integrated Approach</h4>\n <p>Integrated Theory recognizes that entrepreneurship is complex and influenced by multiple factors: <strong>individual traits</strong> (creativity), <strong>economic conditions</strong> (systems, resources), and <strong>environmental forces</strong> (culture, policies, networks). All interact to shape entrepreneurial outcomes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Entrepreneurship",
+      "Rationale"
+    ],
+    "Question": {
+      "content": "Which of the following best describes a rationale for entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Reducing foreign competition",
+        "Creating wealth",
+        "Promoting government dependency",
+        "Limiting technological advancement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creating wealth"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Encourage Entrepreneurship?</h4>\n <p>Entrepreneurship is a primary engine for <strong>wealth creation</strong>. By starting businesses, entrepreneurs generate profits for themselves, income for employees, and tax revenue for governments. This wealth circulates through the economy.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Entrepreneurship",
+      "Psychology",
+      "Locus of Control"
+    ],
+    "Question": {
+      "content": "The term 'locus of control' in entrepreneurship refers to:",
+      "type": "OBJ",
+      "options": [
+        "Belief in external factors",
+        "Trust in government policies",
+        "Internal belief in controlling outcomes",
+        "Dependence on teamwork"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Internal belief in controlling outcomes"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Locus of Control</h4>\n <p>People with an <strong>internal locus of control</strong> believe they can influence events and outcomes through their own efforts and decisions. Entrepreneurs typically have this trait—they believe their actions matter rather than feeling that fate or external forces control their lives.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Entrepreneurship",
+      "Theories",
+      "Social Network Theory"
+    ],
+    "Question": {
+      "content": "Social Network Theory emphasizes:",
+      "type": "OBJ",
+      "options": [
+        "Independent decision-making",
+        "Isolation from society",
+        "Leveraging relationships for business success",
+        "Avoiding competition"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Leveraging relationships for business success"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Power of Networks</h4>\n <p>Social Network Theory argues that <strong>who you know matters</strong>. Entrepreneurs succeed by leveraging relationships for <strong>access to information, resources, customers, and mentors</strong>. Strong networks provide opportunities that isolated individuals cannot access.</p>\n</div>"
+    }
+  }
+  
+  
+]
