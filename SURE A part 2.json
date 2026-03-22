@@ -1,0 +1,1367 @@
+[ {
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Introduction to Entrepreneurship",
+  "code": "GES 211",
+  "session": "SURE A part2",
+  "topics":["Business Management", "Growth Strategies", "Business Opportunities", "Strategy", "Management", "Business Roles", "Marketing", "Distribution Channels", "Business Strategy", "Economic Theory", "Innovation", "Types of Entrepreneurs", "Business Environment", "Strategic Management", "PEST Analysis", "Entrepreneurial Process", "Innovation Flow", "Break-Even Analysis", "Economics", "Pricing Strategy", "Demand and Supply", "Market Equilibrium", "Entrepreneurial Theories", "Cultural Entrepreneurship", "Schumpeter's Theory", "Marketing Strategy", "Business Growth", "Ansoff Matrix", "Planning Process", "SWOT Analysis", "Business Analysis", "Stakeholder Theory", "Corporate Governance", "Opportunity Evaluation", "Business Finance", "Startup Funding", "Capital Structure", "Sources of Funding", "Business Start-up", "Due Diligence", "Legal Compliance", "Business Acquisition", "Mergers and Acquisitions", "Competitive Intelligence", "Production Management", "Factors of Production", "Operations Management", "Macro Environment", "PESTLE Analysis", "Business Ownership", "Business Start-up Methods", "Nigerian Entrepreneurs", "Entrepreneurial Traits", "Intellectual Property", "Business Law", "Business Organization", "Functional Areas", "Business Structure", "Growth Strategy", "Diversification", "Dangote Group", "Corporate Strategy", "Growth Theories", "Accounting", "Bookkeeping", "Source Documents", "Branding Strategy", "Brand Naming", "Corporate Branding", "Product Life Cycle", "Family Business", "Business Planning", "Feasibility Study", "Business Plan", "Freelance Work", "Business Structures", "Leadership", "Communication", "Business Communication", "Organizational Behavior", "Business Challenges", "Sole Proprietorship", "Company Law", "Business Registration", "Limited Liability Company", "Management Functions", "E-Business", "Digital Business Models", "Business", "Finance", "Industrial Revolution", "Human Relations", "Psychology"],
+  "time": "90"
+ },
+ {
+  "type": "Instruction",
+  "content": "Answer 35Questions."
+ },
+  {
+    "type": "Question",
+    "name": "Question 51",
+    "topic": [
+      "Business",
+      "Finance"
+    ],
+    "Question": {
+      "content": "Which of these is NOT a technique for assessing business opportunities?",
+      "type": "OBJ",
+      "options": [
+        "Net present value (NPV)",
+        "Break-even approach",
+        "Linear programming (LP)",
+        "Balance sheet"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "D"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Assessing Business Opportunities</h4>\n <p>The correct answer is <strong>D (Balance sheet)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n A balance sheet is a financial statement that shows a company's assets, liabilities, and equity at a specific point in time. It is used for financial reporting, not for assessing the viability or potential of a business opportunity. In contrast, NPV, break-even analysis, and linear programming are analytical tools used to evaluate investment decisions, profitability, and resource allocation for opportunities.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 52",
+    "topic": [
+      "Management",
+      "Business"
+    ],
+    "Question": {
+      "content": "Who developed the 14 principles of management?",
+      "type": "OBJ",
+      "options": [
+        "Elton Mayo",
+        "Adam Smith",
+        "Henri Fayol",
+        "Abraham Maslow"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "C"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Principles of Management</h4>\n <p>The correct answer is <strong>C (Henri Fayol)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Henri Fayol, a French mining engineer and management theorist, is credited with developing the 14 principles of management. These principles, such as division of work, authority and responsibility, and unity of command, form the foundation of classical management theory. Elton Mayo is known for the Hawthorne Studies, Adam Smith for the division of labor, and Abraham Maslow for the hierarchy of needs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 53",
+    "topic": [
+      "Business",
+      "Risk Management"
+    ],
+    "Question": {
+      "content": "Which area of uncertainty describes a situation where the probability of success is less than zero?",
+      "type": "OBJ",
+      "options": [
+        "Business Risk",
+        "Risk Return",
+        "Insurance",
+        "Risk Averter"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Business Risk</h4>\n <p>The correct answer is <strong>A (Business Risk)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Business risk refers to the possibility that a company will have lower than anticipated profits or experience a loss. While probability is usually expressed between 0 and 1, the phrase \"probability of success is less than zero\" is a conceptual way to describe a situation where failure is virtually certain or the risk is extremely high. This aligns with the concept of pure business risk where unfavorable outcomes are highly likely.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 54",
+    "topic": [
+      "Finance",
+      "Investment"
+    ],
+    "Question": {
+      "content": "What does the risk-return trade-off represent?",
+      "type": "OBJ",
+      "options": [
+        "More the risk, the more the returns",
+        "Less risk equals returns",
+        "More risk and less returns",
+        "Average risk less investment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Risk-Return Trade-off</h4>\n <p>The correct answer is <strong>A (More the risk, the more the returns)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n The risk-return trade-off is a fundamental principle in finance that states that the potential return on an investment rises with an increase in risk. Investors must decide how much risk they are willing to accept for the possibility of higher returns. Lower-risk investments (like government bonds) typically offer lower returns, while higher-risk investments (like stocks or startups) offer the potential for higher returns.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 55",
+    "topic": [
+      "Business",
+      "Accounting",
+      "Economics"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT an example of fixed costs?",
+      "type": "OBJ",
+      "options": [
+        "Salaries",
+        "Unskilled wages",
+        "Land",
+        "Building",
+        "Furniture and fittings"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "B"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Fixed vs. Variable Costs</h4>\n <p>The correct answer is <strong>B (Unskilled wages)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Fixed costs are business expenses that remain constant regardless of production or sales volume. They do not change with the level of output. Salaries (for permanent staff), land, buildings, and furniture are all fixed costs. However, <strong>unskilled wages</strong> are typically variable costs because the number of workers or hours can be adjusted based on production needs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 56",
+    "topic": [
+      "Accounting",
+      "Business"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT an Accounting book?",
+      "type": "OBJ",
+      "options": [
+        "Balance sheet",
+        "Fixed Account",
+        "Cash-flow statement",
+        "Statement of shareholders' equity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "B"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Accounting Books</h4>\n <p>The correct answer is <strong>B (Fixed Account)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n The primary financial statements (accounting books) are the balance sheet, income statement, cash-flow statement, and statement of shareholders' equity. \"Fixed Account\" is not a standard accounting book; it is an informal term that might refer to a ledger account for fixed assets but is not one of the main financial statements.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 57",
+    "topic": [
+      "E-business",
+      "Marketing",
+      "Technology"
+    ],
+    "Question": {
+      "content": "The following are e-business revenue functions in a typical website EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Advertising and agent commission",
+        "Affiliation and licensing",
+        "Subscription and use fee",
+        "Syndication and sales profit",
+        "Activities and capabilities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "E"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>E-business Revenue Models</h4>\n <p>The correct answer is <strong>E (Activities and capabilities)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Common e-business revenue functions include advertising (e.g., Google AdSense), affiliate marketing (e.g., Amazon Associates), subscription fees (e.g., Netflix), and syndication/sales profit (e.g., selling digital products). \"Activities and capabilities\" refer to the operational aspects of a business rather than a specific method of generating revenue.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 58",
+    "topic": [
+      "Finance",
+      "Entrepreneurship",
+      "Business"
+    ],
+    "Question": {
+      "content": "The short-term sources of loan for an entrepreneur include all EXCEPT one:",
+      "type": "OBJ",
+      "options": [
+        "Debenture",
+        "Equity",
+        "Preference Shares",
+        "Overdraft"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Short-term Sources of Finance</h4>\n <p>The correct answer is <strong>A (Debenture)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation</strong><br>\n Short-term sources of finance are funds borrowed for less than one year. Examples include bank overdrafts, trade credit, and short-term loans. <strong>Debentures</strong>, on the other hand, are a long-term source of finance, typically repaid over several years. Equity and preference shares are also long-term sources of capital, not short-term loans.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 59",
+    "topic": [
+      "Business",
+      "Finance"
+    ],
+    "Question": {
+      "content": "Which type of share is the easiest for an entrepreneur to obtain in a joint stock company?",
+      "type": "OBJ",
+      "options": [
+        "Common share",
+        "Bonus shares",
+        "Preference Shares",
+        "Cumulative"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Common share"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Shares in a Company</h4>\n <p>The solution key indicates the answer is <strong>A (Common share)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What are Common Shares?</strong><br>\n Common shares, also known as ordinary shares, represent ownership in a company. They are the most basic form of shares and are typically the first type issued to founders and early investors. They are easier to get because they are the standard stock sold to raise capital.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why not the others?</strong><br>\n <strong>Bonus shares</strong> are given free to existing shareholders, not sold to new entrepreneurs.<br>\n <strong>Preference shares</strong> are more complex, offering fixed dividends and priority over common shares, making them less common for initial entrepreneurs.<br>\n <strong>Cumulative</strong> refers to a feature of preference shares, not a type of share itself.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 60",
+    "topic": [
+      "Business",
+      "Marketing"
+    ],
+    "Question": {
+      "content": "What is the internal duty that ensures complete order processing and that prompt orders are conveyed?",
+      "type": "OBJ",
+      "options": [
+        "Missionary sales people",
+        "Order delivery",
+        "Order taker",
+        "Service people"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Order delivery"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Order Fulfillment</h4>\n <p>The solution key indicates the answer is <strong>B (Order delivery)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking Down the Question</strong><br>\n The question describes an internal duty—something done inside the company—that handles processing orders and making sure they are sent out (conveyed) promptly. This is the core function of the order delivery or order fulfillment department.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why the other options don't fit:</strong><br>\n <strong>Missionary sales people</strong> are external salespeople who educate and promote products, not process orders internally.<br>\n <strong>Order taker</strong> is a role that receives the order, but not necessarily the entire processing and conveying duty.<br>\n <strong>Service people</strong> provide after-sales support, not order processing.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 61",
+    "topic": [
+      "Business",
+      "Marketing",
+      "Branding"
+    ],
+    "Question": {
+      "content": "Sony Electronics prides itself on several brand name qualities. Which of the following is NOT one of those qualities?",
+      "type": "OBJ",
+      "options": [
+        "Memorable",
+        "Meaningful",
+        "Protectable",
+        "Adaptable",
+        "Global"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Global"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Qualities of a Good Brand Name</h4>\n <p>The solution key indicates the answer is <strong>E (Global)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What are the typical qualities?</strong><br>\n Marketing experts often list key qualities for a strong brand name: it should be <strong>Memorable</strong> (easy to recall), <strong>Meaningful</strong> (conveys the brand's essence), <strong>Protectable</strong> (can be legally trademarked), and <strong>Adaptable</strong> (can work across different products and cultures).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why \"Global\" is the exception?</strong><br>\n While many brands aim to be global, it is a result of successful branding and marketing, not a core quality of the brand name itself. A brand name is not inherently \"global\" when it is created.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 62",
+    "topic": [
+      "Business",
+      "Marketing",
+      "Sales"
+    ],
+    "Question": {
+      "content": "In the personal selling process, which stages are the first and the second-to-last?",
+      "type": "OBJ",
+      "options": [
+        "Prospecting and closing sales",
+        "Approach and pre-approach",
+        "Prospecting and follow-up",
+        "Closing sales and prospecting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Prospecting and closing sales"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Personal Selling Process</h4>\n <p>The solution key indicates the answer is <strong>A (Prospecting and closing sales)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Stages in Order:</strong><br>\n 1. Prospecting<br>\n 2. Pre-approach<br>\n 3. Approach<br>\n 4. Presentation<br>\n 5. Handling Objections<br>\n 6. Closing the Sale<br>\n 7. Follow-up\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Identifying the First and Second-to-Last:</strong><br>\n The first stage is <strong>Prospecting</strong> (finding potential customers). The second-to-last stage is the one just before follow-up, which is <strong>Closing the Sale</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 63",
+    "topic": [
+      "Business",
+      "Marketing",
+      "Sales"
+    ],
+    "Question": {
+      "content": "During which stage of the selling process is a canned sales package typically used?",
+      "type": "OBJ",
+      "options": [
+        "Closing sale",
+        "Presentation",
+        "Handling objection",
+        "Prospecting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Presentation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is a Canned Sales Package?</h4>\n <p>The solution key indicates the answer is <strong>B (Presentation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n A canned sales package is a pre-planned, scripted presentation. It's a standardized way to present a product's features, advantages, and benefits to every prospect, ensuring a consistent message is delivered.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why during the Presentation stage?</strong><br>\n This scripted material is the core tool used during the formal <strong>Presentation</strong> stage of the selling process. It's not used for finding leads (Prospecting), handling objections (which requires flexibility), or finalizing the deal (Closing).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 64",
+    "topic": [
+      "Business",
+      "Management"
+    ],
+    "Question": {
+      "content": "What term is used to represent all parties who are interested in a business firm's activities?",
+      "type": "OBJ",
+      "options": [
+        "Stockholder",
+        "Stakeholders",
+        "Shareholder",
+        "Public environment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stakeholders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stakeholders vs. Shareholders</h4>\n <p>The solution key indicates the answer is <strong>B (Stakeholders)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who are Stakeholders?</strong><br>\n Stakeholders are any individual or group that has an interest in or is affected by the operations of a business. This includes employees, customers, suppliers, the local community, government, and, yes, shareholders.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Difference:</strong><br>\n Stockholders and shareholders are the same—they own a portion of the company. However, \"stakeholders\" is the broader, correct term that encompasses all interested parties, not just those with a financial ownership stake.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 65",
+    "topic": [
+      "Finance",
+      "Business"
+    ],
+    "Question": {
+      "content": "What is the term for a loan repayment structure where principal and interest are paid in equal installments over a specific period?",
+      "type": "OBJ",
+      "options": [
+        "Annuity",
+        "Compound interest",
+        "Amortization",
+        "Interest rate",
+        "Return on equity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Amortization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Loan Repayment</h4>\n <p>The solution key indicates the answer is <strong>C (Amortization)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Amortization?</strong><br>\n Amortization is the process of paying off a debt (like a loan or mortgage) over time with regular, fixed payments. Each payment covers the interest expense for the period and reduces the principal balance (the original amount borrowed).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why not Annuity?</strong><br>\n An annuity is a stream of equal payments, but it's a broader financial product. While an amortized loan is one type of annuity, the specific term for this loan repayment structure is \"amortization.\"\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 66",
+    "topic": [
+      "Business",
+      "Entrepreneurship",
+      "Company Law"
+    ],
+    "Question": {
+      "content": "According to law, which type of business is the hardest and most cumbersome to form?",
+      "type": "OBJ",
+      "options": [
+        "Sole proprietorship",
+        "Partnership",
+        "Company",
+        "Limited liability company",
+        "Co-operative society"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited liability company"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Forming Different Business Types</h4>\n <p>The solution key indicates the answer is <strong>D (Limited liability company)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why is a Limited Liability Company (LLC) hardest to form?</strong><br>\n Forming an LLC or a company requires extensive legal paperwork, registration with government agencies (like the Corporate Affairs Commission), payment of registration fees, drafting of memorandum and articles of association, and compliance with ongoing reporting requirements. This is far more complex than starting a sole proprietorship or partnership.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Comparison:</strong><br>\n <strong>Sole proprietorship</strong> and <strong>Partnership</strong> can be started with minimal or no formal registration. A <strong>co-operative society</strong> has its own registration process but is generally less cumbersome than a limited liability company.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 67",
+    "topic": [
+      "Business",
+      "Company Law",
+      "Partnership"
+    ],
+    "Question": {
+      "content": "What can be used to replace a partnership deed?",
+      "type": "OBJ",
+      "options": [
+        "Partnership Act",
+        "Legal entity",
+        "Second reading",
+        "Partnership Bill"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Partnership Act"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Partnership Deed vs. Partnership Act</h4>\n <p>The solution key indicates the answer is <strong>A (Partnership Act)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is a Partnership Deed?</strong><br>\n A partnership deed is a written agreement between partners outlining profit sharing, roles, capital contributions, and other terms of their partnership.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>When can the Partnership Act replace it?</strong><br>\n If partners do not have a written partnership deed, or if the deed is silent on a particular matter, the provisions of the <strong>Partnership Act</strong> (the governing law) automatically apply to fill the gaps and govern the relationship between partners.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 68",
+    "topic": [
+      "Management",
+      "Business",
+      "Human Resources"
+    ],
+    "Question": {
+      "content": "What type of skill is required to handle employee quarrels, personality issues, and workplace problems?",
+      "type": "OBJ",
+      "options": [
+        "Technical skill",
+        "Human skill",
+        "Conceptual skill",
+        "Managerial skill"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Human skill"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Robert Katz's Management Skills</h4>\n <p>The solution key indicates the answer is <strong>B (Human skill)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Three Key Skills:</strong><br>\n <strong>Technical skill</strong> is the ability to perform specific tasks (e.g., accounting, coding).<br>\n <strong>Human skill</strong> is the ability to work with, understand, and motivate other people—both individually and in groups.<br>\n <strong>Conceptual skill</strong> is the ability to think strategically and understand complex organizational situations.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Human Skill?</strong><br>\n Handling employee quarrels, personality conflicts, and workplace problems directly involves interpersonal relationships and emotional intelligence. This falls squarely under the domain of human skills.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 69",
+    "topic": [
+      "Business",
+      "Entrepreneurship",
+      "Marketing"
+    ],
+    "Question": {
+      "content": "Business opportunity can be identified from unmet customer needs and by offering substitute goods. Is this statement true or false?",
+      "type": "OBJ",
+      "options": [
+        "Not sure",
+        "False",
+        "True",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sources of Business Opportunities</h4>\n <p>The solution key indicates the answer is <strong>C (True)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Unmet Customer Needs:</strong><br>\n When customers have a problem or desire that no existing product adequately solves, this creates a gap in the market. An entrepreneur can fill this gap by creating a solution—this is a classic source of business opportunity.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Offering Substitute Goods:</strong><br>\n A substitute good is an alternative that serves the same purpose as an existing product. If an entrepreneur can offer a substitute that is cheaper, better, or more convenient, they can capture market share. Both are valid ways to spot business opportunities.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 70",
+    "topic": [
+      "Entrepreneurship",
+      "Business"
+    ],
+    "Question": {
+      "content": "What is a common characteristic of a good entrepreneur?",
+      "type": "OBJ",
+      "options": [
+        "Risk averter",
+        "Nobility",
+        "Risk taker",
+        "Pessimistic",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Risk taker"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneurial Characteristics</h4>\n <p>The solution key indicates the answer is <strong>C (Risk taker)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Calculated Risk Taking:</strong><br>\n A good entrepreneur is not reckless, but they are willing to take <strong>calculated risks</strong>. They understand that starting a business involves uncertainty—financial loss, time investment, and potential failure—but they proceed with research and planning. This distinguishes them from risk averters, who avoid uncertainty altogether.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why not the others?</strong><br>\n <strong>Risk averter</strong> is the opposite of an entrepreneurial mindset.<br>\n <strong>Nobility</strong> is not a common entrepreneurial trait.<br>\n <strong>Pessimistic</strong> entrepreneurs would struggle to see opportunities.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 71",
+    "topic": [
+      "Marketing",
+      "Business"
+    ],
+    "Question": {
+      "content": "In the marketing mix (the 4 Ps), which element is NOT considered a cost-saving factor?",
+      "type": "OBJ",
+      "options": [
+        "Product",
+        "Price",
+        "Place",
+        "Promotion"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Price"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The 4 Ps of Marketing</h4>\n <p>The solution key indicates the answer is <strong>B (Price)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding Cost-Saving Opportunities:</strong><br>\n <strong>Product</strong> cost savings can come from simplifying design or using cheaper materials.<br>\n <strong>Place</strong> (distribution) cost savings come from optimizing logistics, warehousing, and transportation.<br>\n <strong>Promotion</strong> cost savings come from using cheaper advertising channels or digital marketing.<br>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why not Price?</strong><br>\n <strong>Price</strong> is about revenue generation, not cost reduction. It determines how much money comes in. While pricing strategy is crucial, it is not a lever for saving costs within the business operations.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 72",
+    "topic": [
+      "Entrepreneurship",
+      "Risk Management",
+      "Business"
+    ],
+    "Question": {
+      "content": "What is the first stage in the entrepreneurial risk management process?",
+      "type": "OBJ",
+      "options": [
+        "Risk planning",
+        "Risk mitigating",
+        "Risk control",
+        "Risk implementation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Risk implementation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneurial Risk Management Process</h4>\n <p>The solution key indicates the answer is <strong>D (Risk implementation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Typical Sequence:</strong><br>\n 1. <strong>Risk Identification</strong> — Recognizing potential risks.<br>\n 2. <strong>Risk Assessment</strong> — Evaluating the likelihood and impact.<br>\n 3. <strong>Risk Implementation</strong> — Putting risk management strategies into action.<br>\n 4. <strong>Risk Control/Monitoring</strong> — Tracking and adjusting strategies.<br>\n 5. <strong>Risk Review</strong> — Evaluating effectiveness.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Note:</strong><br>\n While different textbooks may present slightly varying models, the correct answer according to the key is <strong>Risk implementation</strong>. Implementation is where strategies are executed after identification and planning.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 73",
+    "topic": [
+      "Tourism",
+      "Hospitality",
+      "Business"
+    ],
+    "Question": {
+      "content": "What term describes visiting places for leisure purposes rather than for business reasons?",
+      "type": "OBJ",
+      "options": [
+        "Travelling",
+        "Tourism",
+        "Hospitality",
+        "Destination"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Travelling"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Travelling vs. Tourism</h4>\n <p>The solution key indicates the answer is <strong>A (Travelling)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Distinction:</strong><br>\n While the question may seem to point to \"tourism,\" which is often associated with leisure travel, the provided answer key specifies <strong>Travelling</strong>. Travelling is the broader term that encompasses movement from one place to another for any purpose, including leisure, while tourism is often defined more formally as travel for recreational, leisure, or business purposes.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Note:</strong><br>\n This answer follows the provided key. In many contexts, \"tourism\" would also be correct, but based on the given solution, <strong>Travelling</strong> is the expected answer.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 74",
+    "topic": [
+      "Definitions",
+      "Management"
+    ],
+    "Question": {
+      "content": "What is the SMART acronym synonymous with?",
+      "type": "OBJ",
+      "options": [
+        "Objective",
+        "Planning",
+        "Order",
+        "Span of control"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Objective"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding SMART</h4>\n  <p><strong>SMART</strong> is a popular acronym used in goal setting and management. It stands for:</p>\n  <ul>\n    <li><strong>S</strong> - Specific</li>\n    <li><strong>M</strong> - Measurable</li>\n    <li><strong>A</strong> - Achievable</li>\n    <li><strong>R</strong> - Relevant</li>\n    <li><strong>T</strong> - Time-bound</li>\n  </ul>\n  <p>These five criteria help ensure that goals are well-defined and achievable. Therefore, the acronym is most directly associated with setting clear <strong>objectives</strong>.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 75",
+    "topic": [
+      "Communication",
+      "Business"
+    ],
+    "Question": {
+      "content": "Which of these is the most popular social media platform for business activities?",
+      "type": "OBJ",
+      "options": [
+        "Facebook",
+        "Social media",
+        "Twitter",
+        "OLX",
+        "Blog"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Facebook"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social Media for Business</h4>\n  <p>While many social media platforms can be used for business, <strong>Facebook</strong> is often cited as the most popular and widely used for business activities. It offers:</p>\n  <ul>\n    <li>A massive user base</li>\n    <li>Robust advertising tools</li>\n    <li>Business pages for brand presence</li>\n    <li>E-commerce integration</li>\n  </ul>\n  <p>Its comprehensive features make it a primary choice for businesses of all sizes.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 76",
+    "topic": [
+      "Entrepreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Which type of entrepreneurship differs in its initiation, risk, and innovation within an existing organization?",
+      "type": "OBJ",
+      "options": [
+        "Intrapreneur",
+        "Entrepreneur",
+        "Interpersonal",
+        "Social entrepreneur",
+        "Corporate entrepreneurship"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intrapreneur"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intrapreneurship vs. Entrepreneurship</h4>\n  <p>An <strong>intrapreneur</strong> is an employee within an existing organization who takes direct responsibility for turning an idea into a profitable finished product through assertive risk-taking and innovation. This differs from a traditional entrepreneur who starts their own venture.</p>\n  <ul>\n    <li><strong>Initiation:</strong> Within the company</li>\n    <li><strong>Risk:</strong> Shared with the employer</li>\n    <li><strong>Innovation:</strong> Applied to new projects or departments inside the firm</li>\n  </ul>\n  <p><strong>Corporate entrepreneurship</strong> is the broader process, but the individual actor is the intrapreneur.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 77",
+    "topic": [
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "What outlook must an entrepreneur have for sustainable success?",
+      "type": "OBJ",
+      "options": [
+        "Leader",
+        "Futuristic",
+        "Innovator",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Entrepreneurial Mindsets</h4>\n  <p>Sustainable success requires a combination of mindsets:</p>\n  <ul>\n    <li><strong>Leader:</strong> To inspire and guide a team towards a common vision.</li>\n    <li><strong>Futuristic:</strong> To anticipate market trends and plan for the long term.</li>\n    <li><strong>Innovator:</strong> To constantly improve products, services, and processes to stay competitive.</li>\n  </ul>\n  <p>An entrepreneur needs all three to build a resilient and successful venture over time.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 78",
+    "topic": [
+      "Entrepreneurship",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Who proffers selfless solutions to a cause or daunting societal challenge?",
+      "type": "OBJ",
+      "options": [
+        "Social Entrepreneur",
+        "Socialist enterprise",
+        "Entrepreneur",
+        "Philanthropist",
+        "Political entrepreneur"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social Entrepreneur"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Social Entrepreneurship</h4>\n  <p>A <strong>social entrepreneur</strong> is primarily motivated by a social mission. They identify a pressing social problem and use entrepreneurial principles to organize, create, and manage a venture to achieve social change.</p>\n  <p>While a philanthropist donates money, a social entrepreneur builds a sustainable model to tackle the root cause of a societal issue, making their approach both innovative and selfless.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 79",
+    "topic": [
+      "Business",
+      "E-commerce"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a benefit of e-commerce?",
+      "type": "OBJ",
+      "options": [
+        "Convenience",
+        "Competitive pricing",
+        "Product comparisons",
+        "Rigidity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Rigidity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Benefits of E-commerce</h4>\n  <p>E-commerce offers significant flexibility and advantages:</p>\n  <ul>\n    <li><strong>Convenience:</strong> Shop 24/7 from anywhere.</li>\n    <li><strong>Competitive pricing:</strong> Easy to compare prices and find deals.</li>\n    <li><strong>Product comparisons:</strong> Read reviews and compare features instantly.</li>\n  </ul>\n  <p><strong>Rigidity</strong> (inflexibility) is the opposite of what e-commerce provides. Online businesses can adapt quickly, change prices, and update offerings easily.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 80",
+    "topic": [
+      "Business",
+      "E-commerce"
+    ],
+    "Question": {
+      "content": "The e-business models consist of the following, with the exception of:",
+      "type": "OBJ",
+      "options": [
+        "Value proposition",
+        "Source of revenue",
+        "Resources and capabilities",
+        "No exception"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "No exception"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Components of an E-business Model</h4>\n  <p>A standard e-business model includes several key components:</p>\n  <ul>\n    <li><strong>Value proposition:</strong> What unique value do you offer customers?</li>\n    <li><strong>Source of revenue:</strong> How does the business make money?</li>\n    <li><strong>Resources and capabilities:</strong> What assets and skills are needed to deliver the value?</li>\n  </ul>\n  <p>All three options are essential parts of a business model. Therefore, there is no exception among them.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 81",
+    "topic": [
+      "Business",
+      "E-commerce"
+    ],
+    "Question": {
+      "content": "Value proposition includes the following, with the exception of:",
+      "type": "OBJ",
+      "options": [
+        "Improved service",
+        "Speed of delivery",
+        "Increased efficiency",
+        "Increased duplication of efforts"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increased duplication of efforts"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Value Proposition</h4>\n  <p>A <strong>value proposition</strong> is the promise of value to be delivered to the customer. It should represent something positive and beneficial:</p>\n  <ul>\n    <li><strong>Improved service:</strong> Better customer support or experience.</li>\n    <li><strong>Speed of delivery:</strong> Faster access to the product.</li>\n    <li><strong>Increased efficiency:</strong> Helping customers save time or resources.</li>\n  </ul>\n  <p><strong>Increased duplication of efforts</strong> is a negative outcome, representing waste and inefficiency. It is not a benefit a company would include in its value proposition.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 82",
+    "topic": [
+      "Revenue",
+      "Business",
+      "Economics"
+    ],
+    "Question": {
+      "content": "All of the following are sources of revenue, except one. Which one is not a typical source of revenue?",
+      "type": "OBJ",
+      "options": [
+        "Licensing",
+        "Extortion",
+        "Sales commission",
+        "Syndication"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Extortion"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Revenue Sources</h4>\n <p>The solution key indicates the answer is <strong>B (Extortion)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why is extortion not a source of revenue?</strong><br>\n Revenue comes from legitimate business activities like selling products, services, or rights. <strong>Extortion</strong> involves obtaining money through threats, force, or illegal means. It is a criminal act, not a legitimate source of income for a legal business or organization. The other options—licensing, sales commission, and syndication—are all legal and common ways businesses generate income.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 83",
+    "topic": [
+      "Technology",
+      "Innovation",
+      "Business"
+    ],
+    "Question": {
+      "content": "What does disruptive technology typically do to established services or markets?",
+      "type": "OBJ",
+      "options": [
+        "Follows conventional patterns",
+        "Destroys existing technology",
+        "Alters the service delivery pattern",
+        "Leads to the adoption of technology"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Alters the service delivery pattern"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Disruptive Technology Explained</h4>\n <p>The solution key indicates the answer is <strong>C (Alter service delivery pattern)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is disruption?</strong><br>\n Disruptive technology doesn't just improve things; it <strong>fundamentally changes</strong> how things are done. Think of how streaming services (like Netflix) disrupted the video rental business. They didn't just make rentals better; they changed the entire service delivery pattern from physical stores to online streaming. It <strong>alters service delivery</strong> in a way that often makes older methods obsolete.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 84",
+    "topic": [
+      "Marketing",
+      "Branding",
+      "Consumer Behavior"
+    ],
+    "Question": {
+      "content": "What is the name for a picture or mental image that lives in the consumer's mind and influences their choices?",
+      "type": "OBJ",
+      "options": [
+        "Brand",
+        "Product",
+        "Service",
+        "Mass communication"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Brand"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Power of a Brand</h4>\n <p>The solution key indicates the answer is <strong>A (Brand)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>More than just a name</strong><br>\n A <strong>brand</strong> is the collection of perceptions, feelings, and images that a consumer associates with a company, product, or service. It's the 'picture' or 'personality' that lives in their mind. While a product is what you buy, the brand is the feeling and reputation that comes with it, which heavily governs consumer choice. For example, a 'Nike' product is just a shoe, but the 'Nike' <strong>brand</strong> is associated with athleticism, performance, and motivation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 85",
+    "topic": [
+      "Branding",
+      "Marketing",
+      "Product Naming"
+    ],
+    "Question": {
+      "content": "Which characteristic of a good brand name is being described when it is easy to recall and has a short, simple word structure?",
+      "type": "OBJ",
+      "options": [
+        "Meaningful",
+        "Memorable",
+        "Adaptable",
+        "Likable"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Memorable"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Choosing a Good Brand Name</h4>\n <p>The solution key indicates the answer is <strong>B (Memorable)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Ease of Recall</strong><br>\n A good brand name needs to stick in the customer's mind. The question describes a name that is 'easily recall[ed]' and has a 'short syllabus [syllabus/syllable] wordsear [structure]'. This directly points to the characteristic of being <strong>memorable</strong>. Think of names like 'Apple', 'Nike', or 'Zara'—they are short, simple, and easy to remember, which is a key goal for any brand.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 86",
+    "topic": [
+      "Sales",
+      "Marketing",
+      "Business"
+    ],
+    "Question": {
+      "content": "Is 'selling' the same as 'salesmanship'?",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "All of the above",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "False"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Selling vs. Salesmanship</h4>\n <p>The solution key indicates the answer is <strong>B (False)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>A subtle but important difference</strong><br>\n While related, they are not the same. <strong>Selling</strong> is the broad activity or process of exchanging goods or services for money. <strong>Salesmanship</strong>, however, is the specific <strong>skill or art</strong> of persuading a potential customer to buy. It's a craft that involves psychology, communication, and technique. All salesmanship involves selling, but not all selling (e.g., a simple online purchase) involves skilled salesmanship.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 87",
+    "topic": [
+      "Sales",
+      "Marketing",
+      "Business"
+    ],
+    "Question": {
+      "content": "All of the following are roles of salespeople, except one. Which activity is not a typical role for a salesperson?",
+      "type": "OBJ",
+      "options": [
+        "Generate sales revenue",
+        "Change buyers",
+        "Provide marketplace information",
+        "Meet buyers' expectations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Change buyers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of a Salesperson</h4>\n <p>The solution key indicates the answer is <strong>B (Change buyers)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Focus on the customer</strong><br>\n A salesperson's role is to influence buying decisions, not to fundamentally 'change' the buyer as a person. Their core functions include generating revenue, gathering and sharing market intelligence (feedback), and ensuring the customer's needs are met. Trying to 'change buyers' is beyond the scope of ethical and practical sales roles. Their job is to find a match between what they offer and what the buyer needs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 88",
+    "topic": [
+      "Sales",
+      "Skills",
+      "Professional Development"
+    ],
+    "Question": {
+      "content": "All of the following are qualities or skills required in selling, except one. Which is not a typical skill category for a salesperson?",
+      "type": "OBJ",
+      "options": [
+        "Technical",
+        "Human",
+        "Professional",
+        "Conceptual"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Professional"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Skills for Sales</h4>\n <p>The solution key indicates the answer is <strong>C (Professional)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Categorizing sales skills</strong><br>\n While 'professionalism' is a crucial personal quality, it is not typically listed as one of the core 'skill categories' in management theory. The standard categories are:<br>\n <strong>Technical skills:</strong> Knowledge of the product and industry.<br>\n <strong>Human skills:</strong> Ability to work with, understand, and motivate people.<br>\n <strong>Conceptual skills:</strong> Ability to think strategically and understand complex situations.<br>\n 'Professional' is more of a description of conduct rather than a distinct skill category.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 89",
+    "topic": [
+      "Sales Management",
+      "Human Resources",
+      "Training"
+    ],
+    "Question": {
+      "content": "All of the following are key activities in a salesperson's development process, except one. Which is not typically a core activity?",
+      "type": "OBJ",
+      "options": [
+        "Recruiting",
+        "Selecting",
+        "Selling",
+        "Training"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Selecting"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Developing a Sales Team</h4>\n <p>The solution key indicates the answer is <strong>B (Selecting)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The development process</strong><br>\n The three core activities for building a strong sales force are: <strong>recruiting</strong> (finding potential candidates), <strong>training</strong> (developing their skills and knowledge), and managing the actual <strong>selling</strong> process. While 'selecting' (choosing the best candidate from a pool) is an important step that happens between recruiting and training, it is usually considered part of the recruitment and hiring phase, not a separate 'key activity' in the development cycle alongside the others mentioned.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 90",
+    "topic": [
+      "Sales Management",
+      "Leadership",
+      "Innovation",
+      "Strategy"
+    ],
+    "Question": {
+      "content": "According to Johnston and Marshall, the three key themes for new sales management issues include innovation, technology, and leadership. Which of the following is the fourth theme, or which one is NOT a core theme?",
+      "type": "OBJ",
+      "options": [
+        "Innovation",
+        "Strategy",
+        "Technology",
+        "Leadership"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Strategy"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Modern Sales Management Themes</h4>\n <p>The solution key indicates the answer is <strong>B (Strategy)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Johnston & Marshall's Framework</strong><br>\n According to these authors, the three key themes that define new issues in sales management are: <strong>Innovation</strong> (finding new ways to sell), <strong>Technology</strong> (using new tools like CRM), and <strong>Leadership</strong> (guiding and motivating teams in a changing environment). While 'Strategy' is a crucial part of management, it is considered a broader, overarching function rather than one of the three specific new themes highlighted for contemporary sales management challenges.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 91",
+    "topic": [
+      "Marketing",
+      "Distribution Channels",
+      "Business Management"
+    ],
+    "Question": {
+      "content": "What are the three forms of market coverage?",
+      "type": "OBJ",
+      "options": [
+        "Selective distribution",
+        "Intensive distribution",
+        "Global distribution",
+        "Exclusive distribution"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Global distribution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Market Coverage</h4>\n <p>The correct answer is <strong>C (Global distribution)</strong> because it is not one of the three classic forms of market coverage.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Three Main Types:</strong><br>\n <strong>Intensive Distribution:</strong> Placing products in as many outlets as possible (e.g., soft drinks, snacks).<br>\n <strong>Selective Distribution:</strong> Using a limited number of outlets in a specific area (e.g., furniture, electronics).<br>\n <strong>Exclusive Distribution:</strong> Granting exclusive rights to a single distributor in a region (e.g., luxury cars, designer goods).\n </div>\n <p>While 'global distribution' describes an international strategy, it is not one of the three foundational categories of market coverage intensity.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 92",
+    "topic": [
+      "Business Management",
+      "Family Business",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "What is not a challenge of a family business?",
+      "type": "OBJ",
+      "options": [
+        "Lack of succession planning",
+        "Unincorporated enterprises",
+        "Low operational cost",
+        "Financial constraints"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low operational cost"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Challenges in Family Businesses</h4>\n <p>The correct answer is <strong>C (Low operational cost)</strong>. This is typically an advantage, not a challenge.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Common Challenges:</strong><br>\n <strong>Lack of succession planning:</strong> Not having a clear plan for who will take over the business when current leaders retire.<br>\n <strong>Unincorporated enterprises:</strong> Operating without a formal business structure, which can lead to legal and financial risks.<br>\n <strong>Financial constraints:</strong> Difficulty accessing external funding or managing cash flow.<br>\n <strong>Low operational cost:</strong> This is a benefit often found in family businesses due to family members working for less pay, not a challenge.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 93",
+    "topic": [
+      "Family Business",
+      "Business Management",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Is it true that working out payment modalities may be cumbersome and could lead to disputes, which is a disadvantage of family business?",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Disadvantages of Family Businesses</h4>\n <p>The correct answer is <strong>A (True)</strong>. The statement is accurate.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why is this a disadvantage?</strong><br>\n In family businesses, the lines between personal and professional relationships are often blurred. This can make discussing money, salaries, and payment for work very sensitive. What should be a straightforward business transaction can become a source of family conflict, leading to arguments and disputes that harm both the family relationship and the business.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 94",
+    "topic": [
+      "Entrepreneurship",
+      "Gender Studies",
+      "Business Management"
+    ],
+    "Question": {
+      "content": "Which of the following traits is traditionally not ascribed to women?",
+      "type": "OBJ",
+      "options": [
+        "Gentle",
+        "Logical",
+        "Emotional",
+        "Sensitive"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Logical"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Traditional Gender Stereotypes</h4>\n <p>The correct answer is <strong>B (Logical)</strong>. Traditionally, being logical and rational was considered a masculine trait.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding the Context:</strong><br>\n This question refers to historical stereotypes. For centuries, society often associated women with emotion, sensitivity, and gentleness, while men were stereotyped as logical, rational, and strong. It is crucial to understand that these are outdated stereotypes and not reflections of actual capability. Modern understanding recognizes that traits like logic and emotion are human traits, not gender-specific.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 95",
+    "topic": [
+      "Women Entrepreneurs",
+      "Entrepreneurship",
+      "Small Business Management"
+    ],
+    "Question": {
+      "content": "Which of the following does not contribute to the success of women entrepreneurs in small business?",
+      "type": "OBJ",
+      "options": [
+        "Good management skills",
+        "All government support",
+        "Access to financing",
+        "Personal qualities"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All government support"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Success Factors for Women Entrepreneurs</h4>\n <p>The correct answer is <strong>B (All government support)</strong>. This is an unrealistic scenario.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why is this the exception?</strong><br>\n While government support (like grants, training, or policy) can be a huge help, the phrase \"all government support\" is impractical. No entrepreneur, regardless of gender, receives unlimited support from the government. Success is driven by internal factors like <strong>good management skills</strong>, <strong>access to financing</strong>, and <strong>personal qualities</strong> (resilience, creativity, determination).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 96",
+    "topic": [
+      "Women Entrepreneurs",
+      "Entrepreneurship",
+      "Business Skills"
+    ],
+    "Question": {
+      "content": "Which of the following is not a quality of a women entrepreneur?",
+      "type": "OBJ",
+      "options": [
+        "Determination",
+        "Creative",
+        "Complacent",
+        "Profit earning capacity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Complacent"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Qualities of a Successful Entrepreneur</h4>\n <p>The correct answer is <strong>C (Complacent)</strong>. Complacency is a negative trait for any entrepreneur.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Defining the Terms:</strong><br>\n <strong>Determination:</strong> The drive to keep going despite challenges. (Positive quality)<br>\n <strong>Creative:</strong> The ability to innovate and find new solutions. (Positive quality)<br>\n <strong>Profit earning capacity:</strong> The focus and skill to generate revenue. (Essential for a business)<br>\n <strong>Complacent:</strong> A feeling of self-satisfaction that prevents a person from trying to improve. A complacent entrepreneur would fail to adapt to market changes, innovate, or grow their business. This is the opposite of what is needed for success.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 97",
+    "topic": [
+      "Intellectual Property",
+      "Business Law",
+      "Entertainment Industry"
+    ],
+    "Question": {
+      "content": "What is a common intellectual property among actors and actresses?",
+      "type": "OBJ",
+      "options": [
+        "Patent",
+        "Copyright",
+        "Market space",
+        "Trade secrets"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Copyright"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intellectual Property in Film & Theatre</h4>\n <p>The correct answer is <strong>B (Copyright)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Copyright?</strong><br>\n Copyright protects original works of authorship. For actors and actresses, their performances are often captured in a \"fixed medium\" like a film, TV show, or a recorded play. This performance is considered a creative work, and the copyright in that recording belongs to the production company. Actors also have related rights (often called \"neighboring rights\") that protect their performance from unauthorized use.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Other Options:</strong><br>\n <strong>Patent:</strong> Protects inventions or processes (e.g., a new camera technology).<br>\n <strong>Trade secrets:</strong> Protects confidential business information (e.g., a company's secret recipe).<br>\n <strong>Market space:</strong> This is not a form of intellectual property.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Business Ethics and Intellectual Property",
+    "Subheading": "Questions 98-100"
+  },
+  {
+    "type": "Question",
+    "name": "Question 98",
+    "topic": [
+      "Definitions",
+      "Business",
+      "Intellectual Property"
+    ],
+    "Question": {
+      "content": "What is any information and resources that a business possesses that gives it an advantage over competitors who are ignorant of it?",
+      "type": "OBJ",
+      "options": [
+        "Trade secrets",
+        "Intellectual right",
+        "Market intelligence",
+        "Trade mark",
+        "Market research"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trade secrets"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Trade Secrets</h4>\n <p>The correct answer is <strong>Trade secrets</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is a Trade Secret?</strong><br>\n A trade secret is any piece of confidential business information that provides a company with a competitive edge. Think of it as the 'secret recipe' that makes a business successful. Unlike patents, trade secrets are not registered and are protected by keeping them secret.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Examples of Trade Secrets</strong><br>\n Common examples include the formula for Coca-Cola, Google's search algorithm, customer lists, manufacturing processes, and marketing strategies. The key is that the business has taken reasonable steps to keep this information confidential.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why the Other Options Don't Fit</strong><br>\n <ul>\n <li><strong>Intellectual right:</strong> This is a broad category that includes patents, copyrights, and trademarks. It's not a specific type of competitive advantage.</li>\n <li><strong>Market intelligence:</strong> This refers to information about the market, like customer trends and competitor analysis, but it's not necessarily proprietary information owned by the business.</li>\n <li><strong>Trademark:</strong> This is a symbol, design, or phrase legally registered to represent a company or product (like the Nike swoosh). It's about brand identity, not a secret advantage.</li>\n <li><strong>Market research:</strong> This is the process of gathering information about consumers' needs and preferences. The research itself isn't the secret advantage; the insights derived from it might be, but it's not the definition of a trade secret.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 99",
+    "topic": [
+      "Definitions",
+      "Business",
+      "Ethics",
+      "Management"
+    ],
+    "Question": {
+      "content": "Entrepreneurs can create an ethical culture by engaging in all of the following actions, except which one?",
+      "type": "OBJ",
+      "options": [
+        "Being a visible role model",
+        "Providing ethical training",
+        "Adopting the 'end justifies the means' approach",
+        "Communicating ethical expectations"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Adopts the end justifies the means approach"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building an Ethical Culture</h4>\n <p>The correct answer is <strong>Adopts the 'end justifies the means' approach</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is the 'End Justifies the Means' Approach?</strong><br>\n This is a philosophy, often associated with Machiavelli, that argues that any action, no matter how unethical, is acceptable if it leads to a desirable outcome. In a business context, this would mean lying to customers, cheating on taxes, or treating employees poorly to maximize profit.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why This Harms Ethical Culture</strong><br>\n An ethical culture is built on trust, integrity, and doing the right thing even when it's difficult. If a leader adopts a 'the ends justify the means' mentality, they send a clear message that rules can be broken for personal gain. This encourages dishonesty, cynicism, and unethical behavior throughout the entire organization.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How to Build an Ethical Culture (The Other Options)</strong><br>\n <ul>\n <li><strong>Visible role model:</strong> When leaders consistently act ethically, employees follow their example. Actions speak louder than words.</li>\n <li><strong>Provide ethical training:</strong> This ensures employees understand company policies and how to handle ethical dilemmas they might face.</li>\n <li><strong>Communicate ethical expectations:</strong> A clear code of conduct and open communication about ethical standards set the ground rules for acceptable behavior.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 100",
+    "topic": [
+      "Definitions",
+      "Business",
+      "Ethics",
+      "Psychology"
+    ],
+    "Question": {
+      "content": "All of the following are causes of unethical behaviors, except which one?",
+      "type": "OBJ",
+      "options": [
+        "Poor moral background",
+        "Weak sanctions",
+        "Poverty",
+        "Effective leadership"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Effective leadership"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Root Causes of Unethical Behavior</h4>\n <p>The correct answer is <strong>Effective leadership</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why 'Effective Leadership' is Not a Cause</strong><br>\n Effective leadership is a <em>solution</em> to unethical behavior, not a cause. A good leader sets clear ethical standards, holds people accountable, and creates an environment where doing the right thing is valued and rewarded.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding the Real Causes</strong><br>\n The other options are recognized contributors to unethical behavior:\n <ul>\n <li><strong>Poor moral background:</strong> An individual's upbringing and values influence their sense of right and wrong. A weak moral foundation can make them more likely to act unethically.</li>\n <li><strong>Weak sanctions:</strong> If there are no consequences for unethical actions (like being fired or sued), people are more likely to take the risk. Weak sanctions signal that unethical behavior is tolerated.</li>\n <li><strong>Poverty:</strong> Extreme financial pressure can drive individuals to desperation. The need to feed a family or pay for essential needs can lead people to compromise their ethics to survive.</li>\n </ul>\n </div>\n</div>"
+    }
+  }
+]
+
+
+
+
+
+
