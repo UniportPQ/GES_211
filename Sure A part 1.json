@@ -1,0 +1,1403 @@
+[
+ {
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Introduction to Entrepreneurship",
+  "code": "GES 211",
+  "session": "SURE A part1",
+  "topics":["Business Management", "Growth Strategies", "Business Opportunities", "Strategy", "Management", "Business Roles", "Marketing", "Distribution Channels", "Business Strategy", "Economic Theory", "Innovation", "Types of Entrepreneurs", "Business Environment", "Strategic Management", "PEST Analysis", "Entrepreneurial Process", "Innovation Flow", "Break-Even Analysis", "Economics", "Pricing Strategy", "Demand and Supply", "Market Equilibrium", "Entrepreneurial Theories", "Cultural Entrepreneurship", "Schumpeter's Theory", "Marketing Strategy", "Business Growth", "Ansoff Matrix", "Planning Process", "SWOT Analysis", "Business Analysis", "Stakeholder Theory", "Corporate Governance", "Opportunity Evaluation", "Business Finance", "Startup Funding", "Capital Structure", "Sources of Funding", "Business Start-up", "Due Diligence", "Legal Compliance", "Business Acquisition", "Mergers and Acquisitions", "Competitive Intelligence", "Production Management", "Factors of Production", "Operations Management", "Macro Environment", "PESTLE Analysis", "Business Ownership", "Business Start-up Methods", "Nigerian Entrepreneurs", "Entrepreneurial Traits", "Intellectual Property", "Business Law", "Business Organization", "Functional Areas", "Business Structure", "Growth Strategy", "Diversification", "Dangote Group", "Corporate Strategy", "Growth Theories", "Accounting", "Bookkeeping", "Source Documents", "Branding Strategy", "Brand Naming", "Corporate Branding", "Product Life Cycle", "Family Business", "Business Planning", "Feasibility Study", "Business Plan", "Freelance Work", "Business Structures", "Leadership", "Communication", "Business Communication", "Organizational Behavior", "Business Challenges", "Sole Proprietorship", "Company Law", "Business Registration", "Limited Liability Company", "Management Functions", "E-Business", "Digital Business Models", "Business", "Finance", "Industrial Revolution", "Human Relations", "Psychology"],
+  "time": "90"
+ },
+ {
+  "type": "Instruction",
+  "content": "Answer 35Questions."
+ },
+  
+  {
+    "type": "heading",
+    "heading": "Entrepreneurship Management",
+    "Subheading": "Core Concepts and Theories"
+  },
+  {
+    "type": "Question",
+    "name": "Question 1",
+    "topic": [
+      "Entrepreneurship",
+      "Business Management",
+      "Growth Strategies"
+    ],
+    "Question": {
+      "content": "What represents the skill and practices required by an entrepreneur to manage a rapidly growing business in a dynamic environment?",
+      "type": "OBJ",
+      "options": [
+        "Growth strategies",
+        "New venture management",
+        "New entrepreneurial mindset",
+        "New opportunities expansion",
+        "Venture capitalist strategies"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "New venture management"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding New Venture Management</h4>\n <p>The correct answer is <strong>B. New venture management</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is it?</strong><br>\n New venture management is the specialized set of skills and practices needed to handle the unique challenges of a fast-growing startup. It's not just about starting a business (entrepreneurship) but about managing its rapid growth phase, which involves scaling operations, building teams, managing cash flow under pressure, and adapting strategies quickly.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why not the others?</strong><br>\n <ul>\n <li><strong>Growth strategies:</strong> This is only one part of the management practice, not the entire skillset.</li>\n <li><strong>New entrepreneurial mindset:</strong> This is the attitude of an entrepreneur, but it doesn't encompass the specific management practices needed.</li>\n <li><strong>Venture capitalist strategies:</strong> This relates to financing and investing, not the day-to-day management of the business.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 2",
+    "topic": [
+      "Entrepreneurship",
+      "Business Opportunities",
+      "Strategy"
+    ],
+    "Question": {
+      "content": "According to Park and Bae (2004), what are the three strategies for a new venture to pursue business opportunities?",
+      "type": "OBJ",
+      "options": [
+        "Technological, product market maturity, and human expertise",
+        "Technological, product market maturity, and penetration",
+        "Technological, product market maturity, and new know-how",
+        "Technological, product market maturity, and target market"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Target market"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Park and Bae's Three Strategies</h4>\n <p>The correct answer is <strong>D. Target market</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The framework by Park and Bae suggests that new ventures choose their path to opportunity by considering three key dimensions:\n <ol>\n <li><strong>Technological:</strong> The level of newness or complexity of the technology involved.</li>\n <li><strong>Product Market Maturity:</strong> How established or new the market for the product is.</li>\n <li><strong>Target Market:</strong> The specific group of customers the venture aims to serve.</li>\n </ol>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Putting it together:</strong><br>\n A new venture's strategy is shaped by its choice in these three areas. For example, a company might use cutting-edge technology (Technological) to enter a new, unproven market (Product Market Maturity) with a focus on early adopters (Target Market).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 3",
+    "topic": [
+      "Entrepreneurship",
+      "Management",
+      "Business Roles"
+    ],
+    "Question": {
+      "content": "A major distinguishing feature between which two roles can be the reward status, owners' structure, and the role of risk in the entity?",
+      "type": "OBJ",
+      "options": [
+        "Managing director and stakeholder",
+        "Manager and administrator",
+        "Entrepreneurial spirit and employee",
+        "Manager and entrepreneur"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Manager and entrepreneur"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Manager vs. Entrepreneur</h4>\n <p>The correct answer is <strong>D. Manager and entrepreneur</strong>.</p>\n <div style='margin-bottom: 12px;'>\n These two roles are fundamentally different in key aspects:\n <ul>\n <li><strong>Reward Status:</strong> An entrepreneur's reward is often the profit and equity growth of the business (high risk, high potential reward). A manager's reward is typically a fixed salary and bonuses (lower risk, lower potential reward).</li>\n <li><strong>Owners' Structure:</strong> An entrepreneur is often the owner or a major shareholder. A manager is usually an employee who does not own the business.</li>\n <li><strong>Role of Risk:</strong> The entrepreneur bears the primary financial and personal risk of the venture. The manager's risk is primarily related to job security and performance.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 4",
+    "topic": [
+      "Marketing",
+      "Distribution Channels",
+      "Business Strategy"
+    ],
+    "Question": {
+      "content": "Which type of duality distribution is informed by selecting all willing and available channels, aiming for wider coverage and lower price, but may result in customer resistance and less control?",
+      "type": "OBJ",
+      "options": [
+        "Exclusive duality distribution",
+        "Retailing",
+        "Selective duality distribution",
+        "Intensive duality distribution",
+        "Wholesaling"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intensive duality distribution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intensive Distribution Strategy</h4>\n <p>The correct answer is <strong>D. Intensive duality distribution</strong>.</p>\n <div style='margin-bottom: 12px;'>\n This strategy is about saturating the market with a product by making it available through as many outlets as possible.\n <ul>\n <li><strong>Selecting all willing and available:</strong> The goal is maximum market coverage, so any retailer willing to stock the product is used.</li>\n <li><strong>Wider coverage, lower price:</strong> The primary objectives are to achieve high sales volume and often use a low-price, high-volume business model.</li>\n <li><strong>Customer resistance, less control:</strong> With so many outlets, it can be hard to maintain consistent quality, brand image, or pricing (less control). Customers might also not perceive the product as exclusive or high-quality, leading to resistance in certain market segments.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Example:</strong><br>\n Think of products like soft drinks, basic household items, or snacks. They are sold in supermarkets, gas stations, vending machines, and convenience stores to reach the widest possible audience.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 5",
+    "topic": [
+      "Entrepreneurship",
+      "Economic Theory",
+      "Innovation"
+    ],
+    "Question": {
+      "content": "Joseph Schumpeter's entrepreneurial theory centers on what concept, and Adam Smith pioneered what concept?",
+      "type": "OBJ",
+      "options": [
+        "Innovation creativity and distributive theory",
+        "Wealth of nation and creativity",
+        "Creative destruction and wealth of nation",
+        "Profit alertness and anthropology theory",
+        "Creative destruction and profit maximization"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Creative destruction and profit maximization"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Two Giants of Economic Thought</h4>\n <p>The correct answer is <strong>E. Creative destruction and profit maximization</strong>.</p>\n <div style='margin-bottom: 12px;'>\n This question contrasts the ideas of two foundational economists.\n <ul>\n <li><strong>Joseph Schumpeter (Creative Destruction):</strong> Schumpeter argued that entrepreneurship is the engine of economic growth through \"creative destruction.\" This is the process where new innovations (e.g., smartphones) make old technologies and business models (e.g., landline phones, paper maps) obsolete. The entrepreneur is the agent of this constant revolution.</li>\n <li><strong>Adam Smith (Profit Maximization):</strong> Smith, in his book \"The Wealth of Nations,\" laid the groundwork for classical economics. He proposed that individuals, acting in their own self-interest to maximize their profit, are guided by an \"invisible hand\" to create unintended positive outcomes for society, such as efficient allocation of resources.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 6",
+    "topic": [
+      "Entrepreneurship",
+      "Types of Entrepreneurs"
+    ],
+    "Question": {
+      "content": "Among these entrepreneurship types, which one is considered odd or different in terms of its primary goal and function?",
+      "type": "OBJ",
+      "options": [
+        "Intrapreneur",
+        "Hustler",
+        "Inter-preneur",
+        "Corporate entrepreneur",
+        "Social entrepreneur"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social entrepreneur"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Identifying the 'Odd' Entrepreneur Type</h4>\n <p>The correct answer is <strong>E. Social entrepreneur</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The primary difference lies in the main goal.\n <ul>\n <li><strong>Intrapreneur, Hustler, Inter-preneur, Corporate entrepreneur:</strong> These types of entrepreneurs are primarily focused on creating economic value, profit, and growth. They operate within or create for-profit ventures. Their success is measured by financial metrics.</li>\n <li><strong>Social Entrepreneur:</strong> While they may use business principles, a social entrepreneur's primary goal is to create social value. Their focus is on solving a social, cultural, or environmental problem. Profit, if any, is a means to an end, not the ultimate objective.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 7",
+    "topic": [
+      "Business Environment",
+      "Strategic Management",
+      "PEST Analysis"
+    ],
+    "Question": {
+      "content": "What does the major external environment of business, which contains factors such as Political, Economic, Social, and Technological elements, refer to?",
+      "type": "OBJ",
+      "options": [
+        "PEST Acronym analysis",
+        "Structure",
+        "Marketing mix",
+        "Plan"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "PEST Acronym analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding PEST Analysis</h4>\n <p>The correct answer is <strong>A. PEST Acronym analysis</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is it?</strong><br>\n PEST Analysis (or PESTLE) is a strategic framework used to analyze the macro-environmental factors that can impact an organization. These are external forces that the business has little to no control over.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The Factors:</strong><br>\n <ul>\n <li><strong>Political:</strong> Government policies, tax laws, trade restrictions, political stability.</li>\n <li><strong>Economic:</strong> Inflation, interest rates, economic growth, unemployment, exchange rates.</li>\n <li><strong>Social:</strong> Demographics, cultural trends, lifestyle changes, consumer attitudes.</li>\n <li><strong>Technological:</strong> Automation, R&D activity, new innovations, technological change.</li>\n </ul>\n By analyzing these factors, a business can better understand the opportunities and threats in its operating environment.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 8",
+    "topic": [
+      "Entrepreneurship",
+      "Entrepreneurial Process",
+      "Innovation Flow"
+    ],
+    "Question": {
+      "content": "What are the three stages in the reverse entrepreneurial flow?",
+      "type": "OBJ",
+      "options": [
+        "Plant to, equipment and market",
+        "Market to opportunity to idea",
+        "Opportunity and market and idea",
+        "Idea, to opportunity, and to market"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Market to opportunity to idea"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Reverse Entrepreneurial Flow</h4>\n <p>The correct answer is <strong>B. Market to opportunity to idea</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The traditional entrepreneurial flow starts with an idea, then finds an opportunity, and finally reaches the market. However, the <strong>reverse entrepreneurial flow</strong> works backwards:\n <ol>\n <li><strong>Market:</strong> It begins by identifying a need, gap, or problem in the existing market.</li>\n <li><strong>Opportunity:</strong> From that market need, the entrepreneur recognizes a viable business opportunity.</li>\n <li><strong>Idea:</strong> Finally, the entrepreneur develops a specific product, service, or solution (the idea) to address that market need.</li>\n </ol>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why it matters:</strong><br>\n This approach is market-driven rather than idea-driven. It reduces the risk of creating a product that nobody wants because the starting point is an actual market demand.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 9",
+    "topic": [
+      "Break-Even Analysis",
+      "Economics",
+      "Pricing Strategy"
+    ],
+    "Question": {
+      "content": "In break-even analysis, what is the effect of an upward movement along the price axis (increasing the selling price)?",
+      "type": "OBJ",
+      "options": [
+        "Increase in Profit",
+        "Decrease in quantity",
+        "No loss; no gain",
+        "Decrease in profit",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Increase in Profit"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Break-Even Analysis: Price Increase Effect</h4>\n <p>The correct answer is <strong>A. Increase in Profit</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Break-even analysis helps determine the point where total revenue equals total costs. The formula is:\n <br><br>\n \\( \\text{Break-Even Point (units)} = \\frac{\\text{Fixed Costs}}{\\text{Selling Price per Unit} - \\text{Variable Cost per Unit}} \\)\n <br><br>\n The denominator \\((\\text{Price} - \\text{Variable Cost})\\) is called the <strong>contribution margin</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What happens when price increases?</strong><br>\n <ul>\n <li>Contribution margin increases.</li>\n <li>Break-even point decreases (fewer units need to be sold to cover costs).</li>\n <li>For any given quantity sold beyond the new lower break-even point, profit will be higher because each unit contributes more to covering fixed costs and generating profit.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Key Insight:</strong><br>\n Assuming the same quantity is sold, a higher selling price directly translates to higher revenue and therefore higher profit, provided costs remain constant.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 10",
+    "topic": [
+      "Economics",
+      "Demand and Supply",
+      "Market Equilibrium"
+    ],
+    "Question": {
+      "content": "What is the result of a rightward shift in the demand curve?",
+      "type": "OBJ",
+      "options": [
+        "Quantity increase",
+        "Price shift",
+        "Equilibrium",
+        "Quantity decrease",
+        "Zero profit"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quantity increase"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Rightward Shift in Demand</h4>\n <p>The correct answer is <strong>A. Quantity increase</strong>.</p>\n <div style='margin-bottom: 12px;'>\n A rightward shift in the demand curve means that at every price level, consumers are willing and able to buy more of a product. This is known as an <strong>increase in demand</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Causes of a rightward shift:</strong><br>\n <ul>\n <li>Increase in consumer income (for normal goods)</li>\n <li>Change in tastes or preferences in favor of the product</li>\n <li>Increase in the price of substitute goods</li>\n <li>Decrease in the price of complementary goods</li>\n <li>Positive consumer expectations about future prices</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Effect on market:</strong><br>\n When demand increases (shifts right) while supply remains constant, both the equilibrium price and equilibrium quantity will increase. The primary result highlighted in the question is the increase in quantity demanded and supplied at the new equilibrium.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 11",
+    "topic": [
+      "Entrepreneurship",
+      "Entrepreneurial Theories",
+      "Cultural Entrepreneurship"
+    ],
+    "Question": {
+      "content": "Which theory is considered odd and not common among the Igbo ethnic group's explanations of entrepreneurship?",
+      "type": "OBJ",
+      "options": [
+        "Profit alertness",
+        "Necessity theory",
+        "Market equilibrium",
+        "Achievement/motivation theory",
+        "Creative destruction"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Necessity theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Igbo Entrepreneurship and Necessity Theory</h4>\n <p>The correct answer is <strong>B. Necessity theory</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The Igbo ethnic group in Nigeria is widely known for its strong entrepreneurial culture. Their approach to business is deeply embedded in their social and cultural values.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Necessity Theory is \"odd\" for the Igbo:</strong><br>\n <ul>\n <li><strong>Necessity entrepreneurship</strong> occurs when individuals start businesses because they have no better options for employment or income. It is driven by push factors like unemployment or poverty.</li>\n <li><strong>Igbo entrepreneurship</strong> is traditionally driven by <strong>opportunity</strong>, achievement motivation, and cultural values that celebrate business success. It is a proactive, culturally ingrained pursuit rather than a reactive response to hardship.</li>\n <li>The Igbo entrepreneurial spirit is better explained by theories like <strong>Achievement Motivation Theory</strong> (McClelland) and <strong>Profit Alertness</strong> (Kirzner), which emphasize proactive opportunity-seeking.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 12",
+    "topic": [
+      "Entrepreneurship",
+      "Innovation",
+      "Schumpeter's Theory"
+    ],
+    "Question": {
+      "content": "According to Joseph Schumpeter, into how many major areas are entrepreneurial innovations basically broken?",
+      "type": "OBJ",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "5"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Schumpeter's Five Types of Innovation</h4>\n <p>The correct answer is <strong>E. 5</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Joseph Schumpeter, a pioneer in innovation theory, identified five distinct types of innovation that entrepreneurs introduce to drive economic development:\n </div>\n <div>\n <strong style='color: var(--strongColor);'>The Five Innovations:</strong><br>\n <ol>\n <li><strong>New Product:</strong> Introduction of a new good or significant improvement to an existing good.</li>\n <li><strong>New Method of Production:</strong> Introduction of a new way to produce goods, not yet tested in the industry.</li>\n <li><strong>New Market:</strong> Opening a new market where the product has not previously been introduced.</li>\n <li><strong>New Source of Supply:</strong> Conquest of a new source of raw materials or intermediate goods.</li>\n <li><strong>New Organization:</strong> Carrying out a new organization of an industry, such as creating or breaking a monopoly.</li>\n </ol>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 13",
+    "topic": [
+      "Marketing Strategy",
+      "Business Growth",
+      "Ansoff Matrix"
+    ],
+    "Question": {
+      "content": "Product development, market development, and market penetration are commonly found in which type of growth opportunity?",
+      "type": "OBJ",
+      "options": [
+        "New product introduction",
+        "Intensive growth opportunity",
+        "Integrative growth opportunity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intensive growth opportunity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Intensive Growth Opportunities</h4>\n <p>The correct answer is <strong>B. Intensive growth opportunity</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Intensive growth strategies focus on expanding within existing businesses. These strategies are best understood through the <strong>Ansoff Matrix</strong>, which maps growth based on products (existing vs. new) and markets (existing vs. new).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Three Intensive Growth Strategies:</strong><br>\n <ul>\n <li><strong>Market Penetration:</strong> Grow by selling more of existing products to existing markets (e.g., increased advertising, price reductions).</li>\n <li><strong>Market Development:</strong> Grow by entering new markets with existing products (e.g., expanding to new geographic regions or customer segments).</li>\n <li><strong>Product Development:</strong> Grow by introducing new products into existing markets (e.g., adding new features or product lines).</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Contrast with Integrative Growth:</strong><br>\n Integrative growth involves expanding through acquisitions or mergers (backward, forward, or horizontal integration) rather than organic expansion within existing operations.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 14",
+    "topic": [
+      "Strategic Management",
+      "Business Strategy",
+      "Planning Process"
+    ],
+    "Question": {
+      "content": "In which stage of the strategic management process is the question 'Where are we going?' addressed?",
+      "type": "OBJ",
+      "options": [
+        "Situational analysis",
+        "Planning",
+        "Control",
+        "Execution",
+        "Feedback"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Planning"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Strategic Management</h4>\n <p>The correct answer is <strong>B. Planning</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The strategic management process typically consists of several key stages. Each stage answers a fundamental question:\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Stages:</strong><br>\n <ul>\n <li><strong>Situational Analysis (Where are we now?):</strong> Assessing the internal and external environment (SWOT analysis, PEST analysis).</li>\n <li><strong>Planning (Where are we going?):</strong> Defining the vision, mission, goals, and strategies to achieve them. This stage sets the direction for the organization.</li>\n <li><strong>Execution (How will we get there?):</strong> Implementing the strategies through resource allocation, structure, and processes.</li>\n <li><strong>Control & Feedback (How are we doing?):</strong> Monitoring performance, measuring results against goals, and making necessary adjustments.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Key Insight:</strong><br>\n The planning stage is where the organization's future direction is determined. It answers the \"where to\" question by establishing strategic objectives and the roadmap to achieve them.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 15",
+    "topic": [
+      "Strategic Management",
+      "SWOT Analysis",
+      "Business Analysis"
+    ],
+    "Question": {
+      "content": "What does SWOT analysis represent in reverse order?",
+      "type": "OBJ",
+      "options": [
+        "Strength, weak, order and trust",
+        "Success, weakness, opposition and threat",
+        "Strength, weakness, opportunity and threat",
+        "Strength, weakness, opportune and threat",
+        "Threat, opportunity, weakness, and strength"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Threat, opportunity, weakness, and strength"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding SWOT Analysis in Reverse</h4>\n <p>The correct answer is <strong>E. Threat, opportunity, weakness, and strength</strong>.</p>\n <div style='margin-bottom: 12px;'>\n SWOT analysis is a strategic planning tool that helps organizations identify factors that impact their success. The standard acronym stands for:\n <ul>\n <li><strong>S</strong> - Strengths (Internal, Positive)</li>\n <li><strong>W</strong> - Weaknesses (Internal, Negative)</li>\n <li><strong>O</strong> - Opportunities (External, Positive)</li>\n <li><strong>T</strong> - Threats (External, Negative)</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Reverse Order (TOWS):</strong><br>\n When reversed to <strong>TOWS</strong>, the analysis takes on a different strategic perspective. The TOWS matrix is used to generate strategic options by matching:\n <ul>\n <li><strong>Strengths with Opportunities (SO Strategies)</strong> - Use internal strengths to take advantage of external opportunities</li>\n <li><strong>Strengths with Threats (ST Strategies)</strong> - Use strengths to mitigate external threats</li>\n <li><strong>Weaknesses with Opportunities (WO Strategies)</strong> - Improve weaknesses to pursue opportunities</li>\n <li><strong>Weaknesses with Threats (WT Strategies)</strong> - Defensive strategies to minimize weaknesses and avoid threats</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 16",
+    "topic": [
+      "Business Management",
+      "Stakeholder Theory",
+      "Corporate Governance"
+    ],
+    "Question": {
+      "content": "What term describes those whose business activities impart negatively or positively and who in turn affect others by using performance?",
+      "type": "OBJ",
+      "options": [
+        "Customers",
+        "Shareholders",
+        "Stakeholders",
+        "Public"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Stakeholders"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Who Are Stakeholders?</h4>\n <p>The correct answer is <strong>C. Stakeholders</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition:</strong><br>\n Stakeholders are individuals, groups, or organizations that have an interest, claim, or stake in a business. They can affect the business or be affected by its operations, decisions, and performance.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Characteristics:</strong><br>\n <ul>\n <li><strong>Mutual Impact:</strong> The business affects stakeholders through its activities (e.g., employment, environmental impact, products), and stakeholders affect the business through their actions (e.g., purchasing, investing, regulation).</li>\n <li><strong>Positive or Negative Impact:</strong> The relationship can be beneficial or harmful depending on how the business operates.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Examples of Stakeholders:</strong><br>\n <ul>\n <li><strong>Internal:</strong> Employees, managers, shareholders/owners</li>\n <li><strong>External:</strong> Customers, suppliers, creditors, government, local communities, competitors</li>\n </ul>\n This concept is central to stakeholder theory, which emphasizes that businesses should consider the interests of all stakeholders, not just shareholders.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 17",
+    "topic": [
+      "Ansoff Matrix",
+      "Business Strategy",
+      "Growth Strategies"
+    ],
+    "Question": {
+      "content": "The Ansoff matrix for business opportunity evaluates options along all of the following except one. Which one is not evaluated?",
+      "type": "OBJ",
+      "options": [
+        "New product",
+        "New market",
+        "Increase in risk",
+        "Existing marketing",
+        "Market share"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Market share"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding the Ansoff Matrix</h4>\n <p>The correct answer is <strong>E. Market share</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The <strong>Ansoff Matrix</strong> is a strategic planning tool developed by Igor Ansoff. It helps businesses evaluate growth opportunities by considering two key dimensions: <strong>Products</strong> (existing vs. new) and <strong>Markets</strong> (existing vs. new).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Four Growth Strategies:</strong><br>\n <ul>\n <li><strong>Market Penetration:</strong> Existing products + Existing markets (lowest risk)</li>\n <li><strong>Product Development:</strong> New products + Existing markets</li>\n <li><strong>Market Development:</strong> Existing products + New markets</li>\n <li><strong>Diversification:</strong> New products + New markets (highest risk)</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>What the Matrix Evaluates:</strong><br>\n <ul>\n <li><strong>New/Existing Products:</strong> Whether the business is offering something new or continuing with current offerings</li>\n <li><strong>New/Existing Markets:</strong> Whether the business is targeting current customers or entering new customer segments</li>\n <li><strong>Increase in Risk:</strong> Risk increases as the business moves away from familiar products and markets</li>\n <li><strong>Existing Marketing:</strong> The matrix considers whether marketing strategies target existing or new markets</li>\n </ul>\n <strong>Market share</strong> is an outcome measure or performance indicator, not a dimension evaluated within the matrix itself.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 18",
+    "topic": [
+      "Entrepreneurship",
+      "Business Opportunities",
+      "Opportunity Evaluation"
+    ],
+    "Question": {
+      "content": "All of the following are qualities of a good business opportunity except one. Which one is NOT a business opportunity quality?",
+      "type": "OBJ",
+      "options": [
+        "The window opening has a reasonable time",
+        "Ample significant profits and growth potential",
+        "Break-even taken a long time",
+        "Hard to copy"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Break-even taken a long time"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Qualities of a Good Business Opportunity</h4>\n <p>The correct answer is <strong>C. Break-even taken a long time</strong>.</p>\n <div style='margin-bottom: 12px;'>\n A viable business opportunity has several distinguishing characteristics that make it attractive to entrepreneurs and investors.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Qualities of a Good Opportunity:</strong><br>\n <ul>\n <li><strong>Reasonable Time Window:</strong> The opportunity should have a sustainable window of time before market saturation or competition closes it. It should not be a fleeting trend that disappears quickly.</li>\n <li><strong>Profit and Growth Potential:</strong> A good opportunity offers ample potential for significant profits and scalable growth over time.</li>\n <li><strong>Hard to Copy (Competitive Advantage):</strong> The best opportunities have some form of barrier to entry or unique value proposition that makes it difficult for competitors to replicate easily (e.g., patents, proprietary technology, strong brand).</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why \"Break-even Takes a Long Time\" is NOT a Quality:</strong><br>\n A long break-even period is generally considered a <strong>disadvantage</strong>. It means:\n <ul>\n <li>The business will require more capital to sustain operations before becoming profitable</li>\n <li>Higher financial risk for the entrepreneur and investors</li>\n <li>Longer period before the entrepreneur can realize returns on investment</li>\n </ul>\n Good opportunities typically have a reasonable and achievable break-even timeline.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 19",
+    "topic": [
+      "Entrepreneurship",
+      "Business Finance",
+      "Startup Funding"
+    ],
+    "Question": {
+      "content": "What is the simplest source of financing a business opportunity?",
+      "type": "OBJ",
+      "options": [
+        "Personal savings",
+        "Bank loan",
+        "Venture capitalist",
+        "Debt",
+        "Hire purchase"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Personal savings"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Simplest Source of Business Financing</h4>\n <p>The correct answer is <strong>A. Personal savings</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Personal Savings is the Simplest:</strong><br>\n <ul>\n <li><strong>No Application Process:</strong> Unlike loans or venture capital, there are no forms to fill out, credit checks, or business plans to present.</li>\n <li><strong>No Interest or Repayment Obligations:</strong> Using personal savings means no debt to repay and no interest charges.</li>\n <li><strong>No Equity Dilution:</strong> You retain 100% ownership and control of your business.</li>\n <li><strong>Immediate Access:</strong> Funds are readily available without waiting for approvals from external parties.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Other Sources and Their Complexity:</strong><br>\n <ul>\n <li><strong>Bank Loan:</strong> Requires credit history, collateral, business plan, and approval process</li>\n <li><strong>Venture Capitalist:</strong> Requires rigorous due diligence, business pitch, and gives up ownership/control</li>\n <li><strong>Debt (General):</strong> Involves repayment terms, interest, and qualification requirements</li>\n <li><strong>Hire Purchase:</strong> Specific to acquiring assets; involves contracts and payment schedules</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 20",
+    "topic": [
+      "Business Finance",
+      "Capital Structure",
+      "Sources of Funding"
+    ],
+    "Question": {
+      "content": "What are the two broad classifications of sources of business funding?",
+      "type": "OBJ",
+      "options": [
+        "Credit financing and equity",
+        "Bank loan and personal savings",
+        "Venture capitalist and hire purchase",
+        "Debt and equity",
+        "Personal savings and shares"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Debt and equity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Two Broad Classifications of Business Funding</h4>\n <p>The correct answer is <strong>D. Debt and equity</strong>.</p>\n <div style='margin-bottom: 12px;'>\n All sources of business financing can be categorized into two fundamental types based on the relationship between the business and the capital provider.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Debt Financing:</strong><br>\n Money borrowed that must be repaid with interest over a specified period. The lender does not gain ownership in the business.\n <ul>\n <li><strong>Examples:</strong> Bank loans, bonds, hire purchase, trade credit, credit lines</li>\n <li><strong>Advantage:</strong> Retain ownership and control</li>\n <li><strong>Disadvantage:</strong> Regular repayment obligation, interest expense</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Equity Financing:</strong><br>\n Raising capital by selling ownership shares in the business. Investors become partial owners and share in profits and losses.\n <ul>\n <li><strong>Examples:</strong> Personal savings (owner's equity), venture capital, angel investors, issuing shares</li>\n <li><strong>Advantage:</strong> No repayment obligation</li>\n <li><strong>Disadvantage:</strong> Dilution of ownership and control</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Key Distinction:</strong><br>\n The fundamental difference is that <strong>debt</strong> creates a creditor relationship (obligation to repay), while <strong>equity</strong> creates an ownership relationship (share in the business).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 21",
+    "topic": [
+      "Business Start-up",
+      "Due Diligence",
+      "Legal Compliance"
+    ],
+    "Question": {
+      "content": "In which type of business start-up is legal due diligence featured more prominently?",
+      "type": "OBJ",
+      "options": [
+        "Franchising",
+        "Lease",
+        "Buy start up",
+        "New fresh start"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "New fresh start"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Legal Due Diligence in Business Start-ups</h4>\n <p>The correct answer is <strong>D. New fresh start</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Legal Due Diligence?</strong><br>\n Legal due diligence is the process of thoroughly investigating and verifying legal matters related to a business. It involves reviewing contracts, licenses, permits, intellectual property, regulatory compliance, and potential legal liabilities.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why New Fresh Start Requires More Legal Due Diligence:</strong><br>\n <ul>\n <li><strong>No Existing Framework:</strong> A new business must establish everything from scratch - legal structure, registrations, licenses, permits, tax IDs, employment contracts, etc.</li>\n <li><strong>Compliance from Day One:</strong> The entrepreneur must ensure all legal requirements are met before operations begin to avoid penalties, shutdowns, or personal liability.</li>\n <li><strong>Foundational Decisions:</strong> Critical choices like business entity type (LLC, corporation, sole proprietorship) have long-term legal and tax implications that require careful consideration.</li>\n <li><strong>Protection of Assets:</strong> Intellectual property protection (trademarks, patents) must be secured early.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Comparison with Other Types:</strong><br>\n <ul>\n <li><strong>Franchising:</strong> Much legal work is already standardized by the franchisor, though franchise agreements still require review</li>\n <li><strong>Buy Start-up (Acquisition):</strong> Legal due diligence focuses on the existing business's history, liabilities, and contracts</li>\n <li><strong>Lease:</strong> Primarily involves contract review for the specific lease agreement</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 22",
+    "topic": [
+      "Business Acquisition",
+      "Due Diligence",
+      "Mergers and Acquisitions"
+    ],
+    "Question": {
+      "content": "When buying a new business, due diligence is considered in all areas except which one?",
+      "type": "OBJ",
+      "options": [
+        "Commercial",
+        "Social",
+        "Financial",
+        "Legal"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Social"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Due Diligence in Business Acquisition</h4>\n <p>The correct answer is <strong>B. Social</strong>.</p>\n <div style='margin-bottom: 12px;'>\n When acquiring an existing business, due diligence is a comprehensive investigation conducted before finalizing the purchase. It helps the buyer understand exactly what they are acquiring and identify any risks or liabilities.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Standard Due Diligence Categories:</strong><br>\n <ul>\n <li><strong>Commercial Due Diligence:</strong> Examines market position, competition, customer base, sales channels, and growth potential. Answers: \"Is this a good business?\"</li>\n <li><strong>Financial Due Diligence:</strong> Reviews financial statements, tax records, assets, liabilities, revenue streams, and profitability. Answers: \"What is it worth?\"</li>\n <li><strong>Legal Due Diligence:</strong> Investigates contracts, intellectual property, litigation history, regulatory compliance, employment matters, and corporate structure. Answers: \"Are there hidden legal risks?\"</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why \"Social\" is NOT a Standard Category:</strong><br>\n While social factors (company culture, employee morale, community reputation) can be important considerations, they are not typically classified as a formal \"social due diligence\" category in acquisition processes. These are often addressed within commercial or operational due diligence. The four core pillars of due diligence are usually <strong>commercial, financial, legal, and operational/technical</strong>.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 23",
+    "topic": [
+      "Marketing",
+      "Competitive Intelligence",
+      "Business Strategy"
+    ],
+    "Question": {
+      "content": "What deals with the scouting and scanning of competitors' offerings and how a firm's brand performs?",
+      "type": "OBJ",
+      "options": [
+        "SWOT analysis",
+        "Product analysis",
+        "Situational analysis",
+        "Marketing analysis",
+        "Market intelligence"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Market intelligence"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Market Intelligence</h4>\n <p>The correct answer is <strong>E. Market intelligence</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Market Intelligence?</strong><br>\n Market intelligence (also called competitive intelligence) is the process of gathering, analyzing, and using information about a company's external environment. This includes:\n <ul>\n <li><strong>Competitor offerings:</strong> Products, pricing, distribution channels, and marketing strategies of competitors</li>\n <li><strong>Market trends:</strong> Changes in customer preferences, emerging technologies, and industry developments</li>\n <li><strong>Brand performance:</strong> How the firm's own brand is perceived compared to competitors, including market share, customer satisfaction, and brand awareness</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Not the Others?</strong><br>\n <ul>\n <li><strong>Product analysis:</strong> Focuses specifically on product features and performance, not comprehensive competitor scouting</li>\n <li><strong>Situational analysis:</strong> A broader assessment that includes internal factors (SWOT) but not specifically focused on ongoing competitor monitoring</li>\n <li><strong>Marketing analysis:</strong> Usually refers to analyzing marketing mix elements, not systematic competitor intelligence gathering</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 24",
+    "topic": [
+      "Production Management",
+      "Factors of Production",
+      "Operations Management"
+    ],
+    "Question": {
+      "content": "Which of the following is odd as an M factor of production?",
+      "type": "OBJ",
+      "options": [
+        "Material",
+        "Man",
+        "Method",
+        "Machine",
+        "Maturity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Maturity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The \"M\" Factors of Production</h4>\n <p>The correct answer is <strong>E. Maturity</strong>.</p>\n <div style='margin-bottom: 12px;'>\n In production and operations management, the traditional \"M\" factors (sometimes called the \"5 Ms of Management\") are the key resources required for production:\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Five Ms:</strong><br>\n <ul>\n <li><strong>Man (Labor):</strong> The human resources, skills, and workforce needed for production</li>\n <li><strong>Machine (Equipment):</strong> The machinery, tools, technology, and equipment used in production</li>\n <li><strong>Material (Raw Materials):</strong> The inputs, components, and supplies transformed into finished goods</li>\n <li><strong>Method (Process):</strong> The procedures, techniques, workflows, and standard operating methods</li>\n <li><strong>Money (Capital):</strong> Sometimes included as the fifth M—the financial resources to acquire and operate the other factors</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Maturity is Odd:</strong><br>\n <strong>Maturity</strong> is not a factor of production. It refers to a stage in the product life cycle or business life cycle. While maturity affects business strategy, it is not a resource used to create goods or services.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 25",
+    "topic": [
+      "Business Environment",
+      "Macro Environment",
+      "PESTLE Analysis"
+    ],
+    "Question": {
+      "content": "The external macro business environment includes all of the following except which one?",
+      "type": "OBJ",
+      "options": [
+        "Technology",
+        "Competition",
+        "Political",
+        "Economic",
+        "Socio-cultural"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Competition"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Macro vs. Micro Environment</h4>\n <p>The correct answer is <strong>B. Competition</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The business environment is divided into two main layers:\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Macro Environment (External, Uncontrollable):</strong><br>\n These are broad forces that affect all businesses in an economy. They are typically analyzed using PESTLE framework:\n <ul>\n <li><strong>Political:</strong> Government policies, regulations, stability</li>\n <li><strong>Economic:</strong> Inflation, interest rates, economic growth</li>\n <li><strong>Socio-cultural:</strong> Demographics, lifestyles, cultural values</li>\n <li><strong>Technological:</strong> Innovation, automation, R&D</li>\n <li><strong>Legal:</strong> Laws, regulations, compliance requirements</li>\n <li><strong>Environmental:</strong> Climate, sustainability, ecological factors</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Micro Environment (Industry/Task Environment):</strong><br>\n Competition belongs to the micro environment—the immediate industry context that directly affects a specific business. It includes:\n <ul>\n <li>Competitors (direct and indirect)</li>\n <li>Customers</li>\n <li>Suppliers</li>\n <li>Distributors</li>\n </ul>\n While competition is external, it is considered part of the <strong>micro environment</strong>, not the macro environment.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 26",
+    "topic": [
+      "Entrepreneurship",
+      "Business Ownership",
+      "Business Start-up Methods"
+    ],
+    "Question": {
+      "content": "The common ways to own a business include all of the following except one. Which one is not a common way?",
+      "type": "OBJ",
+      "options": [
+        "Investment",
+        "Franchising",
+        "Buying an existing business"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Investment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Common Ways to Own a Business</h4>\n <p>The correct answer is <strong>A. Investment</strong>.</p>\n <div style='margin-bottom: 12px;'>\n There are three primary pathways to business ownership:\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>1. Starting a New Business (Start-up):</strong><br>\n Creating a business from scratch. This offers maximum control but carries the highest risk.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>2. Buying an Existing Business:</strong><br>\n Purchasing an already-operating business. This provides immediate cash flow, existing customers, and established systems, but requires thorough due diligence.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>3. Franchising:</strong><br>\n Buying the rights to operate under an established brand with proven systems. This offers lower failure rates but comes with ongoing fees and operational restrictions.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why \"Investment\" is Not a Way to Own a Business:</strong><br>\n <strong>Investment</strong> refers to putting money into a business with the expectation of financial return. An investor may own shares (partial ownership) but is typically not involved in active management or day-to-day operations. Passive investment is distinct from active business ownership where the owner manages and controls the enterprise.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 27",
+    "topic": [
+      "Entrepreneurship",
+      "Nigerian Entrepreneurs",
+      "Entrepreneurial Traits"
+    ],
+    "Question": {
+      "content": "What is the distinguishing quality of Aliko Dangote that makes him an outstanding entrepreneur?",
+      "type": "OBJ",
+      "options": [
+        "Power",
+        "Risk taking",
+        "Risk averter",
+        "Networking"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Risk taking"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Aliko Dangote: A Case Study in Entrepreneurial Risk</h4>\n <p>The correct answer is <strong>B. Risk taking</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Aliko Dangote, Africa's richest person, built the Dangote Group into a multi-billion dollar conglomerate through strategic risk-taking.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Examples of Dangote's Risk-Taking:</strong><br>\n <ul>\n <li><strong>Dangote Refinery:</strong> Investing over $19 billion in what is now Africa's largest oil refinery—a massive venture into a capital-intensive, highly regulated sector that many considered too risky</li>\n <li><strong>Vertical Integration:</strong> Moving from commodity trading to manufacturing, then into massive industrial projects</li>\n <li><strong>Infrastructure Investment:</strong> Building private roads, ports, and infrastructure to support his operations when public infrastructure was inadequate</li>\n <li><strong>Diversification:</strong> Entering unrelated sectors (cement, sugar, salt, flour, oil refining, petrochemicals) requiring different expertise and massive capital</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Key Entrepreneurial Insight:</strong><br>\n Dangote is known for his calculated risk-taking—he doesn't avoid risk but carefully evaluates and manages it. His success demonstrates that entrepreneurial excellence is built on the willingness to take bold, informed risks that others are unwilling to take.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 28",
+    "topic": [
+      "Intellectual Property",
+      "Innovation",
+      "Business Law"
+    ],
+    "Question": {
+      "content": "What term, coined to describe the reward for creative thinking and brainwork/research, is referred to?",
+      "type": "OBJ",
+      "options": [
+        "Intellectual property right",
+        "Human investment",
+        "Copyright",
+        "Social capital"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intellectual property right"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Intellectual Property Rights</h4>\n <p>The correct answer is <strong>A. Intellectual property right</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What are Intellectual Property Rights (IPR)?</strong><br>\n Intellectual Property Rights are legal rights that protect creations of the mind—inventions, literary and artistic works, designs, symbols, names, and images used in commerce. They provide creators with exclusive rights to benefit from their intellectual creations.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Types of Intellectual Property:</strong><br>\n <ul>\n <li><strong>Patents:</strong> Protect new inventions and technological innovations</li>\n <li><strong>Copyright:</strong> Protects literary, artistic, and musical works</li>\n <li><strong>Trademarks:</strong> Protects brand names, logos, and symbols</li>\n <li><strong>Trade Secrets:</strong> Protects confidential business information</li>\n <li><strong>Industrial Designs:</strong> Protects the aesthetic aspects of products</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why \"Intellectual Property Right\" is the Correct Answer:</strong><br>\n IPR is the broad, comprehensive term that encompasses all legal protections for creative thinking and research output. While <strong>copyright</strong> is one specific type of IPR, it only covers artistic and literary works, not the full range of creative and research outputs.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 29",
+    "topic": [
+      "Business Organization",
+      "Functional Areas",
+      "Business Structure"
+    ],
+    "Question": {
+      "content": "Which of the following is not a basic organizational or functional area of a business organization?",
+      "type": "OBJ",
+      "options": [
+        "Finance/Accounting",
+        "Hospitality/Tourism",
+        "Human Resources and Administration",
+        "Marketing",
+        "Production"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hospitality/Tourism"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Core Functional Areas of Business</h4>\n <p>The correct answer is <strong>B. Hospitality/Tourism</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Every business organization, regardless of industry, is structured around core functional areas that perform essential activities:\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Five Core Functional Areas:</strong><br>\n <ul>\n <li><strong>Production/Operations:</strong> Creates the product or service—the core function that transforms inputs into outputs</li>\n <li><strong>Marketing:</strong> Identifies customer needs, promotes products, and manages customer relationships</li>\n <li><strong>Finance/Accounting:</strong> Manages money, financial reporting, investments, and capital structure</li>\n <li><strong>Human Resources/Administration:</strong> Handles recruitment, training, compensation, employee relations, and administrative support</li>\n <li><strong>Research & Development (sometimes):</strong> Drives innovation and product improvement</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Hospitality/Tourism is Not a Basic Functional Area:</strong><br>\n <strong>Hospitality/Tourism</strong> is an <strong>industry sector</strong>, not a functional area of business. A hotel (hospitality industry) still requires the same core functions: it has a finance department, HR department, marketing department, and operations department (housekeeping, front desk, etc.). Hospitality/Tourism describes what the business does (its industry), not the internal functional structure that organizes how it operates.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 30",
+    "topic": [
+      "Growth Strategy",
+      "Diversification",
+      "Dangote Group",
+      "Corporate Strategy"
+    ],
+    "Question": {
+      "content": "What is an example of Dangote's business opportunity growth strategy through entering into an unrelated product sector?",
+      "type": "OBJ",
+      "options": [
+        "Backward integration",
+        "Diversification",
+        "Market development",
+        "Integration"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Diversification"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Diversification Strategy</h4>\n <p>The correct answer is <strong>B. Diversification</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Diversification?</strong><br>\n Diversification is a growth strategy where a business enters a new market with new products. When the new products are unrelated to the existing business, it is called <strong>unrelated diversification</strong> or conglomerate diversification.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Dangote's Diversification Examples:</strong><br>\n The Dangote Group started as a small trading firm in 1977. Under Aliko Dangote's leadership, it diversified into multiple unrelated sectors:\n <ul>\n <li><strong>Commodity Trading</strong> (starting point)</li>\n <li><strong>Cement Manufacturing</strong> → Became Africa's largest cement producer</li>\n <li><strong>Food Processing:</strong> Sugar, salt, flour, pasta</li>\n <li><strong>Oil & Gas:</strong> Dangote Refinery (unrelated to cement or food)</li>\n <li><strong>Petrochemicals and Fertilizer</strong></li>\n <li><strong>Real Estate and Infrastructure</strong></li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Not the Others?</strong><br>\n <ul>\n <li><strong>Backward integration:</strong> Moving into a supplier's industry (e.g., a cement company buying a limestone quarry)—this is related, not entering an unrelated sector</li>\n <li><strong>Market development:</strong> Taking existing products into new markets (e.g., Dangote cement sold in new countries)—still in the same product sector</li>\n <li><strong>Integration (general):</strong> Refers to vertical or horizontal integration, which involve related businesses</li>\n </ul>\n Entering <strong>unrelated product sectors</strong> like moving from cement to oil refining is the defining characteristic of diversification.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 31",
+    "topic": [
+      "Entrepreneurship",
+      "Business Growth",
+      "Growth Theories"
+    ],
+    "Question": {
+      "content": "Entrepreneur growth is explained by all of the following except which theory?",
+      "type": "OBJ",
+      "options": [
+        "Franchising theory",
+        "Acquisition theory",
+        "Agency Theory",
+        "Organic Theory"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Agency Theory"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Theories of Entrepreneurial Growth</h4>\n <p>The correct answer is <strong>C. Agency Theory</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Various theories explain how entrepreneurs grow their businesses:\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Theories That Explain Entrepreneur Growth:</strong><br>\n <ul>\n <li><strong>Franchising Theory:</strong> Growth through licensing the business model to franchisees who operate under the parent brand. Allows rapid expansion with reduced capital requirement.</li>\n <li><strong>Acquisition Theory:</strong> Growth by purchasing existing businesses. Enables quick market entry, elimination of competitors, and access to established customer bases and assets.</li>\n <li><strong>Organic Theory:</strong> Growth through internal expansion—increasing sales, opening new locations, developing new products using the business's own resources and reinvested profits.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Agency Theory Does Not Explain Entrepreneur Growth:</strong><br>\n <strong>Agency Theory</strong> deals with the relationship between principals (owners/shareholders) and agents (managers/employees). It addresses conflicts of interest, information asymmetry, and governance issues—how to align the interests of managers with those of owners. It explains <strong>how to manage</strong> a business but does not provide a framework for <strong>growth strategies</strong> like the other theories do.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 32",
+    "topic": [
+      "Accounting",
+      "Bookkeeping",
+      "Source Documents"
+    ],
+    "Question": {
+      "content": "Which of the following is typical of a book of original entry (source document)?",
+      "type": "OBJ",
+      "options": [
+        "Ledger",
+        "Profit and loss account",
+        "School fee receipt",
+        "Balance sheet"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "School fee receipt"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Books of Original Entry</h4>\n <p>The correct answer is <strong>C. School fee receipt</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What are Books of Original Entry?</strong><br>\n Books of original entry (also called source documents, journals, or day books) are the first place where business transactions are recorded. They provide evidence that a transaction occurred.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Examples of Source Documents:</strong><br>\n <ul>\n <li>Invoices (sales and purchases)</li>\n <li>Receipts (cash, school fees, utility payments)</li>\n <li>Payment vouchers</li>\n <li>Bank deposit slips</li>\n <li>Credit notes and debit notes</li>\n <li>Petty cash vouchers</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Not the Others?</strong><br>\n <ul>\n <li><strong>Ledger:</strong> This is a book of <strong>final entry</strong> where transactions from journals are posted and summarized—not original entry</li>\n <li><strong>Profit and Loss Account:</strong> This is a <strong>financial statement</strong> prepared from ledger balances to show profitability</li>\n <li><strong>Balance Sheet:</strong> This is a <strong>financial statement</strong> showing assets, liabilities, and equity at a point in time</li>\n </ul>\n A <strong>school fee receipt</strong> is a typical source document—it provides evidence of cash received and is the basis for recording that transaction in the cash book (a book of original entry).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 33",
+    "topic": [
+      "Marketing",
+      "Branding Strategy",
+      "Brand Naming"
+    ],
+    "Question": {
+      "content": "PEARLS cosmetic products (soap, lotion, cream powder) is an example of which brand naming approach?",
+      "type": "OBJ",
+      "options": [
+        "Corporate",
+        "Generic",
+        "Family",
+        "Individual",
+        "Unbranded"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Individual"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Brand Naming Approaches</h4>\n <p>The correct answer is <strong>D. Individual</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Individual Branding (Multi-Brand Approach):</strong><br>\n This strategy gives each product a distinct, unique brand name with no obvious connection to the parent company or other products. The products in the PEARLS line (soap, lotion, cream powder) all share the <strong>same individual brand name \"PEARLS\"</strong> across multiple product categories within the cosmetic line.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Different Brand Naming Approaches:</strong><br>\n <ul>\n <li><strong>Corporate Brand:</strong> Uses the company name for all products (e.g., Virgin Atlantic, Virgin Mobile, Virgin Media)</li>\n <li><strong>Family Brand:</strong> A single brand name is used for a range of related products (e.g., Toyota Camry, Toyota Corolla, Toyota RAV4—\"Toyota\" is the family name)</li>\n <li><strong>Individual Brand:</strong> Each product or product line has its own distinct name (e.g., Procter & Gamble owns Tide, Ariel, Pampers—all individual brands)</li>\n <li><strong>Generic/Unbranded:</strong> No brand name; products sold as plain, unmarked items</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why \"Individual\" for PEARLS:</strong><br>\n PEARLS operates as a distinct brand name for a specific product line (cosmetics) separate from any parent company brand identity. The various products (soap, lotion, cream powder) all carry the same \"PEARLS\" brand name, making this an individual branding approach for that product portfolio.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 34",
+    "topic": [
+      "Marketing",
+      "Branding Strategy",
+      "Corporate Branding"
+    ],
+    "Question": {
+      "content": "SONY company products (television, radio, phone) follow which type of brand naming approach?",
+      "type": "OBJ",
+      "options": [
+        "Corporate",
+        "Generic",
+        "Family",
+        "Individual",
+        "Unbranded"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Corporate"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Corporate Branding Strategy</h4>\n <p>The correct answer is <strong>A. Corporate</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is Corporate Branding?</strong><br>\n Corporate branding (also called umbrella branding) uses the company name as the primary brand identifier across all or most of its products. The corporate name serves as a seal of quality and builds overall company reputation.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>SONY's Branding Strategy:</strong><br>\n SONY uses its corporate name across virtually all its products:\n <ul>\n <li>SONY Television (Bravia series—but still \"SONY\" is primary)</li>\n <li>SONY Radio</li>\n <li>SONY Phone (Xperia—but marketed as SONY Xperia)</li>\n <li>SONY PlayStation, SONY Cameras, SONY Audio Equipment</li>\n </ul>\n The company name <strong>SONY</strong> is prominently displayed on every product, creating brand consistency and leveraging the strong corporate reputation built over decades.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Comparison with Previous Question:</strong><br>\n <ul>\n <li><strong>PEARLS</strong> (Question 33) is an individual brand—a distinct name for a specific product line, not carrying the parent company's name prominently</li>\n <li><strong>SONY</strong> is a corporate brand—the company name itself is the brand carried across all product categories</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 35",
+    "topic": [
+      "Marketing",
+      "Product Life Cycle",
+      "Marketing Strategy"
+    ],
+    "Question": {
+      "content": "Competitive advertising, inroads of competitors, intensive distribution, and product depth strategies are features of which stage of the product life cycle?",
+      "type": "OBJ",
+      "options": [
+        "Introduction",
+        "Decline",
+        "Growth",
+        "Maturity"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Maturity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Maturity Stage of Product Life Cycle</h4>\n <p>The correct answer is <strong>D. Maturity</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The product life cycle (PLC) has four stages: Introduction, Growth, Maturity, and Decline. The <strong>Maturity Stage</strong> has distinct characteristics:\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Features of the Maturity Stage:</strong><br>\n <ul>\n <li><strong>Competitive Advertising:</strong> Advertising shifts from informing about the product to differentiating from competitors. Emphasis on brand preference and competitive positioning.</li>\n <li><strong>Inroads of Competitors:</strong> Market saturation occurs; many competitors have entered. Price competition intensifies as firms fight for market share.</li>\n <li><strong>Intensive Distribution:</strong> Products are made available through as many outlets as possible to maintain sales volume and accessibility.</li>\n <li><strong>Product Depth Strategies:</strong> Companies extend product lines with variations (different sizes, flavors, features) to cater to diverse customer segments and defend against competition.</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>PLC Stage Comparison:</strong><br>\n <ul>\n <li><strong>Introduction:</strong> Informative advertising, limited competition, selective distribution, basic product</li>\n <li><strong>Growth:</strong> Persuasive advertising, increasing competition, expanding distribution, product improvements</li>\n <li><strong>Maturity:</strong> Competitive advertising, intense competition, intensive distribution, product line extensions</li>\n <li><strong>Decline:</strong> Minimal advertising, decreasing competition, selective/phased-out distribution, product pruning</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 36",
+    "topic": [
+      "Business Ownership",
+      "Family Business",
+      "Business Structure"
+    ],
+    "Question": {
+      "content": "A business managed and owned by family members simply defines what?",
+      "type": "OBJ",
+      "options": [
+        "Group of companies",
+        "Partnership",
+        "Sole proprietor",
+        "Blood relation only",
+        "Family business"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sole proprietor"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Sole Proprietorship in Family Business Context</h4>\n <p>The correct answer is <strong>C. Sole proprietor</strong>.</p>\n <div style='margin-bottom: 12px;'>\n This question requires careful interpretation. In many contexts, particularly in African and Nigerian business settings, a business owned and managed by family members is often structured as a <strong>sole proprietorship</strong> where:\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Sole Proprietorship Fits:</strong><br>\n <ul>\n <li>The business is registered in the name of the <strong>family head</strong> (father, mother, or patriarch) as the sole proprietor</li>\n <li>Family members work in and help manage the business, but the legal ownership is vested in one individual</li>\n <li>This is the most common small business structure in many economies where formal partnership or corporate structures are not utilized</li>\n <li>Profits are considered personal income of the registered owner, who then provides for family members</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Alternative Interpretation:</strong><br>\n Some might argue for \"Family Business\" as a descriptive term, but legally and structurally, a business owned and managed by family members is most often a <strong>sole proprietorship</strong> (one person holds legal title) or <strong>partnership</strong> (if formally registered with multiple family members as partners). In this MCQ, the provided answer key indicates <strong>sole proprietor</strong> as the correct response, reflecting the common practice where the business is registered in one family member's name while the family collectively operates it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 37",
+    "topic": [
+      "Business Planning",
+      "Feasibility Study",
+      "Business Plan"
+    ],
+    "Question": {
+      "content": "Which is more practical approach and is synonymous to business plan?",
+      "type": "OBJ",
+      "options": [
+        "Contingency plan",
+        "Executive summary",
+        "Master plan",
+        "Blue print",
+        "Feasibility plan"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Feasibility plan"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Feasibility Plan vs. Business Plan</h4>\n <p>The correct answer is <strong>E. Feasibility plan</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>What is a Feasibility Plan?</strong><br>\n A feasibility plan (or feasibility study) analyzes whether a business idea is viable. It examines technical, economic, legal, operational, and scheduling factors to determine if the project should proceed.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why It Is Synonymous with Business Plan:</strong><br>\n In practical entrepreneurship, the terms are often used interchangeably because:\n <ul>\n <li>Both documents serve similar purposes—guiding business launch and securing funding</li>\n <li>A comprehensive feasibility plan contains many elements of a business plan (market analysis, financial projections, operational plan)</li>\n <li>For small businesses and startups, a feasibility study is the \"practical\" working document that evolves into the business plan</li>\n <li>In many business contexts, \"feasibility plan\" is considered the hands-on, actionable version of a business plan</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Distinguishing Terms:</strong><br>\n <ul>\n <li><strong>Contingency Plan:</strong> A backup plan for when things go wrong—different from a business plan</li>\n <li><strong>Executive Summary:</strong> A summary section within a business plan, not a standalone planning document</li>\n <li><strong>Master Plan:</strong> Usually refers to long-term strategic or urban planning, not startup planning</li>\n <li><strong>Blue Print:</strong> A detailed technical drawing or design; metaphorically used but not synonymous with business plan</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 38",
+    "topic": [
+      "Entrepreneurship",
+      "Types of Entrepreneurs",
+      "Freelance Work"
+    ],
+    "Question": {
+      "content": "What are entrepreneurs who work as freelancers to make a living called?",
+      "type": "OBJ",
+      "options": [
+        "Petty trader",
+        "Social entrepreneurship",
+        "Hustlers",
+        "Agbero"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Hustlers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Hustler Entrepreneurs</h4>\n <p>The correct answer is <strong>C. Hustlers</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who Are Hustler Entrepreneurs?</strong><br>\n Hustlers are entrepreneurs who engage in multiple income-generating activities, often freelance or gig-based, to earn a living. They are characterized by:\n <ul>\n <li><strong>Resourcefulness:</strong> Making the most of available opportunities with limited capital</li>\n <li><strong>Flexibility:</strong> Taking on various jobs—freelance writing, delivery services, consulting, small trades, event services</li>\n <li><strong>Survival-Driven:</strong> Often necessity-based entrepreneurship rather than high-growth venture building</li>\n <li><strong>Independent Work:</strong> Not tied to a single employer; securing multiple clients or gigs</li>\n </ul>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Comparison with Other Options:</strong><br>\n <ul>\n <li><strong>Petty Trader:</strong> Specifically refers to small-scale retail trading (selling goods in small quantities)—a subset of hustling, but not all freelancers are petty traders</li>\n <li><strong>Social Entrepreneurship:</strong> Focuses on solving social problems, not primarily freelancing for personal income</li>\n <li><strong>Agbero:</strong> Nigerian term for transport union touts or street enforcers—not a category of legitimate freelance entrepreneurship</li>\n </ul>\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Context Note:</strong><br>\n \"Hustler\" is widely used in entrepreneurial literature and popular culture to describe self-employed individuals who piece together multiple income streams, work freelance, and persistently pursue economic opportunities with creativity and determination.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Entrepreneurship and Business Management",
+    "Subheading": "Core Concepts and Principles"
+  },
+  {
+    "type": "Question",
+    "name": "Question 39",
+    "topic": [
+      "Entrepreneurship",
+      "Family Business",
+      "Business Structures"
+    ],
+    "Question": {
+      "content": "The three-circle model of family business encompasses all of the following except one. Which one is the exception?",
+      "type": "OBJ",
+      "options": [
+        "Family",
+        "Ownership",
+        "Management",
+        "Successor"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Successor"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding the Three-Circle Model</h4>\n <p>The correct answer is <strong>D (Successor)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Three Circles</strong><br>\n The three-circle model is a foundational framework for understanding family businesses. It identifies three overlapping and interacting groups:<br>\n 1. <strong>Family</strong>: Members of the family.<br>\n 2. <strong>Ownership</strong>: Individuals who own shares in the business.<br>\n 3. <strong>Management</strong>: Employees who run the business day-to-day.<br>\n While a successor is a crucial role, it is a position that exists within the intersections of these circles, not a separate, fourth circle in the original model.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 40",
+    "topic": [
+      "Leadership",
+      "Management",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "What is considered the best entrepreneurial leadership style?",
+      "type": "OBJ",
+      "options": [
+        "Participating",
+        "Situational",
+        "Laissez-faire",
+        "Autocratic",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Situational"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Most Effective Leadership Approach</h4>\n <p>The correct answer is <strong>B (Situational)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Situational Leadership?</strong><br>\n There is no single \"best\" leadership style that works in every situation. A successful entrepreneur must adapt their approach based on the specific context. This includes considering:<br>\n - The nature of the task or project.<br>\n - The skill level, experience, and motivation of the team members.<br>\n - The urgency of the deadline and the potential risks.<br>\n A situational leader can switch between styles (e.g., autocratic in a crisis, participative when brainstorming) to be most effective.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 41",
+    "topic": [
+      "Communication",
+      "Business Communication",
+      "Organizational Behavior"
+    ],
+    "Question": {
+      "content": "Which of the following is considered an undesirable business communication channel?",
+      "type": "OBJ",
+      "options": [
+        "Memo",
+        "Group seminar",
+        "Verbal",
+        "Company handbook",
+        "Grapevine"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Grapevine"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Formal vs. Informal Communication</h4>\n <p>The correct answer is <strong>E (Grapevine)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding the Grapevine</strong><br>\n The grapevine is an informal, unofficial, and often unstructured channel of communication within an organization. It spreads information through rumors, gossip, and casual conversations. While it can sometimes provide quick feedback, it is considered undesirable because:<br>\n - Information can be inaccurate or distorted.<br>\n - It can create rumors and anxiety among employees.<br>\n - It is difficult to control or manage.<br>\n In contrast, memos, seminars, and handbooks are formal, structured, and reliable channels for official business communication.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 42",
+    "topic": [
+      "Entrepreneurship",
+      "Business Challenges",
+      "Sole Proprietorship"
+    ],
+    "Question": {
+      "content": "One of the following is not considered a disadvantage or 'bad side' of being a sole proprietor or 'man business'. Which one is the exception?",
+      "type": "OBJ",
+      "options": [
+        "Succession plan",
+        "Continuity",
+        "Tussle for ownership",
+        "Quick decision"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Quick decision"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The \"Bad Side\" of Sole Proprietorship</h4>\n <p>The correct answer is <strong>D (Quick decision)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Identifying the Exception</strong><br>\n The question asks for the option that is <strong>not</strong> a disadvantage. Let's examine each:<br>\n - <strong>Succession plan</strong>: This is a major disadvantage. If the owner dies or becomes incapacitated, there's often no clear plan for who takes over, potentially ending the business.<br>\n - <strong>Continuity</strong>: A sole proprietorship has no continuity. The business is legally tied to the owner, and its existence ends with the owner's involvement.<br>\n - <strong>Tussle for ownership</strong>: This is a disadvantage common in partnerships, not in a sole proprietorship. The sole proprietor has 100% ownership, so there is no tussle.<br>\n - <strong>Quick decision</strong>: This is a major <strong>advantage</strong>. A sole proprietor can make decisions quickly without needing to consult partners or a board of directors.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 43",
+    "topic": [
+      "Company Law",
+      "Business Registration",
+      "Limited Liability Company"
+    ],
+    "Question": {
+      "content": "In the registration of a limited liability company, which of the following is the key public external document that establishes the company's existence?",
+      "type": "OBJ",
+      "options": [
+        "Memorandum of association",
+        "Articles of association",
+        "List and particulars of directors",
+        "Tax clearance certificate"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Memorandum of association"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Company Formation Documents</h4>\n <p>The correct answer is <strong>A (Memorandum of association)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Memorandum vs. Articles</strong><br>\n The <strong>Memorandum of Association</strong> is the primary, public document that defines the company's relationship with the outside world. It includes:<br>\n - The company's name.<br>\n - Its registered office address.<br>\n - Its main objectives (the business it is authorized to do).<br>\n - A statement of limited liability.<br>\n - The amount of share capital.<br>\n The <strong>Articles of Association</strong> are the internal rules and regulations for managing the company (e.g., how directors are appointed, how meetings are conducted). While important, the Memorandum is the foundational document required for registration.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 44",
+    "topic": [
+      "Management",
+      "Management Functions",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "What is the correct sequence of the entrepreneur's management functions?",
+      "type": "OBJ",
+      "options": [
+        "Planning, Organizing, Directing, Co-ordinating, and Controlling",
+        "Planning, Organizing, Directing, Decision, and Controlling",
+        "Decision making, Organizing, Directing, Co-ordinating, and Controlling",
+        "Planning, Organizing, Directing, Co-ordinating, and Reporting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Planning, Organizing, Directing, Co-ordinating, and Controlling"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Management Process</h4>\n <p>The correct answer is <strong>A (Planning, Organizing, Directing, Co-ordinating, and Controlling)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Process</strong><br>\n This sequence represents a classic and logical flow of management functions:<br>\n 1. <strong>Planning</strong>: Defining goals, establishing strategy, and developing plans to coordinate activities. (Deciding what to do).<br>\n 2. <strong>Organizing</strong>: Determining what tasks are to be done, who is to do them, how the tasks are grouped, and who reports to whom. (Arranging resources).<br>\n 3. <strong>Directing</strong>: Leading, motivating, and supervising employees to achieve organizational goals. (Guiding the people).<br>\n 4. <strong>Coordinating</strong>: Harmonizing all the activities, efforts, and resources to ensure they work together smoothly. (Synchronizing efforts).<br>\n 5. <strong>Controlling</strong>: Monitoring performance, comparing it with goals, and correcting any significant deviations. (Checking results).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 45",
+    "topic": [
+      "E-Business",
+      "Digital Business Models",
+      "Entrepreneurship"
+    ],
+    "Question": {
+      "content": "What is considered the first or foundational stage in developing every e-business model?",
+      "type": "OBJ",
+      "options": [
+        "Sources of revenue",
+        "Value proposition",
+        "E-business concept",
+        "Favorable policy of government"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "E-business concept"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building an E-Business Model</h4>\n <p>The correct answer is <strong>C (E-business concept)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Foundation: The Idea</strong><br>\n Every e-business model starts with a core idea or concept. Before you can define how you will make money (revenue sources) or what value you offer, you must first have a clear concept of what your business will do. The e-business concept answers the fundamental question: \"What is my business?\" This includes:<br>\n - The product or service being offered.<br>\n - The target market it aims to serve.<br>\n - The unique approach it will take.<br>\n Only after this concept is established can you develop a value proposition, design revenue streams, and consider external factors like government policy.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "heading",
+    "heading": "Entrepreneurship & Management Principles",
+    "Subheading": "Questions 46-50"
+  },
+  {
+    "type": "Question",
+    "name": "Question 46",
+    "topic": [
+      "Entrepreneurship",
+      "Economics",
+      "Business"
+    ],
+    "Question": {
+      "content": "What is the factor that spurs entrepreneurship in rapid growth markets?",
+      "type": "OBJ",
+      "options": [
+        "Opportunity",
+        "Necessity",
+        "Innovation",
+        "Commitment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Innovation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Entrepreneurship in Rapid Growth Markets</h4>\n <p>The solution key indicates the answer is <strong>C (Innovation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why Innovation?</strong><br>\n In fast-growing markets (like tech hubs or emerging economies), competition is fierce. Entrepreneurs don't just start a business because they have to (necessity) or because they see a simple gap (opportunity). They succeed by creating something <strong>new and different</strong>. This is innovation—introducing a new product, service, or method that changes the game.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking Down the Options:</strong><br>\n - <strong>Opportunity (A):</strong> This is a reason to start a business, but in rapid growth markets, the real driver is creating new opportunities through innovation.<br>\n - <strong>Necessity (B):</strong> This is when people start businesses because they have no other job options. It's less common in high-growth markets.<br>\n - <strong>Innovation (C):</strong> The correct answer. It's the engine of growth and the primary spur for entrepreneurs in these dynamic environments.<br>\n - <strong>Commitment (D):</strong> This is important for success but is not the initial spur or catalyst.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 47",
+    "topic": [
+      "Entrepreneurship",
+      "Finance",
+      "Business"
+    ],
+    "Question": {
+      "content": "All of the following are sources of funding for entrepreneurial ideas EXCEPT one. Which one is NOT a typical source of funding?",
+      "type": "OBJ",
+      "options": [
+        "Equity",
+        "Angel financing",
+        "Shares",
+        "Personal savings"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Equity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Sources of Entrepreneurial Funding</h4>\n <p>The solution key indicates the answer is <strong>A (Equity)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding the Trick:</strong><br>\n This question plays on words. 'Equity' itself is not a source of funding; it is the <strong>result</strong> of funding. When you invest money, you get equity (ownership) in return.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking Down the Options:</strong><br>\n - <strong>Equity (A):</strong> This is the <strong>INCORRECT</strong> option. Equity is what an investor receives (ownership), not the money they give.<br>\n - <strong>Angel Financing (B):</strong> A correct source. Wealthy individuals ('angels') invest their own money in startups.<br>\n - <strong>Shares (C):</strong> A correct source. Selling shares (a type of equity) to the public through a stock market is a way to raise funds.<br>\n - <strong>Personal Savings (D):</strong> A correct source. Most entrepreneurs start by using their own money.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 48",
+    "topic": [
+      "Management",
+      "Business",
+      "Industrial Revolution"
+    ],
+    "Question": {
+      "content": "According to Frederick W. Taylor, what is the primary factor that should be used to motivate workers and increase productivity?",
+      "type": "OBJ",
+      "options": [
+        "Unity of command",
+        "Work environment",
+        "Social relation",
+        "Pay and productivity",
+        "Salary and wages"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Pay and productivity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Frederick W. Taylor's Scientific Management</h4>\n <p>The solution key indicates the answer is <strong>D (Pay and productivity)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Taylor's Core Idea:</strong><br>\n Frederick W. Taylor is known as the father of 'Scientific Management.' He believed workers were primarily motivated by money. His system focused on linking pay directly to output (productivity).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How it Worked:</strong><br>\n Taylor introduced the 'differential piece-rate system.' Workers who produced more than a standard amount were paid a higher rate per unit than those who produced less. This directly connected <strong>pay and productivity</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking Down the Options:</strong><br>\n - <strong>Unity of command (A):</strong> This is a principle of Henri Fayol, not Taylor.<br>\n - <strong>Work environment (B):</strong> While Taylor studied efficiency, his focus was on the task, not the environment's psychological effect.<br>\n - <strong>Social relation (C):</strong> This was the focus of the Hawthorne Studies, which came after Taylor.<br>\n - <strong>Pay and productivity (D):</strong> The correct answer. This was the cornerstone of Taylor's motivation theory.<br>\n - <strong>Salary and wages (E):</strong> This is similar but doesn't capture the key link between the two that Taylor emphasized.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 49",
+    "topic": [
+      "Management",
+      "Human Relations",
+      "Psychology"
+    ],
+    "Question": {
+      "content": "The Hawthorne experiments initially began by studying the effect of what factor on worker productivity?",
+      "type": "OBJ",
+      "options": [
+        "Illumination environment",
+        "Production",
+        "Quantity",
+        "Motivation"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Illumination environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Hawthorne Experiments: The First Phase</h4>\n <p>The solution key indicates the answer is <strong>A (Illumination environment)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>How it Started:</strong><br>\n The famous Hawthorne studies at Western Electric's Hawthorne plant did not start with a focus on human relations. They began as a scientific management experiment to see if better lighting (illumination) would increase productivity.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Surprising Result:</strong><br>\n Researchers found that productivity increased regardless of whether the lighting was increased or decreased. This 'Hawthorne Effect'—where people change their behavior because they know they are being studied—led them to explore social and psychological factors.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking Down the Options:</strong><br>\n - <strong>Illumination environment (A):</strong> The correct answer. This was the very first variable tested in the experiments.<br>\n - <strong>Production (B):</strong> This was the outcome they were measuring, not the initial factor being tested.<br>\n - <strong>Quantity (C):</strong> This is related to production, not the initial experimental variable.<br>\n - <strong>Motivation (D):</strong> This became a key focus later, but it was not the starting point of the original experiment.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 50",
+    "topic": [
+      "Management",
+      "Human Relations",
+      "Psychology"
+    ],
+    "Question": {
+      "content": "Who is the proponent of the Human Relations Management theory, which considers factors like light, air conditioning, and a clean environment?",
+      "type": "OBJ",
+      "options": [
+        "Elton Mayo",
+        "Adam Smith",
+        "Henri Fayol",
+        "Abraham Maslow"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Elton Mayo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Father of Human Relations</h4>\n <p>The solution key indicates the answer is <strong>A (Elton Mayo)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Who was Elton Mayo?</strong><br>\n Elton Mayo was an Australian psychologist and sociologist. He is most famous for leading the Hawthorne Studies, which shifted management thinking from a purely mechanical view to one that recognizes the importance of social and psychological factors.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>His Contribution:</strong><br>\n While the initial experiments looked at physical factors like light and air, Mayo's key insight was that these were not the main drivers of productivity. The critical factors were social relations, group dynamics, and the fact that workers felt valued. This became the foundation of the Human Relations Movement.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking Down the Options:</strong><br>\n - <strong>Elton Mayo (A):</strong> The correct answer. He is the central figure associated with the Human Relations theory.<br>\n - <strong>Adam Smith (B):</strong> Known for his work in economics, particularly 'The Wealth of Nations' and the concept of the division of labor.<br>\n - <strong>Henri Fayol (C):</strong> A classical management theorist known for his 14 principles of management, like unity of command.<br>\n - <strong>Abraham Maslow (D):</strong> A psychologist known for his 'Hierarchy of Needs,' a theory of motivation that influenced management, but he is not the proponent of Human Relations Management.\n </div>\n</div>"
+    }
+  }
+]
