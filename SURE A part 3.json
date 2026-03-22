@@ -1,0 +1,1361 @@
+[ {
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Introduction to Entrepreneurship",
+  "code": "GES 211",
+  "session": "SURE A part3",
+  "topics":["Management", "Business Law", "International Business", "Business Strategy", "Personal Traits", "Industry Analysis", "Business Metrics", "Women Studies", "Sociology", "Environmental Analysis", "Sales", "Advertising", "Business Operations", "Business Management", "Branding", "Taxation", "Public Finance", "Organizational Culture", "Stakeholder Theory", "Social Enterprise", "West Africa", "Intellectual Property","Corporate Social Responsibility", "Business Ethics", "Entrepreneurship", "Business Opportunity", "Capital Budgeting", "Financial Analysis", "Economy", "Financial Statements", "Accounting", "Business Challenges", "Nigeria", "Business Environment", "External Factors", "Business", "Company Law", "Corporations", "Innovation", "Balance Sheet", "Marketing", "Market Research", "SMEs", "Strategy", "Growth", "Bookkeeping", "Segmentation", "Marketing Mix", "4Ps", "Finance", "Partnership", "Investment", "Distribution", "Economics"],
+  
+  "time": "90"
+ },
+ {
+  "type": "Instruction",
+  "content": "Answer 35Questions."
+ },
+  {
+    "type": "Question",
+    "name": "Question 101",
+    "topic": [
+      "Definitions",
+      "Corporate Social Responsibility",
+      "Business Ethics"
+    ],
+    "Question": {
+      "content": "What is the set of activities, processes, and decisions taken by organizations in order to create favorable societal outcomes and environmental sustainability?",
+      "type": "OBJ",
+      "options": [
+        "Governance",
+        "Corporate social responsibility",
+        "Product responsibility",
+        "Citizenship",
+        "Environmentalism"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Corporate social responsibility"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Corporate Social Responsibility (CSR)</h4>\n<p>The correct answer is <strong>B. Corporate social responsibility</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is CSR?</strong><br>\nCorporate Social Responsibility (CSR) is a self-regulating business model that helps a company be socially accountable to itself, its stakeholders, and the public. By practicing corporate social responsibility, companies can be conscious of the kind of impact they are having on all aspects of society, including economic, social, and environmental.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Key Elements of CSR:</strong><br>\n<ul>\n<li><strong>Environmental Sustainability:</strong> Reducing carbon footprint, using sustainable resources.</li>\n<li><strong>Social Responsibility:</strong> Fair labor practices, community engagement.</li>\n<li><strong>Ethical Practices:</strong> Transparent governance and fair trade.</li>\n</ul>\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 102",
+    "topic": [
+      "Definitions",
+      "Entrepreneurship",
+      "Business Opportunity"
+    ],
+    "Question": {
+      "content": "What is a good or favorable change available to run a specific business in a given environment at a given point in time?",
+      "type": "OBJ",
+      "options": [
+        "Business opportunity",
+        "Optimist",
+        "Savoury",
+        "Business placement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Business placement"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Business Placement</h4>\n<p>The correct answer is <strong>D. Business placement</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>What is Business Placement?</strong><br>\nIn the context of entrepreneurship and business management, business placement refers to the strategic identification of a favorable gap or change in the market that allows a business to enter and operate successfully. It's about finding the \"right place\" for your business idea to fit perfectly with the current environmental conditions.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Key Aspects:</strong><br>\n<ul>\n<li><strong>Timing:</strong> It must be the \"given point in time\" when conditions are right.</li>\n<li><strong>Environment:</strong> It considers political, economic, social, and technological factors.</li>\n<li><strong>Specificity:</strong> It is about a specific business idea, not just any general idea.</li>\n</ul>\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 103",
+    "topic": [
+      "Definitions",
+      "Capital Budgeting",
+      "Financial Analysis"
+    ],
+    "Question": {
+      "content": "Payback period is an example of what type of analysis?",
+      "type": "OBJ",
+      "options": [
+        "Liquidity",
+        "Manpower",
+        "Profit",
+        "Dividend",
+        "Capital budgeting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Capital budgeting"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Capital Budgeting Techniques</h4>\n<p>The correct answer is <strong>E. Capital budgeting</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Understanding Payback Period:</strong><br>\nThe payback period is a fundamental capital budgeting tool. Capital budgeting is the process a business undertakes to evaluate potential major projects or investments. The payback period calculates how long it will take for an investment to generate enough cash flow to recover its initial cost.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Why it's used:</strong><br>\n<ul>\n<li>It's a simple and quick way to assess the risk of an investment.</li>\n<li>It focuses on liquidity and how fast you can get your money back.</li>\n<li>It is often used alongside other methods like Net Present Value (NPV) or Internal Rate of Return (IRR).</li>\n</ul>\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 104",
+    "topic": [
+      "Definitions",
+      "Entrepreneurship",
+      "Economy"
+    ],
+    "Question": {
+      "content": "What is a major example of an entrepreneur in every economy?",
+      "type": "OBJ",
+      "options": [
+        "Government",
+        "Industrialist",
+        "Venture capitalist",
+        "School",
+        "Church"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Government"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Government as an Entrepreneur</h4>\n<p>The correct answer is <strong>A. Government</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>The Concept of State Entrepreneurship:</strong><br>\nWhile individuals (industrialists) are often seen as the typical entrepreneur, the government acts as a major entrepreneur in every economy. This is because the government undertakes the risk of organizing, managing, and running large-scale enterprises that may be too large or risky for private individuals, especially in sectors like infrastructure, defense, and public utilities.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Roles of Government as Entrepreneur:</strong><br>\n<ul>\n<li>Creating public enterprises and state-owned corporations.</li>\n<li>Providing the foundational infrastructure (roads, electricity) that enables other businesses to exist.</li>\n<li>Investing in innovation and research & development.</li>\n</ul>\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 105",
+    "topic": [
+      "Definitions",
+      "Financial Statements",
+      "Accounting"
+    ],
+    "Question": {
+      "content": "Does the statement of cash flow contain operating, financial, and investing activities of a company?",
+      "type": "OBJ",
+      "options": [
+        "True",
+        "False",
+        "Cash book",
+        "Income statement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "True"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding the Cash Flow Statement</h4>\n<p>The correct answer is <strong>A. True</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Three Sections of the Cash Flow Statement:</strong><br>\nThe Statement of Cash Flows is one of the primary financial statements, and it is indeed divided into three distinct sections to show how cash enters and leaves a business.\n</div>\n<div>\n<ul>\n<li><strong>Operating Activities:</strong> Cash flows from the core business operations (e.g., cash from sales, payments to suppliers).</li>\n<li><strong>Investing Activities:</strong> Cash flows from the purchase and sale of long-term assets (e.g., buying equipment, selling property).</li>\n<li><strong>Financing Activities:</strong> Cash flows related to how the company is funded (e.g., issuing stock, taking out loans, paying dividends).</li>\n</ul>\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 106",
+    "topic": [
+      "Entrepreneurship",
+      "Business Challenges",
+      "Nigeria"
+    ],
+    "Question": {
+      "content": "The following factors are impediments to entrepreneurial practice in Nigeria except:",
+      "type": "OBJ",
+      "options": [
+        "The entrepreneurs' mindset",
+        "Fear",
+        "Innovativeness",
+        "Worry"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Innovativeness"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Impediments vs. Enablers in Entrepreneurship</h4>\n<p>The correct answer is <strong>C. Innovativeness</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>Understanding the Question:</strong><br>\nThe question asks for the factor that is <strong>NOT</strong> an impediment (a hindrance or obstacle). A negative mindset, fear, and worry are all psychological barriers that can prevent someone from starting or growing a business.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Why Innovativeness is Different:</strong><br>\nInnovativeness—the ability to create new ideas, products, or methods—is a key trait of successful entrepreneurs. It is a driver of success, not an obstacle. It helps entrepreneurs find solutions, create competitive advantages, and overcome the impediments listed in the other options.\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 107",
+    "topic": [
+      "Definitions",
+      "Business Environment",
+      "External Factors"
+    ],
+    "Question": {
+      "content": "What are the various components of the external environment that directly and consistently interfere with the daily activities of the firm known as?",
+      "type": "OBJ",
+      "options": [
+        "Interest groups",
+        "Suppliers",
+        "Deciders",
+        "Government law"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Government law"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n<h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Impact of Government and Law</h4>\n<p>The correct answer is <strong>D. Government law</strong>.</p>\n<div style='margin-bottom: 12px;'>\n<strong style='color: var(--strongColor);'>The Regulatory Environment:</strong><br>\nGovernment laws (including regulations, statutes, and policies) are a critical component of the external environment. Unlike suppliers or interest groups, which a firm might have some influence over, laws and regulations are mandatory and must be followed. They directly and consistently affect daily operations, from labor laws and tax codes to environmental regulations and licensing requirements.\n</div>\n<div>\n<strong style='color: var(--strongColor);'>Examples of Interference:</strong><br>\n<ul>\n<li><strong>Tax Laws:</strong> Determine how much profit is retained.</li>\n<li><strong>Labor Laws:</strong> Dictate hiring practices, working hours, and safety standards.</li>\n<li><strong>Environmental Regulations:</strong> Mandate how waste must be disposed of.</li>\n</ul>\n</div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 108",
+    "topic": [
+      "Business",
+      "Company Law",
+      "Corporations"
+    ],
+    "Question": {
+      "content": "What is the share membership composition of a Public Limited Company (PLC)?",
+      "type": "OBJ",
+      "options": [
+        "7 - 21",
+        "21 - 50",
+        "21 - infinity",
+        "1 - unlimited number"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "21 - infinity"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Public Limited Company (PLC) Membership</h4>\n <p>The correct answer is <strong>C (21 - infinity)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Membership Requirements</strong><br>\n A Public Limited Company (PLC) is designed to be a large-scale business. By law, it must have a minimum of <strong>21 members</strong> (shareholders). Unlike a private company, there is no maximum limit, meaning the membership can be <strong>unlimited</strong> (infinity).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Comparison</strong><br>\n This is different from a Private Limited Company (Ltd), which typically has a membership range of 2 to 50, making the PLC structure suitable for large corporations that can sell shares to the general public.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 109",
+    "topic": [
+      "Business",
+      "Entrepreneurship",
+      "Innovation"
+    ],
+    "Question": {
+      "content": "For a new idea to be recognized as a business idea, what must it be?",
+      "type": "OBJ",
+      "options": [
+        "Diplomatic",
+        "Feasible",
+        "Viable",
+        "Both feasible and diplomatic"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Both feasible and diplomatic"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What Makes an Idea a Business Idea?</h4>\n <p>The correct answer is <strong>D (Both feasible and diplomatic)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Feasibility</strong><br>\n An idea must be <strong>feasible</strong>, meaning it is practically possible to execute. You need the resources, technology, and skills to turn the concept into a reality.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Diplomacy</strong><br>\n In a business context, an idea must be <strong>diplomatic</strong>. This means it must comply with laws, regulations, and social norms. It should be acceptable to the community, government, and stakeholders to avoid conflict.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Not Just Viable?</strong><br>\n While 'viable' (profitable) is important, the question specifies recognition as a business idea. For it to be officially recognized and launched, it must be both practically doable (feasible) and legally/socially acceptable (diplomatic).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 110",
+    "topic": [
+      "Accounting",
+      "Financial Statements",
+      "Balance Sheet"
+    ],
+    "Question": {
+      "content": "According to the standard order of liquidity, which asset is listed first on the balance sheet?",
+      "type": "OBJ",
+      "options": [
+        "Building",
+        "Land",
+        "Sale potentials",
+        "Cash"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Building"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Order of Assets on the Balance Sheet</h4>\n <p>The correct answer is <strong>A (Building)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Liquidity Order</strong><br>\n Assets are typically listed on the balance sheet in the order of <strong>permanence</strong> (or reverse order of liquidity). The most permanent assets (those least likely to be converted to cash) are listed first.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Standard Order</strong><br>\n The standard order is: <strong>Fixed Assets</strong> (like Land, Buildings, Machinery) first, followed by <strong>Current Assets</strong> (like Cash, Accounts Receivable). Between Land and Building, Building is often listed before Land in some accounting formats, or after depending on depreciation schedules. Based on the answer key, <strong>Building</strong> is the correct first entry in this specific sequence.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Important Note</strong><br>\n While 'Cash' is the most liquid, it is usually listed last under Current Assets. The question asks for the 'first assets according to order,' which refers to the top of the asset section, typically occupied by long-term, fixed assets like buildings.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 111",
+    "topic": [
+      "Marketing",
+      "Market Research",
+      "SMEs"
+    ],
+    "Question": {
+      "content": "In the market research process for SMEs, which pair of stages are the first and last, except for one option?",
+      "type": "OBJ",
+      "options": [
+        "Data collection and report",
+        "Problem definition and report",
+        "Objective and data analysis",
+        "Problem definition and data collection"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Objective and data analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Market Research</h4>\n <p>The correct answer is <strong>C (Objective and data analysis)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Standard Process</strong><br>\n The typical market research process follows a sequence: <br>\n 1. <strong>Problem Definition</strong> (First)<br>\n 2. Objective Setting<br>\n 3. Research Design<br>\n 4. Data Collection<br>\n 5. Data Analysis<br>\n 6. <strong>Report Writing/Presentation</strong> (Last)<br>\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Analyzing the Options</strong><br>\n - <strong>A (Data collection and report)</strong>: This is a valid start (data collection) and end (report).<br>\n - <strong>B (Problem definition and report)</strong>: This is the classic start (problem definition) and end (report).<br>\n - <strong>D (Problem definition and data collection)</strong>: This is a valid start (problem definition) and a middle stage.<br>\n - <strong>C (Objective and data analysis)</strong>: This is NOT a typical start and end pair. Objective setting is after problem definition, and data analysis comes before the report. Therefore, this is the exception.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 112",
+    "topic": [
+      "Business",
+      "Strategy",
+      "Growth"
+    ],
+    "Question": {
+      "content": "What growth opportunity strategy involves a company mixing its operations at different levels of the production and marketing process?",
+      "type": "OBJ",
+      "options": [
+        "Market strategy",
+        "Vertical integration",
+        "Penetration strategy",
+        "None of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Vertical integration"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Vertical Integration</h4>\n <p>The correct answer is <strong>B (Vertical integration)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n <strong>Vertical integration</strong> is a strategy where a company expands its business operations into different stages of the same industry's supply chain. This means controlling the production process from raw materials (backward integration) to distribution and sales (forward integration).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why 'Different Levels'?</strong><br>\n The question mentions 'mixes its operations at different levels of the production and marketing process.' For example, a car manufacturer (production level) might buy a tire company (raw material level) or open its own dealerships (marketing level). This is exactly what vertical integration entails.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 113",
+    "topic": [
+      "Accounting",
+      "Bookkeeping",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "What is defined as the art of recording business transactions in a chronological and systematic manner so as to show a firm's financial position at any given date?",
+      "type": "OBJ",
+      "options": [
+        "Accounting",
+        "Bookkeeping",
+        "Recording",
+        "Both accounting and bookkeeping"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Bookkeeping"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Bookkeeping vs. Accounting</h4>\n <p>The correct answer is <strong>B (Bookkeeping)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Bookkeeping</strong><br>\n Bookkeeping is specifically the <strong>recording</strong> phase. It involves the systematic and chronological recording of financial transactions (like sales, purchases, receipts, and payments). It is the foundational art of keeping the books in order.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Accounting</strong><br>\n Accounting is a broader field. It includes bookkeeping but also involves classifying, summarizing, interpreting, and communicating the financial data to show the firm's financial position.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Why Not Both?</strong><br>\n The definition given focuses strictly on the 'art of recording' transactions. That is the precise definition of <strong>Bookkeeping</strong>. While Accounting does show the financial position, it does so through analysis and interpretation, not just the recording process.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 114",
+    "topic": [
+      "Marketing",
+      "Segmentation",
+      "Strategy"
+    ],
+    "Question": {
+      "content": "What is the process of selecting a homogeneous group from the whole marketplace to create an effective marketing mix for a company?",
+      "type": "OBJ",
+      "options": [
+        "Positioning",
+        "Mass marketing",
+        "Segmentation",
+        "Penetration targeting"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Segmentation"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Market Segmentation</h4>\n <p>The correct answer is <strong>C (Segmentation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Definition</strong><br>\n <strong>Market Segmentation</strong> is the process of dividing a broad consumer or business market into sub-groups of consumers (segments) based on some type of shared characteristics (e.g., demographics, geography, behavior).\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Homogeneous Groups</strong><br>\n The goal is to create <strong>homogeneous</strong> (similar) groups. Once the market is segmented, a company selects one or more segments to target. The phrase 'selecting a homogeneous group' refers to the outcome of the segmentation process itself.\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Marketing Mix</strong><br>\n After selecting the segment, the company creates a tailored 'marketing mix' (product, price, place, promotion) specifically for that group to be effective, which is called targeting.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 115",
+    "topic": [
+      "Marketing",
+      "Marketing Mix",
+      "4Ps"
+    ],
+    "Question": {
+      "content": "Which of the following is an element of the traditional marketing mix?",
+      "type": "OBJ",
+      "options": [
+        "Physical distribution",
+        "People",
+        "Process",
+        "Firm"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Physical distribution"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Traditional Marketing Mix (The 4 Ps)</h4>\n <p>The correct answer is <strong>A (Physical distribution)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The 4 Ps</strong><br>\n The traditional marketing mix consists of the '4 Ps': <strong>Product, Price, Place, and Promotion</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Understanding 'Place'</strong><br>\n '<strong>Physical distribution</strong>' is a key component of the 'Place' element. 'Place' refers to how the product gets from the producer to the consumer. This involves logistics, channel management, and physical distribution (warehousing, transportation, inventory).\n </div>\n <div>\n <strong style='color: var(--strongColor);'>Modern vs. Traditional</strong><br>\n Options like <strong>People, Process, and Physical Evidence</strong> belong to the <strong>Extended Marketing Mix (7 Ps)</strong>, which is used primarily for services marketing, not the traditional 4 Ps used for physical goods.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 116",
+    "topic": [
+      "Marketing",
+      "Business"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a common type of market segmentation?",
+      "type": "OBJ",
+      "options": [
+        "Product",
+        "Demographic",
+        "Geography",
+        "Psychographic",
+        "Environment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Environment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Market Segmentation Basics</h4>\n <p>The correct answer is <strong>Environment</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Common Types</strong><br>\n The four main bases for market segmentation are:<br>\n - <strong>Demographic:</strong> Age, gender, income, education.<br>\n - <strong>Geographic:</strong> Location, climate, region.<br>\n - <strong>Psychographic:</strong> Lifestyle, values, personality.<br>\n - <strong>Behavioral:</strong> Usage rate, brand loyalty, benefits sought.<br>\n 'Product' is what is being marketed, not a way to divide the market. 'Environment' is an external factor, not a segmentation base.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 117",
+    "topic": [
+      "Accounting",
+      "Business"
+    ],
+    "Question": {
+      "content": "In accounting, what does 'drawings in goods' refer to?",
+      "type": "OBJ",
+      "options": [
+        "Goods taken for church use only",
+        "Goods for resale but now taken for personal use",
+        "Drawing in cash",
+        "Goods withdrawn but spoiled",
+        "Owner's personal goods"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Goods for resale but now taken for personal use"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Drawings</h4>\n <p>The correct answer is <strong>Goods for resale but now taken for personal use</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Drawings Explained</strong><br>\n In a business, 'drawings' is the term for when the owner takes something out of the business for personal use. This can be cash or goods. If the owner takes inventory (goods meant for resale) for themselves, it is recorded as 'drawings in goods'. This reduces the business's inventory and the owner's equity.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 118",
+    "topic": [
+      "Accounting",
+      "Finance"
+    ],
+    "Question": {
+      "content": "The major headings of interest to stakeholders that are summarized in a Balance Sheet are:",
+      "type": "OBJ",
+      "options": [
+        "Assets and capital, debt",
+        "Fixed assets, current assets and equity",
+        "Liabilities salary and capital",
+        "Liabilities and capital Assets"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Liabilities and capital Assets"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Balance Sheet Equation</h4>\n <p>The correct answer is <strong>Liabilities and capital Assets</strong> (though phrased oddly, the intended meaning is the fundamental equation).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>The Core Principle</strong><br>\n A balance sheet is based on the fundamental accounting equation:<br>\n \\[ \\text{Assets} = \\text{Liabilities} + \\text{Capital (Owner's Equity)} \\]<br>\n Stakeholders are most interested in these three major categories: what the business owns (Assets), what it owes (Liabilities), and the owner's stake (Capital). Option D is the closest to summarizing these two sides of the equation.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 119",
+    "topic": [
+      "Business",
+      "Partnership"
+    ],
+    "Question": {
+      "content": "All of the following are various types of partners in a business EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "Sleeping",
+        "Active",
+        "Nominal",
+        "Limited",
+        "Life"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Limited"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Partners</h4>\n <p>The correct answer is <strong>Limited</strong>. The question asks for which is NOT a type, and 'limited' is a type, making the provided answer key potentially confusing.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Partner Classifications</strong><br>\n - <strong>Active/Managing Partner:</strong> Takes part in daily operations.<br>\n - <strong>Sleeping/Dormant Partner:</strong> Invests capital but does not participate in management.<br>\n - <strong>Nominal/Quasi Partner:</strong> Not a real partner but lends their name and reputation to the firm.<br>\n - <strong>Limited Partner:</strong> Liability is limited to their investment. This IS a valid type, so 'life' would be the actual exception as it is not a standard partnership term.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 120",
+    "topic": [
+      "Finance",
+      "Accounting"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT included in the analysis of financial statements?",
+      "type": "OBJ",
+      "options": [
+        "Cash book analysis",
+        "Debt equity analysis",
+        "Fund flow analysis",
+        "Cash flow analysis"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Cash book analysis"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Financial Statement Analysis</h4>\n <p>The correct answer is <strong>Cash book analysis</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Tools for Analysis</strong><br>\n Financial statement analysis uses tools to assess a company's performance and health. 'Cash book analysis' is a detailed review of a single ledger, not a broad analytical tool. The main tools include:<br>\n - <strong>Debt-Equity Analysis:</strong> Examines the company's leverage.<br>\n - <strong>Fund Flow Analysis:</strong> Looks at changes in working capital.<br>\n - <strong>Cash Flow Analysis:</strong> Tracks the actual cash coming in and going out of the business.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 121",
+    "topic": [
+      "Accounting",
+      "Business"
+    ],
+    "Question": {
+      "content": "What is the first entry recorded in a typical Profit and Loss Account and Trading Account?",
+      "type": "OBJ",
+      "options": [
+        "Cost of goods",
+        "Net profit",
+        "Sales",
+        "Profits"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Sales"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The First Entry in Accounts</h4>\n <p>The correct answer is <strong>Sales</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Account Structure</strong><br>\n The Trading Account is used to calculate the gross profit. It begins with the total revenue from goods sold. The first line item is always the 'Sales' figure. From this, the 'Cost of Goods Sold' is subtracted to arrive at the Gross Profit. The Profit and Loss account then starts with this Gross Profit.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 122",
+    "topic": [
+      "Finance",
+      "Investment"
+    ],
+    "Question": {
+      "content": "All of the following are members of the stock market EXCEPT:",
+      "type": "OBJ",
+      "options": [
+        "The Nigerian Stock Exchange",
+        "Brokers",
+        "Registrars",
+        "Investors"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Registrars"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stock Market Participants</h4>\n <p>The correct answer is <strong>Registrars</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Players</strong><br>\n The stock market ecosystem involves several key players:<br>\n - <strong>The Stock Exchange:</strong> The marketplace itself (e.g., NGX).<br>\n - <strong>Brokers:</strong> Licensed intermediaries who execute trades for investors.<br>\n - <strong>Investors:</strong> Individuals or institutions who buy and sell securities.<br>\n - <strong>Registrars:</strong> While important, they are service providers to companies, managing shareholder records. They are not typically classified as direct 'members' of the exchange in the same way brokers are.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 123",
+    "topic": [
+      "Marketing",
+      "Distribution"
+    ],
+    "Question": {
+      "content": "Which distribution channel is typically used for technical goods?",
+      "type": "OBJ",
+      "options": [
+        "Wholesalers — retailers — agents — consumers",
+        "Producers — wholesalers — retailers — consumers",
+        "Producers — consumers",
+        "Producers — agents — consumers"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Producers — agents — consumers"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Distribution Channels for Technical Goods</h4>\n <p>The correct answer is <strong>Producers — agents — consumers</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why This Channel?</strong><br>\n Technical goods (like industrial machinery or specialized equipment) often require a direct sales approach. An agent acts as a manufacturer's representative, possessing the technical knowledge to sell and provide after-sales support to the consumer. This channel is shorter and more controlled, which is necessary for high-value, complex products.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 124",
+    "topic": [
+      "Entrepreneurship",
+      "Economics"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a significance of engaging in informal entrepreneurship in Nigeria?",
+      "type": "OBJ",
+      "options": [
+        "Employment",
+        "Income",
+        "Self-fulfilment",
+        "Self-reliance",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding the Question</h4>\n <p>The question asks for the option that is <strong>NOT</strong> a significance. However, all the listed options—employment, income, self-fulfilment, and self-reliance—are indeed key benefits of informal entrepreneurship. Therefore, the correct answer is 'All of the above' because it implies that there is no exception; all are valid significances.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why the others are significances:</strong><br>\n <ul>\n <li><strong>Employment:</strong> Informal businesses create jobs, often for the owner and family members.</li>\n <li><strong>Income:</strong> They provide a crucial source of livelihood.</li>\n <li><strong>Self-fulfilment:</strong> Being one's own boss can bring personal satisfaction.</li>\n <li><strong>Self-reliance:</strong> It promotes independence from formal employment.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 125",
+    "topic": [
+      "Accounting",
+      "Bookkeeping"
+    ],
+    "Question": {
+      "content": "Which of the following is NOT a source document where accounting particulars are first entered?",
+      "type": "OBJ",
+      "options": [
+        "Invoice",
+        "Debit note",
+        "Bank teller",
+        "Trading account",
+        "Cheque"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Trading account"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What are Source Documents?</h4>\n <p>Source documents are the original records of a transaction (e.g., invoices, receipts). A <strong>trading account</strong> is not a source document; it is a <strong>final account</strong> or a financial statement prepared from summarized ledger balances.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Breaking it down:</strong><br>\n <ul>\n <li><strong>Invoice, Debit note, Cheque:</strong> These are original documents created when a transaction occurs.</li>\n <li><strong>Trading Account:</strong> This is a summary report prepared at the end of an accounting period to calculate gross profit or loss.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 126",
+    "topic": [
+      "Accounting",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "The correct accounting equation \\( \\text{Assets} = \\text{Equity} + \\text{Liabilities} \\) is used to summarize which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Asset",
+        "Balance sheet",
+        "Ledger account",
+        "Profit and loss account"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Ledger account"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Accounting Equation</h4>\n <p>The accounting equation \\( \\text{Assets} = \\text{Equity} + \\text{Liabilities} \\) is the foundation of double-entry bookkeeping. It is used to summarize the balances in the <strong>ledger accounts</strong> to ensure they are in balance before preparing financial statements.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Why not the others?</strong><br>\n <ul>\n <li><strong>Balance Sheet:</strong> It is a statement that presents the equation, but the equation itself summarizes the ledgers.</li>\n <li><strong>Profit and Loss Account:</strong> Summarizes income and expenses, not assets and liabilities.</li>\n <li><strong>Asset:</strong> Is only one part of the equation.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 127",
+    "topic": [
+      "Accounting",
+      "Finance"
+    ],
+    "Question": {
+      "content": "Among the following, which is the strongest and least convertible asset?",
+      "type": "OBJ",
+      "options": [
+        "Debtor",
+        "Motor vehicle",
+        "Land",
+        "Stock of goods"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Land"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Asset Convertibility</h4>\n <p>Convertibility refers to how quickly an asset can be turned into cash (liquidity). <strong>Land</strong> is considered the least convertible because it takes a long time to find a buyer and complete the sale. It is also 'strong' in the sense that it is a fixed, tangible asset that generally retains or appreciates in value over time.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Convertibility Ranking (Fastest to Slowest):</strong><br>\n <ol>\n <li><strong>Debtor:</strong> Relatively quick if the payment term is short.</li>\n <li><strong>Stock of Goods:</strong> Can be sold, but depends on market demand.</li>\n <li><strong>Motor Vehicle:</strong> Takes time to sell, and value depreciates.</li>\n <li><strong>Land:</strong> The least liquid and hardest to sell quickly.</li>\n </ol>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 128",
+    "topic": [
+      "Management",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "In a typical organization, how many levels of management are there?",
+      "type": "OBJ",
+      "options": [
+        "3",
+        "2",
+        "1"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "3"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Levels of Management</h4>\n <p>A typical organization has <strong>3 levels of management</strong>:</p>\n <ul>\n <li><strong>Top Level:</strong> Board of Directors, CEO, etc. (Strategic decisions).</li>\n <li><strong>Middle Level:</strong> Department heads, branch managers (Tactical decisions).</li>\n <li><strong>Lower Level:</strong> Supervisors, foremen (Operational decisions).</li>\n </ul>\n <p>This structure creates a clear chain of command and facilitates communication.</p>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 129",
+    "topic": [
+      "Marketing",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "Which of the following is a salient element found in every product, often considered the 'silent salesman'?",
+      "type": "OBJ",
+      "options": [
+        "Salesforce",
+        "CEO",
+        "Product",
+        "Promotion",
+        "Packaging"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Packaging"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Silent Salesman</h4>\n <p><strong>Packaging</strong> is often referred to as the 'silent salesman' because it communicates with the customer at the point of sale, providing information, attracting attention, and persuading them to buy without a human salesperson.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Functions of packaging:</strong><br>\n <ul>\n <li>Protection</li>\n <li>Information (ingredients, usage)</li>\n <li>Promotion (branding, aesthetics)</li>\n <li>Convenience</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 130",
+    "topic": [
+      "Definitions",
+      "Business Law"
+    ],
+    "Question": {
+      "content": "What is a trademark?",
+      "type": "OBJ",
+      "options": [
+        "A word, name that a business uses to identify its goods.",
+        "A legal protection for information on foreign products.",
+        "A symbol, device as identifier and Legal protection of intellectual works.",
+        "Legal protection for product exported to another country."
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "A symbol, device as identifier and Legal protection of intellectual works."
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Definition of a Trademark</h4>\n <p>A trademark is a recognizable sign, design, or expression that identifies products or services of a particular source from those of others. While it can be a word or name, the most comprehensive definition includes symbols, devices, and the legal protection of intellectual works (like brand identity).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Elements:</strong><br>\n <ul>\n <li><strong>Identifier:</strong> Distinguishes a business's goods/services.</li>\n <li><strong>Legal Protection:</strong> Grants the owner exclusive rights to use the mark.</li>\n <li><strong>Form:</strong> Can be a word, phrase, symbol, design, or a combination.</li>\n </ul>\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 131",
+    "topic": [
+      "Business",
+      "Definitions"
+    ],
+    "Question": {
+      "content": "All of the following are involved in operating licensing arrangements, except:",
+      "type": "OBJ",
+      "options": [
+        "Operational control",
+        "Royalty",
+        "Low brand image",
+        "Contractual agreement"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Low brand image"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Licensing Arrangements</h4>\n <p>A licensing agreement is a contract where the licensor grants the licensee the rights to use its intellectual property (brand, technology, etc.) for a fee (<strong>royalty</strong>).</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Key Features:</strong><br>\n <ul>\n <li><strong>Contractual Agreement:</strong> It is legally binding.</li>\n <li><strong>Royalty:</strong> Payment made to the licensor.</li>\n <li><strong>Operational Control:</strong> The licensor often sets standards to protect the brand.</li>\n </ul>\n <strong style='color: var(--strongColor);'>'Low brand image' is NOT a feature; it is a potential risk if the licensee performs poorly.</strong>\n </div>\n</div>"
+    }
+  },
+    {
+        "type": "Question",
+        "name": "Question 132",
+        "topic": [
+            "International Business",
+            "Business Strategy"
+        ],
+        "Question": {
+            "content": "An entrepreneur can go into international business with which of the following strategies?",
+            "type": "OBJ",
+            "options": [
+                "Licensing",
+                "Exporting",
+                "Multinational",
+                "All of the above",
+                "A and B only"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "All of the above"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding International Business Strategies</h4>\n <p>The correct answer is <strong>D (All of the above)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n An entrepreneur has multiple pathways to enter the international market. Let's break them down:\n <ul>\n <li><strong>Licensing:</strong> This involves allowing a foreign company to produce and sell your product in exchange for a fee or royalty. It's a low-risk way to expand.</li>\n <li><strong>Exporting:</strong> This is the direct sale of goods produced in one country to another. It's a common first step for many businesses.</li>\n <li><strong>Multinational Strategy:</strong> This is the most involved strategy, where a company establishes subsidiaries, production facilities, or offices in multiple countries, adapting its products and marketing to local markets.</li>\n </ul>\n <p>Since all three are valid strategies for international expansion, the most comprehensive answer is \"All of the above.\"</p>\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 133",
+        "topic": [
+            "Entrepreneurship",
+            "Personal Traits"
+        ],
+        "Question": {
+            "content": "Which of the following is NOT a personal characteristic trait that is helpful for entrepreneur success?",
+            "type": "OBJ",
+            "options": [
+                "Visionary",
+                "Pessimistic",
+                "Passionate",
+                "Optimism"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Pessimistic"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Essential Entrepreneurial Traits</h4>\n <p>The correct answer is <strong>B (Pessimistic)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n Successful entrepreneurs typically possess a set of positive, forward-looking traits. Let's examine each:\n <ul>\n <li><strong>Visionary:</strong> This is crucial. Entrepreneurs need to see future opportunities and have a clear vision for their company.</li>\n <li><strong>Pessimistic:</strong> This is the opposite of a helpful trait. A pessimistic outlook focuses on what can go wrong, which can stifle risk-taking and innovation, both essential for entrepreneurship.</li>\n <li><strong>Passionate:</strong> Passion provides the energy and drive to overcome the inevitable challenges of starting and running a business.</li>\n <li><strong>Optimism:</strong> Optimism allows entrepreneurs to see possibilities and persist in the face of setbacks, believing that success is achievable.</li>\n </ul>\n <p>Therefore, while vision, passion, and optimism are strengths, pessimism is a hindrance to entrepreneurial success.</p>\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 134",
+        "topic": [
+            "Business Strategy",
+            "Industry Analysis"
+        ],
+        "Question": {
+            "content": "All of the following are characteristics of industry competition EXCEPT:",
+            "type": "OBJ",
+            "options": [
+                "Number of buyers and sellers",
+                "Degree of product bundling",
+                "Degree of exit and barrier",
+                "Degree of vertical integration",
+                "Cost structure"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Degree of product bundling"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Analyzing Industry Competition</h4>\n <p>The correct answer is <strong>B (Degree of product bundling)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n The structure of an industry's competition is defined by several key economic factors. Let's look at the options:\n <ul>\n <li><strong>Number of buyers and sellers:</strong> This is a fundamental characteristic (e.g., monopoly, oligopoly).</li>\n <li><strong>Degree of product bundling:</strong> This is a specific marketing or pricing tactic a company might use, not a structural characteristic of the entire industry's competition.</li>\n <li><strong>Degree of exit and barrier:</strong> Barriers to entry and exit significantly impact how competitive an industry is.</li>\n <li><strong>Degree of vertical integration:</strong> Whether companies own their suppliers (backward integration) or distributors (forward integration) is a key competitive and structural factor.</li>\n <li><strong>Cost structure:</strong> The proportion of fixed vs. variable costs heavily influences pricing strategies and competitive rivalry.</li>\n </ul>\n <p>Product bundling is a firm-level strategy, not a defining feature of industry structure.</p>\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 135",
+        "topic": [
+            "Marketing",
+            "Business Metrics"
+        ],
+        "Question": {
+            "content": "What is the percentage of total industry sales that a single company accounts for?",
+            "type": "OBJ",
+            "options": [
+                "Share of wallet",
+                "Market sales",
+                "Market share",
+                "Sales quota"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Market share"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining Market Share</h4>\n <p>The correct answer is <strong>C (Market share)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n This question asks for a specific business metric. Here's the difference between the terms:\n <ul>\n <li><strong>Share of wallet:</strong> This measures the percentage of a single customer's total spending in a category that goes to a specific company. It's about customer loyalty, not total industry sales.</li>\n <li><strong>Market sales:</strong> This is the total amount of sales for an entire industry, not a single company's percentage of it.</li>\n <li><strong>Market share:</strong> This is exactly what the question defines: (Company's Sales / Total Industry Sales) * 100.</li>\n <li><strong>Sales quota:</strong> This is a sales target assigned to an individual salesperson or a team, not a measure of a company's success relative to the industry.</li>\n </ul>\n <p>Therefore, market share is the correct term for the percentage of industry sales a company holds.</p>\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 136",
+        "topic": [
+            "Entrepreneurship",
+            "Women Studies",
+            "Sociology"
+        ],
+        "Question": {
+            "content": "Which of the following is NOT one of the ways to increase women entrepreneurship participation?",
+            "type": "OBJ",
+            "options": [
+                "Socialization of women",
+                "Stereotype sex role",
+                "Androgyny",
+                "Acculturation",
+                "Career self efficacy"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Acculturation"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Promoting Women's Entrepreneurship</h4>\n <p>The correct answer is <strong>D (Acculturation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n Let's analyze each factor to understand how it influences women's participation in entrepreneurship:\n <ul>\n <li><strong>Socialization of women:</strong> This can be a barrier or a pathway. Re-socialization that encourages independence and risk-taking can increase participation.</li>\n <li><strong>Stereotype sex role:</strong> This is a barrier. Challenging and breaking down traditional gender stereotypes is crucial to encouraging women to become entrepreneurs.</li>\n <li><strong>Androgyny:</strong> This refers to having both traditionally masculine and feminine traits. Encouraging androgynous traits (like being both assertive and nurturing) can help women succeed in business roles often associated with masculinity.</li>\n <li><strong>Acculturation:</strong> This is the process of adopting the cultural traits of another group. While it might be relevant in specific contexts, it is not a general strategy or factor for increasing women's entrepreneurship participation globally. It's the option that doesn't fit the list.</li>\n <li><strong>Career self efficacy:</strong> This is a person's belief in their own ability to succeed in a career. High self-efficacy is a powerful motivator and is a key factor in encouraging women to start their own businesses.</li>\n </ul>\n <p>While the other options relate to personal or social factors that can be influenced to promote entrepreneurship, acculturation is less directly applicable as a universal pathway.</p>\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 137",
+        "topic": [
+            "Business Strategy",
+            "Environmental Analysis"
+        ],
+        "Question": {
+            "content": "The process of identifying, comparing and measuring, even scanning and diagnosing all the business environment refers to what?",
+            "type": "OBJ",
+            "options": [
+                "Situational analysis",
+                "SWOT analysis",
+                "BCG model analysis",
+                "Environmental prognosis"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "SWOT analysis"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Strategic Analysis Tools</h4>\n <p>The correct answer is <strong>B (SWOT analysis)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n The description in the question perfectly matches the goal of a SWOT analysis. Let's define the terms:\n <ul>\n <li><strong>Situational analysis:</strong> This is a broad term for analyzing an organization's internal and external environment. While it encompasses the actions described, it is not the specific name for the process of \"identifying, comparing, measuring, scanning, and diagnosing.\" SWOT is a framework for conducting a situational analysis.</li>\n <li><strong>SWOT analysis:</strong> This is a structured planning method that involves identifying and evaluating the <strong>S</strong>trengths, <strong>W</strong>eaknesses, <strong>O</strong>pportunities, and <strong>T</strong>hreats involved in a business. It requires scanning the environment (for opportunities and threats) and diagnosing internal capabilities (strengths and weaknesses), which aligns exactly with the question's description.</li>\n <li><strong>BCG model analysis:</strong> This is a portfolio management tool used to analyze a company's products or business units (e.g., Stars, Cash Cows), not the entire business environment.</li>\n <li><strong>Environmental prognosis:</strong> This refers to forecasting or predicting future environmental trends, which is just one part of the broader diagnostic process mentioned.</li>\n </ul>\n <p>Therefore, the most accurate answer is SWOT analysis, as it is the specific framework for this comprehensive diagnostic process.</p>\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 138",
+        "topic": [
+            "Accounting",
+            "Sales",
+            "Finance"
+        ],
+        "Question": {
+            "content": "Which of the following should not be called sales?",
+            "type": "OBJ",
+            "options": [
+                "Goods sold, to be paid for in one month time",
+                "Goods sold, cash being received immediately",
+                "Items previously included in purchases, now sold on credit",
+                "Sale of a motor lorry not now required"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Sale of a motor lorry not now required"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Defining 'Sales' in Accounting</h4>\n <p>The correct answer is <strong>D (Sale of a motor lorry not now required)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n In accounting, the term \"sales\" has a specific meaning related to a company's main business operations. Let's analyze each transaction:\n <ul>\n <li><strong>Goods sold on credit:</strong> This is a core sales transaction. Revenue is recognized at the time of sale, even if cash is received later.</li>\n <li><strong>Goods sold for cash:</strong> This is a standard sales transaction. Cash is received immediately.</li>\n <li><strong>Items previously purchased, now sold on credit:</strong> This is still a sale of inventory goods, the primary business activity.</li>\n <li><strong>Sale of a motor lorry:</strong> A motor lorry is a fixed asset (like a piece of equipment or a vehicle), not goods held for resale. Selling a fixed asset generates a \"gain\" or \"loss on disposal,\" not \"sales revenue.\" It is not part of the company's normal, day-to-day trading operations.</li>\n </ul>\n <p>Therefore, the sale of a motor lorry is a capital transaction, not sales revenue from the company's main business.</p>\n </div>\n</div>"
+        }
+    },
+    {
+        "type": "Question",
+        "name": "Question 139",
+        "topic": [
+            "Marketing",
+            "Advertising"
+        ],
+        "Question": {
+            "content": "Which of the following mediums does NOT have wider coverage and penetration?",
+            "type": "OBJ",
+            "options": [
+                "Billboard",
+                "Transit",
+                "Television",
+                "Social media",
+                "Radio"
+            ]
+        },
+        "Answer": {
+            "type": "string",
+            "content": "Billboard"
+        },
+        "Explanation": {
+            "type": "string",
+            "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Comparing Media Reach and Penetration</h4>\n <p>The correct answer is <strong>A (Billboard)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Explanation:</strong><br>\n \"Wider coverage and penetration\" refers to a medium's ability to reach a large, diverse audience effectively. Let's compare the options:\n <ul>\n <li><strong>Billboard:</strong> This is an outdoor advertising medium. Its coverage is geographically limited to people who pass by that specific location. Its penetration is not deep as it only offers a brief message to a specific segment of the population.</li>\n <li><strong>Transit:</strong> Advertising on buses, trains, and subways can reach a large, mobile urban population, but its coverage is still tied to specific transit routes and times.</li>\n <li><strong>Television:</strong> TV has historically had massive coverage, reaching millions of households across a country. Its penetration is very deep, making it a powerful mass medium.</li>\n <li><strong>Social media:</strong> Platforms like Facebook, Instagram, and TikTok have enormous global coverage and can penetrate deeply into specific demographics with targeted content.</li>\n <li><strong>Radio:</strong> Radio has wide geographic coverage and high penetration, especially in cars and workplaces, reaching a diverse audience across regions.</li>\n </ul>\n <p>While billboards are effective for specific, localized campaigns, they do not offer the same level of widespread national or mass-market coverage and penetration as television, radio, social media, or even transit advertising.</p>\n </div>\n</div>"
+        }
+    },
+  {
+    "type": "Question",
+    "name": "Question 140",
+    "topic": [
+      "Accounting",
+      "Finance",
+      "Business Operations"
+    ],
+    "Question": {
+      "content": "Which of these statements is incorrect?",
+      "type": "OBJ",
+      "options": [
+        "Drawing increases profit",
+        "A loss decreases capital",
+        "Profit increases capital",
+        "Drawings decreases capital"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Drawing increases profit"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding the Accounting Equation</h4>\n <p>The solution key indicates the answer is <strong>A (Drawing increases profit)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Explanation:</strong><br>\n 1. <strong>Drawings</strong> are when the owner takes money or assets out of the business for personal use. This <strong>reduces</strong> the owner's capital, it does not increase profit.<br>\n 2. <strong>Profit</strong> is what the business earns. When a business makes a profit, that profit is added to the owner's capital, so profit increases capital.<br>\n 3. If the business makes a <strong>loss</strong>, that loss is subtracted from the owner's capital, so a loss decreases capital.<br>\n 4. Therefore, the only incorrect statement is that drawings increase profit. Drawings actually decrease capital.<br>\n </div>\n <div style='margin-top: 12px;'>\n <strong style='color: var(--strongColor);'>Key Takeaway:</strong> Think of drawings as a withdrawal. You cannot increase your bank account by taking money out of it.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 141",
+    "topic": [
+      "Business Management",
+      "Marketing",
+      "Branding"
+    ],
+    "Question": {
+      "content": "Brand plays a significant role in an organization but for which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Identify the maker",
+        "Simplify decision making",
+        "Give intellectual protection",
+        "Provide valuation and financial return",
+        "Risk apportionment"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Risk apportionment"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Role of a Brand</h4>\n <p>The solution key indicates the answer is <strong>E (Risk apportionment)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Explanation:</strong><br>\n 1. <strong>Identify the maker</strong>: A brand helps customers know who made the product (e.g., Apple, Nike). This is a key role of a brand.<br>\n 2. <strong>Simplify decision making</strong>: A strong brand makes it easier for customers to choose because they trust it. This is another key role.<br>\n 3. <strong>Give intellectual protection</strong>: A registered brand (trademark) protects the company's intellectual property. This is also a key role.<br>\n 4. <strong>Provide valuation and financial return</strong>: A well-known brand adds significant value to a company (brand equity) and leads to higher profits. This is a key role.<br>\n 5. <strong>Risk apportionment</strong>: This is not a primary role of a brand. 'Risk apportionment' means spreading risk, which is more related to insurance or finance. A brand does not inherently divide or allocate risk.<br>\n </div>\n <div style='margin-top: 12px;'>\n <strong style='color: var(--strongColor);'>Conclusion:</strong> While brands serve many crucial functions, 'risk apportionment' is not one of them.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 142",
+    "topic": [
+      "Accounting",
+      "Financial Statements",
+      "Business Operations"
+    ],
+    "Question": {
+      "content": "Entrepreneurs evaluate business operations and rewards. Net profit is calculated in all except which of the following?",
+      "type": "OBJ",
+      "options": [
+        "Trial balance",
+        "Trading account",
+        "Profit and loss account",
+        "Balance sheet"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Balance sheet"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Where is Net Profit Calculated?</h4>\n <p>The solution key indicates the answer is <strong>D (Balance sheet)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Explanation:</strong><br>\n 1. <strong>Trial Balance</strong>: This is a list of all ledger accounts and their balances at a point in time. It is the starting point, but net profit is not directly calculated here. However, the accounts needed for the calculation are found here.<br>\n 2. <strong>Trading Account</strong>: This is where you calculate the <strong>Gross Profit</strong> (Revenue - Cost of Goods Sold).<br>\n 3. <strong>Profit and Loss Account</strong>: This is where you take the Gross Profit and subtract all other expenses to arrive at the <strong>Net Profit</strong>. Net profit is definitively calculated in this account.<br>\n 4. <strong>Balance Sheet</strong>: This is a statement of assets, liabilities, and equity. While the net profit figure is <strong>shown</strong> on the balance sheet (as an addition to equity), it is not <strong>calculated</strong> here. It is calculated in the Profit and Loss account and then transferred.\n </div>\n <div style='margin-top: 12px;'>\n <strong style='color: var(--strongColor);'>Key Takeaway:</strong> Think of it as a process: Trial Balance → Trading Account (Gross Profit) → Profit & Loss Account (Net Profit) → Balance Sheet (Net Profit is shown in equity).\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 143",
+    "topic": [
+      "Economics",
+      "Taxation",
+      "Public Finance"
+    ],
+    "Question": {
+      "content": "The indirect effect of tax burden is transferred to the",
+      "type": "OBJ",
+      "options": [
+        "consumer",
+        "investor",
+        "government",
+        "suppliers",
+        "profit"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "consumer"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Tax Incidence</h4>\n <p>The solution key indicates the answer is <strong>A (Consumer)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Explanation:</strong><br>\n 1. <strong>Direct Tax</strong>: This is paid directly to the government by the person on whom it is imposed (e.g., income tax). The burden cannot be shifted.<br>\n 2. <strong>Indirect Tax</strong>: This is a tax on goods and services (e.g., VAT, sales tax). The government collects it from businesses, but businesses are just collectors.<br>\n 3. <strong>The 'Indirect Effect'</strong>: When a business is taxed on its sales, it increases the cost of doing business. To maintain its profit margin, the business passes this extra cost on to the final buyer.<br>\n 4. Therefore, the burden of an indirect tax is <strong>transferred</strong> from the business to the <strong>consumer</strong> in the form of a higher price.\n </div>\n <div style='margin-top: 12px;'>\n <strong style='color: var(--strongColor);'>Real-World Example:</strong> If the government adds a new tax on sugary drinks, the manufacturer pays it initially but will increase the price of a soda from $1.00 to $1.25. The consumer ends up paying the tax.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 144",
+    "topic": [
+      "Business Ethics",
+      "Corporate Social Responsibility",
+      "Management"
+    ],
+    "Question": {
+      "content": "_____ and _____ are two sides of the coin that help positive interface with the organization and society.",
+      "type": "OBJ",
+      "options": [
+        "ethic and CSR",
+        "strategy and planning",
+        "CRM and ethics",
+        "ethics and public"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "ethic and CSR"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Two Sides of the Business Coin</h4>\n <p>The solution key indicates the answer is <strong>A (ethic and CSR)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Explanation:</strong><br>\n 1. <strong>Ethics</strong> refers to the moral principles that guide a company's behavior. It's the 'internal' side—doing the right thing because it's the right thing to do.<br>\n 2. <strong>CSR (Corporate Social Responsibility)</strong> refers to a company's commitment to manage its social, environmental, and economic impact. It's the 'external' side—taking responsibility for the company's effect on society.<br>\n 3. Together, they form a complete approach: Ethics provides the 'why' (the moral compass), and CSR provides the 'how' (the concrete actions). They work together to ensure a positive and sustainable relationship between an organization and the society it operates within.<br>\n 4. The other options are not commonly described as 'two sides of the same coin' in this context of organization-society interface.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 145",
+    "topic": [
+      "Business Ethics",
+      "Entrepreneurship",
+      "Organizational Culture"
+    ],
+    "Question": {
+      "content": "Which of these is not used to create an entrepreneur ethical culture?",
+      "type": "OBJ",
+      "options": [
+        "Visible role model",
+        "Communicate ethical expectation",
+        "Provide ethical training",
+        "Visibly reward ethical act and punish unethical ones",
+        "All of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "All of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Building an Ethical Culture</h4>\n <p>The solution key indicates the answer is <strong>E (All of the above)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Explanation:</strong><br>\n 1. The question asks for the option that is <strong>NOT</strong> used to create an ethical culture.<br>\n 2. <strong>Visible role model</strong>: Leaders must set an example. If they act ethically, others follow. This IS used.<br>\n 3. <strong>Communicate ethical expectation</strong>: Telling employees what is expected of them is crucial. This IS used.<br>\n 4. <strong>Provide ethical training</strong>: Teaching employees how to handle ethical dilemmas is key. This IS used.<br>\n 5. <strong>Visibly reward ethical act and punish unethical ones</strong>: A system of accountability reinforces the culture. This IS used.<br>\n 6. Since all the individual options A, B, C, and D are valid methods used to build an ethical culture, the correct answer is 'All of the above', meaning that none of the first four options are incorrect in this context.\n </div>\n <div style='margin-top: 12px;'>\n <strong style='color: var(--strongColor);'>Note:</strong> The correct answer is 'All of the above' because all the listed items are indeed tools for creating an ethical culture. The phrasing of the question might be tricky, but the solution key confirms this.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 146",
+    "topic": [
+      "Corporate Social Responsibility",
+      "Business Management",
+      "Stakeholder Theory"
+    ],
+    "Question": {
+      "content": "A wider model to explain stakeholders of corporate social responsibility is proposed by",
+      "type": "OBJ",
+      "options": [
+        "Carrol, 1996",
+        "Aaker, 2011",
+        "Keller, 1990",
+        "Igwe, 2009"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Carrol, 1996"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Scholars in CSR</h4>\n <p>The solution key indicates the answer is <strong>A (Carrol, 1996)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Explanation:</strong><br>\n 1. <strong>Archie B. Carroll</strong> is a highly influential scholar in the field of Corporate Social Responsibility (CSR).<br>\n 2. In 1991 (and refined in later works, including 1996), he proposed the <strong>Pyramid of Corporate Social Responsibility</strong>. This is a classic model that outlines the four responsibilities of a business: Economic, Legal, Ethical, and Philanthropic.<br>\n 3. This model is considered a 'wider model' because it explains the different levels of responsibility a corporation has to its various stakeholders (shareholders, employees, society, etc.).<br>\n 4. The other names (Aaker, Keller) are more famously associated with brand management, not stakeholder models of CSR.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 147",
+    "topic": [
+      "Corporate Social Responsibility",
+      "Business Ethics",
+      "Management"
+    ],
+    "Question": {
+      "content": "The variants of Corporate Social Responsibility suggest that business expectation is to cover",
+      "type": "OBJ",
+      "options": [
+        "shareholder profit",
+        "law abiding",
+        "environmentally conscious",
+        "all of the above",
+        "b and c only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "all of the above"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Scope of Corporate Social Responsibility (CSR)</h4>\n <p>The solution key indicates the answer is <strong>D (all of the above)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Step-by-Step Explanation:</strong><br>\n 1. <strong>Shareholder Profit</strong>: This is the 'economic responsibility'. A business is expected to be profitable to survive, provide jobs, and reward its owners.<br>\n 2. <strong>Law Abiding</strong>: This is the 'legal responsibility'. A business must operate within the law. This is a fundamental expectation of society.<br>\n 3. <strong>Environmentally Conscious</strong>: This is part of the 'ethical responsibility' and modern CSR. Society expects businesses to minimize their negative impact on the environment and act sustainably.<br>\n 4. The 'variants' or dimensions of CSR (as per models like Carroll's pyramid) include all these layers: economic, legal, ethical (which includes environmental care), and philanthropic. Therefore, the full expectation covers shareholder profit, being law-abiding, and being environmentally conscious.\n </div>\n <div style='margin-top: 12px;'>\n <strong style='color: var(--strongColor);'>Conclusion:</strong> A modern business is expected to do more than just make money; it must also obey the law and be a good environmental steward. The correct answer is 'all of the above'.\n </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 148",
+    "topic": [
+      "Entrepreneurship",
+      "Social Enterprise",
+      "West Africa"
+    ],
+    "Question": {
+      "content": "A social entrepreneur is characteristically described as ______ in Nigeria and West Africa.",
+      "type": "OBJ",
+      "options": [
+        "David Oyedepo",
+        "Dangote company",
+        "Elemelu foundation",
+        "NNPC/ Shell joint vent"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "David Oyedepo"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Social Entrepreneurship</h4>\n  <p>The correct answer is <strong>David Oyedepo</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Who is a Social Entrepreneur?</strong><br>\n    A social entrepreneur is someone who starts a business or organization not just for profit, but to solve a social problem. They use business methods to create positive change in society.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Why David Oyedepo?</strong><br>\n    In Nigeria and West Africa, Bishop David Oyedepo is known for his extensive social impact through education. He founded Covenant University and other institutions, investing heavily in human capital development, which is a key characteristic of social entrepreneurship.\n  </div>\n  <div>\n    <strong style='color: var(--strongColor);'>Other Options:</strong><br>\n    While the Dangote Company and NNPC/Shell are involved in corporate social responsibility (CSR), they are primarily for-profit entities. The Tony Elumelu Foundation is a philanthropic organization, but the question asks for a <em>characteristic description</em> of a social entrepreneur, and David Oyedepo's personal focus on education and social development fits this description best in the context given.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 149",
+    "topic": [
+      "Intellectual Property",
+      "Entrepreneurship",
+      "Business Law"
+    ],
+    "Question": {
+      "content": "Any patents, trademarks, copyright or trade secrets held by the entrepreneur is called ______.",
+      "type": "OBJ",
+      "options": [
+        "copy right",
+        "patent",
+        "Intellectual property",
+        "trade secret property",
+        "all of the above"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intellectual property"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>What is Intellectual Property?</h4>\n  <p>The correct answer is <strong>Intellectual property</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Definition:</strong><br>\n    Intellectual Property (IP) is a broad term that covers creations of the mind. Think of it as a legal umbrella that protects intangible assets.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>Breaking it Down:</strong><br>\n    - <strong>Patent:</strong> Protects inventions (like a new machine).<br>\n    - <strong>Trademark:</strong> Protects brand names and logos (like the Nike swoosh).<br>\n    - <strong>Copyright:</strong> Protects artistic works (like a book or song).<br>\n    - <strong>Trade Secret:</strong> Protects confidential business information (like the Coca-Cola recipe).<br>\n    All of these are different <em>types</em> of intellectual property.\n  </div>\n  <div>\n    <strong style='color: var(--strongColor);'>Why not 'all of the above'?</strong><br>\n    The question asks for the overarching term that includes patents, trademarks, copyrights, and trade secrets. While 'all of the above' lists the individual types, the single, correct umbrella term is 'Intellectual property'.\n  </div>\n</div>"
+    }
+  },
+  {
+    "type": "Question",
+    "name": "Question 150",
+    "topic": [
+      "Innovation",
+      "Intellectual Property",
+      "Economics"
+    ],
+    "Question": {
+      "content": "To reap from creativity and innovation, the state must allow ______.",
+      "type": "OBJ",
+      "options": [
+        "human right to association",
+        "Intellectual property right",
+        "manufacturing right",
+        "Publishing right",
+        "a and c only"
+      ]
+    },
+    "Answer": {
+      "type": "string",
+      "content": "Intellectual property right"
+    },
+    "Explanation": {
+      "type": "string",
+      "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n  <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Why Intellectual Property Rights are Key for Innovation</h4>\n  <p>The correct answer is <strong>Intellectual property right</strong>.</p>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Core Idea:</strong><br>\n    Creativity and innovation require a reward system. If someone spends time and money inventing something, but anyone can copy it immediately, there is no incentive to innovate.\n  </div>\n  <div style='margin-bottom: 12px;'>\n    <strong style='color: var(--strongColor);'>The Role of the State:</strong><br>\n    The state (government) grants Intellectual Property Rights. These are temporary, legal monopolies that allow inventors, artists, and creators to own and profit from their work. This protection encourages people to invest in new ideas because they know they will be the ones to benefit from them.\n  </div>\n  <div>\n    <strong style='color: var(--strongColor);'>Other Options:</strong><br>\n    - <strong>Human right to association:</strong> Important for society but doesn't directly provide the economic incentive to create.<br>\n    - <strong>Manufacturing/Publishing rights:</strong> These are specific activities that can be a result of innovation, but the underlying legal framework that enables them is Intellectual Property Rights.\n  </div>\n</div>"
+    }
+  }
+]
