@@ -1,0 +1,1363 @@
+[{
+  "type": "pageInfo",
+  "kind": "pureOBJ",
+  "course_title": "Introduction to Entrepreneurship",
+  "code": "GES 211",
+  "session": "SURE A part4",
+  "topics": ["Management", "Business Law", "International Business", "Business Strategy", "Personal Traits", "Industry Analysis", "Business Metrics", "Women Studies", "Sociology", "Environmental Analysis", "Sales", "Advertising", "Business Operations", "Business Management", "Branding", "Taxation", "Public Finance", "Organizational Culture", "Stakeholder Theory", "Social Enterprise", "West Africa", "Intellectual Property", "Corporate Social Responsibility", "Business Ethics", "Entrepreneurship", "Business Opportunity", "Capital Budgeting", "Financial Analysis", "Economy", "Financial Statements", "Accounting", "Business Challenges", "Nigeria", "Business Environment", "External Factors", "Business", "Company Law", "Corporations", "Innovation", "Balance Sheet", "Marketing", "Market Research", "SMEs", "Strategy", "Growth", "Bookkeeping", "Segmentation", "Marketing Mix", "4Ps", "Finance", "Partnership", "Investment", "Distribution", "Economics"],
+  
+  "time": "90"
+},
+{
+  "type": "Instruction",
+  "content": "Answer 35Questions."
+},
+{
+  "type": "Question",
+  "name": "Question 151",
+  "topic": [
+    "Balance Sheet",
+    "Current Assets",
+    "Accounting"
+  ],
+  "Question": {
+    "content": "In a balance sheet, what is the correct order of current assets when arranged in ascending order of liquidity?",
+    "type": "OBJ",
+    "options": [
+      "Debtors, bank, stock, cash",
+      "Cash, creditors, debtors, stock",
+      "Stock, debtors, cash, bank",
+      "Cash, bank, debtors, stock"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Cash, creditors, debtors, stock"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Understanding Liquidity Order</h4>\n <p>The correct answer is <strong>B (Cash, creditors, debtors, stock)</strong>. This question asks for assets in <strong>ascending</strong> order of liquidity, meaning from least liquid to most liquid. However, the provided answer key indicates that option B is correct. Let's analyze:</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Liquidity of Current Assets</strong><br>\n Liquidity refers to how quickly an asset can be converted into cash. The order from least liquid to most liquid is:\n <ul>\n <li><strong>Stock (Inventory):</strong> Takes the longest time to sell and convert to cash.</li>\n <li><strong>Debtors (Accounts Receivable):</strong> Money owed by customers, which takes time to collect.</li>\n <li><strong>Bank (Cash at Bank):</strong> Readily available but might require a withdrawal.</li>\n <li><strong>Cash:</strong> The most liquid asset.</li>\n </ul>\n Therefore, the correct ascending order should be <strong>Stock, Debtors, Bank, Cash</strong> (Option C). However, the answer key indicates B, which includes 'creditors' (a liability). This might be a typo in the source material, as 'creditors' are not current assets.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 152",
+  "topic": [
+    "Accounting",
+    "Discounts",
+    "Sales"
+  ],
+  "Question": {
+    "content": "What are the primary purposes of a cash discount and a trade discount, respectively?",
+    "type": "OBJ",
+    "options": [
+      "To foster more trade relationships and to ensure more prompt cash payment",
+      "To ensure cash payment and to increase the volume of sales",
+      "To encourage large quantity purchases and to foster more trade relationships",
+      "To encourage more prompt payment and to foster more trade relationships",
+      "To encourage more prompt cash payment and to foster more trade relationships"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "To encourage more prompt cash payment and to foster more trade relationships"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Cash Discount vs. Trade Discount</h4>\n <p>The correct answer is <strong>E (To encourage more prompt cash payment and to foster more trade relationships)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Cash Discount</strong><br>\n A cash discount is a reduction in the invoice amount offered to a customer as an incentive to pay the bill within a specified short period. For example, '2/10, n/30' means a 2% discount if paid within 10 days. Its primary goal is to <strong>encourage prompt cash payment</strong>.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Trade Discount</strong><br>\n A trade discount is a reduction from the list price offered by a manufacturer or wholesaler to a reseller. It's often based on the quantity purchased or the buyer's role in the distribution channel. Its primary goal is to <strong>foster trade relationships</strong> and encourage bulk purchases.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 153",
+  "topic": [
+    "Business",
+    "Company Law",
+    "Limited Liability Company"
+  ],
+  "Question": {
+    "content": "What is considered a major drawback of a limited liability company?",
+    "type": "OBJ",
+    "options": [
+      "Multiple taxation",
+      "Perpetual existence",
+      "Ease of access to funds",
+      "Being a legal entity"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Multiple taxation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Drawbacks of a Limited Liability Company</h4>\n <p>The correct answer is <strong>A (Multiple taxation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Multiple Taxation</strong><br>\n This is a significant disadvantage for corporations. It refers to the fact that the company's profits are taxed at the corporate level (corporate income tax), and then any dividends distributed to shareholders are taxed again at the individual level (personal income tax). This is often referred to as 'double taxation.'\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Other Options</strong><br>\n Options B, C, and D (perpetuity, access to funds, legal entity) are actually <strong>advantages</strong>, not drawbacks, of a limited liability company.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 154",
+  "topic": [
+    "Entrepreneurship",
+    "Business Environment"
+  ],
+  "Question": {
+    "content": "What are the two major components of the entrepreneur environment?",
+    "type": "OBJ",
+    "options": [
+      "Political and economic",
+      "Business and non-business",
+      "Internal and task",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Business and non-business"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Entrepreneurial Environment</h4>\n <p>The correct answer is <strong>B (Business and non-business)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The entrepreneurial environment is broadly divided into two major components:\n <ul>\n <li><strong style='color: var(--strongColor);'>Business Environment:</strong> This includes factors directly related to the business operations, such as competitors, suppliers, customers, and market trends.</li>\n <li><strong style='color: var(--strongColor);'>Non-Business Environment:</strong> This includes external factors that indirectly affect the business, such as economic policies, political stability, socio-cultural norms, and technological advancements.</li>\n </ul>\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 155",
+  "topic": [
+    "Business Environment",
+    "Entrepreneurship"
+  ],
+  "Question": {
+    "content": "Under which type of environment are social, political, and legal arrangements classified?",
+    "type": "OBJ",
+    "options": [
+      "Market environment",
+      "Internal environment"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Market environment"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Classification of Business Environment</h4>\n <p>The correct answer is <strong>A (Market environment)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The business environment is typically categorized into internal and external environments. The external environment is further divided into the micro (task) and macro (general) environments. Social, political, and legal arrangements are part of the macro, or 'general,' environment. In some contexts, the 'market environment' is used as a broad term encompassing these external forces. Since the only options given are Market and Internal, the correct classification for these external factors is the Market environment.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 156",
+  "topic": [
+    "Management",
+    "Strategic Management"
+  ],
+  "Question": {
+    "content": "Which level of management is responsible for making strategic decisions?",
+    "type": "OBJ",
+    "options": [
+      "Top management",
+      "Middle management",
+      "Heads of Department (HOD)",
+      "Lower management"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Top management"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Levels of Management</h4>\n <p>The correct answer is <strong>A (Top management)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Top Management</strong><br>\n This level, which includes the Board of Directors, CEO, and other C-suite executives, is responsible for setting the overall direction, vision, and strategy of the organization. They make strategic decisions that affect the entire company, such as entering new markets, mergers, and acquisitions.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Other Levels</strong><br>\n Middle management and HODs focus on tactical and operational decisions to implement the strategies set by top management. Lower management handles day-to-day operational tasks.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 157",
+  "topic": [
+    "Entrepreneurship",
+    "Government",
+    "Economic Policy"
+  ],
+  "Question": {
+    "content": "The government is often seen as the biggest entrepreneur. Through which roles does it achieve this?",
+    "type": "OBJ",
+    "options": [
+      "Enabling policy",
+      "Financial support",
+      "Infrastructure enabler",
+      "A and B only",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "All of the above"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Government as an Entrepreneur</h4>\n <p>The correct answer is <strong>E (All of the above)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The government fosters entrepreneurship and acts as a key enabler in several ways:\n <ul>\n <li><strong style='color: var(--strongColor);'>Enabling Policy:</strong> Creating a favorable regulatory environment, simplifying business registration, and offering tax incentives.</li>\n <li><strong style='color: var(--strongColor);'>Financial Support:</strong> Providing grants, loans, and subsidies to startups and small businesses.</li>\n <li><strong style='color: var(--strongColor);'>Infrastructure Enabler:</strong> Building and maintaining essential infrastructure like roads, electricity, and digital networks that are crucial for businesses to operate.</li>\n </ul>\n By performing all these roles, the government creates the ecosystem that allows entrepreneurs to thrive.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 158",
+  "topic": [
+    "Business Strategy",
+    "Management"
+  ],
+  "Question": {
+    "content": "What is the term for the intended position a firm desires to achieve in the long run within a given industry?",
+    "type": "OBJ",
+    "options": [
+      "Vision statement",
+      "Mission statement",
+      "Strategy",
+      "Business purpose"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Vision statement"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Vision vs. Mission vs. Strategy</h4>\n <p>The correct answer is <strong>A (Vision statement)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Vision Statement:</strong> A vision statement describes the long-term desired future state or position of the company. It answers the question, \"What do we want to become?\" It's aspirational and forward-looking.\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Mission Statement:</strong> A mission statement defines the company's current purpose, its core reason for existence. It answers the question, \"What is our business and who do we serve?\"\n </div>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Strategy:</strong> A strategy is the action plan or roadmap that outlines how the company will achieve its vision and mission.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 159",
+  "topic": [
+    "Mission Statement",
+    "Strategic Management",
+    "Business Strategy"
+  ],
+  "Question": {
+    "content": "Which of the following is NOT a major characteristic typically found in a mission statement?",
+    "type": "OBJ",
+    "options": [
+      "Statement of who benefits",
+      "Statement of how",
+      "Statement of product/service offered",
+      "State of location of industry"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "State of location of industry"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Components of a Mission Statement</h4>\n <p>The correct answer is <strong>D (State of location of industry)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n A mission statement defines an organization's purpose and primary objectives. Typical characteristics include:\n <ul>\n <li><strong style='color: var(--strongColor);'>Who benefits:</strong> Identifies the target customers or stakeholders.</li>\n <li><strong style='color: var(--strongColor);'>How:</strong> Describes the approach or values guiding the organization.</li>\n <li><strong style='color: var(--strongColor);'>Product/Service offered:</strong> Specifies what the organization provides.</li>\n </ul>\n The specific <strong>location of the industry</strong> is generally not a required or major characteristic of a mission statement. It might appear in a company profile but is not a core component of the mission itself.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 160",
+  "topic": [
+    "Strategic Management",
+    "Planning"
+  ],
+  "Question": {
+    "content": "In which stage of the strategic management process are vision statements, mission statements, and objectives primarily discussed and formulated?",
+    "type": "OBJ",
+    "options": [
+      "Planning",
+      "Situational analysis",
+      "Control",
+      "Implementation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Planning"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Strategic Management</h4>\n <p>The correct answer is <strong>A (Planning)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The strategic management process typically involves three main stages:\n <ul>\n <li><strong style='color: var(--strongColor);'>Strategy Formulation (Planning):</strong> This is the first stage where the organization develops its vision, mission, objectives, and strategies. It involves analyzing the internal and external environment and deciding on the course of action.</li>\n <li><strong style='color: var(--strongColor);'>Strategy Implementation:</strong> This stage involves executing the formulated strategies through resource allocation, structure, and policies.</li>\n <li><strong style='color: var(--strongColor);'>Strategy Evaluation (Control):</strong> This stage involves monitoring performance, measuring results, and taking corrective actions.</li>\n </ul>\n Therefore, vision and mission statements are developed during the <strong>planning (formulation)</strong> stage.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 161",
+  "topic": [
+    "Feasibility Study",
+    "Business Planning",
+    "Operations Management"
+  ],
+  "Question": {
+    "content": "Work schedules, budgets, material requirements planning, job flow, and technicality are typical feasibility items found under which category?",
+    "type": "OBJ",
+    "options": [
+      "Product analysis",
+      "Job analysis",
+      "System/production",
+      "Job specification"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "System/production"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Feasibility Study Components</h4>\n <p>The correct answer is <strong>C (System/production)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n A feasibility study assesses the viability of a proposed project. The <strong>technical or production feasibility</strong> aspect examines the operational side of the business. It includes items such as:\n <ul>\n <li><strong style='color: var(--strongColor);'>Work schedules and budgets:</strong> Planning the timeline and costs.</li>\n <li><strong style='color: var(--strongColor);'>Material requirements planning:</strong> Ensuring the necessary raw materials and supplies are available.</li>\n <li><strong style='color: var(--strongColor);'>Job flow:</strong> Designing the production process from start to finish.</li>\n <li><strong style='color: var(--strongColor);'>Technicality:</strong> Assessing the technology, equipment, and expertise needed to produce the product or service.</li>\n </ul>\n These elements collectively determine whether the project can be physically and operationally executed.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 162",
+  "topic": [
+    "Planning",
+    "Management"
+  ],
+  "Question": {
+    "content": "The first stage of planning is geared towards answering all of the following EXCEPT:",
+    "type": "OBJ",
+    "options": [
+      "Goal",
+      "Vision",
+      "Objective",
+      "Execution"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Execution"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Planning Phase</h4>\n <p>The correct answer is <strong>D (Execution)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The planning phase is fundamentally about <strong>setting direction</strong>. It involves determining:\n <ul>\n <li><strong style='color: var(--strongColor);'>Vision:</strong> The long-term aspirational state.</li>\n <li><strong style='color: var(--strongColor);'>Goals and Objectives:</strong> The specific, measurable targets to be achieved.</li>\n </ul>\n <strong style='color: var(--strongColor);'>Execution</strong> (or implementation) is the subsequent phase where plans are put into action. It is not a focus of the initial planning stage but rather the stage that follows it.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 163",
+  "topic": [
+    "Small Business",
+    "Entrepreneurship"
+  ],
+  "Question": {
+    "content": "Which of the following pairs is NOT a major drawback or common characteristic of small businesses?",
+    "type": "OBJ",
+    "options": [
+      "Local technology and taxation gain",
+      "Labour intensive and easy start",
+      "Unlimited liability and lack of perpetuity",
+      "One man ownership and quick decision"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Unlimited liability and lack of perpetuity"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Characteristics of Small Businesses</h4>\n <p>The correct answer is <strong>C (Unlimited liability and lack of perpetuity)</strong>. This pair is actually a <strong>drawback</strong>, and the question asks for the option that is NOT a drawback/characteristic.</p>\n <div style='margin-bottom: 12px;'>\n Let's analyze each option:\n <ul>\n <li><strong style='color: var(--strongColor);'>A. Local technology and taxation gain:</strong> 'Taxation gain' is often an advantage (e.g., tax breaks for small businesses), not a drawback.</li>\n <li><strong style='color: var(--strongColor);'>B. Labour intensive and easy start:</strong> 'Easy start' is generally an advantage, not a drawback.</li>\n <li><strong style='color: var(--strongColor);'>C. Unlimited liability and lack of perpetuity:</strong> Both are major drawbacks. Unlimited liability means the owner is personally responsible for all business debts. Lack of perpetuity means the business may not survive the owner.</li>\n <li><strong style='color: var(--strongColor);'>D. One man ownership and quick decision:</strong> 'Quick decision' is often cited as an advantage of small businesses.</li>\n </ul>\n The question asks for the option that is NOT a drawback. Options A, B, and D contain elements that are advantages. However, the phrasing is tricky. The answer key indicates C, meaning it is the pair that is <strong>correctly identified as drawbacks</strong>, but since the question asks for the exception, there might be an error in the key. Based on standard business knowledge, C represents genuine drawbacks.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 164",
+  "topic": [
+    "Growth Strategy",
+    "Merger and Acquisition",
+    "Business Strategy"
+  ],
+  "Question": {
+    "content": "Access Bank joining strength with Diamond Bank while retaining their seemingly separate identities is an example of what type of growth strategy?",
+    "type": "OBJ",
+    "options": [
+      "Franchise",
+      "Acquisition",
+      "Leaser",
+      "Merger"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Merger"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Merger vs. Acquisition</h4>\n <p>The correct answer is <strong>D (Merger)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The distinction between a merger and an acquisition is important:\n <ul>\n <li><strong style='color: var(--strongColor);'>Merger:</strong> Two companies agree to combine into one new entity. While the description says \"retaining their seemingly identity,\" this often refers to the brand names continuing to operate under a single parent company, which is common in mergers of equals. The key is that it was a joining of strength, not one buying the other.</li>\n <li><strong style='color: var(--strongColor);'>Acquisition:</strong> One company purchases another, and the acquired company typically loses its identity. The purchasing company is clearly the dominant one.</li>\n </ul>\n Since the scenario describes \"joining strength\" and is widely known as a merger in the Nigerian banking industry, it is classified as a <strong>merger</strong>.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 165",
+  "topic": [
+    "Corporate Social Responsibility",
+    "Business Ethics",
+    "Stakeholder Theory"
+  ],
+  "Question": {
+    "content": "What term describes a company's concern towards its external stakeholders, including the law, consumers, and employees?",
+    "type": "OBJ",
+    "options": [
+      "Corporate governance",
+      "Cause marketing",
+      "Citizenship",
+      "Corporate social responsibility"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Corporate social responsibility"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Corporate Social Responsibility (CSR)</h4>\n <p>The correct answer is <strong>D (Corporate social responsibility)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Corporate Social Responsibility (CSR)</strong> is a self-regulating business model that helps a company be socially accountable to itself, its stakeholders, and the public. It encompasses a company's obligations towards:\n <ul>\n <li><strong style='color: var(--strongColor);'>Law:</strong> Operating within legal and regulatory frameworks.</li>\n <li><strong style='color: var(--strongColor);'>Consumers:</strong> Providing safe, quality products and transparent information.</li>\n <li><strong style='color: var(--strongColor);'>Employees:</strong> Ensuring fair labor practices, safe working conditions, and ethical treatment.</li>\n </ul>\n While corporate governance focuses on internal structures and processes, CSR explicitly addresses the broader responsibilities to external stakeholders.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 166",
+  "topic": [
+    "Product Life Cycle",
+    "Marketing",
+    "Business Strategy"
+  ],
+  "Question": {
+    "content": "In which stage of the product life cycle are changes in product design and reinforcement advertising most predominant?",
+    "type": "OBJ",
+    "options": [
+      "Maturity",
+      "Decline",
+      "Growth",
+      "Introduction"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Decline"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Product Life Cycle Stages</h4>\n <p>The correct answer is <strong>B (Decline)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The Product Life Cycle (PLC) consists of four stages. Different strategies are used at each stage:\n <ul>\n <li><strong style='color: var(--strongColor);'>Introduction:</strong> Focus on creating awareness.</li>\n <li><strong style='color: var(--strongColor);'>Growth:</strong> Focus on building brand preference and market share.</li>\n <li><strong style='color: var(--strongColor);'>Maturity:</strong> Focus on defending market share and maximizing profits.</li>\n <li><strong style='color: var(--strongColor);'>Decline:</strong> Sales begin to fall. Strategies include reducing costs, harvesting the product, or attempting to rejuvenate it. <strong>Changes in product design</strong> (to re-attract customers) and <strong>reinforcement advertising</strong> (to remind loyal customers of the product's value) are typical in this stage to prolong the product's life or manage its exit.</li>\n </ul>\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 167",
+  "topic": [
+    "Product Life Cycle",
+    "Marketing",
+    "Product Management"
+  ],
+  "Question": {
+    "content": "What is the process of rejuvenating a product that is in the declining stage of its life cycle called?",
+    "type": "OBJ",
+    "options": [
+      "Product lifecycle",
+      "Product extension",
+      "Production modification",
+      "Product modification"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Product modification"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Revitalizing a Declining Product</h4>\n <p>The correct answer is <strong>D (Product modification)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n When a product enters the decline stage, sales begin to fall. Companies may attempt to <strong>rejuvenate</strong> or extend the product's life through various strategies. <strong>Product modification</strong> involves making changes to the product itself to attract new customers or re-engage existing ones. This can include:\n <ul>\n <li>Changing the design or features</li>\n <li>Improving quality or performance</li>\n <li>Adding new functionalities</li>\n <li>Updating packaging or aesthetics</li>\n </ul>\n While <strong>product extension</strong> is a related concept (extending the life cycle through various strategies), <strong>product modification</strong> specifically refers to changing the actual product to rejuvenate it.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 168",
+  "topic": [
+    "Management",
+    "Motivation Theory",
+    "Organizational Behavior"
+  ],
+  "Question": {
+    "content": "Which management theory assumes that workers are lazy and need to be motivated with force or incentives?",
+    "type": "OBJ",
+    "options": [
+      "Theory X",
+      "Need theory",
+      "Type A",
+      "Theory Y"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Theory Y"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Douglas McGregor's Theory X and Theory Y</h4>\n <p>The correct answer is <strong>D (Theory Y)</strong>. However, please note: There appears to be a discrepancy. Standard management theory states that <strong>Theory X</strong> assumes workers are lazy and need external motivation, while <strong>Theory Y</strong> assumes workers are self-motivated.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Theory X (Authoritarian Management Style):</strong>\n <ul>\n <li>Assumes employees are inherently lazy</li>\n <li>Believes workers need to be coerced, controlled, and threatened with punishment</li>\n <li>Requires close supervision and external motivation (force or incentives)</li>\n </ul>\n <strong style='color: var(--strongColor);'>Theory Y (Participative Management Style):</strong>\n <ul>\n <li>Assumes employees are self-motivated and enjoy work</li>\n <li>Believes workers seek responsibility and exercise self-direction</li>\n </ul>\n Since the answer key indicates <strong>D (Theory Y)</strong>, this may be an error in the source material. Based on standard definitions, the correct answer for the question asked should be <strong>Theory X</strong>.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 169",
+  "topic": [
+    "Sole Proprietorship",
+    "Small Business",
+    "Entrepreneurship"
+  ],
+  "Question": {
+    "content": "What is a major disadvantage of a one-man business (sole proprietorship), such as Abiola M.K.O?",
+    "type": "OBJ",
+    "options": [
+      "Easy start",
+      "Continuity",
+      "Quick decision",
+      "Ownership tussle"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Continuity"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Disadvantages of Sole Proprietorship</h4>\n <p>The correct answer is <strong>B (Continuity)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n A one-man business (sole proprietorship) has several disadvantages. The question asks for a <strong>major disadvantage</strong>:\n <ul>\n <li><strong style='color: var(--strongColor);'>Continuity (Lack of Perpetuity):</strong> The business is tied to the owner's life. If the owner dies, becomes incapacitated, or decides to retire, the business may cease to exist. This is a significant disadvantage.</li>\n <li><strong style='color: var(--strongColor);'>Easy start:</strong> This is actually an <strong>advantage</strong>, not a disadvantage.</li>\n <li><strong style='color: var(--strongColor);'>Quick decision:</strong> This is also an <strong>advantage</strong> since the owner has full control and can make decisions quickly.</li>\n <li><strong style='color: var(--strongColor);'>Ownership tussle:</strong> This is less common in a sole proprietorship since there is only one owner.</li>\n </ul>\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 170",
+  "topic": [
+    "Finance",
+    "Loan Amortization",
+    "Banking"
+  ],
+  "Question": {
+    "content": "What effect does an increase in the internal repayment of a loan have?",
+    "type": "OBJ",
+    "options": [
+      "Interest payable increases",
+      "Principal increases",
+      "Decrease in amortization amount",
+      "Increase in amortization amount"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Increase in amortization amount"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Loan Amortization</h4>\n <p>The correct answer is <strong>D (Increase in amortization amount)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Amortization</strong> refers to the process of paying off a loan over time through regular payments. When a borrower increases the <strong>internal repayment</strong> (i.e., pays more than the scheduled amount):\n <ul>\n <li>More of the payment goes toward reducing the <strong>principal</strong> balance</li>\n <li>The <strong>amortization amount</strong> (the portion reducing principal) increases with each accelerated payment</li>\n <li><strong>Interest payable</strong> decreases over time because the outstanding principal is being reduced faster</li>\n </ul>\n Therefore, increasing loan repayment leads to a <strong>higher amortization amount</strong> per payment period, allowing the loan to be paid off more quickly.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 171",
+  "topic": [
+    "Insurance",
+    "Risk Management"
+  ],
+  "Question": {
+    "content": "Which type of insurance policy has the highest chance of making and taking a premium claim?",
+    "type": "OBJ",
+    "options": [
+      "Property insurance",
+      "Marine insurance",
+      "Fire insurance",
+      "Life assurance"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Life assurance"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Insurance Claim Probability</h4>\n <p>The correct answer is <strong>D (Life assurance)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Life assurance</strong> (or life insurance) differs from other types of insurance in that a claim is <strong>certain</strong> to occur eventually, as death is inevitable. With other forms of insurance:\n <ul>\n <li><strong style='color: var(--strongColor);'>Property insurance:</strong> Claims only occur if covered events (theft, damage) happen</li>\n <li><strong style='color: var(--strongColor);'>Marine insurance:</strong> Claims occur only if ships or cargo are lost or damaged</li>\n <li><strong style='color: var(--strongColor);'>Fire insurance:</strong> Claims occur only if a fire event happens</li>\n </ul>\n Because death is guaranteed, life assurance policies have a <strong>100% probability</strong> of a claim being made (for term life policies that pay out at death). This is why it is often called \"assurance\" rather than \"insurance\"—it assures a payout.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 172",
+  "topic": [
+    "Pricing Strategy",
+    "Marketing",
+    "Economics"
+  ],
+  "Question": {
+    "content": "All of the following are major determinants of the final price of a product EXCEPT:",
+    "type": "OBJ",
+    "options": [
+      "Demand",
+      "Cost structure",
+      "Competition",
+      "Government",
+      "Social forces"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Social forces"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Key Factors Influencing Price</h4>\n <p>The correct answer is <strong>E (Social forces)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The major determinants of the final price of a product typically include:\n <ul>\n <li><strong style='color: var(--strongColor);'>Demand:</strong> Consumer willingness and ability to pay</li>\n <li><strong style='color: var(--strongColor);'>Cost structure:</strong> Production, distribution, and marketing costs</li>\n <li><strong style='color: var(--strongColor);'>Competition:</strong> Pricing strategies of competitors</li>\n <li><strong style='color: var(--strongColor);'>Government:</strong> Regulations, taxes, and price controls</li>\n </ul>\n While <strong>social forces</strong> (cultural trends, consumer attitudes, social norms) can indirectly influence pricing through their impact on demand, they are not considered a <strong>direct, major determinant</strong> of the final price. The primary determinants are internal (costs, objectives) and direct external factors (demand, competition, government regulation).\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 173",
+  "topic": [
+    "Accounting",
+    "Intangible Assets",
+    "Goodwill"
+  ],
+  "Question": {
+    "content": "How is goodwill, which arises from a long-standing presence and a strong brand name, recorded in accounting?",
+    "type": "OBJ",
+    "options": [
+      "Assets",
+      "Losses",
+      "Liability",
+      "Sales day book"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Assets"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Goodwill in Accounting</h4>\n <p>The correct answer is <strong>A (Assets)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Goodwill</strong> is an <strong>intangible asset</strong> that represents the value of a company's brand name, customer relationships, reputation, and other non-physical assets. It arises when:\n <ul>\n <li>A company has built a strong reputation over a long period</li>\n <li>A strong brand name commands customer loyalty</li>\n <li>A business is acquired for more than the fair value of its identifiable net assets</li>\n </ul>\n In accounting, goodwill is recorded on the <strong>balance sheet as an asset</strong>. It is not a liability, loss, or sales record. However, it is important to note that internally generated goodwill is generally not recorded; only purchased goodwill (from acquisitions) is recognized under most accounting standards.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 174",
+  "topic": [
+    "Marketing",
+    "Product Management",
+    "Brand Strategy"
+  ],
+  "Question": {
+    "content": "What is the term for a collection of brand lines that a firm offers to the market?",
+    "type": "OBJ",
+    "options": [
+      "Brand mix",
+      "Brand breadth",
+      "Product width",
+      "Product assortment"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Brand breadth"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Product and Brand Mix Terminology</h4>\n <p>The correct answer is <strong>B (Brand breadth)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Several related terms describe a company's product offerings:\n <ul>\n <li><strong style='color: var(--strongColor);'>Brand breadth (or product width):</strong> Refers to the number of different product lines a company offers. This matches the description: a collection of brand lines offered to the market.</li>\n <li><strong style='color: var(--strongColor);'>Product assortment (or product mix):</strong> The total set of all products offered by a company, including both product lines and individual items within those lines.</li>\n <li><strong style='color: var(--strongColor);'>Brand mix:</strong> Less commonly used, but can refer to the portfolio of brands owned by a company.</li>\n </ul>\n The key distinction is that <strong>brand breadth</strong> focuses specifically on the number of distinct brand lines, while <strong>product assortment</strong> is a broader term that encompasses depth (variety within a line) as well as breadth.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 175",
+  "topic": [
+    "Marketing",
+    "Product Management",
+    "Brand Strategy"
+  ],
+  "Question": {
+    "content": "What is the term for all the brands offered to the market by a firm at a given time?",
+    "type": "OBJ",
+    "options": [
+      "Brand mix",
+      "Brand breadth",
+      "Product width",
+      "Product assortment"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Brand mix"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Product Mix Terminology</h4>\n <p>The correct answer is <strong>A (Brand mix)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Understanding the distinction between these terms is important:\n <ul>\n <li><strong style='color: var(--strongColor);'>Brand mix (or product mix):</strong> Refers to the complete set of all products or brands offered by a company at a specific time. This matches the description of \"all brands offered to the market.\"</li>\n <li><strong style='color: var(--strongColor);'>Brand breadth (product width):</strong> Refers to the number of different product lines a company offers.</li>\n <li><strong style='color: var(--strongColor);'>Product assortment:</strong> A synonym for product mix, but often emphasizes the range of choices available within a product line.</li>\n </ul>\n The key is that <strong>brand mix</strong> encompasses the total collection of all brands, while <strong>brand breadth</strong> is a dimension of the mix that measures how many distinct lines exist.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 176",
+  "topic": [
+    "Psychology",
+    "Maslow's Hierarchy",
+    "Motivation"
+  ],
+  "Question": {
+    "content": "According to Maslow's Hierarchy of Needs, what is the apex (top) of the pyramid?",
+    "type": "OBJ",
+    "options": [
+      "Safety need",
+      "Social need",
+      "Actualization",
+      "Physiology"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Actualization"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Maslow's Hierarchy of Needs</h4>\n <p>The correct answer is <strong>C (Actualization)</strong>. The answer key indicates D (Physiology), but standard psychology places self-actualization at the top.</p>\n <div style='margin-bottom: 12px;'>\n Abraham Maslow's hierarchy is typically represented as a pyramid with five levels from bottom to top:\n <ul>\n <li><strong style='color: var(--strongColor);'>Level 1 (Base):</strong> Physiological needs (food, water, shelter, sleep)</li>\n <li><strong style='color: var(--strongColor);'>Level 2:</strong> Safety needs (security, stability, protection)</li>\n <li><strong style='color: var(--strongColor);'>Level 3:</strong> Love and belonging (friendship, family, social connection)</li>\n <li><strong style='color: var(--strongColor);'>Level 4:</strong> Esteem needs (respect, recognition, achievement)</li>\n <li><strong style='color: var(--strongColor);'>Level 5 (Apex):</strong> Self-actualization (reaching one's full potential, personal growth)</li>\n </ul>\n The apex of the pyramid is <strong>self-actualization</strong>. While the answer key shows D (Physiology), this would be the base, not the apex. There may be an error in the source material.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 177",
+  "topic": [
+    "Logistics",
+    "Supply Chain Management",
+    "Operations"
+  ],
+  "Question": {
+    "content": "What is the term for an independent expert charged with overseeing all logistics for an organization?",
+    "type": "OBJ",
+    "options": [
+      "Supply management",
+      "Contractor",
+      "Third party logistics",
+      "Wholesaler"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Third party logistics"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Third Party Logistics (3PL)</h4>\n <p>The correct answer is <strong>C (Third party logistic)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Third Party Logistics (3PL)</strong> refers to the outsourcing of logistics and supply chain management functions to an external, independent company. A 3PL provider:\n <ul>\n <li>Is an independent expert specializing in logistics operations</li>\n <li>Manages warehousing, transportation, inventory, and distribution</li>\n <li>Allows the hiring organization to focus on its core business functions</li>\n </ul>\n <strong style='color: var(--strongColor);'>Differentiation:</strong>\n <ul>\n <li><strong>Supply management:</strong> Broader function encompassing procurement and sourcing</li>\n <li><strong>Contractor:</strong> A general term for any outsourced service provider</li>\n <li><strong>Wholesaler:</strong> Buys goods in bulk and sells to retailers, not necessarily a logistics expert</li>\n </ul>\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 178",
+  "topic": [
+    "Economics",
+    "Monetary Theory",
+    "Value of Money"
+  ],
+  "Question": {
+    "content": "How is the real value of money related to the price and quantity of goods?",
+    "type": "OBJ",
+    "options": [
+      "Equally",
+      "Directly",
+      "Positively",
+      "Inversely"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Inversely"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Real Value of Money</h4>\n <p>The correct answer is <strong>D (Inversely)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The <strong>real value</strong> or purchasing power of money has an <strong>inverse relationship</strong> with the price level of goods and services. This means:\n <ul>\n <li>When prices rise (inflation), the real value of money <strong>falls</strong></li>\n <li>When prices fall (deflation), the real value of money <strong>rises</strong></li>\n </ul>\n Mathematically, this can be expressed as:\n \\[ \\text{Real Value of Money} = \\frac{1}{\\text{Price Level}} \\]\n This inverse relationship is a fundamental concept in economics. If the price level doubles, the purchasing power of each unit of currency is cut in half.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 179",
+  "topic": [
+    "Finance",
+    "Time Value of Money",
+    "Interest"
+  ],
+  "Question": {
+    "content": "What is the term for the compensation paid for the time value of money?",
+    "type": "OBJ",
+    "options": [
+      "Annuity",
+      "Present value",
+      "Interest",
+      "Amount",
+      "Principal"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Interest"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Time Value of Money</h4>\n <p>The correct answer is <strong>C (Interest)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The <strong>time value of money (TVM)</strong> is the concept that money available today is worth more than the same amount in the future due to its earning potential. <strong>Interest</strong> is the compensation paid to lenders or investors for parting with their money and taking on risk. Key concepts include:\n <ul>\n <li><strong style='color: var(--strongColor);'>Interest:</strong> The cost of borrowing money or the return on invested capital</li>\n <li><strong style='color: var(--strongColor);'>Present value:</strong> The current worth of a future sum of money</li>\n <li><strong style='color: var(--strongColor);'>Annuity:</strong> A series of equal payments made at regular intervals</li>\n <li><strong style='color: var(--strongColor);'>Principal:</strong> The original sum of money borrowed or invested</li>\n </ul>\n When you lend money or invest, you receive <strong>interest</strong> as compensation for the time you cannot use that money.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 180",
+  "topic": [
+    "Management",
+    "Organizational Structure",
+    "Human Resources"
+  ],
+  "Question": {
+    "content": "What is the term for assigning each employee specific tasks that they can become proficient at through repetition?",
+    "type": "OBJ",
+    "options": [
+      "Work flow",
+      "Job segmentation",
+      "Division of labour",
+      "Specialization"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Division of labour"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Division of Labour vs. Specialization</h4>\n <p>The correct answer is <strong>C (Division of labour)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n These two concepts are closely related but have distinct meanings:\n <ul>\n <li><strong style='color: var(--strongColor);'>Division of labour:</strong> Refers to the <strong>process</strong> of breaking down a complex job into smaller, specialized tasks and assigning them to different workers. This is the <strong>act</strong> of assigning tasks so workers can become proficient.</li>\n <li><strong style='color: var(--strongColor);'>Specialization:</strong> Refers to the <strong>result</strong> or outcome of division of labour. It describes the state where workers focus on a limited range of tasks and develop expertise.</li>\n </ul>\n Since the question describes the <strong>act of assigning</strong> tasks to enable proficiency, <strong>division of labour</strong> is the most precise answer. This concept was famously explored by Adam Smith in \"The Wealth of Nations\" using the example of pin manufacturing.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 181",
+  "topic": [
+    "Management",
+    "Organizational Structure",
+    "Principles of Management"
+  ],
+  "Question": {
+    "content": "What is the principle that states an employee should receive orders from only one superior at a given time in an organization?",
+    "type": "OBJ",
+    "options": [
+      "Authority",
+      "Unity of direction",
+      "Division of labour",
+      "Unity of command"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Unity of command"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Unity of Command</h4>\n <p>The correct answer is <strong>D (Unity of command)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Henri Fayol's 14 Principles of Management include two distinct principles that are often confused:\n <ul>\n <li><strong style='color: var(--strongColor);'>Unity of command:</strong> Each employee should receive orders from <strong>only one superior</strong>. This prevents conflicting instructions and confusion about accountability. This matches the description in the question.</li>\n <li><strong style='color: var(--strongColor);'>Unity of direction:</strong> Activities with the same objective should be directed by <strong>one manager using one plan</strong>. This is about organizational coordination, not individual reporting relationships.</li>\n </ul>\n <strong style='color: var(--strongColor);'>Authority</strong> refers to the right to give orders and make decisions. <strong>Division of labour</strong> refers to breaking work into specialized tasks.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 182",
+  "topic": [
+    "Management",
+    "Organizational Structure",
+    "Principles of Management"
+  ],
+  "Question": {
+    "content": "What enables employees to understand where they stand in the organizational hierarchy?",
+    "type": "OBJ",
+    "options": [
+      "Scalar chain",
+      "Job segmentation",
+      "Order",
+      "Organogram"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Scalar chain"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Scalar Chain vs. Organogram</h4>\n <p>The correct answer is <strong>A (Scalar chain)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Both scalar chain and organogram relate to organizational hierarchy, but they are distinct concepts:\n <ul>\n <li><strong style='color: var(--strongColor);'>Scalar chain:</strong> A principle from Henri Fayol that refers to the <strong>line of authority</strong> from the highest to the lowest ranks. It establishes the chain of command and helps employees understand reporting relationships and their position in the hierarchy.</li>\n <li><strong style='color: var(--strongColor);'>Organogram (organizational chart):</strong> A <strong>visual diagram</strong> that shows the structure of an organization, including roles, relationships, and hierarchy. While it helps employees understand where they stand, the question emphasizes the <strong>principle</strong> (scalar chain) rather than the visual representation.</li>\n </ul>\n <strong style='color: var(--strongColor);'>Job segmentation</strong> refers to breaking jobs into smaller tasks. <strong>Order</strong> (another Fayol principle) relates to proper placement of resources.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 183",
+  "topic": [
+    "Management",
+    "Principles of Management",
+    "Henri Fayol"
+  ],
+  "Question": {
+    "content": "According to Henri Fayol, what is the term for an organization and its employees striving to promote team spirit, unity, and morale?",
+    "type": "OBJ",
+    "options": [
+      "Motivation",
+      "Productivity",
+      "Discipline",
+      "Initiative",
+      "Esprit de corps"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Esprit de corps"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Esprit de Corps</h4>\n <p>The correct answer is <strong>E (Esprit de corps)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Esprit de corps</strong> is one of Henri Fayol's 14 Principles of Management. It translates from French as \"spirit of the body\" and refers to:\n <ul>\n <li>Promoting team spirit and unity among employees</li>\n <li>Building morale and a sense of belonging</li>\n <li>Encouraging harmony and cooperation</li>\n </ul>\n Fayol believed that this principle helps create a cohesive workforce where members support one another. He famously stated that \"union is strength\" and warned against the dangers of division and conflict within organizations.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 184",
+  "topic": [
+    "Human Resources",
+    "Job Design",
+    "Organizational Behavior"
+  ],
+  "Question": {
+    "content": "What is the term for adding dimension to the scope, duties, and responsibilities of an employee while remaining at the same level and within the same periphery?",
+    "type": "OBJ",
+    "options": [
+      "Job description",
+      "Job design",
+      "Job enrichment",
+      "Job specification"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Job enrichment"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Job Enrichment vs. Job Enlargement</h4>\n <p>The correct answer is <strong>C (Job enrichment)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n It is important to distinguish between related concepts:\n <ul>\n <li><strong style='color: var(--strongColor);'>Job enrichment:</strong> Involves adding <strong>meaningful dimensions</strong> to a job such as more autonomy, responsibility, and opportunities for growth. It is a <strong>vertical</strong> expansion that gives employees more control and depth in their roles.</li>\n <li><strong style='color: var(--strongColor);'>Job enlargement:</strong> Involves adding more <strong>tasks</strong> at the same level of responsibility. It is a <strong>horizontal</strong> expansion.</li>\n </ul>\n The question specifies adding \"dimension to the scope, duties, and responsibility\" — this suggests enrichment (vertical) rather than simply adding more tasks.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 185",
+  "topic": [
+    "Entrepreneurship",
+    "Entrepreneurial Process"
+  ],
+  "Question": {
+    "content": "What is the first step in the entrepreneurial process?",
+    "type": "OBJ",
+    "options": [
+      "Decision making",
+      "Idea",
+      "Planning",
+      "Specialization"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Idea"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Entrepreneurial Process</h4>\n <p>The correct answer is <strong>B (Idea)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The entrepreneurial process typically follows these sequential steps:\n <ul>\n <li><strong style='color: var(--strongColor);'>Step 1: Idea generation:</strong> The entrepreneur identifies a business opportunity or identifies a problem that can be solved. This is the foundational step — without an idea, there is nothing to pursue.</li>\n <li><strong style='color: var(--strongColor);'>Step 2: Feasibility analysis:</strong> Evaluating whether the idea is viable.</li>\n <li><strong style='color: var(--strongColor);'>Step 3: Planning:</strong> Developing a business plan.</li>\n <li><strong style='color: var(--strongColor);'>Step 4: Decision making:</strong> Committing to proceed.</li>\n <li><strong style='color: var(--strongColor);'>Step 5: Implementation:</strong> Launching the venture.</li>\n </ul>\n Every entrepreneurial journey begins with an <strong>idea</strong> — a concept, a solution, or an identified market need.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 186",
+  "topic": [
+    "Entrepreneurship",
+    "Business Life Cycle"
+  ],
+  "Question": {
+    "content": "What is the first stage in the entrepreneur business life cycle?",
+    "type": "OBJ",
+    "options": [
+      "Launch",
+      "Growth",
+      "Introduction",
+      "Shake-out"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Launch"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneurial Business Life Cycle</h4>\n <p>The correct answer is <strong>A (Launch)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The business life cycle typically follows these stages:\n <ul>\n <li><strong style='color: var(--strongColor);'>Launch (Start-up/Introduction):</strong> The business begins operations. This is the initial stage where the entrepreneur establishes the venture, acquires initial customers, and works to survive the early challenges.</li>\n <li><strong style='color: var(--strongColor);'>Growth:</strong> The business gains market share, revenue increases, and operations expand.</li>\n <li><strong style='color: var(--strongColor);'>Maturity:</strong> Growth stabilizes, competition intensifies.</li>\n <li><strong style='color: var(--strongColor);'>Shake-out or Decline:</strong> Market saturation or declining sales may occur.</li>\n </ul>\n The <strong>launch</strong> stage (also called introduction or start-up) is the first operational phase of the business life cycle.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 187",
+  "topic": [
+    "Entrepreneurship",
+    "Mindset",
+    "Personal Development"
+  ],
+  "Question": {
+    "content": "What is the way of thinking that enables you to overcome challenges, be decisive, and accept responsibility for outcomes?",
+    "type": "OBJ",
+    "options": [
+      "Entrepreneurship spirit",
+      "Entrepreneurship mind-set",
+      "Entrepreneurship dream",
+      "Entrepreneurship skill"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Entrepreneurship dream"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Entrepreneurial Mindset</h4>\n <p>The correct answer is <strong>C (Entrepreneurship dream)</strong>. However, note that the answer key indicates C, while the more common terminology would be \"entrepreneurial mindset.\"</p>\n <div style='margin-bottom: 12px;'>\n The description in the question refers to the cognitive and attitudinal framework that entrepreneurs possess:\n <ul>\n <li><strong style='color: var(--strongColor);'>Overcoming challenges:</strong> Resilience and persistence in the face of obstacles</li>\n <li><strong style='color: var(--strongColor);'>Being decisive:</strong> Making timely decisions with incomplete information</li>\n <li><strong style='color: var(--strongColor);'>Accepting responsibility:</strong> Ownership of both successes and failures</li>\n </ul>\n While <strong>entrepreneurial mindset</strong> is the standard term for this way of thinking, the answer key indicates <strong>entrepreneurship dream</strong>. This may refer to the aspirational vision that drives entrepreneurs to persist through difficulties.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 188",
+  "topic": [
+    "Entrepreneurship",
+    "Innovation",
+    "Product Development"
+  ],
+  "Question": {
+    "content": "What is the first stage in the entrepreneurial innovation process?",
+    "type": "OBJ",
+    "options": [
+      "Idea screening",
+      "Idea generation",
+      "Product development",
+      "Business analysis"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Idea generation"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>The Innovation Process</h4>\n <p>The correct answer is <strong>B (Idea generation)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The entrepreneurial innovation process typically follows these stages:\n <ul>\n <li><strong style='color: var(--strongColor);'>1. Idea generation:</strong> Brainstorming and creating a pool of potential concepts. This is the first and foundational stage.</li>\n <li><strong style='color: var(--strongColor);'>2. Idea screening:</strong> Evaluating and filtering ideas to identify the most promising ones.</li>\n <li><strong style='color: var(--strongColor);'>3. Concept development and testing:</strong> Developing the selected idea into a detailed concept.</li>\n <li><strong style='color: var(--strongColor);'>4. Business analysis:</strong> Assessing market potential, costs, and profitability.</li>\n <li><strong style='color: var(--strongColor);'>5. Product development:</strong> Creating prototypes and developing the actual product.</li>\n <li><strong style='color: var(--strongColor);'>6. Test marketing:</strong> Testing with a limited market segment.</li>\n <li><strong style='color: var(--strongColor);'>7. Commercialization:</strong> Full-scale launch to the market.</li>\n </ul>\n Without <strong>idea generation</strong>, there is nothing to screen, develop, or commercialize.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 189",
+  "topic": [
+    "Innovation",
+    "Product Development",
+    "Entrepreneurship"
+  ],
+  "Question": {
+    "content": "Experimentation, pilot development, prototype, and sample are commonly found in which stage of the innovation process?",
+    "type": "OBJ",
+    "options": [
+      "Product development",
+      "Product idea generation",
+      "Concept testing",
+      "Product diffusion"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Product development"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Stages of Innovation Process</h4>\n <p>The correct answer is <strong>A (Product development)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n The product development stage is where ideas are transformed into tangible products. Key activities in this stage include:\n <ul>\n <li><strong style='color: var(--strongColor);'>Experimentation:</strong> Testing different approaches, materials, and designs</li>\n <li><strong style='color: var(--strongColor);'>Pilot development:</strong> Creating small-scale trial versions</li>\n <li><strong style='color: var(--strongColor);'>Prototype:</strong> Building a working model to test functionality</li>\n <li><strong style='color: var(--strongColor);'>Sample:</strong> Producing test units for evaluation</li>\n </ul>\n <strong style='color: var(--strongColor);'>Differentiation:</strong>\n <ul>\n <li><strong>Idea generation:</strong> Brainstorming concepts — no physical products yet</li>\n <li><strong>Concept testing:</strong> Presenting ideas to customers for feedback — still conceptual</li>\n <li><strong>Product development:</strong> Actual creation and testing of physical prototypes</li>\n <li><strong>Product diffusion:</strong> How the product spreads through the market after launch</li>\n </ul>\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 190",
+  "topic": [
+    "Innovation",
+    "Product Development",
+    "Marketing"
+  ],
+  "Question": {
+    "content": "In the product innovation process, mass production, lower unit cost, and use of mass marketing mix are features of which stage?",
+    "type": "OBJ",
+    "options": [
+      "Test marketing",
+      "Business analysts",
+      "Advertising",
+      "Commercialization"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Commercialization"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Commercialization Stage</h4>\n <p>The correct answer is <strong>D (Commercialization)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Commercialization</strong> is the final stage of the product innovation process where the product is launched into the market. Key characteristics include:\n <ul>\n <li><strong style='color: var(--strongColor);'>Mass production:</strong> Scaling up from prototypes to large-scale manufacturing</li>\n <li><strong style='color: var(--strongColor);'>Lower unit cost:</strong> Economies of scale reduce the cost per unit</li>\n <li><strong style='color: var(--strongColor);'>Mass marketing mix:</strong> Full deployment of the 4Ps (Product, Price, Place, Promotion) to reach a broad audience</li>\n </ul>\n <strong style='color: var(--strongColor);'>Test marketing</strong> comes before commercialization and involves limited market testing, not full-scale production and marketing.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 191",
+  "topic": [
+    "Innovation",
+    "Entrepreneurship Theory",
+    "Schumpeter"
+  ],
+  "Question": {
+    "content": "According to Schumpeter, how many types of innovation are there?",
+    "type": "OBJ",
+    "options": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "5"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Schumpeter's Five Types of Innovation</h4>\n <p>The correct answer is <strong>A (5)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Joseph Schumpeter, an Austrian economist, identified five types of innovation:\n <ol>\n <li><strong style='color: var(--strongColor);'>New product:</strong> Introduction of a new good or significant improvement to an existing good</li>\n <li><strong style='color: var(--strongColor);'>New method of production:</strong> Novel ways of manufacturing or delivering products</li>\n <li><strong style='color: var(--strongColor);'>New market:</strong> Opening a new market where the product was not previously available</li>\n <li><strong style='color: var(--strongColor);'>New source of supply:</strong> Securing new raw materials or inputs</li>\n <li><strong style='color: var(--strongColor);'>New organization:</strong> Restructuring an industry or creating a new form of business organization</li>\n </ol>\n These five types form the foundation of Schumpeter's theory of innovation and economic development.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 192",
+  "topic": [
+    "Growth Strategy",
+    "Product Strategy",
+    "Marketing"
+  ],
+  "Question": {
+    "content": "What growth strategy involves increasing product style, variant, width, version, and item?",
+    "type": "OBJ",
+    "options": [
+      "Product enlargement",
+      "Product development",
+      "Product penetration",
+      "Market penetration"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Product development"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Product Development Strategy</h4>\n <p>The correct answer is <strong>B (Product development)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n In Ansoff's Matrix, <strong>product development</strong> is a growth strategy where a company introduces new or improved products to its existing market. This includes:\n <ul>\n <li><strong style='color: var(--strongColor);'>Product style:</strong> Changing design or aesthetics</li>\n <li><strong style='color: var(--strongColor);'>Variant:</strong> Creating different versions (e.g., flavors, sizes)</li>\n <li><strong style='color: var(--strongColor);'>Product width:</strong> Expanding the range of product lines</li>\n <li><strong style='color: var(--strongColor);'>Version:</strong> Releasing updated or enhanced iterations</li>\n <li><strong style='color: var(--strongColor);'>Item:</strong> Adding new individual products within existing lines</li>\n </ul>\n <strong style='color: var(--strongColor);'>Market penetration</strong> focuses on selling more existing products to current markets. <strong>Product development</strong> focuses on creating new offerings.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 193",
+  "topic": [
+    "Entrepreneurship Theory",
+    "Schumpeter",
+    "Innovation"
+  ],
+  "Question": {
+    "content": "What is the central concept of Schumpeterian entrepreneurship theory of innovation?",
+    "type": "OBJ",
+    "options": [
+      "Creative destruction",
+      "Distribution exchange",
+      "Sociological",
+      "Information theory",
+      "Economic theory"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Distribution exchange"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Schumpeter's Creative Destruction</h4>\n <p>The correct answer is <strong>B (Distribution exchange)</strong>. However, note: The most widely recognized central concept in Schumpeter's theory is <strong>creative destruction</strong>. The answer key indicates B, which may be an error in the source material.</p>\n <div style='margin-bottom: 12px;'>\n Joseph Schumpeter's theory of innovation is fundamentally built on the concept of <strong style='color: var(--strongColor);'>creative destruction</strong>:\n <ul>\n <li>Innovations replace older technologies, products, and business models</li>\n <li>This process drives economic development and progress</li>\n <li>Entrepreneurs are the agents who introduce these innovations</li>\n <li>\"Creative destruction\" is the process of industrial mutation that continuously revolutionizes the economic structure from within</li>\n </ul>\n <strong>Distribution exchange</strong> is not a core Schumpeterian concept. Given the answer key indicates B, this may be a discrepancy in the test materials.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 194",
+  "topic": [
+    "Branding",
+    "Marketing"
+  ],
+  "Question": {
+    "content": "Which of the following is NOT an example of a type of brand?",
+    "type": "OBJ",
+    "options": [
+      "Idea",
+      "Cbooba",
+      "Nokia",
+      "All of the above",
+      "None of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Cbooba"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Types of Brands</h4>\n <p>The correct answer is <strong>B (Cbooba)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Let's analyze each option:\n <ul>\n <li><strong style='color: var(--strongColor);'>Idea:</strong> Not typically considered a brand. Brands are names, symbols, designs, or combinations that identify products/services from a seller. \"Idea\" is too abstract and not a specific brand identifier.</li>\n <li><strong style='color: var(--strongColor);'>Cbooba:</strong> Appears to be a nonsense word. It does not correspond to any known real brand. This is likely the intended \"not an example\" option.</li>\n <li><strong style='color: var(--strongColor);'>Nokia:</strong> A well-known telecommunications brand.</li>\n </ul>\n Since the question asks for what is <strong>NOT</strong> an example of a type of brand, <strong>Cbooba</strong> is the clear answer as it is not a recognized brand or brand type.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 195",
+  "topic": [
+    "Pricing Strategy",
+    "Marketing",
+    "Consumer Behavior"
+  ],
+  "Question": {
+    "content": "Using an odd price like ₦3,799 to influence customers' perception is what type of pricing strategy?",
+    "type": "OBJ",
+    "options": [
+      "Prestige pricing",
+      "Physiological pricing",
+      "Odd pricing",
+      "Psychological pricing",
+      "Competitive pricing"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Psychological pricing"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Psychological Pricing</h4>\n <p>The correct answer is <strong>D (Psychological pricing)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Psychological pricing</strong> is a strategy that uses pricing tactics to influence consumer perception and behavior. <strong>Odd pricing</strong> (also called odd-even pricing) is a specific technique within psychological pricing:\n <ul>\n <li>Prices ending in odd numbers (like ₦3,799 or ₦3,999) create the perception of a bargain</li>\n <li>Consumers perceive ₦3,799 as significantly cheaper than ₦3,800, even though the difference is minimal</li>\n </ul>\n <strong style='color: var(--strongColor);'>Differentiation:</strong>\n <ul>\n <li><strong>Odd pricing:</strong> The specific technique of using odd numbers — a subset of psychological pricing</li>\n <li><strong>Psychological pricing:</strong> The broader category that includes odd pricing, prestige pricing, and other tactics</li>\n </ul>\n Since the question describes the <strong>goal</strong> (altering customer meaning/perception), <strong>psychological pricing</strong> is the comprehensive answer.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 196",
+  "topic": [
+    "Entrepreneurship",
+    "Education",
+    "Success Factors"
+  ],
+  "Question": {
+    "content": "Schooling as a background and prerequisite for becoming a successful entrepreneur is what type of condition?",
+    "type": "OBJ",
+    "options": [
+      "Necessary",
+      "Sufficient",
+      "Compulsory",
+      "A must",
+      "Not sufficient"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Sufficient"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Necessary vs. Sufficient Conditions</h4>\n <p>The correct answer is <strong>B (Sufficient)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Understanding the distinction between necessary and sufficient conditions is important:\n <ul>\n <li><strong style='color: var(--strongColor);'>Necessary condition:</strong> Something that must be present for an outcome to occur. Without it, success is impossible.</li>\n <li><strong style='color: var(--strongColor);'>Sufficient condition:</strong> Something that, if present, guarantees the outcome. It is enough on its own.</li>\n </ul>\n Formal education is <strong>not a necessary condition</strong> for entrepreneurial success — many successful entrepreneurs (e.g., Steve Jobs, Bill Gates) succeeded without completing formal education. However, the answer key indicates <strong>sufficient</strong>, suggesting that in this context, education is viewed as a condition that can adequately prepare someone for entrepreneurship. Many successful entrepreneurs, however, would argue education alone is not sufficient either — traits like resilience, creativity, and risk-taking are also essential.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 197",
+  "topic": [
+    "Business Ethics",
+    "Workplace Ethics",
+    "Organizational Behavior"
+  ],
+  "Question": {
+    "content": "What is a function of individual ethics in the workplace as manifested in your life?",
+    "type": "OBJ",
+    "options": [
+      "Ethical principles",
+      "Kick back",
+      "Organisational culture",
+      "A and C only",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "A and C only"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Individual Ethics in the Workplace</h4>\n <p>The correct answer is <strong>D (A and C only)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n Individual ethics manifest in the workplace through multiple channels:\n <ul>\n <li><strong style='color: var(--strongColor);'>Ethical principles:</strong> Personal moral values (honesty, integrity, fairness) guide individual behavior and decision-making at work.</li>\n <li><strong style='color: var(--strongColor);'>Organisational culture:</strong> Individual ethics contribute to and shape the collective ethical climate of the organization. When individuals act ethically, they reinforce a culture of integrity.</li>\n <li><strong style='color: var(--strongColor);'>Kick back:</strong> This refers to unethical practices where someone receives illegal payments for favors. This is <strong>not</strong> a function of individual ethics — it is a violation of ethics.</li>\n </ul>\n Therefore, the correct combination is <strong>ethical principles and organisational culture</strong>.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 198",
+  "topic": [
+    "Feasibility Study",
+    "Entrepreneurship",
+    "Business Planning"
+  ],
+  "Question": {
+    "content": "What is the core reason entrepreneurs develop a practical blueprint in the form of a feasibility study or business plan?",
+    "type": "OBJ",
+    "options": [
+      "To provide risk aversion",
+      "To know and make profit level",
+      "To make market survey",
+      "To convince and attract investor capital for a startup"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "To convince and attract investor capital for a startup"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Purpose of a Feasibility Study/Business Plan</h4>\n <p>The correct answer is <strong>D (To convince and attract investor capital for a startup)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n While a feasibility study serves multiple purposes, the <strong>core reason</strong> often cited is to secure funding:\n <ul>\n <li><strong style='color: var(--strongColor);'>Attracting investors:</strong> A well-developed blueprint demonstrates viability, market potential, and management capability — essential for convincing investors to commit capital.</li>\n <li><strong style='color: var(--strongColor);'>Other purposes:</strong> Feasibility studies also help entrepreneurs understand risks, estimate profits, and conduct market analysis, but these are means to the ultimate end of securing resources for launch.</li>\n </ul>\n For startups, access to capital is often the critical barrier. A comprehensive feasibility study/business plan serves as the primary tool to overcome this barrier by persuading investors, lenders, or partners to support the venture.\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 199",
+  "topic": [
+    "Marketing Strategy",
+    "Niche Marketing",
+    "Market Segmentation"
+  ],
+  "Question": {
+    "content": "What is the strategy of avoiding steep competition by focusing on a small and profitable market segment called?",
+    "type": "OBJ",
+    "options": [
+      "Niche marketing",
+      "Mass marketing",
+      "Market followers",
+      "Target marketing",
+      "Market segmentation"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Niche marketing"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Niche Marketing</h4>\n <p>The correct answer is <strong>A (Niche marketing)</strong>.</p>\n <div style='margin-bottom: 12px;'>\n <strong style='color: var(--strongColor);'>Niche marketing</strong> is a strategy that targets a specific, well-defined segment of the market. Key characteristics include:\n <ul>\n <li><strong style='color: var(--strongColor);'>Avoids steep competition:</strong> Instead of competing broadly, the business focuses on a segment that larger competitors overlook or find unprofitable</li>\n <li><strong style='color: var(--strongColor);'>Small but profitable:</strong> The segment may be small in absolute size but offers high profitability due to specialized needs and willingness to pay</li>\n <li><strong style='color: var(--strongColor);'>Deep specialization:</strong> The business becomes an expert in serving that specific segment</li>\n </ul>\n <strong style='color: var(--strongColor);'>Differentiation:</strong>\n <ul>\n <li><strong>Mass marketing:</strong> Targets the entire market with a single strategy</li>\n <li><strong>Target marketing:</strong> A broader concept that includes niche marketing</li>\n <li><strong>Market segmentation:</strong> The process of dividing the market — not a strategy itself</li>\n </ul>\n </div>\n</div>"
+  }
+},
+{
+  "type": "Question",
+  "name": "Question 200",
+  "topic": [
+    "Growth Strategy",
+    "Marketing Strategy",
+    "Ansoff Matrix"
+  ],
+  "Question": {
+    "content": "What is the strategy of incremental search for new markets by moving products to hitherto untapped locations called?",
+    "type": "OBJ",
+    "options": [
+      "Product development",
+      "Market development",
+      "Market penetration",
+      "Integrative strategy",
+      "All of the above"
+    ]
+  },
+  "Answer": {
+    "type": "string",
+    "content": "Market penetration"
+  },
+  "Explanation": {
+    "type": "string",
+    "content": "<div style='color: var(--explainColor); background: var(--explainBg); padding: 15px; border-radius: 8px; border-left: 4px solid var(--strongColor);'>\n <h4 style='color: var(--strongColor); margin-top: 0; margin-bottom: 15px;'>Ansoff Matrix: Growth Strategies</h4>\n <p>The correct answer is <strong>C (Market penetration)</strong>. However, there appears to be a discrepancy. The description \"moving product to hither land\" (new geographical markets) is typically classified as <strong>market development</strong>.</p>\n <div style='margin-bottom: 12px;'>\n According to Ansoff's Matrix, there are four growth strategies:\n <ul>\n <li><strong style='color: var(--strongColor);'>Market penetration:</strong> Selling existing products to existing markets — increasing market share, not expanding to new locations</li>\n <li><strong style='color: var(--strongColor);'>Market development:</strong> Selling existing products to new markets — this includes new geographical areas, new customer segments, or new distribution channels</li>\n <li><strong style='color: var(--strongColor);'>Product development:</strong> Creating new products for existing markets</li>\n <li><strong style='color: var(--strongColor);'>Diversification:</strong> Creating new products for new markets</li>\n </ul>\n The description \"search for new market, through moving product to hither land\" (distant/new locations) clearly describes <strong>market development</strong>. However, the answer key indicates <strong>market penetration (C)</strong>, which may be an error in the source material.\n </div>\n</div>"
+  }
+}]
